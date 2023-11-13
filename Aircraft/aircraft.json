@@ -45,7 +45,6 @@
       "weight": "38,000 lbs",
       "manufacturer": "Bombardier",
       "photoUrl": "~/images/bombardierChallenger300_aircraft.jpg",
-
       "engine": {
         "type": "Jet",
         "model": "HTF7000",
