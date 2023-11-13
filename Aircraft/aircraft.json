@@ -10,7 +10,7 @@
         "type": "Jet",
         "model": "CF6-80C2B1F",
         "manufacturer": "General Electric",
-        "photoUrl": "images/Engines/CF6-80C2B1F.jpg?raw=true"
+        "photoUrl": "Images/Engines/CF6-80C2B1F.jpg"
       }
     },
     {
@@ -18,12 +18,12 @@
       "speed": "560 mph",
       "weight": "1,234,000 lbs",
       "manufacturer": "Airbus",
-      "photoUrl": "images/airbusA380.jpg?raw=true",
+      "photoUrl": "Images/airbusA380.jpg",
       "engine": {
         "type": "Jet",
         "model": "Trent 900",
         "manufacturer": "Rolls-Royce",
-        "photoUrl": "images/Engines/Trent900.jpg?raw=true"
+        "photoUrl": "Images/Engines/Trent900.jpg"
       }
     },
     {
@@ -31,12 +31,12 @@
       "speed": "140 mph",
       "weight": "2,450 lbs",
       "manufacturer": "Cessna",
-      "photoUrl": "images/cessna172.jpg?raw=true",
+      "photoUrl": "Images/cessna172.jpg",
       "engine": {
         "type": "Piston",
         "model": "IO-360-L2A",
         "manufacturer": "Lycoming",
-        "photoUrl": "images/Engines/IO-360-L2A.jpg?raw=true"
+        "photoUrl": "Images/Engines/IO-360-L2A.jpg"
       }
     },
     {
@@ -44,12 +44,12 @@
       "speed": "528 mph",
       "weight": "38,000 lbs",
       "manufacturer": "Bombardier",
-      "photoUrl": "images/bombardierChallenger300_aircraft.jpg?raw=true",
+      "photoUrl": "Images/bombardierChallenger300_aircraft.jpg",
       "engine": {
         "type": "Jet",
         "model": "HTF7000",
         "manufacturer": "Honeywell",
-        "photoUrl": "images/Engines/HTF7000.jpg?raw=true"
+        "photoUrl": "Images/Engines/HTF7000.jpg"
       }
     }
   ]
