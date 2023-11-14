@@ -3,6 +3,7 @@
     {
       "name": "Boeing 747",
       "description":"The Boeing 747 is a large, long-range wide-body airliner designed and manufactured by Boeing Commercial Airplanes in the United States between 1968 and 2023.",
+      "longDesc":"Development of the aircraft, originally called the Bombardier Continental, begun during the late 1990s and was formally launched at the 1999 Paris Air Show. The baseline Challenger 300 performed its maiden flight on 14 August 2001 and received its Canadian type approval on 31 May 2003; it commenced commercial operations on 8 January 2004. The majority of sales were to North American-based entities.[5] During the late 2010s, the price of the Challenger 300/350 was lowered substantially to better compete against rivals such as the Embraer Legacy 500.Improved models of the Challenger 300 have been developed. The Challenger 350, a slightly improved 3,200 nmi (5,900 km) range variant, made its first flight on 2 March 2013 and was approved on 11 June 2014. During September 2021, Bombardier launched the Challenger 3500, featuring auto- throttles and an upgraded cabin. By July 2020, around 450 Challenger 300s, and 350 Challenger 350s had reportedly been delivered.",
       "speed": "570 mph",
       "weight": "987,000 lbs",
       "manufacturer": "Boeing",
@@ -17,6 +18,7 @@
     {
       "name": "Airbus A380",
       "description":"The Airbus A380 is a very large wide-body airliner that was developed and produced by Airbus. It is the world's largest passenger airliner and only full-length double-deck jet airliner",
+      "longDesc":"Due to difficulties with the electrical wiring, the initial production was delayed by two years and the development costs almost doubled. It was first delivered to Singapore Airlines on 15 October 2007 and entered service on 25 October. Production peaked at 30 per year in 2012 and 2014. However, after the largest customer, Emirates, reduced its last order in February 2019, Airbus announced that A380 production would end in 2021. On 16 December 2021, Emirates received its 123rd A380, which was the 251st and last delivered by Airbus. The A380's estimated $25 billion development cost was not recouped by the time Airbus ended production. The full-length double-deck aircraft has a typical seating for 525 passengers, with a maximum certified capacity for 853 passengers. The quadjet is powered by Engine Alliance GP7200 or Rolls-Royce Trent 900 turbofans providing a range of 8,000 nmi (14,800 km; 9,200 mi). As of December 2021, the global A380 fleet had completed more than 800,000 flights over 7.3 million block hours with no fatalities and no hull losses. As of December 2022, there were 237 aircraft in service with 16 operators worldwide.",
       "speed": "560 mph",
       "weight": "1,234,000 lbs",
       "manufacturer": "Airbus",
@@ -31,6 +33,7 @@
     {
       "name": "Cessna 172",
       "description":"The Cessna 172 Skyhawk is an American four-seat, single-engine, high wing, fixed-wing aircraft made by the Cessna Aircraft Company. First flown in 1955, more 172s have been built than any other aircraft.",
+      "longDesc":"It was developed from the 1948 Cessna 170 but with tricycle landing gear rather than conventional landing gear. The Skyhawk name was originally used for a trim package, but was later applied to all standard-production 172 aircraft, while some upgraded versions were marketed as the Cutlass. Measured by its longevity and popularity, the Cessna 172 is the most successful aircraft in history. Cessna delivered the first production model in 1956, and as of 2015, the company and its partners had built more than 44,000 units.[1][4][5] The aircraft remains in production today. A general aviation airplane, the Skyhawk's main competitors have been the Beechcraft Musketeer and Grumman AA-5 series (neither currently in production), the Piper Cherokee,[6] and, more recently, the Diamond DA40 and Cirrus SR20.",
       "speed": "140 mph",
       "weight": "2,450 lbs",
       "manufacturer": "Cessna",
@@ -44,7 +47,8 @@
     },
     {
       "name": "Bombardier Challenger 300",
-       "description":"The Bombardier Challenger 300 is a 3,100 nmi (5,700 km) range super mid-sized business jet designed and produced by the Canadian aircraft manufacturer Bombardier Aerospace.",
+      "description":"The Bombardier Challenger 300 is a 3,100 nmi (5,700 km) range super mid-sized business jet designed and produced by the Canadian aircraft manufacturer Bombardier Aerospace.",
+      "longDesc":"Development of the aircraft, originally called the Bombardier Continental, begun during the late 1990s and was formally launched at the 1999 Paris Air Show. The baseline Challenger 300 performed its maiden flight on 14 August 2001 and received its Canadian type approval on 31 May 2003; it commenced commercial operations on 8 January 2004. The majority of sales were to North American-based entities.[5] During the late 2010s, the price of the Challenger 300/350 was lowered substantially to better compete against rivals such as the Embraer Legacy 500. Improved models of the Challenger 300 have been developed. The Challenger 350, a slightly improved 3,200 nmi (5,900 km) range variant, made its first flight on 2 March 2013 and was approved on 11 June 2014. During September 2021, Bombardier launched the Challenger 3500, featuring auto- throttles and an upgraded cabin. By July 2020, around 450 Challenger 300s, and 350 Challenger 350s had reportedly been delivered.",
       "speed": "528 mph",
       "weight": "38,000 lbs",
       "manufacturer": "Bombardier",
