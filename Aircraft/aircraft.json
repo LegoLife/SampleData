@@ -2,10 +2,11 @@
   "aircraft": [
     {
       "name": "Boeing 747",
+      "description":"The Boeing 747 is a large, long-range wide-body airliner designed and manufactured by Boeing Commercial Airplanes in the United States between 1968 and 2023.",
       "speed": "570 mph",
       "weight": "987,000 lbs",
       "manufacturer": "Boeing",
-      "photoUrl": "~/images/boeing747_aircraft.jpg",
+      "photoUrl": "Images/boeing747_aircraft.jpg",
       "engine": {
         "type": "Jet",
         "model": "CF6-80C2B1F",
@@ -15,6 +16,7 @@
     },
     {
       "name": "Airbus A380",
+      "description":"The Airbus A380 is a very large wide-body airliner that was developed and produced by Airbus. It is the world's largest passenger airliner and only full-length double-deck jet airliner",
       "speed": "560 mph",
       "weight": "1,234,000 lbs",
       "manufacturer": "Airbus",
@@ -28,6 +30,7 @@
     },
     {
       "name": "Cessna 172",
+      "description":"The Cessna 172 Skyhawk is an American four-seat, single-engine, high wing, fixed-wing aircraft made by the Cessna Aircraft Company. First flown in 1955, more 172s have been built than any other aircraft.",
       "speed": "140 mph",
       "weight": "2,450 lbs",
       "manufacturer": "Cessna",
@@ -41,6 +44,7 @@
     },
     {
       "name": "Bombardier Challenger 300",
+       "description":"The Bombardier Challenger 300 is a 3,100 nmi (5,700 km) range super mid-sized business jet designed and produced by the Canadian aircraft manufacturer Bombardier Aerospace.",
       "speed": "528 mph",
       "weight": "38,000 lbs",
       "manufacturer": "Bombardier",
