@@ -1,0 +1,112 @@
+{
+	"WeaponList": [
+		"45-caliber_Mark_6_gun"
+	],
+	"Details": [
+		{
+			"name": "45-caliber_Mark_6_gun",
+			"data": [
+				{
+					"header": "Description",
+					"text": "The 16 in/45 were improved versions of the Mark 5 guns mounted on the Colorado-class battleships, with their limit of a 2,240-pound (1,020 kg) shell with a maximum 35,000-yard (32,000 m) range and their turret limit of 30-degree elevation.  A major alteration from the older guns was the Mark 6's ability to  fire a new 2,700-pound (1,200 kg) armor-piercing (AP) shell developed by the Bureau of Ordnance. At full charge with a brand-new gun, the heavy shell would be expelled at a muzzle velocity of 2,300 feet per second (700 m/s); at a reduced charge, the same shell would be fired at 1,800 f/s (550 m/s)."
+				},
+				{
+					"header": "Shell",
+					"text": "The Mark 6 and 7 guns were originally intended to fire the relatively light 2,240-pound (1,020 kg) (1.00 long ton) Mark 5 armor-piercing shell. However, the shell-handling system for these guns was redesigned to use the \"super-heavy\" 2,700-pound (1,200 kg) APCBC (armor-piercing, capped, ballistic capped) Mark 8 shell before any of the Iowa-class battleships were laid down. The large-caliber guns were designed to fire two different 16-inch (406 mm) shells: an armor-piercing round for anti-ship and anti-structure work, and a high-explosive round designed for use against unarmored targets and shore bombardment."
+				},
+				{
+					"header": "Service history",
+					"text": "The Mark 6 16-inch gun holds several distinctions relating to the United States' World War II combat history."
+				},
+				{
+					"header": "Successor",
+					"text": "The next US Navy battleship class, the Iowa class, did not fall under Treaty weight restrictions and allowed for additional displacement. However, in their original design, the General Board was incredulous that a tonnage increase of 10,000 long tons (10,000 t) would only allow the addition of 6 knots (11 km/h; 6.9 mph)s over the South Dakotas. Rather than retaining the 16\"/45 caliber Mark 6 gun used in the South Dakotas, they ordered that future studies would have to include the more powerful (but heavier) 16\"/50 caliber Mark 2 guns left over from the canceled Lexington-class battlecruisers and South Dakota-class battleships of the early 1920s. It also allowed the draft of the ships to be increased, meaning that the ships could be shortened (lowering weight) and the power reduced (since a narrower beam reduces drag)."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Naval gun"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1941–1956"
+				},
+				{
+					"key": "Used by",
+					"value": "US Navy"
+				},
+				{
+					"key": "Wars",
+					"value": "World War II"
+				},
+				{
+					"key": "Designed",
+					"value": "1936"
+				},
+				{
+					"key": "Variants",
+					"value": "Mod 0–2"
+				},
+				{
+					"key": "Mass",
+					"value": "192,310 lb (87,230 kg)"
+				},
+				{
+					"key": "Length",
+					"value": "61 ft 4 in (18.69 m)"
+				},
+				{
+					"key": "Barrel length",
+					"value": "60 ft (18 m) bore (45 calibers)"
+				},
+				{
+					"key": "Shell",
+					"value": "AP, HC"
+				},
+				{
+					"key": "Shell weight",
+					"value": "AP:2,700 pounds (1,225 kg)HC:1,900 pounds (862 kg)"
+				},
+				{
+					"key": "Caliber",
+					"value": "16 inch (40.6 cm)"
+				},
+				{
+					"key": "Recoil",
+					"value": "48-inch (120 cm)"
+				},
+				{
+					"key": "Elevation",
+					"value": "-2° to +45°"
+				},
+				{
+					"key": "Traverse",
+					"value": "-150° to 150°"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "2 rpm"
+				},
+				{
+					"key": "Muzzle velocity",
+					"value": "AP: 2,300 feet per second (701 m/s)HC: 2,635 feet per second (803 m/s)"
+				},
+				{
+					"key": "Maximum firing range",
+					"value": "37,000 m (23 mi)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/USS_South_Dakota_%28BB-57%29_at_Scapa_Flow%2C_1943.jpg/800px-USS_South_Dakota_%28BB-57%29_at_Scapa_Flow%2C_1943.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/16in_Gun_Turret.jpg/800px-16in_Gun_Turret.jpg"
+				]
+			}
+		}
+	]
+}
