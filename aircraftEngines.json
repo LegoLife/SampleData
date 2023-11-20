@@ -128,6 +128,56 @@
 	],
 	"Details": [
 		{
+			"name": "Pratt_&_Whitney_R-1340_Wasp",
+			"data": [
+				{
+					"header": "Variants",
+					"text": "Note: R for Radial and 1340 for 1340 cubic inch displacement."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "29 December 1925"
+				},
+				{
+					"key": "Major applications",
+					"value": "Soko 522,Boeing P-26 Peashooter,de Havilland Canada DHC-3 Otter,North American T-6 Texan,Sikorsky H-19,Junkers Ju 52"
+				},
+				{
+					"key": "Produced",
+					"value": "1926–"
+				},
+				{
+					"key": "Number built",
+					"value": "34,966"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney R-985 Wasp Junior"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pratt_and_Whitney_Wasp.jpg/800px-Pratt_and_Whitney_Wasp.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Curtiss_SOC-1.jpg/800px-Curtiss_SOC-1.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pratt_%26_Whitney_R-1340.jpg/800px-Pratt_%26_Whitney_R-1340.jpg"
+				]
+			}
+		},
+		{
 			"name": "IAE_V2500",
 			"data": [
 				{
@@ -186,97 +236,6 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/V2500.jpg/800px-V2500.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Apresenta%C3%A7%C3%A3o_KC-390_%2815576572716%29.jpg/800px-Apresenta%C3%A7%C3%A3o_KC-390_%2815576572716%29.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_R-1340_Wasp",
-			"data": [
-				{
-					"header": "Variants",
-					"text": "Note: R for Radial and 1340 for 1340 cubic inch displacement."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "29 December 1925"
-				},
-				{
-					"key": "Major applications",
-					"value": "Soko 522,Boeing P-26 Peashooter,de Havilland Canada DHC-3 Otter,North American T-6 Texan,Sikorsky H-19,Junkers Ju 52"
-				},
-				{
-					"key": "Produced",
-					"value": "1926–"
-				},
-				{
-					"key": "Number built",
-					"value": "34,966"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney R-985 Wasp Junior"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pratt_and_Whitney_Wasp.jpg/800px-Pratt_and_Whitney_Wasp.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Curtiss_SOC-1.jpg/800px-Curtiss_SOC-1.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pratt_%26_Whitney_R-1340.jpg/800px-Pratt_%26_Whitney_R-1340.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_R-1830_Twin_Wasp",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1932"
-				},
-				{
-					"key": "Major applications",
-					"value": "Consolidated B-24 Liberator,Douglas C-47 Skytrain,Douglas DC-3,Grumman F4F Wildcat,Consolidated PBY Catalina,Douglas TBD Devastator,Short Sunderland,Vickers Wellington"
-				},
-				{
-					"key": "Number built",
-					"value": "173,618"
-				},
-				{
-					"key": "Variants",
-					"value": "Pratt & Whitney R-2000 Twin Wasp"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/R-1830_IWM.JPG/800px-R-1830_IWM.JPG",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P%26W_Twin_Wasp.jpg/800px-P%26W_Twin_Wasp.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratt-Whitney_R-1830.jpg/800px-Pratt-Whitney_R-1830.jpg"
 				]
 			}
 		},
@@ -342,6 +301,47 @@
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Shenyang_WS-10.png/800px-Shenyang_WS-10.png",
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/J-16_%D0%90%D0%B2%D0%B8%D0%B0%D0%B4%D0%B0%D1%80%D1%82%D1%812021.jpg/800px-J-16_%D0%90%D0%B2%D0%B8%D0%B0%D0%B4%D0%B0%D1%80%D1%82%D1%812021.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_R-1830_Twin_Wasp",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1932"
+				},
+				{
+					"key": "Major applications",
+					"value": "Consolidated B-24 Liberator,Douglas C-47 Skytrain,Douglas DC-3,Grumman F4F Wildcat,Consolidated PBY Catalina,Douglas TBD Devastator,Short Sunderland,Vickers Wellington"
+				},
+				{
+					"key": "Number built",
+					"value": "173,618"
+				},
+				{
+					"key": "Variants",
+					"value": "Pratt & Whitney R-2000 Twin Wasp"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/R-1830_IWM.JPG/800px-R-1830_IWM.JPG",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P%26W_Twin_Wasp.jpg/800px-P%26W_Twin_Wasp.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratt-Whitney_R-1830.jpg/800px-Pratt-Whitney_R-1830.jpg"
 				]
 			}
 		},
@@ -495,6 +495,32 @@
 			}
 		},
 		{
+			"name": "Pratt_&_Whitney_R-1535_Twin_Wasp_Junior",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1932"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pratt_%26_Whitney_R-1535_Twin_Wasp_Junior.jpg/800px-Pratt_%26_Whitney_R-1535_Twin_Wasp_Junior.jpg",
+				"other": []
+			}
+		},
+		{
 			"name": "CFM_International_CFM56",
 			"data": [
 				{
@@ -618,32 +644,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_R-1535_Twin_Wasp_Junior",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1932"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pratt_%26_Whitney_R-1535_Twin_Wasp_Junior.jpg/800px-Pratt_%26_Whitney_R-1535_Twin_Wasp_Junior.jpg",
-				"other": []
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_R-1690_Hornet",
 			"data": [],
 			"infobox": [
@@ -681,6 +681,45 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg"
 				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_R-2000_Twin_Wasp",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The R-2000 was an enlarged version of the Pratt & Whitney R-1830 Twin Wasp, with focus on reducing the manufacturing costs and fuel requirements. The bore was increased to 5.75 in (146 mm), while it still retained the 5.5 in (140 mm) stroke. This brought displacement up to 2,000 in3 (32.8 L). There were a number of detail changes from the R-1830, such as front-mounted instead of rear-mounted magnetos (as with the larger, and earlier Double Wasp), plain bearings for the crankshaft rather than roller bearings, and 87 octane fuel (specified because there were fears wartime supplies of 100 octane might fall short, but those fears were groundless). The R-2000 produced 1,300 hp @ 2,700 rpm with 87 octane, 1,350 hp with 100 octane and 1,450 hp @ 2,800 rpm with 100/130-grade fuel."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1942"
+				},
+				{
+					"key": "Major applications",
+					"value": "C-54 Skymaster,Douglas DC-4,de Havilland Canada DHC-4 Caribou"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney R-1830 Twin Wasp"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PrattWhitney_Twin_Wasp_R-2000_2.jpg/800px-PrattWhitney_Twin_Wasp_R-2000_2.jpg",
+				"other": []
 			}
 		},
 		{
@@ -765,45 +804,6 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P%26W_Twin_Wasp.jpg/800px-P%26W_Twin_Wasp.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratt-Whitney_R-1830.jpg/800px-Pratt-Whitney_R-1830.jpg"
 				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_R-2000_Twin_Wasp",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The R-2000 was an enlarged version of the Pratt & Whitney R-1830 Twin Wasp, with focus on reducing the manufacturing costs and fuel requirements. The bore was increased to 5.75 in (146 mm), while it still retained the 5.5 in (140 mm) stroke. This brought displacement up to 2,000 in3 (32.8 L). There were a number of detail changes from the R-1830, such as front-mounted instead of rear-mounted magnetos (as with the larger, and earlier Double Wasp), plain bearings for the crankshaft rather than roller bearings, and 87 octane fuel (specified because there were fears wartime supplies of 100 octane might fall short, but those fears were groundless). The R-2000 produced 1,300 hp @ 2,700 rpm with 87 octane, 1,350 hp with 100 octane and 1,450 hp @ 2,800 rpm with 100/130-grade fuel."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1942"
-				},
-				{
-					"key": "Major applications",
-					"value": "C-54 Skymaster,Douglas DC-4,de Havilland Canada DHC-4 Caribou"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney R-1830 Twin Wasp"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PrattWhitney_Twin_Wasp_R-2000_2.jpg/800px-PrattWhitney_Twin_Wasp_R-2000_2.jpg",
-				"other": []
 			}
 		},
 		{
@@ -1002,46 +1002,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_R-1690_Hornet",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "June 1926"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 80,Lockheed Lodestar,Sikorsky S-42,Vought O2U Corsair"
-				},
-				{
-					"key": "Number built",
-					"value": "2,944"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney R-1860  BMW 132  Mitsubishi Kinsei"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pratt_%26_Whitney_R-1690_Hornet_jaypee.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_jaypee.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_R-2800_Double_Wasp",
 			"data": [
 				{
@@ -1098,6 +1058,46 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/B26-dinah-might-899.jpg/800px-B26-dinah-might-899.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/20-09-083-R_2800.jpg/800px-20-09-083-R_2800.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Pratt-Whitney_R-2800.jpg/800px-Pratt-Whitney_R-2800.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_R-1690_Hornet",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "June 1926"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 80,Lockheed Lodestar,Sikorsky S-42,Vought O2U Corsair"
+				},
+				{
+					"key": "Number built",
+					"value": "2,944"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney R-1860  BMW 132  Mitsubishi Kinsei"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pratt_%26_Whitney_R-1690_Hornet_jaypee.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_jaypee.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg"
 				]
 			}
 		},
@@ -1364,6 +1364,59 @@
 			}
 		},
 		{
+			"name": "Pratt_&_Whitney_R-4360_Wasp_Major",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The R-4360 was a 28-cylinder four-row air-cooled radial engine. Each row of seven air-cooled cylinders possessed a slight angular offset from the previous, forming a semi-helical arrangement to facilitate effective airflow cooling of the cylinder rows behind them, inspiring the engine's \"corncob\" nickname. A mechanical supercharger geared at 6.374:1 ratio to engine speed provided forced induction, while the propeller was geared at 0.375:1 so that the tips did not reach inefficient supersonic speeds."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Four-row Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1944"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 377,Boeing B-50 Superfortress,Boeing C-97 Stratofreighter,Convair B-36,Fairchild C-119 Flying Boxcar"
+				},
+				{
+					"key": "Number built",
+					"value": "18,697"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney R-2180-A Twin Hornet"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney R-2180-E Twin Wasp E"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pratt_%26_Whitney_R-4360_Wasp_Major.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg/800px-Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg/800px-Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20-09-072-R_4360.jpg/800px-20-09-072-R_4360.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Biggest_rotary_cutaway.jpg/800px-Biggest_rotary_cutaway.jpg"
+				]
+			}
+		},
+		{
 			"name": "Pratt_&_Whitney_R-985_Wasp_Junior",
 			"data": [
 				{
@@ -1423,59 +1476,6 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pratt_%26_Whitney_R-985.jpg/800px-Pratt_%26_Whitney_R-985.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Frontiers_of_Flight_Museum_December_2015_028_%28Pratt_%26_Whitney_R-985_Wasp_Junior_radial_engine%29.jpg/800px-Frontiers_of_Flight_Museum_December_2015_028_%28Pratt_%26_Whitney_R-985_Wasp_Junior_radial_engine%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20-09-025-R985.jpg/800px-20-09-025-R985.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_R-4360_Wasp_Major",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The R-4360 was a 28-cylinder four-row air-cooled radial engine. Each row of seven air-cooled cylinders possessed a slight angular offset from the previous, forming a semi-helical arrangement to facilitate effective airflow cooling of the cylinder rows behind them, inspiring the engine's \"corncob\" nickname. A mechanical supercharger geared at 6.374:1 ratio to engine speed provided forced induction, while the propeller was geared at 0.375:1 so that the tips did not reach inefficient supersonic speeds."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Four-row Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1944"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 377,Boeing B-50 Superfortress,Boeing C-97 Stratofreighter,Convair B-36,Fairchild C-119 Flying Boxcar"
-				},
-				{
-					"key": "Number built",
-					"value": "18,697"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney R-2180-A Twin Hornet"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney R-2180-E Twin Wasp E"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pratt_%26_Whitney_R-4360_Wasp_Major.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg/800px-Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg/800px-Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20-09-072-R_4360.jpg/800px-20-09-072-R_4360.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Biggest_rotary_cutaway.jpg/800px-Biggest_rotary_cutaway.jpg"
 				]
 			}
 		},
@@ -1570,6 +1570,102 @@
 			}
 		},
 		{
+			"name": "Pratt_&_Whitney_J48",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "In 1947, at the behest of the United States Navy, Pratt & Whitney entered into an agreement to produce the Rolls-Royce Nene centrifugal-flow turbojet engine under license as the J42 (company designation JT6), for use in the Grumman F9F Panther fighter aircraft. Concerned that the Nene would not have the potential to cope with future weight growth in improved versions of the Panther, Luke Hobbs, vice president of engineering for P&W's parent company, the United Aircraft Corporation, requested that Rolls-Royce design a more powerful engine based on the Nene, which Pratt & Whitney would also produce."
+				},
+				{
+					"header": "Operational history",
+					"text": "Several aircraft types used the J48 engine during the 1950s, including the Grumman F9F-5 Panther. and Grumman F9F-6/F9F-8 Cougar, The U.S. Air Force's Lockheed F-94C Starfire and North American YF-93 used afterburning versions of the J48 engine."
+				},
+				{
+					"header": "Variants",
+					"text": "Data from The Engines of Pratt & Whitney: A Technical History."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United Kingdom/United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "Major applications",
+					"value": "Grumman F9F Panther,Grumman F-9 Cougar,Lockheed F-94 Starfire"
+				},
+				{
+					"key": "Number built",
+					"value": "4,108"
+				},
+				{
+					"key": "Developed from",
+					"value": "Rolls-Royce RB.44 Tay"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pratt_%26_Whitney_J48.jpg/800px-Pratt_%26_Whitney_J48.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pratt-Whitney_J48_NAN4-50.jpg/800px-Pratt-Whitney_J48_NAN4-50.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_J42",
+			"data": [
+				{
+					"header": "Service use",
+					"text": "The Nene doubled the thrust of the earlier generation engines, with early versions providing about 5,000 lbf (22.2 kN), but remained generally similar in most ways. This should have suggested that it would be widely used in various designs, but the Gloster Meteor proved so successful with its Derwents that the Air Ministry felt there was no pressing need to improve upon it. Instead a series of much more capable designs using the Rolls-Royce Avon were studied, and the Nene generally languished."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Rolls-Royce Limited"
+				},
+				{
+					"key": "First run",
+					"value": "27 October 1944"
+				},
+				{
+					"key": "Major applications",
+					"value": "Canadair CT-133 Silver Star,Dassault Ouragan,de Havilland Vampire,Grumman F9F Panther,Hawker Sea Hawk"
+				},
+				{
+					"key": "Number built",
+					"value": "1,139 (J42)"
+				},
+				{
+					"key": "Developed from",
+					"value": "Rolls-Royce Derwent"
+				},
+				{
+					"key": "Developed into",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Rolls-Royce Derwent VRolls-Royce RB.44 TayPratt & Whitney J48Klimov VK-1"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rolls_Royce_Nene.jpg/800px-Rolls_Royce_Nene.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pulqui_engine.jpg/800px-Pulqui_engine.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg/800px-Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg/800px-Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg"
+				]
+			}
+		},
+		{
 			"name": "Pratt_&_Whitney_J75",
 			"data": [
 				{
@@ -1623,102 +1719,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_J42",
-			"data": [
-				{
-					"header": "Service use",
-					"text": "The Nene doubled the thrust of the earlier generation engines, with early versions providing about 5,000 lbf (22.2 kN), but remained generally similar in most ways. This should have suggested that it would be widely used in various designs, but the Gloster Meteor proved so successful with its Derwents that the Air Ministry felt there was no pressing need to improve upon it. Instead a series of much more capable designs using the Rolls-Royce Avon were studied, and the Nene generally languished."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Rolls-Royce Limited"
-				},
-				{
-					"key": "First run",
-					"value": "27 October 1944"
-				},
-				{
-					"key": "Major applications",
-					"value": "Canadair CT-133 Silver Star,Dassault Ouragan,de Havilland Vampire,Grumman F9F Panther,Hawker Sea Hawk"
-				},
-				{
-					"key": "Number built",
-					"value": "1,139 (J42)"
-				},
-				{
-					"key": "Developed from",
-					"value": "Rolls-Royce Derwent"
-				},
-				{
-					"key": "Developed into",
-					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Rolls-Royce Derwent VRolls-Royce RB.44 TayPratt & Whitney J48Klimov VK-1"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rolls_Royce_Nene.jpg/800px-Rolls_Royce_Nene.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pulqui_engine.jpg/800px-Pulqui_engine.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg/800px-Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg/800px-Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_J48",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "In 1947, at the behest of the United States Navy, Pratt & Whitney entered into an agreement to produce the Rolls-Royce Nene centrifugal-flow turbojet engine under license as the J42 (company designation JT6), for use in the Grumman F9F Panther fighter aircraft. Concerned that the Nene would not have the potential to cope with future weight growth in improved versions of the Panther, Luke Hobbs, vice president of engineering for P&W's parent company, the United Aircraft Corporation, requested that Rolls-Royce design a more powerful engine based on the Nene, which Pratt & Whitney would also produce."
-				},
-				{
-					"header": "Operational history",
-					"text": "Several aircraft types used the J48 engine during the 1950s, including the Grumman F9F-5 Panther. and Grumman F9F-6/F9F-8 Cougar, The U.S. Air Force's Lockheed F-94C Starfire and North American YF-93 used afterburning versions of the J48 engine."
-				},
-				{
-					"header": "Variants",
-					"text": "Data from The Engines of Pratt & Whitney: A Technical History."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "National origin",
-					"value": "United Kingdom/United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "Major applications",
-					"value": "Grumman F9F Panther,Grumman F-9 Cougar,Lockheed F-94 Starfire"
-				},
-				{
-					"key": "Number built",
-					"value": "4,108"
-				},
-				{
-					"key": "Developed from",
-					"value": "Rolls-Royce RB.44 Tay"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pratt_%26_Whitney_J48.jpg/800px-Pratt_%26_Whitney_J48.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pratt-Whitney_J48_NAN4-50.jpg/800px-Pratt-Whitney_J48_NAN4-50.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_J52",
 			"data": [
 				{
@@ -1767,6 +1767,53 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AGM-28_Hound_Dog.jpg/800px-AGM-28_Hound_Dog.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/YA2F-1_tilting_pipes_NAN6-60.jpg/800px-YA2F-1_tilting_pipes_NAN6-60.jpg"
 				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_JT12",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
+				},
+				{
+					"header": "Specifications (JT12A-8A)",
+					"text": "Data from Aircraft engines of the World 1966/67"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1957"
+				},
+				{
+					"key": "Major applications",
+					"value": "North American Sabreliner"
+				},
+				{
+					"key": "Number built",
+					"value": "800+"
+				},
+				{
+					"key": "Variants",
+					"value": "Pratt & Whitney T73"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
+				"other": []
 			}
 		},
 		{
@@ -1839,15 +1886,11 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_JT12",
+			"name": "Pratt_&_Whitney_J42",
 			"data": [
 				{
-					"header": "Design and development",
-					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
-				},
-				{
-					"header": "Specifications (JT12A-8A)",
-					"text": "Data from Aircraft engines of the World 1966/67"
+					"header": "Service use",
+					"text": "The Nene doubled the thrust of the earlier generation engines, with early versions providing about 5,000 lbf (22.2 kN), but remained generally similar in most ways. This should have suggested that it would be widely used in various designs, but the Gloster Meteor proved so successful with its Derwents that the Air Ministry felt there was no pressing need to improve upon it. Instead a series of much more capable designs using the Rolls-Royce Avon were studied, and the Nene generally languished."
 				}
 			],
 			"infobox": [
@@ -1856,33 +1899,37 @@
 					"value": "Turbojet"
 				},
 				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
 					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
+					"value": "Rolls-Royce Limited"
 				},
 				{
 					"key": "First run",
-					"value": "1957"
+					"value": "27 October 1944"
 				},
 				{
 					"key": "Major applications",
-					"value": "North American Sabreliner"
+					"value": "Canadair CT-133 Silver Star,Dassault Ouragan,de Havilland Vampire,Grumman F9F Panther,Hawker Sea Hawk"
 				},
 				{
 					"key": "Number built",
-					"value": "800+"
+					"value": "1,139 (J42)"
 				},
 				{
-					"key": "Variants",
-					"value": "Pratt & Whitney T73"
+					"key": "Developed from",
+					"value": "Rolls-Royce Derwent"
+				},
+				{
+					"key": "Developed into",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Rolls-Royce Derwent VRolls-Royce RB.44 TayPratt & Whitney J48Klimov VK-1"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
-				"other": []
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rolls_Royce_Nene.jpg/800px-Rolls_Royce_Nene.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pulqui_engine.jpg/800px-Pulqui_engine.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg/800px-Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg/800px-Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg"
+				]
 			}
 		},
 		{
@@ -1982,53 +2029,6 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Boeing_B-52F_takeoff_with_AGM-28_Hound_Dog_missiles.jpg/800px-Boeing_B-52F_takeoff_with_AGM-28_Hound_Dog_missiles.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AGM-28_Hound_Dog.jpg/800px-AGM-28_Hound_Dog.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/YA2F-1_tilting_pipes_NAN6-60.jpg/800px-YA2F-1_tilting_pipes_NAN6-60.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_J42",
-			"data": [
-				{
-					"header": "Service use",
-					"text": "The Nene doubled the thrust of the earlier generation engines, with early versions providing about 5,000 lbf (22.2 kN), but remained generally similar in most ways. This should have suggested that it would be widely used in various designs, but the Gloster Meteor proved so successful with its Derwents that the Air Ministry felt there was no pressing need to improve upon it. Instead a series of much more capable designs using the Rolls-Royce Avon were studied, and the Nene generally languished."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Rolls-Royce Limited"
-				},
-				{
-					"key": "First run",
-					"value": "27 October 1944"
-				},
-				{
-					"key": "Major applications",
-					"value": "Canadair CT-133 Silver Star,Dassault Ouragan,de Havilland Vampire,Grumman F9F Panther,Hawker Sea Hawk"
-				},
-				{
-					"key": "Number built",
-					"value": "1,139 (J42)"
-				},
-				{
-					"key": "Developed from",
-					"value": "Rolls-Royce Derwent"
-				},
-				{
-					"key": "Developed into",
-					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Rolls-Royce Derwent VRolls-Royce RB.44 TayPratt & Whitney J48Klimov VK-1"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Rolls_Royce_Nene.jpg/800px-Rolls_Royce_Nene.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Pulqui_engine.jpg/800px-Pulqui_engine.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg/800px-Avro_691_Lancastrian_Nene_VH742_Ringway_24.04.48_edited-2.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg/800px-Rolls-Royce_Nene%2C_centrufugal_gas_turbine.jpg"
 				]
 			}
 		},
@@ -2088,6 +2088,53 @@
 			}
 		},
 		{
+			"name": "Pratt_&_Whitney_JT12",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
+				},
+				{
+					"header": "Specifications (JT12A-8A)",
+					"text": "Data from Aircraft engines of the World 1966/67"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1957"
+				},
+				{
+					"key": "Major applications",
+					"value": "North American Sabreliner"
+				},
+				{
+					"key": "Number built",
+					"value": "800+"
+				},
+				{
+					"key": "Variants",
+					"value": "Pratt & Whitney T73"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
+				"other": []
+			}
+		},
+		{
 			"name": "Pratt_&_Whitney_J58",
 			"data": [
 				{
@@ -2157,15 +2204,19 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_JT12",
+			"name": "Pratt_&_Whitney_J75",
 			"data": [
 				{
 					"header": "Design and development",
-					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
+					"text": "In military use, the J75 was used on the Convair F-106 Delta Dart, Lockheed U-2, and Republic F-105 Thunderchief. It was also utilized in the prototype and experimental Avro Canada CF-105 Arrow, Lockheed A-12, Martin P6M SeaMaster, North American YF-107, and Vought XF8U-3 Crusader III."
 				},
 				{
-					"header": "Specifications (JT12A-8A)",
-					"text": "Data from Aircraft engines of the World 1966/67"
+					"header": "Marine & power generation",
+					"text": "After its relatively short lifetime in the aircraft role, the JT4A found more enduring use in the naval role, where the FT4 was produced in a variety of models between 18,000 and 22,000 hp (13 and 16 MW). Well-known uses include the first all-turbine warships, the Canadian Iroquois-class destroyers, as well as the United States Coast Guard's Hamilton-class cutters, the 1970s-built icebreakers Polar Sea and Polar Star (each 3 engines in CODOG configuration), and it was considered for the US Navy's Asheville-class gunboat. The same basic powerplant saw much wider use as a peak demand power turbine running on natural gas. From its introduction in 1960 over 1,000 FT4s have been sold, with many of them still in operation for electrical generation. Outdated by modern standards, refits are available that add catalytic converters to lower their emissions."
+				},
+				{
+					"header": "Specifications (JT4A-11)",
+					"text": "Data from Jane's All the World's Aircraft 1962-63, Aircraft engines of the World 1966/67, Flight:Aero Engines 1960"
 				}
 			],
 			"infobox": [
@@ -2183,24 +2234,26 @@
 				},
 				{
 					"key": "First run",
-					"value": "1957"
+					"value": "1955"
 				},
 				{
 					"key": "Major applications",
-					"value": "North American Sabreliner"
+					"value": "Boeing 707,Convair F-106 Delta Dart,Douglas DC-8,Lockheed U-2,Republic F-105 Thunderchief"
 				},
 				{
-					"key": "Number built",
-					"value": "800+"
+					"key": "Developed from",
+					"value": "Pratt & Whitney J57"
 				},
 				{
-					"key": "Variants",
-					"value": "Pratt & Whitney T73"
+					"key": "Developed into",
+					"value": "Pratt & Whitney GG4/FT4"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
-				"other": []
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/KLM_DC-8-33_%287491675744%29.jpg/800px-KLM_DC-8-33_%287491675744%29.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PW_J75_NAN7-57.jpg/800px-PW_J75_NAN7-57.jpg"
+				]
 			}
 		},
 		{
@@ -2260,59 +2313,6 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/R%C3%A9acteurs_de_mercure_%282890623814%29.jpg/800px-R%C3%A9acteurs_de_mercure_%282890623814%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JA2012_Centrair_%288085933177%29.jpg/800px-JA2012_Centrair_%288085933177%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/LN-RMT_McDonnell_Douglas_MD-81_%28DC-9-81%29_%28cn_53001_1815%29_Scandinavian_Airlines_-_SAS._%286103442473%29.jpg/800px-LN-RMT_McDonnell_Douglas_MD-81_%28DC-9-81%29_%28cn_53001_1815%29_Scandinavian_Airlines_-_SAS._%286103442473%29.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_J75",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "In military use, the J75 was used on the Convair F-106 Delta Dart, Lockheed U-2, and Republic F-105 Thunderchief. It was also utilized in the prototype and experimental Avro Canada CF-105 Arrow, Lockheed A-12, Martin P6M SeaMaster, North American YF-107, and Vought XF8U-3 Crusader III."
-				},
-				{
-					"header": "Marine & power generation",
-					"text": "After its relatively short lifetime in the aircraft role, the JT4A found more enduring use in the naval role, where the FT4 was produced in a variety of models between 18,000 and 22,000 hp (13 and 16 MW). Well-known uses include the first all-turbine warships, the Canadian Iroquois-class destroyers, as well as the United States Coast Guard's Hamilton-class cutters, the 1970s-built icebreakers Polar Sea and Polar Star (each 3 engines in CODOG configuration), and it was considered for the US Navy's Asheville-class gunboat. The same basic powerplant saw much wider use as a peak demand power turbine running on natural gas. From its introduction in 1960 over 1,000 FT4s have been sold, with many of them still in operation for electrical generation. Outdated by modern standards, refits are available that add catalytic converters to lower their emissions."
-				},
-				{
-					"header": "Specifications (JT4A-11)",
-					"text": "Data from Jane's All the World's Aircraft 1962-63, Aircraft engines of the World 1966/67, Flight:Aero Engines 1960"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1955"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 707,Convair F-106 Delta Dart,Douglas DC-8,Lockheed U-2,Republic F-105 Thunderchief"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney J57"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney GG4/FT4"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/KLM_DC-8-33_%287491675744%29.jpg/800px-KLM_DC-8-33_%287491675744%29.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PW_J75_NAN7-57.jpg/800px-PW_J75_NAN7-57.jpg"
 				]
 			}
 		},
@@ -2419,44 +2419,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_PW2000",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "December 1981"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 757,Boeing C-17 Globemaster III,Boeing C-32A,Ilyushin Il-96M"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
-					"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_TF30",
 			"data": [
 				{
@@ -2499,6 +2461,44 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg/800px-Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg/800px-SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW2000",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "December 1981"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 757,Boeing C-17 Globemaster III,Boeing C-32A,Ilyushin Il-96M"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
+					"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg"
 				]
 			}
 		},
@@ -2565,6 +2565,157 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg/800px-Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/F-15-vector.jpg/800px-F-15-vector.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW1120",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The development of the PW1120, according to Israeli Air Force (IDF/AF) specifications, started in June 1980. It retained the F100 core module, gearbox, fuel pump, forward ducts, as well as the F100 digital electronic control, with only minor modifications. Unique PW1120 components included a wide chord low pressure (LP) compressor, single-stage uncooled low pressure (LP) turbine, simplified single stream augmentor, and a lightweight convergent/divergent nozzle. Full scale testing was initiated in June 1982, and flight clearance of the PW1120 was tested in August 1984. The PW1120 had 70 percent similarity with the F100, so the IDF/AF would not need a special facility for spare parts. It would be built under licence by Bet-Shemesh Engines Limited in Israel."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1980s"
+				},
+				{
+					"key": "Major applications",
+					"value": "IAI Lavi"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney F100"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lavi_engine_PW1120_DSCN4242.JPG/800px-Lavi_engine_PW1120_DSCN4242.JPG",
+				"other": []
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW2000",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "December 1981"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 757,Boeing C-17 Globemaster III,Boeing C-32A,Ilyushin Il-96M"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
+					"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW4000",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The 52,000–62,000 lbf (230–275 kN), 94 in (2.4 m) -fan PW4000 made its first run in April 1984, was FAA certified in July 1986, and was introduced in June 1987.It powers the Airbus A300-600 and Airbus A310-300, Boeing 747-400 and 767-200/300, and McDonnell Douglas MD-11 widebodies."
+				},
+				{
+					"header": "PW4000-94",
+					"text": "Variants: PW4052, PW4056, PW4060, PW4062, PW4062A, PW4152, PW4156A, PW4156, PW4158, PW4460 and PW4462.Thrust range:    231–276 kN (52,000 lbf – 62,000 lbf)Applications:"
+				},
+				{
+					"header": "PW4000-100",
+					"text": "Variants: PW4164, PW4168, PW4168A and PW4170.Thrust range:  287–311 kN (64,500 lbf – 70,000 lbf)Applications: the engine variants are designed exclusively for Airbus A330-200 and -300 (Note that this does not include the A330neo: -800 or -900 nor the BelugaXL (A330-700))."
+				},
+				{
+					"header": "PW4000-112",
+					"text": "Variants: PW4074/74D, PW4077/77D, PW4084/84D, PW4090 and PW4098.Thrust range: 329–436 kN (74,000 lbf – 98,000 lbf) Applications: the engine variants are designed exclusively for Boeing 777-200, -200ER, -300. (Note that this does not include the -200LR, -300ER or F)."
+				},
+				{
+					"header": "Specifications",
+					"text": "The PW4000 is produced in three distinct models, with differing LP systems to address different thrust needs."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "April 1984"
+				},
+				{
+					"key": "Major applications",
+					"value": "Airbus A300,Airbus A310,Airbus A330,Boeing 747-400,Boeing 767,KC-46,Boeing 777,McDonnell Douglas MD-11,Scaled Composites Stratolaunch"
+				},
+				{
+					"key": "Produced",
+					"value": "1984–present"
+				},
+				{
+					"key": "Number built",
+					"value": "2,500 (June 2017)"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney JT9D"
+				},
+				{
+					"key": "Developed into",
+					"value": "Engine Alliance GP7000"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/PW4000-112_%28cropped%29.jpg/800px-PW4000-112_%28cropped%29.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pratt_%26_Whitney_PW4074_crop.jpg/800px-Pratt_%26_Whitney_PW4074_crop.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PW4077_Fan.jpg/800px-PW4077_Fan.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Boeing_767-2B1%28ER%29%2C_Aeromexico_JP6079092.jpg/800px-Boeing_767-2B1%28ER%29%2C_Aeromexico_JP6079092.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Airbus_A330-223%2C_Kingfisher_Airlines_JP6833765.jpg/800px-Airbus_A330-223%2C_Kingfisher_Airlines_JP6833765.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pratt_%26_Whitney_PW4000_%284836578201%29.jpg/800px-Pratt_%26_Whitney_PW4000_%284836578201%29.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Airlines_Flight_328_damage_2.jpg/800px-United_Airlines_Flight_328_damage_2.jpg"
 				]
 			}
 		},
@@ -2643,83 +2794,6 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lufthansa_Airbus_A320neo_%28D-AINC%29_at_Frankfurt_Airport.jpg/800px-Lufthansa_Airbus_A320neo_%28D-AINC%29_at_Frankfurt_Airport.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IGO_A320neo_F-WWII%216849_22dec15_LFBO.jpg/800px-IGO_A320neo_F-WWII%216849_22dec15_LFBO.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/HB-JBD_%2840514687695%29.jpg/800px-HB-JBD_%2840514687695%29.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_PW1120",
-			"data": [
-				{
-					"header": "Development",
-					"text": "The development of the PW1120, according to Israeli Air Force (IDF/AF) specifications, started in June 1980. It retained the F100 core module, gearbox, fuel pump, forward ducts, as well as the F100 digital electronic control, with only minor modifications. Unique PW1120 components included a wide chord low pressure (LP) compressor, single-stage uncooled low pressure (LP) turbine, simplified single stream augmentor, and a lightweight convergent/divergent nozzle. Full scale testing was initiated in June 1982, and flight clearance of the PW1120 was tested in August 1984. The PW1120 had 70 percent similarity with the F100, so the IDF/AF would not need a special facility for spare parts. It would be built under licence by Bet-Shemesh Engines Limited in Israel."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1980s"
-				},
-				{
-					"key": "Major applications",
-					"value": "IAI Lavi"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney F100"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lavi_engine_PW1120_DSCN4242.JPG/800px-Lavi_engine_PW1120_DSCN4242.JPG",
-				"other": []
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_PW2000",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "December 1981"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 757,Boeing C-17 Globemaster III,Boeing C-32A,Ilyushin Il-96M"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
-					"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg"
 				]
 			}
 		},
@@ -2811,133 +2885,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_PW4000",
-			"data": [
-				{
-					"header": "Development",
-					"text": "The 52,000–62,000 lbf (230–275 kN), 94 in (2.4 m) -fan PW4000 made its first run in April 1984, was FAA certified in July 1986, and was introduced in June 1987.It powers the Airbus A300-600 and Airbus A310-300, Boeing 747-400 and 767-200/300, and McDonnell Douglas MD-11 widebodies."
-				},
-				{
-					"header": "PW4000-94",
-					"text": "Variants: PW4052, PW4056, PW4060, PW4062, PW4062A, PW4152, PW4156A, PW4156, PW4158, PW4460 and PW4462.Thrust range:    231–276 kN (52,000 lbf – 62,000 lbf)Applications:"
-				},
-				{
-					"header": "PW4000-100",
-					"text": "Variants: PW4164, PW4168, PW4168A and PW4170.Thrust range:  287–311 kN (64,500 lbf – 70,000 lbf)Applications: the engine variants are designed exclusively for Airbus A330-200 and -300 (Note that this does not include the A330neo: -800 or -900 nor the BelugaXL (A330-700))."
-				},
-				{
-					"header": "PW4000-112",
-					"text": "Variants: PW4074/74D, PW4077/77D, PW4084/84D, PW4090 and PW4098.Thrust range: 329–436 kN (74,000 lbf – 98,000 lbf) Applications: the engine variants are designed exclusively for Boeing 777-200, -200ER, -300. (Note that this does not include the -200LR, -300ER or F)."
-				},
-				{
-					"header": "Specifications",
-					"text": "The PW4000 is produced in three distinct models, with differing LP systems to address different thrust needs."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "April 1984"
-				},
-				{
-					"key": "Major applications",
-					"value": "Airbus A300,Airbus A310,Airbus A330,Boeing 747-400,Boeing 767,KC-46,Boeing 777,McDonnell Douglas MD-11,Scaled Composites Stratolaunch"
-				},
-				{
-					"key": "Produced",
-					"value": "1984–present"
-				},
-				{
-					"key": "Number built",
-					"value": "2,500 (June 2017)"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney JT9D"
-				},
-				{
-					"key": "Developed into",
-					"value": "Engine Alliance GP7000"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/PW4000-112_%28cropped%29.jpg/800px-PW4000-112_%28cropped%29.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Pratt_%26_Whitney_PW4074_crop.jpg/800px-Pratt_%26_Whitney_PW4074_crop.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PW4077_Fan.jpg/800px-PW4077_Fan.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Boeing_767-2B1%28ER%29%2C_Aeromexico_JP6079092.jpg/800px-Boeing_767-2B1%28ER%29%2C_Aeromexico_JP6079092.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Airbus_A330-223%2C_Kingfisher_Airlines_JP6833765.jpg/800px-Airbus_A330-223%2C_Kingfisher_Airlines_JP6833765.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pratt_%26_Whitney_PW4000_%284836578201%29.jpg/800px-Pratt_%26_Whitney_PW4000_%284836578201%29.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Airlines_Flight_328_damage_2.jpg/800px-United_Airlines_Flight_328_damage_2.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_JT9D",
-			"data": [
-				{
-					"header": "Design",
-					"text": "The JT9D introduced advanced technologies in structures, aerodynamics, and materials, which included titanium alloys and nickel alloys, to improve fuel efficiency and reliability compared to the Pratt & Whitney JT3D earlier turbofan.The engine featured a single-stage fan, a three-stage low-pressure compressor, and an eleven-stage high-pressure compressor coupled to a two-stage high-pressure turbine and four-stage low-pressure turbine. The JT9D-3, the earliest certified version of the engine, weighed 8,470 lb (3,840 kg) and produced 43,500 lbf (193 kN) thrust."
-				},
-				{
-					"header": "Variants",
-					"text": "All variants have the same number of compressor and turbine stages."
-				},
-				{
-					"header": "Specifications (JT9D-7R4)",
-					"text": "Data from Pratt & Whitney"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "December 1966"
-				},
-				{
-					"key": "Major applications",
-					"value": "Airbus A300,A310,Boeing 747,Boeing 767,McDonnell Douglas DC-10"
-				},
-				{
-					"key": "Number built",
-					"value": "more than 3,200"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney PW4000"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aircraft_engine_IP%26W_JT9D.jpg/800px-Aircraft_engine_IP%26W_JT9D.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/P%26W_JT9D_cutaway.jpg/800px-P%26W_JT9D_cutaway.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_F100",
 			"data": [
 				{
@@ -3000,6 +2947,59 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg/800px-Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/F-15-vector.jpg/800px-F-15-vector.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_JT9D",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The JT9D introduced advanced technologies in structures, aerodynamics, and materials, which included titanium alloys and nickel alloys, to improve fuel efficiency and reliability compared to the Pratt & Whitney JT3D earlier turbofan.The engine featured a single-stage fan, a three-stage low-pressure compressor, and an eleven-stage high-pressure compressor coupled to a two-stage high-pressure turbine and four-stage low-pressure turbine. The JT9D-3, the earliest certified version of the engine, weighed 8,470 lb (3,840 kg) and produced 43,500 lbf (193 kN) thrust."
+				},
+				{
+					"header": "Variants",
+					"text": "All variants have the same number of compressor and turbine stages."
+				},
+				{
+					"header": "Specifications (JT9D-7R4)",
+					"text": "Data from Pratt & Whitney"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "December 1966"
+				},
+				{
+					"key": "Major applications",
+					"value": "Airbus A300,A310,Boeing 747,Boeing 767,McDonnell Douglas DC-10"
+				},
+				{
+					"key": "Number built",
+					"value": "more than 3,200"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney PW4000"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aircraft_engine_IP%26W_JT9D.jpg/800px-Aircraft_engine_IP%26W_JT9D.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/P%26W_JT9D_cutaway.jpg/800px-P%26W_JT9D_cutaway.jpg"
 				]
 			}
 		},
@@ -3192,52 +3192,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_TF30",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "In 1958, the Douglas Aircraft Company proposed a short-range, four-engined jet airliner to fill the gap below its new DC-8 intercontinental, known internally as the Model 2067. Intended to be marketed as  DC-9, it was not directly related to the later twin-engined Douglas DC-9. Pratt & Whitney (P&W) had offered its JT8A turbojet for the airliner, but Douglas preferred to go with a turbofan engine, which would have a greater fuel efficiency than a turbojet. P&W then proposed the JT10A, a half-scale version of its newly developed JT8D turbofan. Development of the new design began in April 1959, using the core of the JT8. Douglas shelved the model 2067 design in 1960, as the targeted US airlines preferred the newly offered Boeing 727."
-				},
-				{
-					"header": "A-7",
-					"text": "In 1964, the subsonic LTV A-7A Corsair II won the US Navy's VAL competition for a light attack aircraft to replace the Douglas A-4 Skyhawk. The A-7A used a non-afterburning variant of the TF30, which would also power the improved A-7B and A-7C.  In 1965, the USAF selected the A-7D as a replacement for its fast-jet F-100 and F-105 supersonic fighter-bombers in the close air support role. Though the USAF had wanted the TF30, Pratt & Whitney was unable to meet the production timetable, because its facilities were already committed to producing other engines. Instead of producing the TF30 under license for P&W, the Allison Engine Company offered to the Air Force its TF41 turbofan, a license-built version of the RB.168-25R Spey.  The USAF selected the more powerful TF41 for the A-7D, as did the USN, for its similar A-7E."
-				},
-				{
-					"header": "Specifications (TF30-P-100)",
-					"text": "Data from The Engines of Pratt & Whitney: A Technical History."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1960s"
-				},
-				{
-					"key": "Major applications",
-					"value": "General Dynamics F-111 Aardvark,Grumman F-14 Tomcat,LTV A-7 Corsair II"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pratt_Witney_TF30_at_Oakland_Aviation_Museum.jpg/800px-Pratt_Witney_TF30_at_Oakland_Aviation_Museum.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg/800px-Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg/800px-SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_XA101",
 			"data": [
 				{
@@ -3309,6 +3263,52 @@
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/JFTD12_engine_on_an_Aircrane.JPG/800px-JFTD12_engine_on_an_Aircrane.JPG",
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ch-54a_005_jan64_army_Engine_JFTD12.jpg/800px-Ch-54a_005_jan64_army_Engine_JFTD12.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_TF30",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "In 1958, the Douglas Aircraft Company proposed a short-range, four-engined jet airliner to fill the gap below its new DC-8 intercontinental, known internally as the Model 2067. Intended to be marketed as  DC-9, it was not directly related to the later twin-engined Douglas DC-9. Pratt & Whitney (P&W) had offered its JT8A turbojet for the airliner, but Douglas preferred to go with a turbofan engine, which would have a greater fuel efficiency than a turbojet. P&W then proposed the JT10A, a half-scale version of its newly developed JT8D turbofan. Development of the new design began in April 1959, using the core of the JT8. Douglas shelved the model 2067 design in 1960, as the targeted US airlines preferred the newly offered Boeing 727."
+				},
+				{
+					"header": "A-7",
+					"text": "In 1964, the subsonic LTV A-7A Corsair II won the US Navy's VAL competition for a light attack aircraft to replace the Douglas A-4 Skyhawk. The A-7A used a non-afterburning variant of the TF30, which would also power the improved A-7B and A-7C.  In 1965, the USAF selected the A-7D as a replacement for its fast-jet F-100 and F-105 supersonic fighter-bombers in the close air support role. Though the USAF had wanted the TF30, Pratt & Whitney was unable to meet the production timetable, because its facilities were already committed to producing other engines. Instead of producing the TF30 under license for P&W, the Allison Engine Company offered to the Air Force its TF41 turbofan, a license-built version of the RB.168-25R Spey.  The USAF selected the more powerful TF41 for the A-7D, as did the USN, for its similar A-7E."
+				},
+				{
+					"header": "Specifications (TF30-P-100)",
+					"text": "Data from The Engines of Pratt & Whitney: A Technical History."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1960s"
+				},
+				{
+					"key": "Major applications",
+					"value": "General Dynamics F-111 Aardvark,Grumman F-14 Tomcat,LTV A-7 Corsair II"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pratt_Witney_TF30_at_Oakland_Aviation_Museum.jpg/800px-Pratt_Witney_TF30_at_Oakland_Aviation_Museum.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg/800px-Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg/800px-SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg"
 				]
 			}
 		},
@@ -3404,49 +3404,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_XT57",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "One XT57 (PT5), a turboprop development of the J57, was installed in the nose of a JC-124C (BuNo 52-1069), and tested in 1956."
-				},
-				{
-					"header": "Engines on display",
-					"text": "The XT57 engine is on display at the Pratt & Whitney museum in East Hartford, Connecticut."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turboprop"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "Major applications",
-					"value": "Douglas JC-124C Globemaster II,Douglas C-132"
-				},
-				{
-					"key": "Number built",
-					"value": "6"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney J57"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Douglas_C-132.jpg/800px-Douglas_C-132.jpg",
-				"other": []
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_T34",
 			"data": [
 				{
@@ -3568,63 +3525,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_Canada",
-			"data": [
-				{
-					"header": "History",
-					"text": "The Canadian Pratt & Whitney Aircraft Company, Ltd. was founded in November 1928 to act as a service centre for P&W aircraft engines. During World War II, it assembled Pratt & Whitney Wasp series engines built in the U.S. In 1952, the production of Wasp engines was transferred to Canadian Pratt & Whitney so P&W could concentrate on developing jet engines."
-				},
-				{
-					"header": "Fleet",
-					"text": "As of February 2023, Pratt & Whitney Canada has the following aircraft registered with Transport Canada and operate as ICAO airline designator PWC, and telephony PRATT."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Division"
-				},
-				{
-					"key": "Industry",
-					"value": "Aerospace"
-				},
-				{
-					"key": "Founded",
-					"value": "November 1928; 95 years ago (1928-11)"
-				},
-				{
-					"key": "Headquarters",
-					"value": "Longueuil, Quebec, Canada"
-				},
-				{
-					"key": "Key people",
-					"value": "Maria Della Posta(President)"
-				},
-				{
-					"key": "Owner",
-					"value": "RTX Corporation"
-				},
-				{
-					"key": "Number of employees",
-					"value": "10,000"
-				},
-				{
-					"key": "Parent",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "Website",
-					"value": "www.pwc.ca"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Pratt_%26_Whitney_logo.svg/800px-Pratt_%26_Whitney_logo.svg.png",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg/800px-Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg"
-				]
-			}
-		},
-		{
 			"name": "Allison_578-DX",
 			"data": [
 				{
@@ -3704,6 +3604,49 @@
 			}
 		},
 		{
+			"name": "Pratt_&_Whitney_XT57",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "One XT57 (PT5), a turboprop development of the J57, was installed in the nose of a JC-124C (BuNo 52-1069), and tested in 1956."
+				},
+				{
+					"header": "Engines on display",
+					"text": "The XT57 engine is on display at the Pratt & Whitney museum in East Hartford, Connecticut."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboprop"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "Major applications",
+					"value": "Douglas JC-124C Globemaster II,Douglas C-132"
+				},
+				{
+					"key": "Number built",
+					"value": "6"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney J57"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Douglas_C-132.jpg/800px-Douglas_C-132.jpg",
+				"other": []
+			}
+		},
+		{
 			"name": "Pratt_&_Whitney_Rocketdyne",
 			"data": [
 				{
@@ -3757,6 +3700,72 @@
 				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Pratt_%26_Whitney_Rocketdyne_Logo.jpg/800px-Pratt_%26_Whitney_Rocketdyne_Logo.jpg",
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pratt_Whitney_Rocketdyne_space_shuttle_main_engines.jpg/800px-Pratt_Whitney_Rocketdyne_space_shuttle_main_engines.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_F100",
+			"data": [
+				{
+					"header": "Design and variants",
+					"text": "The F100 is a twin spool, axial flow, afterburning turbofan engine. It has a 3-stage fan driven by a two-stage low-pressure turbine and a 10-stage compressor driven by a two-stage high-pressure turbine. The initial F100-PW-100 variant generates nearly 24,000 lbf (107 kN) of thrust in full afterburner and weighs approximately 3,000 lb (1,361 kg), achieving its target thrust-to-weight ratio of 8 and providing the F-15 with its desired thrust-to-weight ratio of greater than 1:1 at combat weight."
+				},
+				{
+					"header": "F100-PW-200",
+					"text": "The F-16 Fighting Falcon entered service with the F100-PW-200; compared to the -100, the -200 has some additional redundancies for single-engine reliability and almost identical thrust ratings. In particular, a \"proximate splitter\" was introduced on the -200 that reduced the severity of the high pressure waves from \"hard\" afterburner starts. This greatly reduced the rate of stagnation stalls, and the -200 on the F-16 saw much better reliability than the -100 on the F-15, although some of the issues from the -100 remained. Similarly, these problems were eventually solved by the F100-PW-220, which the -200 could be upgraded to as well."
+				},
+				{
+					"header": "F100-PW-220/220E",
+					"text": "Due to the unsatisfactory reliability, maintenance costs, and service life of the F100-100/200, Pratt & Whitney was eventually pressured into upgrading the engine to address these issues. The Air Force also began funding the General Electric F101 Derivative Fighter Engine, which eventually became the F110, as a competitor to the F100 to coerce more urgency from Pratt & Whitney. The result of Pratt & Whitney's improvement efforts was the F100-PW-220, which eliminates almost all stall-stagnations and augmentor instability issues from the -100 as well as doubling time between depot overhauls. Reliability and maintenance costs were also drastically improved, and the engine incorporates a digital electronic engine control (DEEC). The -220 engine produces static thrust of 14,590 lbf (64.9 kN) in military (intermediate) power and 23,770 lbf (105.7 kN) afterburning, very slightly lower than the static thrust of the -100/200, but the -220 has better dynamic thrust across most of the envelope."
+				},
+				{
+					"header": "F100-PW-229",
+					"text": "The F100-PW-229 and its competitor, the General Electric F110-GE-129, were the result of the USAF seeking greater power for its tactical aircraft through the Improved Performance Engine (IPE) program in the 1980s. It was developed under company designation PW1128; in addition to greater thrust, the -229 incorporates the reliability and durability improvements of the -220 as well as an enhanced DEEC. Compared to earlier variants, the -229 has a higher turbine inlet temperature, higher airflow of 248 lb/s (112 kg/s), and lower bypass ratio. The first engine was flown in 1989 and produced thrust of 17,800 lbf (79.2 kN) (dry/intermediate thrust) and 29,160 lbf (129.7 kN) with afterburner. The -229 powers late model F-16C/D Block 52s and F-15Es."
+				},
+				{
+					"header": "F100-PW-232",
+					"text": "The F100-PW-232, originally called F100-PW-229A (Advanced), was a further enhanced variant that incorporated engineering advances and technology from Pratt & Whitney's F119 engine for the F-22 as well as operational experience from the -229; development began in the late 1990s. Both the -232 and its competitor, the General Electric F110-GE-132, were designed to make full use of the F-16's Modular Common Inlet Duct (MCID), or \"Big Mouth\" inlet introduced in the Block 30 variant. The fan was larger for increased airflow of 275 lb/s (125 kg/s) and redesigned to be more reliable; it incorporated stages with the blades and disk formed into a single piece called an integrally-blades rotor (IBR), or blisk. The stators were also redesigned for better aerodynamics to improve stall margin. The -232 could produce 20,100 lbf (89.4 kN) of thrust in intermediate power and 32,500 lbf (144.6 kN) in afterburner; alternatively it could produce the same thrust levels as the -229 but increase inspection intervals by 40%. The -232 was not pursued by the USAF, but many of the improvements were incorporated into the -229EEP to increase its reliability and inspection intervals."
+				},
+				{
+					"header": "F100-PW-220",
+					"text": "Data from DTIC, Florida International University, National Museum of the U.S. Air Force"
+				},
+				{
+					"header": "F100-PW-229",
+					"text": "Data from Pratt & Whitney"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1970s"
+				},
+				{
+					"key": "Major applications",
+					"value": "F-15 Eagle,F-15E Strike Eagle,F-16 Fighting Falcon,Northrop Grumman X-47B"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney F401  Pratt & Whitney PW1120"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Engine.f15.arp.750pix.jpg/800px-Engine.f15.arp.750pix.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg/800px-Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/F-15-vector.jpg/800px-F-15-vector.jpg"
 				]
 			}
 		},
@@ -3868,114 +3877,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_F100",
-			"data": [
-				{
-					"header": "Design and variants",
-					"text": "The F100 is a twin spool, axial flow, afterburning turbofan engine. It has a 3-stage fan driven by a two-stage low-pressure turbine and a 10-stage compressor driven by a two-stage high-pressure turbine. The initial F100-PW-100 variant generates nearly 24,000 lbf (107 kN) of thrust in full afterburner and weighs approximately 3,000 lb (1,361 kg), achieving its target thrust-to-weight ratio of 8 and providing the F-15 with its desired thrust-to-weight ratio of greater than 1:1 at combat weight."
-				},
-				{
-					"header": "F100-PW-200",
-					"text": "The F-16 Fighting Falcon entered service with the F100-PW-200; compared to the -100, the -200 has some additional redundancies for single-engine reliability and almost identical thrust ratings. In particular, a \"proximate splitter\" was introduced on the -200 that reduced the severity of the high pressure waves from \"hard\" afterburner starts. This greatly reduced the rate of stagnation stalls, and the -200 on the F-16 saw much better reliability than the -100 on the F-15, although some of the issues from the -100 remained. Similarly, these problems were eventually solved by the F100-PW-220, which the -200 could be upgraded to as well."
-				},
-				{
-					"header": "F100-PW-220/220E",
-					"text": "Due to the unsatisfactory reliability, maintenance costs, and service life of the F100-100/200, Pratt & Whitney was eventually pressured into upgrading the engine to address these issues. The Air Force also began funding the General Electric F101 Derivative Fighter Engine, which eventually became the F110, as a competitor to the F100 to coerce more urgency from Pratt & Whitney. The result of Pratt & Whitney's improvement efforts was the F100-PW-220, which eliminates almost all stall-stagnations and augmentor instability issues from the -100 as well as doubling time between depot overhauls. Reliability and maintenance costs were also drastically improved, and the engine incorporates a digital electronic engine control (DEEC). The -220 engine produces static thrust of 14,590 lbf (64.9 kN) in military (intermediate) power and 23,770 lbf (105.7 kN) afterburning, very slightly lower than the static thrust of the -100/200, but the -220 has better dynamic thrust across most of the envelope."
-				},
-				{
-					"header": "F100-PW-229",
-					"text": "The F100-PW-229 and its competitor, the General Electric F110-GE-129, were the result of the USAF seeking greater power for its tactical aircraft through the Improved Performance Engine (IPE) program in the 1980s. It was developed under company designation PW1128; in addition to greater thrust, the -229 incorporates the reliability and durability improvements of the -220 as well as an enhanced DEEC. Compared to earlier variants, the -229 has a higher turbine inlet temperature, higher airflow of 248 lb/s (112 kg/s), and lower bypass ratio. The first engine was flown in 1989 and produced thrust of 17,800 lbf (79.2 kN) (dry/intermediate thrust) and 29,160 lbf (129.7 kN) with afterburner. The -229 powers late model F-16C/D Block 52s and F-15Es."
-				},
-				{
-					"header": "F100-PW-232",
-					"text": "The F100-PW-232, originally called F100-PW-229A (Advanced), was a further enhanced variant that incorporated engineering advances and technology from Pratt & Whitney's F119 engine for the F-22 as well as operational experience from the -229; development began in the late 1990s. Both the -232 and its competitor, the General Electric F110-GE-132, were designed to make full use of the F-16's Modular Common Inlet Duct (MCID), or \"Big Mouth\" inlet introduced in the Block 30 variant. The fan was larger for increased airflow of 275 lb/s (125 kg/s) and redesigned to be more reliable; it incorporated stages with the blades and disk formed into a single piece called an integrally-blades rotor (IBR), or blisk. The stators were also redesigned for better aerodynamics to improve stall margin. The -232 could produce 20,100 lbf (89.4 kN) of thrust in intermediate power and 32,500 lbf (144.6 kN) in afterburner; alternatively it could produce the same thrust levels as the -229 but increase inspection intervals by 40%. The -232 was not pursued by the USAF, but many of the improvements were incorporated into the -229EEP to increase its reliability and inspection intervals."
-				},
-				{
-					"header": "F100-PW-220",
-					"text": "Data from DTIC, Florida International University, National Museum of the U.S. Air Force"
-				},
-				{
-					"header": "F100-PW-229",
-					"text": "Data from Pratt & Whitney"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1970s"
-				},
-				{
-					"key": "Major applications",
-					"value": "F-15 Eagle,F-15E Strike Eagle,F-16 Fighting Falcon,Northrop Grumman X-47B"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney F401  Pratt & Whitney PW1120"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Engine.f15.arp.750pix.jpg/800px-Engine.f15.arp.750pix.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg/800px-Pratt_%26_Whitney_F100-PW-220_turbofan_engine.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/F-15-vector.jpg/800px-F-15-vector.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_F401",
-			"data": [
-				{
-					"header": "External links",
-					"text": " Media related to Pratt & Whitney F401 at Wikimedia Commons"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1970s"
-				},
-				{
-					"key": "Major applications",
-					"value": "Grumman F-14 Tomcat,Rockwell XFV-12"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney F100"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/PW_F401_engine_for_XFV-12_fighter.JPG/800px-PW_F401_engine_for_XFV-12_fighter.JPG",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/XFV-12A_HC356-0-114G.jpg/800px-XFV-12A_HC356-0-114G.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Grumman_F-14B_157986_%28mfr_via_RJF%29_%2816947709020%29.jpg/800px-Grumman_F-14B_157986_%28mfr_via_RJF%29_%2816947709020%29.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_F119",
 			"data": [
 				{
@@ -4022,6 +3923,99 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/F-22_Raptor_%28rear_view%29_performs_an_aerial_maneuver_%2826618040432%29.jpg/800px-F-22_Raptor_%28rear_view%29_performs_an_aerial_maneuver_%2826618040432%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/P%26W_F119.jpg/800px-P%26W_F119.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_F401",
+			"data": [
+				{
+					"header": "External links",
+					"text": " Media related to Pratt & Whitney F401 at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1970s"
+				},
+				{
+					"key": "Major applications",
+					"value": "Grumman F-14 Tomcat,Rockwell XFV-12"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney F100"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/PW_F401_engine_for_XFV-12_fighter.JPG/800px-PW_F401_engine_for_XFV-12_fighter.JPG",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/XFV-12A_HC356-0-114G.jpg/800px-XFV-12A_HC356-0-114G.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Grumman_F-14B_157986_%28mfr_via_RJF%29_%2816947709020%29.jpg/800px-Grumman_F-14B_157986_%28mfr_via_RJF%29_%2816947709020%29.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_J52",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The J52 was developed in the mid-1950s for the US Navy as a scaled-down derivative of the J57/JT3A. It was initially intended to power the A4D-3 Skyhawk, an advanced avionics model that was canceled in 1957. After being canceled, the U.S. Air Force selected the J52 to power the AGM-28 Hound Dog cruise missile. The engine was designed with several unique features for this application, including a \"conical centerbody mounted in the intake\" and a \"variable central plug ... in the nozzle\". Then, in 1958, the US Navy selected the engine to power what became the A-6 Intruder."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1955"
+				},
+				{
+					"key": "Major applications",
+					"value": "Douglas A-4 Skyhawk,Grumman A-6 Intruder,Northrop Grumman EA-6B Prowler"
+				},
+				{
+					"key": "Number built",
+					"value": ">5,000"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney J57"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney JT8D"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pratt_%26_Whitney_J52_retouched.jpg/800px-Pratt_%26_Whitney_J52_retouched.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Boeing_B-52F_takeoff_with_AGM-28_Hound_Dog_missiles.jpg/800px-Boeing_B-52F_takeoff_with_AGM-28_Hound_Dog_missiles.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AGM-28_Hound_Dog.jpg/800px-AGM-28_Hound_Dog.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/YA2F-1_tilting_pipes_NAN6-60.jpg/800px-YA2F-1_tilting_pipes_NAN6-60.jpg"
 				]
 			}
 		},
@@ -4084,57 +4078,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_J52",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The J52 was developed in the mid-1950s for the US Navy as a scaled-down derivative of the J57/JT3A. It was initially intended to power the A4D-3 Skyhawk, an advanced avionics model that was canceled in 1957. After being canceled, the U.S. Air Force selected the J52 to power the AGM-28 Hound Dog cruise missile. The engine was designed with several unique features for this application, including a \"conical centerbody mounted in the intake\" and a \"variable central plug ... in the nozzle\". Then, in 1958, the US Navy selected the engine to power what became the A-6 Intruder."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1955"
-				},
-				{
-					"key": "Major applications",
-					"value": "Douglas A-4 Skyhawk,Grumman A-6 Intruder,Northrop Grumman EA-6B Prowler"
-				},
-				{
-					"key": "Number built",
-					"value": ">5,000"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney J57"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney JT8D"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pratt_%26_Whitney_J52_retouched.jpg/800px-Pratt_%26_Whitney_J52_retouched.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Boeing_B-52F_takeoff_with_AGM-28_Hound_Dog_missiles.jpg/800px-Boeing_B-52F_takeoff_with_AGM-28_Hound_Dog_missiles.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AGM-28_Hound_Dog.jpg/800px-AGM-28_Hound_Dog.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/YA2F-1_tilting_pipes_NAN6-60.jpg/800px-YA2F-1_tilting_pipes_NAN6-60.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_J57",
 			"data": [
 				{
@@ -4186,6 +4129,63 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Boeing_707-123%2C_American_Airlines_JP6986483.jpg/800px-Boeing_707-123%2C_American_Airlines_JP6986483.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pratt_%26_Whitney_JT3.jpg/800px-Pratt_%26_Whitney_JT3.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Pratt_%26_Whitney_J57_turbojet.jpg/800px-Pratt_%26_Whitney_J57_turbojet.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_Canada",
+			"data": [
+				{
+					"header": "History",
+					"text": "The Canadian Pratt & Whitney Aircraft Company, Ltd. was founded in November 1928 to act as a service centre for P&W aircraft engines. During World War II, it assembled Pratt & Whitney Wasp series engines built in the U.S. In 1952, the production of Wasp engines was transferred to Canadian Pratt & Whitney so P&W could concentrate on developing jet engines."
+				},
+				{
+					"header": "Fleet",
+					"text": "As of February 2023, Pratt & Whitney Canada has the following aircraft registered with Transport Canada and operate as ICAO airline designator PWC, and telephony PRATT."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Division"
+				},
+				{
+					"key": "Industry",
+					"value": "Aerospace"
+				},
+				{
+					"key": "Founded",
+					"value": "November 1928; 95 years ago (1928-11)"
+				},
+				{
+					"key": "Headquarters",
+					"value": "Longueuil, Quebec, Canada"
+				},
+				{
+					"key": "Key people",
+					"value": "Maria Della Posta(President)"
+				},
+				{
+					"key": "Owner",
+					"value": "RTX Corporation"
+				},
+				{
+					"key": "Number of employees",
+					"value": "10,000"
+				},
+				{
+					"key": "Parent",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "Website",
+					"value": "www.pwc.ca"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Pratt_%26_Whitney_logo.svg/800px-Pratt_%26_Whitney_logo.svg.png",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg/800px-Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg"
 				]
 			}
 		},
@@ -4259,55 +4259,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_JT3D",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Aware of the competition from the Rolls-Royce Conway turbofan, Pratt & Whitney decided to develop the JT3D turbofan from the JT3C turbojet for later deliveries of the Boeing 707 and the Douglas DC-8, then nearing entry into service. A 2-stage fan replaced the first 3 stages of the 9-stage JT3C LP compressor. On the LP turbine, the second stage was enlarged and a third stage added."
-				},
-				{
-					"header": "Specifications (JT3D-8A / TF33-P-7)",
-					"text": "Data from Aircraft engines of the World 1966/67"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1958"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 707,Boeing B-52H Stratofortress,Boeing KC-135E Stratotanker,Douglas DC-8,Lockheed C-141 Starlifter"
-				},
-				{
-					"key": "Number built",
-					"value": "c. 8,600"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney J57/JT3C"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg/800px-P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Engine_of_a_DC-8.jpg/800px-Engine_of_a_DC-8.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_J75",
 			"data": [
 				{
@@ -4358,106 +4309,6 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/PW_J75_NAN7-57.jpg/800px-PW_J75_NAN7-57.jpg"
 				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_JT9D",
-			"data": [
-				{
-					"header": "Design",
-					"text": "The JT9D introduced advanced technologies in structures, aerodynamics, and materials, which included titanium alloys and nickel alloys, to improve fuel efficiency and reliability compared to the Pratt & Whitney JT3D earlier turbofan.The engine featured a single-stage fan, a three-stage low-pressure compressor, and an eleven-stage high-pressure compressor coupled to a two-stage high-pressure turbine and four-stage low-pressure turbine. The JT9D-3, the earliest certified version of the engine, weighed 8,470 lb (3,840 kg) and produced 43,500 lbf (193 kN) thrust."
-				},
-				{
-					"header": "Variants",
-					"text": "All variants have the same number of compressor and turbine stages."
-				},
-				{
-					"header": "Specifications (JT9D-7R4)",
-					"text": "Data from Pratt & Whitney"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "December 1966"
-				},
-				{
-					"key": "Major applications",
-					"value": "Airbus A300,A310,Boeing 747,Boeing 767,McDonnell Douglas DC-10"
-				},
-				{
-					"key": "Number built",
-					"value": "more than 3,200"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney PW4000"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aircraft_engine_IP%26W_JT9D.jpg/800px-Aircraft_engine_IP%26W_JT9D.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/P%26W_JT9D_cutaway.jpg/800px-P%26W_JT9D_cutaway.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_JT12",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
-				},
-				{
-					"header": "Specifications (JT12A-8A)",
-					"text": "Data from Aircraft engines of the World 1966/67"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1957"
-				},
-				{
-					"key": "Major applications",
-					"value": "North American Sabreliner"
-				},
-				{
-					"key": "Number built",
-					"value": "800+"
-				},
-				{
-					"key": "Variants",
-					"value": "Pratt & Whitney T73"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
-				"other": []
 			}
 		},
 		{
@@ -4518,6 +4369,53 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/JA2012_Centrair_%288085933177%29.jpg/800px-JA2012_Centrair_%288085933177%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/LN-RMT_McDonnell_Douglas_MD-81_%28DC-9-81%29_%28cn_53001_1815%29_Scandinavian_Airlines_-_SAS._%286103442473%29.jpg/800px-LN-RMT_McDonnell_Douglas_MD-81_%28DC-9-81%29_%28cn_53001_1815%29_Scandinavian_Airlines_-_SAS._%286103442473%29.jpg"
 				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_JT12",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
+				},
+				{
+					"header": "Specifications (JT12A-8A)",
+					"text": "Data from Aircraft engines of the World 1966/67"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1957"
+				},
+				{
+					"key": "Major applications",
+					"value": "North American Sabreliner"
+				},
+				{
+					"key": "Number built",
+					"value": "800+"
+				},
+				{
+					"key": "Variants",
+					"value": "Pratt & Whitney T73"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
+				"other": []
 			}
 		},
 		{
@@ -4597,6 +4495,183 @@
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PW-Allison-578-DX_1989.png/800px-PW-Allison-578-DX_1989.png",
 				"other": []
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW2000",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "December 1981"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 757,Boeing C-17 Globemaster III,Boeing C-32A,Ilyushin Il-96M"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
+					"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_JT3D",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Aware of the competition from the Rolls-Royce Conway turbofan, Pratt & Whitney decided to develop the JT3D turbofan from the JT3C turbojet for later deliveries of the Boeing 707 and the Douglas DC-8, then nearing entry into service. A 2-stage fan replaced the first 3 stages of the 9-stage JT3C LP compressor. On the LP turbine, the second stage was enlarged and a third stage added."
+				},
+				{
+					"header": "Specifications (JT3D-8A / TF33-P-7)",
+					"text": "Data from Aircraft engines of the World 1966/67"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1958"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 707,Boeing B-52H Stratofortress,Boeing KC-135E Stratotanker,Douglas DC-8,Lockheed C-141 Starlifter"
+				},
+				{
+					"key": "Number built",
+					"value": "c. 8,600"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney J57/JT3C"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg/800px-P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Engine_of_a_DC-8.jpg/800px-Engine_of_a_DC-8.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_JT9D",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The JT9D introduced advanced technologies in structures, aerodynamics, and materials, which included titanium alloys and nickel alloys, to improve fuel efficiency and reliability compared to the Pratt & Whitney JT3D earlier turbofan.The engine featured a single-stage fan, a three-stage low-pressure compressor, and an eleven-stage high-pressure compressor coupled to a two-stage high-pressure turbine and four-stage low-pressure turbine. The JT9D-3, the earliest certified version of the engine, weighed 8,470 lb (3,840 kg) and produced 43,500 lbf (193 kN) thrust."
+				},
+				{
+					"header": "Variants",
+					"text": "All variants have the same number of compressor and turbine stages."
+				},
+				{
+					"header": "Specifications (JT9D-7R4)",
+					"text": "Data from Pratt & Whitney"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "December 1966"
+				},
+				{
+					"key": "Major applications",
+					"value": "Airbus A300,A310,Boeing 747,Boeing 767,McDonnell Douglas DC-10"
+				},
+				{
+					"key": "Number built",
+					"value": "more than 3,200"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney PW4000"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aircraft_engine_IP%26W_JT9D.jpg/800px-Aircraft_engine_IP%26W_JT9D.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/P%26W_JT9D_cutaway.jpg/800px-P%26W_JT9D_cutaway.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW6000",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Pratt & Whitney designed the engine with minimum complexity to significantly reduce maintenance cost and achieve weight and fuel consumption savings. However, tests revealed that the initial five-stage high compressor based design did not meet promised fuel burn performance. As a result, many of the original customers switched their orders to the rival CFM56-5. To address the problem, Pratt & Whitney re-certified an updated design utilizing a six-stage high compressor designed by MTU Aero Engines in order to achieve promised performance. The German company manufactured the high-pressure compressor and the low-pressure turbine. The HP compressor is driven by a single-stage turbine. On the LP spool a three-stage turbine drives a single-stage fan and a four-stage LP compressor."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "21 August 2000"
+				},
+				{
+					"key": "Major applications",
+					"value": "Airbus A318"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pratt_%26_Whitney_PW_6000.jpg/800px-Pratt_%26_Whitney_PW_6000.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Airbus_A318-122_%288360246327%29.jpg/800px-Airbus_A318-122_%288360246327%29.jpg"
+				]
 			}
 		},
 		{
@@ -4717,81 +4792,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_PW2000",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "December 1981"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 757,Boeing C-17 Globemaster III,Boeing C-32A,Ilyushin Il-96M"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
-					"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_PW6000",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Pratt & Whitney designed the engine with minimum complexity to significantly reduce maintenance cost and achieve weight and fuel consumption savings. However, tests revealed that the initial five-stage high compressor based design did not meet promised fuel burn performance. As a result, many of the original customers switched their orders to the rival CFM56-5. To address the problem, Pratt & Whitney re-certified an updated design utilizing a six-stage high compressor designed by MTU Aero Engines in order to achieve promised performance. The German company manufactured the high-pressure compressor and the low-pressure turbine. The HP compressor is driven by a single-stage turbine. On the LP spool a three-stage turbine drives a single-stage fan and a four-stage LP compressor."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "21 August 2000"
-				},
-				{
-					"key": "Major applications",
-					"value": "Airbus A318"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pratt_%26_Whitney_PW_6000.jpg/800px-Pratt_%26_Whitney_PW_6000.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Airbus_A318-122_%288360246327%29.jpg/800px-Airbus_A318-122_%288360246327%29.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_PW4000",
 			"data": [
 				{
@@ -4862,6 +4862,69 @@
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Airbus_A330-223%2C_Kingfisher_Airlines_JP6833765.jpg/800px-Airbus_A330-223%2C_Kingfisher_Airlines_JP6833765.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pratt_%26_Whitney_PW4000_%284836578201%29.jpg/800px-Pratt_%26_Whitney_PW4000_%284836578201%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Airlines_Flight_328_damage_2.jpg/800px-United_Airlines_Flight_328_damage_2.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_R-985_Wasp_Junior",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Pratt & Whitney developed the R-985 Wasp Junior as a smaller version of the R-1340 Wasp to compete in the market for medium-sized aircraft engines. Like its larger brother, the Wasp Junior was an air-cooled, nine-cylinder radial, with its power boosted by a gear-driven single-speed centrifugal type supercharger. Its cylinders were smaller, however, with a bore and stroke of .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}5+3⁄16 in (132 mm), giving a 27% lesser total displacement. The Wasp Junior used many parts from the Wasp and even had the same mounting dimensions, allowing an aircraft to easily use either the smaller or the larger engine. The first run of the Wasp Junior was in 1929, and sales began in 1930. The initial version, the Wasp Junior A, produced 300 hp (224 kW)."
+				},
+				{
+					"header": "Operational history",
+					"text": "Early versions of the Wasp Junior were used in various small civilian and military utility aircraft, but only in limited numbers.  The type became more popular later in the 1930s. It was selected for the Lockheed Model 10A Electra twin-engined airliner, as well as for other small twin-engined civil transports like the Lockheed Model 12A Electra Junior, the Beechcraft Model 18, and the Grumman Goose amphibious aircraft. It was also used in single-engined civilian utility aircraft like the Beechcraft Staggerwing, the Howard DGA-15, and the Spartan Executive."
+				},
+				{
+					"header": "Specifications (R-985 Wasp Junior SB)",
+					"text": "Data from FAA type certificate data sheet for the Wasp Junior SB; dimensions from Pratt & Whitney (1956), p. A2."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Air-cooled 9-cylinder radial piston engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1929"
+				},
+				{
+					"key": "Major applications",
+					"value": "Beechcraft Model 17,Beechcraft Model 18,de Havilland Canada DHC-2 Beaver,Grumman G-21 Goose,Sikorsky H-5,Vought OS2U Kingfisher,Vultee BT-13 Valiant"
+				},
+				{
+					"key": "Produced",
+					"value": "1929-1953"
+				},
+				{
+					"key": "Number built",
+					"value": "39,037"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney R-1340 Wasp"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney R-1535 Twin Wasp Junior"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pratt_%26_Whitney_R-985_Wasp_Junior.jpg/800px-Pratt_%26_Whitney_R-985_Wasp_Junior.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pratt_%26_Whitney_R-985.jpg/800px-Pratt_%26_Whitney_R-985.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Frontiers_of_Flight_Museum_December_2015_028_%28Pratt_%26_Whitney_R-985_Wasp_Junior_radial_engine%29.jpg/800px-Frontiers_of_Flight_Museum_December_2015_028_%28Pratt_%26_Whitney_R-985_Wasp_Junior_radial_engine%29.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20-09-025-R985.jpg/800px-20-09-025-R985.jpg"
 				]
 			}
 		},
@@ -4942,69 +5005,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_R-985_Wasp_Junior",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Pratt & Whitney developed the R-985 Wasp Junior as a smaller version of the R-1340 Wasp to compete in the market for medium-sized aircraft engines. Like its larger brother, the Wasp Junior was an air-cooled, nine-cylinder radial, with its power boosted by a gear-driven single-speed centrifugal type supercharger. Its cylinders were smaller, however, with a bore and stroke of .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}5+3⁄16 in (132 mm), giving a 27% lesser total displacement. The Wasp Junior used many parts from the Wasp and even had the same mounting dimensions, allowing an aircraft to easily use either the smaller or the larger engine. The first run of the Wasp Junior was in 1929, and sales began in 1930. The initial version, the Wasp Junior A, produced 300 hp (224 kW)."
-				},
-				{
-					"header": "Operational history",
-					"text": "Early versions of the Wasp Junior were used in various small civilian and military utility aircraft, but only in limited numbers.  The type became more popular later in the 1930s. It was selected for the Lockheed Model 10A Electra twin-engined airliner, as well as for other small twin-engined civil transports like the Lockheed Model 12A Electra Junior, the Beechcraft Model 18, and the Grumman Goose amphibious aircraft. It was also used in single-engined civilian utility aircraft like the Beechcraft Staggerwing, the Howard DGA-15, and the Spartan Executive."
-				},
-				{
-					"header": "Specifications (R-985 Wasp Junior SB)",
-					"text": "Data from FAA type certificate data sheet for the Wasp Junior SB; dimensions from Pratt & Whitney (1956), p. A2."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Air-cooled 9-cylinder radial piston engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1929"
-				},
-				{
-					"key": "Major applications",
-					"value": "Beechcraft Model 17,Beechcraft Model 18,de Havilland Canada DHC-2 Beaver,Grumman G-21 Goose,Sikorsky H-5,Vought OS2U Kingfisher,Vultee BT-13 Valiant"
-				},
-				{
-					"key": "Produced",
-					"value": "1929-1953"
-				},
-				{
-					"key": "Number built",
-					"value": "39,037"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney R-1340 Wasp"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney R-1535 Twin Wasp Junior"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pratt_%26_Whitney_R-985_Wasp_Junior.jpg/800px-Pratt_%26_Whitney_R-985_Wasp_Junior.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pratt_%26_Whitney_R-985.jpg/800px-Pratt_%26_Whitney_R-985.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Frontiers_of_Flight_Museum_December_2015_028_%28Pratt_%26_Whitney_R-985_Wasp_Junior_radial_engine%29.jpg/800px-Frontiers_of_Flight_Museum_December_2015_028_%28Pratt_%26_Whitney_R-985_Wasp_Junior_radial_engine%29.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20-09-025-R985.jpg/800px-20-09-025-R985.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_R-1690_Hornet",
 			"data": [],
 			"infobox": [
@@ -5041,47 +5041,6 @@
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pratt_%26_Whitney_R-1690_Hornet_jaypee.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_jaypee.jpg",
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg"
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_R-1830_Twin_Wasp",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1932"
-				},
-				{
-					"key": "Major applications",
-					"value": "Consolidated B-24 Liberator,Douglas C-47 Skytrain,Douglas DC-3,Grumman F4F Wildcat,Consolidated PBY Catalina,Douglas TBD Devastator,Short Sunderland,Vickers Wellington"
-				},
-				{
-					"key": "Number built",
-					"value": "173,618"
-				},
-				{
-					"key": "Variants",
-					"value": "Pratt & Whitney R-2000 Twin Wasp"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/R-1830_IWM.JPG/800px-R-1830_IWM.JPG",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P%26W_Twin_Wasp.jpg/800px-P%26W_Twin_Wasp.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratt-Whitney_R-1830.jpg/800px-Pratt-Whitney_R-1830.jpg"
 				]
 			}
 		},
@@ -5129,13 +5088,8 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_R-2000_Twin_Wasp",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The R-2000 was an enlarged version of the Pratt & Whitney R-1830 Twin Wasp, with focus on reducing the manufacturing costs and fuel requirements. The bore was increased to 5.75 in (146 mm), while it still retained the 5.5 in (140 mm) stroke. This brought displacement up to 2,000 in3 (32.8 L). There were a number of detail changes from the R-1830, such as front-mounted instead of rear-mounted magnetos (as with the larger, and earlier Double Wasp), plain bearings for the crankshaft rather than roller bearings, and 87 octane fuel (specified because there were fears wartime supplies of 100 octane might fall short, but those fears were groundless). The R-2000 produced 1,300 hp @ 2,700 rpm with 87 octane, 1,350 hp with 100 octane and 1,450 hp @ 2,800 rpm with 100/130-grade fuel."
-				}
-			],
+			"name": "Pratt_&_Whitney_R-1830_Twin_Wasp",
+			"data": [],
 			"infobox": [
 				{
 					"key": "Type",
@@ -5151,20 +5105,27 @@
 				},
 				{
 					"key": "First run",
-					"value": "1942"
+					"value": "1932"
 				},
 				{
 					"key": "Major applications",
-					"value": "C-54 Skymaster,Douglas DC-4,de Havilland Canada DHC-4 Caribou"
+					"value": "Consolidated B-24 Liberator,Douglas C-47 Skytrain,Douglas DC-3,Grumman F4F Wildcat,Consolidated PBY Catalina,Douglas TBD Devastator,Short Sunderland,Vickers Wellington"
 				},
 				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney R-1830 Twin Wasp"
+					"key": "Number built",
+					"value": "173,618"
+				},
+				{
+					"key": "Variants",
+					"value": "Pratt & Whitney R-2000 Twin Wasp"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PrattWhitney_Twin_Wasp_R-2000_2.jpg/800px-PrattWhitney_Twin_Wasp_R-2000_2.jpg",
-				"other": []
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/R-1830_IWM.JPG/800px-R-1830_IWM.JPG",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P%26W_Twin_Wasp.jpg/800px-P%26W_Twin_Wasp.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratt-Whitney_R-1830.jpg/800px-Pratt-Whitney_R-1830.jpg"
+				]
 			}
 		},
 		{
@@ -5250,6 +5211,59 @@
 			}
 		},
 		{
+			"name": "Pratt_&_Whitney_R-4360_Wasp_Major",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The R-4360 was a 28-cylinder four-row air-cooled radial engine. Each row of seven air-cooled cylinders possessed a slight angular offset from the previous, forming a semi-helical arrangement to facilitate effective airflow cooling of the cylinder rows behind them, inspiring the engine's \"corncob\" nickname. A mechanical supercharger geared at 6.374:1 ratio to engine speed provided forced induction, while the propeller was geared at 0.375:1 so that the tips did not reach inefficient supersonic speeds."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Four-row Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1944"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 377,Boeing B-50 Superfortress,Boeing C-97 Stratofreighter,Convair B-36,Fairchild C-119 Flying Boxcar"
+				},
+				{
+					"key": "Number built",
+					"value": "18,697"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney R-2180-A Twin Hornet"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney R-2180-E Twin Wasp E"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pratt_%26_Whitney_R-4360_Wasp_Major.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg/800px-Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg/800px-Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20-09-072-R_4360.jpg/800px-20-09-072-R_4360.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Biggest_rotary_cutaway.jpg/800px-Biggest_rotary_cutaway.jpg"
+				]
+			}
+		},
+		{
 			"name": "Pratt_&_Whitney_R-2800_Double_Wasp",
 			"data": [
 				{
@@ -5310,59 +5324,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_R-4360_Wasp_Major",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The R-4360 was a 28-cylinder four-row air-cooled radial engine. Each row of seven air-cooled cylinders possessed a slight angular offset from the previous, forming a semi-helical arrangement to facilitate effective airflow cooling of the cylinder rows behind them, inspiring the engine's \"corncob\" nickname. A mechanical supercharger geared at 6.374:1 ratio to engine speed provided forced induction, while the propeller was geared at 0.375:1 so that the tips did not reach inefficient supersonic speeds."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Four-row Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1944"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 377,Boeing B-50 Superfortress,Boeing C-97 Stratofreighter,Convair B-36,Fairchild C-119 Flying Boxcar"
-				},
-				{
-					"key": "Number built",
-					"value": "18,697"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney R-2180-A Twin Hornet"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney R-2180-E Twin Wasp E"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major_1.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pratt_%26_Whitney_R-4360_Wasp_Major.jpg/800px-Pratt_%26_Whitney_R-4360_Wasp_Major.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg/800px-Pratt_%26_Whitney_Wasp_Major_R-4360_Engine.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg/800px-Air_Zoo_December_2019_147_%28Pratt_%26_Whitney_R-4360-4_Wasp_Major%29.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/20-09-072-R_4360.jpg/800px-20-09-072-R_4360.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Biggest_rotary_cutaway.jpg/800px-Biggest_rotary_cutaway.jpg"
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_T73",
 			"data": [],
 			"infobox": [
@@ -5399,21 +5360,17 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_T34",
+			"name": "Pratt_&_Whitney_R-2000_Twin_Wasp",
 			"data": [
 				{
 					"header": "Design and development",
-					"text": "In 1945, the United States Navy funded the development of a turboprop engine. The T34 was produced from 1951 to 1960, but never used in U.S. Navy aircraft production."
-				},
-				{
-					"header": "Specifications (T34-P-3)",
-					"text": "Data from Jane's All The World's Aircraft 1961–62."
+					"text": "The R-2000 was an enlarged version of the Pratt & Whitney R-1830 Twin Wasp, with focus on reducing the manufacturing costs and fuel requirements. The bore was increased to 5.75 in (146 mm), while it still retained the 5.5 in (140 mm) stroke. This brought displacement up to 2,000 in3 (32.8 L). There were a number of detail changes from the R-1830, such as front-mounted instead of rear-mounted magnetos (as with the larger, and earlier Double Wasp), plain bearings for the crankshaft rather than roller bearings, and 87 octane fuel (specified because there were fears wartime supplies of 100 octane might fall short, but those fears were groundless). The R-2000 produced 1,300 hp @ 2,700 rpm with 87 octane, 1,350 hp with 100 octane and 1,450 hp @ 2,800 rpm with 100/130-grade fuel."
 				}
 			],
 			"infobox": [
 				{
 					"key": "Type",
-					"value": "Turboprop"
+					"value": "Radial engine"
 				},
 				{
 					"key": "National origin",
@@ -5425,19 +5382,20 @@
 				},
 				{
 					"key": "First run",
-					"value": "ca. 1950"
+					"value": "1942"
 				},
 				{
 					"key": "Major applications",
-					"value": "Douglas C-133 Cargomaster"
+					"value": "C-54 Skymaster,Douglas DC-4,de Havilland Canada DHC-4 Caribou"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney R-1830 Twin Wasp"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pratt-Whitney_T-34_B-17_testbed_NAN10-50.jpg/800px-Pratt-Whitney_T-34_B-17_testbed_NAN10-50.jpg",
-				"other": [
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Douglas_C-133A_Cargomaster_in_flight.jpg/800px-Douglas_C-133A_Cargomaster_in_flight.jpg",
-					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/YC-124_Globemaster_II_1954.jpg/800px-YC-124_Globemaster_II_1954.jpg"
-				]
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/PrattWhitney_Twin_Wasp_R-2000_2.jpg/800px-PrattWhitney_Twin_Wasp_R-2000_2.jpg",
+				"other": []
 			}
 		},
 		{
@@ -5483,6 +5441,48 @@
 				"other": [
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg/800px-Pratt_and_Whitney_TF30-P-109_%289697694452%29.jpg",
 					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg/800px-SNECMA_-_P_%26_W_TF_106_Jet_Engine_%287362379444%29.jpg"
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_T34",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "In 1945, the United States Navy funded the development of a turboprop engine. The T34 was produced from 1951 to 1960, but never used in U.S. Navy aircraft production."
+				},
+				{
+					"header": "Specifications (T34-P-3)",
+					"text": "Data from Jane's All The World's Aircraft 1961–62."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboprop"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "ca. 1950"
+				},
+				{
+					"key": "Major applications",
+					"value": "Douglas C-133 Cargomaster"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pratt-Whitney_T-34_B-17_testbed_NAN10-50.jpg/800px-Pratt-Whitney_T-34_B-17_testbed_NAN10-50.jpg",
+				"other": [
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Douglas_C-133A_Cargomaster_in_flight.jpg/800px-Douglas_C-133A_Cargomaster_in_flight.jpg",
+					"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/YC-124_Globemaster_II_1954.jpg/800px-YC-124_Globemaster_II_1954.jpg"
 				]
 			}
 		},
@@ -5544,45 +5544,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_XA101",
-			"data": [
-				{
-					"header": "Development",
-					"text": "The U.S. Air Force and U.S. Navy began pursuing the adaptive cycle engine concept in 2007 with the Adaptive Versatile Engine Technology (ADVENT) program, a part of the larger Versatile Affordable Advanced Turbine Engines (VAATE) program. While not involved with ADVENT, Pratt & Whitney was selected alongside General Electric for the Adaptive Engine Technology Demonstrator (AETD) program that followed in 2012; this program continued to mature the technology, with tests performed using demonstrator engines. The next step, the Adaptive Engine Transition Program (AETP), was launched in 2016 to develop adaptive engines for sixth-generation fighter propulsion as well as potential re-engining of the F-35 from the existing F135 turbofan engine. The General Electric demonstrator was designated XA100 and the P&W engine was designated XA101. The AETP goal was to demonstrate 25% improved fuel efficiency, 10% additional thrust, and improved thermal management. In 2017, Pratt & Whitney successfully tested an adaptive three-stream fan with an F135 core, and considered the XA101 to be \"Growth Option 2.0\" in its long-term development plan for the F135. Further contract awards and modifications from Air Force Life Cycle Management Center (AFLCMC) in 2018 increased the focus on re-engining of the F-35; there has also been investigations on applying the technology in upgrades for F-15, F-16, and F-22 propulsion systems. In June 2018, Pratt & Whitney changed its development plan for the F135, and instead offered an adaptive three-stream fan as Growth Option 2.0 that is separate from the XA101, which would instead have a new engine core. In 2020, the F135 development plan shifted from \"Growth Options\" to \"Engine Enhancement Packages\" (EEP), while the three-stream XA101 is a new engine with potential re-engining for the F-35A. Ground testing of the XA101 began in September 2021."
-				},
-				{
-					"header": "Design",
-					"text": "The XA101 is a three-stream adaptive cycle engine that can adjust the bypass ratio and fan pressure to increase fuel efficiency or thrust, depending on the scenario. It does this by employing a third bypass stream around the entire engine, with the ability to modulate the portion of airflow into the engine core or through this third stream, to increase fuel economy and act as a heat sink for cooling. This capability enables greater use of the high-speed, low-altitude portion of the F-35 flight regime. The increased cooling and power generation also enables the potential employment of directed-energy weapons in the future. When additional thrust is needed, the air from the third stream can be directed into the core and fan streams for increased performance."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Adaptive cycle engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "2021"
-				},
-				{
-					"key": "Major applications",
-					"value": "Lockheed Martin F-35 Lightning II"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PW_3_stream_fan_test.jpg/800px-PW_3_stream_fan_test.jpg",
-				"other": []
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_XT57",
 			"data": [
 				{
@@ -5622,6 +5583,45 @@
 			],
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Douglas_C-132.jpg/800px-Douglas_C-132.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_XA101",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The U.S. Air Force and U.S. Navy began pursuing the adaptive cycle engine concept in 2007 with the Adaptive Versatile Engine Technology (ADVENT) program, a part of the larger Versatile Affordable Advanced Turbine Engines (VAATE) program. While not involved with ADVENT, Pratt & Whitney was selected alongside General Electric for the Adaptive Engine Technology Demonstrator (AETD) program that followed in 2012; this program continued to mature the technology, with tests performed using demonstrator engines. The next step, the Adaptive Engine Transition Program (AETP), was launched in 2016 to develop adaptive engines for sixth-generation fighter propulsion as well as potential re-engining of the F-35 from the existing F135 turbofan engine. The General Electric demonstrator was designated XA100 and the P&W engine was designated XA101. The AETP goal was to demonstrate 25% improved fuel efficiency, 10% additional thrust, and improved thermal management. In 2017, Pratt & Whitney successfully tested an adaptive three-stream fan with an F135 core, and considered the XA101 to be \"Growth Option 2.0\" in its long-term development plan for the F135. Further contract awards and modifications from Air Force Life Cycle Management Center (AFLCMC) in 2018 increased the focus on re-engining of the F-35; there has also been investigations on applying the technology in upgrades for F-15, F-16, and F-22 propulsion systems. In June 2018, Pratt & Whitney changed its development plan for the F135, and instead offered an adaptive three-stream fan as Growth Option 2.0 that is separate from the XA101, which would instead have a new engine core. In 2020, the F135 development plan shifted from \"Growth Options\" to \"Engine Enhancement Packages\" (EEP), while the three-stream XA101 is a new engine with potential re-engining for the F-35A. Ground testing of the XA101 began in September 2021."
+				},
+				{
+					"header": "Design",
+					"text": "The XA101 is a three-stream adaptive cycle engine that can adjust the bypass ratio and fan pressure to increase fuel efficiency or thrust, depending on the scenario. It does this by employing a third bypass stream around the entire engine, with the ability to modulate the portion of airflow into the engine core or through this third stream, to increase fuel economy and act as a heat sink for cooling. This capability enables greater use of the high-speed, low-altitude portion of the F-35 flight regime. The increased cooling and power generation also enables the potential employment of directed-energy weapons in the future. When additional thrust is needed, the air from the third stream can be directed into the core and fan streams for increased performance."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Adaptive cycle engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "2021"
+				},
+				{
+					"key": "Major applications",
+					"value": "Lockheed Martin F-35 Lightning II"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PW_3_stream_fan_test.jpg/800px-PW_3_stream_fan_test.jpg",
 				"other": []
 			}
 		}
