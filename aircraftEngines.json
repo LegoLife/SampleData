@@ -70,109 +70,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_R-1340_Wasp",
-			"data": [
-				{
-					"header": "Variants",
-					"text": "Note: R for Radial and 1340 for 1340 cubic inch displacement."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "29 December 1925"
-				},
-				{
-					"key": "Major applications",
-					"value": "Soko 522  Boeing P-26 Peashooter  de Havilland Canada DHC-3 Otter  North American T-6 Texan  Sikorsky H-19  Junkers Ju 52"
-				},
-				{
-					"key": "Produced",
-					"value": "1926–"
-				},
-				{
-					"key": "Number built",
-					"value": "34,966"
-				},
-				{
-					"key": "Developed into",
-					"value": "Pratt & Whitney R-985 Wasp Junior"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pratt_and_Whitney_Wasp.jpg/800px-Pratt_and_Whitney_Wasp.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Curtiss_SOC-1.jpg/800px-Curtiss_SOC-1.jpg",
-						"desc": "R-1340 powered Curtiss SOC Seagull"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pratt_%26_Whitney_R-1340.jpg/800px-Pratt_%26_Whitney_R-1340.jpg",
-						"desc": "Pratt & Whitney R-1340 installed in a T-6 Texan"
-					}
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_R-1830_Twin_Wasp",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Radial engine"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1932"
-				},
-				{
-					"key": "Major applications",
-					"value": "Consolidated B-24 Liberator Douglas C-47 Skytrain Douglas DC-3 Grumman F4F Wildcat Consolidated PBY Catalina  Douglas TBD Devastator  Short Sunderland  Vickers Wellington"
-				},
-				{
-					"key": "Number built",
-					"value": "173,618"
-				},
-				{
-					"key": "Variants",
-					"value": "Pratt & Whitney R-2000 Twin Wasp"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/R-1830_IWM.JPG/800px-R-1830_IWM.JPG",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P%26W_Twin_Wasp.jpg/800px-P%26W_Twin_Wasp.jpg",
-						"desc": "RAF Dakota's Twin Wasp out for servicing"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratt-Whitney_R-1830.jpg/800px-Pratt-Whitney_R-1830.jpg",
-						"desc": "Pratt & Whitney R-1830 \"Twin Wasp\" (sectioned)"
-					}
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_R-1535_Twin_Wasp_Junior",
 			"data": [],
 			"infobox": [
@@ -237,6 +134,109 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg/800px-Pratt_%26_Whitney_R-1690_Hornet_with_cutaways_detail.jpg",
 						"desc": "R-1690 with chamber walls cut away to show internal workings"
+					}
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_R-1830_Twin_Wasp",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1932"
+				},
+				{
+					"key": "Major applications",
+					"value": "Consolidated B-24 Liberator Douglas C-47 Skytrain Douglas DC-3 Grumman F4F Wildcat Consolidated PBY Catalina  Douglas TBD Devastator  Short Sunderland  Vickers Wellington"
+				},
+				{
+					"key": "Number built",
+					"value": "173,618"
+				},
+				{
+					"key": "Variants",
+					"value": "Pratt & Whitney R-2000 Twin Wasp"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/R-1830_IWM.JPG/800px-R-1830_IWM.JPG",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/P%26W_Twin_Wasp.jpg/800px-P%26W_Twin_Wasp.jpg",
+						"desc": "RAF Dakota's Twin Wasp out for servicing"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratt-Whitney_R-1830.jpg/800px-Pratt-Whitney_R-1830.jpg",
+						"desc": "Pratt & Whitney R-1830 \"Twin Wasp\" (sectioned)"
+					}
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_R-1340_Wasp",
+			"data": [
+				{
+					"header": "Variants",
+					"text": "Note: R for Radial and 1340 for 1340 cubic inch displacement."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Radial engine"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "29 December 1925"
+				},
+				{
+					"key": "Major applications",
+					"value": "Soko 522  Boeing P-26 Peashooter  de Havilland Canada DHC-3 Otter  North American T-6 Texan  Sikorsky H-19  Junkers Ju 52"
+				},
+				{
+					"key": "Produced",
+					"value": "1926–"
+				},
+				{
+					"key": "Number built",
+					"value": "34,966"
+				},
+				{
+					"key": "Developed into",
+					"value": "Pratt & Whitney R-985 Wasp Junior"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pratt_and_Whitney_Wasp.jpg/800px-Pratt_and_Whitney_Wasp.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Curtiss_SOC-1.jpg/800px-Curtiss_SOC-1.jpg",
+						"desc": "R-1340 powered Curtiss SOC Seagull"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Pratt_%26_Whitney_R-1340.jpg/800px-Pratt_%26_Whitney_R-1340.jpg",
+						"desc": "Pratt & Whitney R-1340 installed in a T-6 Texan"
 					}
 				]
 			}
@@ -807,58 +807,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_J48",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "In 1947, at the behest of the United States Navy, Pratt & Whitney entered into an agreement to produce the Rolls-Royce Nene centrifugal-flow turbojet engine under license as the J42 (company designation JT6), for use in the Grumman F9F Panther fighter aircraft. Concerned that the Nene would not have the potential to cope with future weight growth in improved versions of the Panther, Luke Hobbs, vice president of engineering for P&W's parent company, the United Aircraft Corporation, requested that Rolls-Royce design a more powerful engine based on the Nene, which Pratt & Whitney would also produce."
-				},
-				{
-					"header": "Operational history",
-					"text": "Several aircraft types used the J48 engine during the 1950s, including the Grumman F9F-5 Panther. and Grumman F9F-6/F9F-8 Cougar, The U.S. Air Force's Lockheed F-94C Starfire and North American YF-93 used afterburning versions of the J48 engine."
-				},
-				{
-					"header": "Variants",
-					"text": "Data from The Engines of Pratt & Whitney: A Technical History."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "National origin",
-					"value": "United Kingdom/United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "Major applications",
-					"value": "Grumman F9F Panther  Grumman F-9 Cougar  Lockheed F-94 Starfire"
-				},
-				{
-					"key": "Number built",
-					"value": "4,108"
-				},
-				{
-					"key": "Developed from",
-					"value": "Rolls-Royce RB.44 Tay"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pratt_%26_Whitney_J48.jpg/800px-Pratt_%26_Whitney_J48.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pratt-Whitney_J48_NAN4-50.jpg/800px-Pratt-Whitney_J48_NAN4-50.jpg",
-						"desc": "A Pratt & Whitney J48 with afterburner"
-					}
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_J42",
 			"data": [
 				{
@@ -971,15 +919,19 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_JT12",
+			"name": "Pratt_&_Whitney_J48",
 			"data": [
 				{
 					"header": "Design and development",
-					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
+					"text": "In 1947, at the behest of the United States Navy, Pratt & Whitney entered into an agreement to produce the Rolls-Royce Nene centrifugal-flow turbojet engine under license as the J42 (company designation JT6), for use in the Grumman F9F Panther fighter aircraft. Concerned that the Nene would not have the potential to cope with future weight growth in improved versions of the Panther, Luke Hobbs, vice president of engineering for P&W's parent company, the United Aircraft Corporation, requested that Rolls-Royce design a more powerful engine based on the Nene, which Pratt & Whitney would also produce."
 				},
 				{
-					"header": "Specifications (JT12A-8A)",
-					"text": "Data from Aircraft engines of the World 1966/67"
+					"header": "Operational history",
+					"text": "Several aircraft types used the J48 engine during the 1950s, including the Grumman F9F-5 Panther. and Grumman F9F-6/F9F-8 Cougar, The U.S. Air Force's Lockheed F-94C Starfire and North American YF-93 used afterburning versions of the J48 engine."
+				},
+				{
+					"header": "Variants",
+					"text": "Data from The Engines of Pratt & Whitney: A Technical History."
 				}
 			],
 			"infobox": [
@@ -989,32 +941,33 @@
 				},
 				{
 					"key": "National origin",
-					"value": "United States"
+					"value": "United Kingdom/United States"
 				},
 				{
 					"key": "Manufacturer",
 					"value": "Pratt & Whitney"
 				},
 				{
-					"key": "First run",
-					"value": "1957"
-				},
-				{
 					"key": "Major applications",
-					"value": "North American Sabreliner"
+					"value": "Grumman F9F Panther  Grumman F-9 Cougar  Lockheed F-94 Starfire"
 				},
 				{
 					"key": "Number built",
-					"value": "800+"
+					"value": "4,108"
 				},
 				{
-					"key": "Variants",
-					"value": "Pratt & Whitney T73"
+					"key": "Developed from",
+					"value": "Rolls-Royce RB.44 Tay"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
-				"other": []
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pratt_%26_Whitney_J48.jpg/800px-Pratt_%26_Whitney_J48.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pratt-Whitney_J48_NAN4-50.jpg/800px-Pratt-Whitney_J48_NAN4-50.jpg",
+						"desc": "A Pratt & Whitney J48 with afterburner"
+					}
+				]
 			}
 		},
 		{
@@ -1075,6 +1028,53 @@
 						"desc": "One of eight Grumman YA2F-1 Intruder prototypes, showing the original tiltable tailpipes."
 					}
 				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_JT12",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The J60 conception and project design began in July 1957 at United Aircraft of Canada (now Pratt & Whitney Canada) in Montreal. The project design details were transferred to the main P&W company in East Hartford and in May 1958, the first prototype, with military designation YJ60-P-1 commenced testing."
+				},
+				{
+					"header": "Specifications (JT12A-8A)",
+					"text": "Data from Aircraft engines of the World 1966/67"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1957"
+				},
+				{
+					"key": "Major applications",
+					"value": "North American Sabreliner"
+				},
+				{
+					"key": "Number built",
+					"value": "800+"
+				},
+				{
+					"key": "Variants",
+					"value": "Pratt & Whitney T73"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg/800px-Pratt_%26_Whitney_Jt-12A_Turbojet_Engine.jpg",
+				"other": []
 			}
 		},
 		{
@@ -1150,6 +1150,58 @@
 			}
 		},
 		{
+			"name": "Pratt_&_Whitney_JT3D",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Aware of the competition from the Rolls-Royce Conway turbofan, Pratt & Whitney decided to develop the JT3D turbofan from the JT3C turbojet for later deliveries of the Boeing 707 and the Douglas DC-8, then nearing entry into service. A 2-stage fan replaced the first 3 stages of the 9-stage JT3C LP compressor. On the LP turbine, the second stage was enlarged and a third stage added."
+				},
+				{
+					"header": "Specifications (JT3D-8A / TF33-P-7)",
+					"text": "Data from Aircraft engines of the World 1966/67"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1958"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 707  Boeing B-52H Stratofortress Boeing KC-135E Stratotanker  Douglas DC-8  Lockheed C-141 Starlifter"
+				},
+				{
+					"key": "Number built",
+					"value": "c. 8,600"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney J57/JT3C"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg/800px-P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Engine_of_a_DC-8.jpg/800px-Engine_of_a_DC-8.jpg",
+						"desc": "JT3D on a Douglas DC-8"
+					}
+				]
+			}
+		},
+		{
 			"name": "Pratt_&_Whitney_JT8D",
 			"data": [
 				{
@@ -1210,102 +1262,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_JT3D",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Aware of the competition from the Rolls-Royce Conway turbofan, Pratt & Whitney decided to develop the JT3D turbofan from the JT3C turbojet for later deliveries of the Boeing 707 and the Douglas DC-8, then nearing entry into service. A 2-stage fan replaced the first 3 stages of the 9-stage JT3C LP compressor. On the LP turbine, the second stage was enlarged and a third stage added."
-				},
-				{
-					"header": "Specifications (JT3D-8A / TF33-P-7)",
-					"text": "Data from Aircraft engines of the World 1966/67"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1958"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 707  Boeing B-52H Stratofortress Boeing KC-135E Stratotanker  Douglas DC-8  Lockheed C-141 Starlifter"
-				},
-				{
-					"key": "Number built",
-					"value": "c. 8,600"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney J57/JT3C"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg/800px-P%26W_JT3D-3B_engines_on_a_RAAF_Boeing_707.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Engine_of_a_DC-8.jpg/800px-Engine_of_a_DC-8.jpg",
-						"desc": "JT3D on a Douglas DC-8"
-					}
-				]
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_PW2000",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "December 1981"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 757 Boeing C-17 Globemaster III  Boeing C-32AIlyushin Il-96M"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
-						"desc": "An F117 from a C-17 Globemaster III during a post-flight inspection"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg",
-						"desc": "Cutaway drawing of the PW2000 engine"
-					}
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_JT9D",
 			"data": [
 				{
@@ -1359,6 +1315,89 @@
 						"desc": "The Pratt & Whitney JT9D high-bypass turbofan engine was developed for the Boeing 747"
 					}
 				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW2000",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Pratt & Whitney began working on the JT10D in October 1971 intended for the McDonnell Douglas YC-15 into the Advanced Medium STOL Transport project and the Boeing 767, then code named 7X7, which first ran in August 1974.  In December 1980, Pratt & Whitney changed to a new naming system for its engines and the JT10D became the PW2037."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "December 1981"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 757 Boeing C-17 Globemaster III  Boeing C-32AIlyushin Il-96M"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/C-17GlobemasterIIIengine.JPG/800px-C-17GlobemasterIIIengine.JPG",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Defense.gov_News_Photo_101117-F-3431H-095_-_Tech._Sgt._Zachariah_Pock_climbs_a_ladder_to_conduct_post-flight_checks_on_a_C-17_Globemaster_III_engine_during_the_mobility_air_forces_exercise_at.jpg/800px-thumbnail.jpg",
+						"desc": "An F117 from a C-17 Globemaster III during a post-flight inspection"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Pw2000_cutaway_high.jpg/800px-Pw2000_cutaway_high.jpg",
+						"desc": "Cutaway drawing of the PW2000 engine"
+					}
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW1120",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The development of the PW1120, according to Israeli Air Force (IDF/AF) specifications, started in June 1980. It retained the F100 core module, gearbox, fuel pump, forward ducts, as well as the F100 digital electronic control, with only minor modifications. Unique PW1120 components included a wide chord low pressure (LP) compressor, single-stage uncooled low pressure (LP) turbine, simplified single stream augmentor, and a lightweight convergent/divergent nozzle. Full scale testing was initiated in June 1982, and flight clearance of the PW1120 was tested in August 1984. The PW1120 had 70 percent similarity with the F100, so the IDF/AF would not need a special facility for spare parts. It would be built under licence by Bet-Shemesh Engines Limited in Israel."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "1980s"
+				},
+				{
+					"key": "Major applications",
+					"value": "IAI Lavi"
+				},
+				{
+					"key": "Developed from",
+					"value": "Pratt & Whitney F100"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lavi_engine_PW1120_DSCN4242.JPG/800px-Lavi_engine_PW1120_DSCN4242.JPG",
+				"other": []
 			}
 		},
 		{
@@ -1486,85 +1525,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_PW1120",
-			"data": [
-				{
-					"header": "Development",
-					"text": "The development of the PW1120, according to Israeli Air Force (IDF/AF) specifications, started in June 1980. It retained the F100 core module, gearbox, fuel pump, forward ducts, as well as the F100 digital electronic control, with only minor modifications. Unique PW1120 components included a wide chord low pressure (LP) compressor, single-stage uncooled low pressure (LP) turbine, simplified single stream augmentor, and a lightweight convergent/divergent nozzle. Full scale testing was initiated in June 1982, and flight clearance of the PW1120 was tested in August 1984. The PW1120 had 70 percent similarity with the F100, so the IDF/AF would not need a special facility for spare parts. It would be built under licence by Bet-Shemesh Engines Limited in Israel."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "1980s"
-				},
-				{
-					"key": "Major applications",
-					"value": "IAI Lavi"
-				},
-				{
-					"key": "Developed from",
-					"value": "Pratt & Whitney F100"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lavi_engine_PW1120_DSCN4242.JPG/800px-Lavi_engine_PW1120_DSCN4242.JPG",
-				"other": []
-			}
-		},
-		{
-			"name": "Pratt_&_Whitney_PW6000",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Pratt & Whitney designed the engine with minimum complexity to significantly reduce maintenance cost and achieve weight and fuel consumption savings. However, tests revealed that the initial five-stage high compressor based design did not meet promised fuel burn performance. As a result, many of the original customers switched their orders to the rival CFM56-5. To address the problem, Pratt & Whitney re-certified an updated design utilizing a six-stage high compressor designed by MTU Aero Engines in order to achieve promised performance. The German company manufactured the high-pressure compressor and the low-pressure turbine. The HP compressor is driven by a single-stage turbine. On the LP spool a three-stage turbine drives a single-stage fan and a four-stage LP compressor."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "First run",
-					"value": "21 August 2000"
-				},
-				{
-					"key": "Major applications",
-					"value": "Airbus A318"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pratt_%26_Whitney_PW_6000.jpg/800px-Pratt_%26_Whitney_PW_6000.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Airbus_A318-122_%288360246327%29.jpg/800px-Airbus_A318-122_%288360246327%29.jpg",
-						"desc": "A PW6000-equipped Airbus A318"
-					}
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_PW4000",
 			"data": [
 				{
@@ -1640,6 +1600,46 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/United_Airlines_Flight_328_damage_2.jpg/800px-United_Airlines_Flight_328_damage_2.jpg",
 						"desc": "Damage to hollow fan blades from UA328, fracture surface near hub at top of photo"
+					}
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_PW6000",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Pratt & Whitney designed the engine with minimum complexity to significantly reduce maintenance cost and achieve weight and fuel consumption savings. However, tests revealed that the initial five-stage high compressor based design did not meet promised fuel burn performance. As a result, many of the original customers switched their orders to the rival CFM56-5. To address the problem, Pratt & Whitney re-certified an updated design utilizing a six-stage high compressor designed by MTU Aero Engines in order to achieve promised performance. The German company manufactured the high-pressure compressor and the low-pressure turbine. The HP compressor is driven by a single-stage turbine. On the LP spool a three-stage turbine drives a single-stage fan and a four-stage LP compressor."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "First run",
+					"value": "21 August 2000"
+				},
+				{
+					"key": "Major applications",
+					"value": "Airbus A318"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Pratt_%26_Whitney_PW_6000.jpg/800px-Pratt_%26_Whitney_PW_6000.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Airbus_A318-122_%288360246327%29.jpg/800px-Airbus_A318-122_%288360246327%29.jpg",
+						"desc": "A PW6000-equipped Airbus A318"
 					}
 				]
 			}
@@ -2082,66 +2082,6 @@
 			}
 		},
 		{
-			"name": "Pratt_&_Whitney_Canada",
-			"data": [
-				{
-					"header": "History",
-					"text": "The Canadian Pratt & Whitney Aircraft Company, Ltd. was founded in November 1928 to act as a service centre for P&W aircraft engines. During World War II, it assembled Pratt & Whitney Wasp series engines built in the U.S. In 1952, the production of Wasp engines was transferred to Canadian Pratt & Whitney so P&W could concentrate on developing jet engines."
-				},
-				{
-					"header": "Fleet",
-					"text": "As of February 2023, Pratt & Whitney Canada has the following aircraft registered with Transport Canada and operate as ICAO airline designator PWC, and telephony PRATT."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Division"
-				},
-				{
-					"key": "Industry",
-					"value": "Aerospace"
-				},
-				{
-					"key": "Founded",
-					"value": "November 1928; 95 years ago (1928-11)"
-				},
-				{
-					"key": "Headquarters",
-					"value": "Longueuil, Quebec, Canada"
-				},
-				{
-					"key": "Key people",
-					"value": "Maria Della Posta(President)"
-				},
-				{
-					"key": "Owner",
-					"value": "RTX Corporation"
-				},
-				{
-					"key": "Number of employees",
-					"value": "10,000"
-				},
-				{
-					"key": "Parent",
-					"value": "Pratt & Whitney"
-				},
-				{
-					"key": "Website",
-					"value": "www.pwc.ca"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Pratt_%26_Whitney_logo.svg/800px-Pratt_%26_Whitney_logo.svg.png",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg/800px-Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg",
-						"desc": "Next Generation Regional Turboprop"
-					}
-				]
-			}
-		},
-		{
 			"name": "Pratt_&_Whitney_Rocketdyne",
 			"data": [
 				{
@@ -2197,6 +2137,66 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Pratt_Whitney_Rocketdyne_space_shuttle_main_engines.jpg/800px-Pratt_Whitney_Rocketdyne_space_shuttle_main_engines.jpg",
 						"desc": "RS-25 Space Shuttle Main Engines"
+					}
+				]
+			}
+		},
+		{
+			"name": "Pratt_&_Whitney_Canada",
+			"data": [
+				{
+					"header": "History",
+					"text": "The Canadian Pratt & Whitney Aircraft Company, Ltd. was founded in November 1928 to act as a service centre for P&W aircraft engines. During World War II, it assembled Pratt & Whitney Wasp series engines built in the U.S. In 1952, the production of Wasp engines was transferred to Canadian Pratt & Whitney so P&W could concentrate on developing jet engines."
+				},
+				{
+					"header": "Fleet",
+					"text": "As of February 2023, Pratt & Whitney Canada has the following aircraft registered with Transport Canada and operate as ICAO airline designator PWC, and telephony PRATT."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Division"
+				},
+				{
+					"key": "Industry",
+					"value": "Aerospace"
+				},
+				{
+					"key": "Founded",
+					"value": "November 1928; 95 years ago (1928-11)"
+				},
+				{
+					"key": "Headquarters",
+					"value": "Longueuil, Quebec, Canada"
+				},
+				{
+					"key": "Key people",
+					"value": "Maria Della Posta(President)"
+				},
+				{
+					"key": "Owner",
+					"value": "RTX Corporation"
+				},
+				{
+					"key": "Number of employees",
+					"value": "10,000"
+				},
+				{
+					"key": "Parent",
+					"value": "Pratt & Whitney"
+				},
+				{
+					"key": "Website",
+					"value": "www.pwc.ca"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Pratt_%26_Whitney_logo.svg/800px-Pratt_%26_Whitney_logo.svg.png",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg/800px-Pratt_and_Whitney_Canada_Next_Generation_Regional_Turboprop.jpg",
+						"desc": "Next Generation Regional Turboprop"
 					}
 				]
 			}
@@ -2397,49 +2397,6 @@
 			}
 		},
 		{
-			"name": "General_Electric_Affinity",
-			"data": [
-				{
-					"header": "Development",
-					"text": "At the May 2017 EBACE, Aerion announced the selection of GE Aviation to power the Aerion AS2 supersonic business jet.GE then launched the Affinity program.The final engine configuration was a core with billions of operational hours – suggesting the CFM56 – and a new low-pressure section optimized for supersonic speed.The Affinity high-pressure core was adapted from the CFM56 and the GE F101/F110 military engines."
-				},
-				{
-					"header": "Design",
-					"text": "GE Aviation needed to develop a configuration accommodating reasonable requirements for supersonic speed, subsonic speed and noise levels.Managing the high intake temperatures at high altitudes is a key challenge for the initial design.An engine for supersonic flight needs a lower bypass ratio than modern turbofans, and a higher flow speed for better efficiency. This is limited by noise regulations at takeoff, and a lower compression core like the CFM56 is better suited to higher temperatures encountered supersonically.The engine is a compromise between a large core for power and a small fan for wave drag, and Mach 1.4 is a compromise between higher speed and enough range."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "GE Aviation"
-				},
-				{
-					"key": "Major applications",
-					"value": "Aerion AS2"
-				},
-				{
-					"key": "Number built",
-					"value": "Cancelled"
-				},
-				{
-					"key": "Developed from",
-					"value": "CFM International CFM56  General Electric F110"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/GE_Affinity.png/800px-GE_Affinity.png",
-				"other": []
-			}
-		},
-		{
 			"name": "General_Electric_Catalyst",
 			"data": [
 				{
@@ -2483,6 +2440,83 @@
 			],
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/General_Electric_GE93.jpg/800px-General_Electric_GE93.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "General_Electric_Affinity",
+			"data": [
+				{
+					"header": "Development",
+					"text": "At the May 2017 EBACE, Aerion announced the selection of GE Aviation to power the Aerion AS2 supersonic business jet.GE then launched the Affinity program.The final engine configuration was a core with billions of operational hours – suggesting the CFM56 – and a new low-pressure section optimized for supersonic speed.The Affinity high-pressure core was adapted from the CFM56 and the GE F101/F110 military engines."
+				},
+				{
+					"header": "Design",
+					"text": "GE Aviation needed to develop a configuration accommodating reasonable requirements for supersonic speed, subsonic speed and noise levels.Managing the high intake temperatures at high altitudes is a key challenge for the initial design.An engine for supersonic flight needs a lower bypass ratio than modern turbofans, and a higher flow speed for better efficiency. This is limited by noise regulations at takeoff, and a lower compression core like the CFM56 is better suited to higher temperatures encountered supersonically.The engine is a compromise between a large core for power and a small fan for wave drag, and Mach 1.4 is a compromise between higher speed and enough range."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "GE Aviation"
+				},
+				{
+					"key": "Major applications",
+					"value": "Aerion AS2"
+				},
+				{
+					"key": "Number built",
+					"value": "Cancelled"
+				},
+				{
+					"key": "Developed from",
+					"value": "CFM International CFM56  General Electric F110"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/GE_Affinity.png/800px-GE_Affinity.png",
+				"other": []
+			}
+		},
+		{
+			"name": "General_Electric_CF700",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric"
+				},
+				{
+					"key": "First run",
+					"value": "1960s"
+				},
+				{
+					"key": "Major applications",
+					"value": "Dassault Falcon 20  North American Sabreliner"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric CJ610"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/General_Electric_CF700_on_Dassault_Falcon_20_N921ML.jpg/800px-General_Electric_CF700_on_Dassault_Falcon_20_N921ML.jpg",
 				"other": []
 			}
 		},
@@ -2635,40 +2669,6 @@
 			}
 		},
 		{
-			"name": "General_Electric_CF700",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "General Electric"
-				},
-				{
-					"key": "First run",
-					"value": "1960s"
-				},
-				{
-					"key": "Major applications",
-					"value": "Dassault Falcon 20  North American Sabreliner"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric CJ610"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/General_Electric_CF700_on_Dassault_Falcon_20_N921ML.jpg/800px-General_Electric_CF700_on_Dassault_Falcon_20_N921ML.jpg",
-				"other": []
-			}
-		},
-		{
 			"name": "General_Electric_CJ610",
 			"data": [
 				{
@@ -2781,6 +2781,140 @@
 			}
 		},
 		{
+			"name": "General_Electric_F101",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The F101 was developed specifically for the Advanced Manned Strategic Aircraft, which became the B-1A. The F101 powered the four development aircraft from 1970 to 1981. The B-1A was officially cancelled in 1977. However the flight test program continued. General Electric was awarded a contract to further develop the F101-102 engine variant. This turbofan eventually powered the B-1B from 1984, entering service in 1986. The B-1's four F101 engines helped the aircraft win 61 world records for speed, payload and range."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric"
+				},
+				{
+					"key": "First run",
+					"value": "1970s"
+				},
+				{
+					"key": "Major applications",
+					"value": "Rockwell B-1 Lancer"
+				},
+				{
+					"key": "Developed into",
+					"value": "General Electric F110  CFM International CFM56"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/B-1A_engines_%28cropped%29.jpg/800px-B-1A_engines_%28cropped%29.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "General_Electric_F118",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The F118 is a non-afterburning derivative of the F110 specially developed for the B-2 Spirit stealth bomber. A single stage HP turbine drives the 9 stage HP compressor, while a 2-stage LP turbine drives the 3 stage fan. The combustor is annular. In 1998, the USAF's Lockheed U-2S fleet was fitted with a modified version of the F118."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric"
+				},
+				{
+					"key": "First run",
+					"value": "1980s"
+				},
+				{
+					"key": "Major applications",
+					"value": "Lockheed U-2  Northrop Grumman B-2 Spirit"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric F110"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/F118.jpg/800px-F118.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "General_Electric_F404",
+			"data": [
+				{
+					"header": "F404",
+					"text": "GE developed the F404 for the F/A-18 Hornet, shortly after losing the competition for the F-15 Eagle's engine to Pratt & Whitney, and losing the Lightweight Fighter (LWF) competition to the Pratt & Whitney F100 powered YF-16. For the F/A-18, GE based the F404 on the YJ101 engine they had developed for the Northrop YF-17, enlarging the bypass ratio from .20 to .34 to enable higher fuel economy. The engine was designed with a higher priority on reliability than performance. Cost was the main goal in the design of the engine."
+				},
+				{
+					"header": "F412",
+					"text": "GE developed the F404 into the F412-GE-400 non-afterburning turbofan for the McDonnell Douglas A-12 Avenger II. After the cancellation of the A-12, the research was directed toward an engine for the Super Hornet, which evolved into the F414."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric"
+				},
+				{
+					"key": "First run",
+					"value": "1978"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing–Saab T-7 Red Hawk  HAL Tejas Mk 1/1A  KAI T-50 Golden Eagle  Lockheed F-117 Nighthawk  McDonnell Douglas F/A-18 Hornet   Northrop F-20 Tigershark"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric YJ101"
+				},
+				{
+					"key": "Variants",
+					"value": "Volvo RM12"
+				},
+				{
+					"key": "Developed into",
+					"value": "General Electric F414 General Electric GE36 General Electric LM1600"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GE_F404_engine.jpg/800px-GE_F404_engine.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/US_Navy_050617-N-6009S-001_Sailors_assigned_to_the_Aircraft_Intermediate_Maintenance_Department_%28AIMD%29_jet_shop_lower_a_F-A-18_Hornet_engine_into_its_container.jpg/800px-thumbnail.jpg",
+						"desc": "Sailors lower an F/A-18 Hornet engine into its container aboard the USS Kitty Hawk (CV-63)"
+					}
+				]
+			}
+		},
+		{
 			"name": "General_Electric_CJ805",
 			"data": [
 				{
@@ -2841,11 +2975,73 @@
 			}
 		},
 		{
-			"name": "General_Electric_F101",
+			"name": "General_Electric_GE4",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric"
+				},
+				{
+					"key": "First run",
+					"value": "1967"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 2707"
+				},
+				{
+					"key": "Produced",
+					"value": "1967 - 1972"
+				},
+				{
+					"key": "Number built",
+					"value": "3[citation needed]"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric YJ93"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/General_Electric_GE4_2.JPG/800px-General_Electric_GE4_2.JPG",
+				"other": []
+			}
+		},
+		{
+			"name": "General_Electric_F110",
 			"data": [
 				{
-					"header": "Development",
-					"text": "The F101 was developed specifically for the Advanced Manned Strategic Aircraft, which became the B-1A. The F101 powered the four development aircraft from 1970 to 1981. The B-1A was officially cancelled in 1977. However the flight test program continued. General Electric was awarded a contract to further develop the F101-102 engine variant. This turbofan eventually powered the B-1B from 1984, entering service in 1986. The B-1's four F101 engines helped the aircraft win 61 world records for speed, payload and range."
+					"header": "Design and development",
+					"text": "The F110 emerged from an intersection of efforts in the 1970s by General Electric to reenter the U.S. fighter engine market and the U.S. Air Force's desire to address the reliability, longevity, and maintenance issues with the Pratt & Whitney F100 engines that powered its F-15s and F-16s. In 1975, General Electric used its own funds to begin developing the F101X, a derivative of its F101 engine for the B-1 bomber; the F101X would inherit much of the core design while having a smaller fan that was upscaled from the F404 so that its thermodynamic cycle and thrust were better suited for a fighter engine. The convergent-divergent iris nozzle was also derived from the F404."
+				},
+				{
+					"header": "Further developments",
+					"text": "In the mid-1980s, the Air Force sought greater power for its tactical fighters and began Improved Performance Engine (IPE) programs for the F100 and F110, with the goal of achieving thrust in the 29,000 lbf (129 kN) class, while retaining the durability achieved in the F100-PW-220 and F110-GE-100. The result would be the Pratt & Whitney F100-PW-229 and General Electric F110-GE-129. Compared to the -100, the -129 incorporated component improvements, including a full authority digital engine control (FADEC), that allowed maximum thrust to be achieved in a wider range of conditions and across larger portions of the flight envelope, while retaining 80% commonality; bypass ratio was reduced to 0.76. The -129 produces 17,155 lbf (76.3 kN) of thrust in intermediate power and 29,500 lbf (131.2 kN) in full afterburner, and was first fielded in 1992 on the F-16C/D Block 50; the engine would also power enhanced F-15E variants, starting with the F-15K for South Korea."
+				},
+				{
+					"header": "F-16",
+					"text": "The F-16 Fighting Falcon entered service powered by the Pratt & Whitney F100 afterburning turbofan. Seeking a way to drive unit costs down, the USAF implemented the Alternate Fighter Engine (AFE) program in 1984, under which the engine contract would be awarded through competition. The F110 currently powers 86% of the USAF F-16C/Ds (June 2005). While the F110-GE-100 can provide around 4,000 lbf (17.8 kN) more thrust than the F100-PW-200, it requires more airflow for the jet to fully exploit the engine; the standard normal shock inlet (NSI) limited the F110 to 25,735 lbf (114.5 kN). This led to the increase in the area of the engine inlet for the MCID. The F-16C/D Block 30/32s were the first to be built with a common engine bay, able to accept both engines, with Block 30s having the bigger MCID inlet (also known as \"Big Mouth\") for the F110 and Block 32s retaining the standard inlet for the F100."
+				},
+				{
+					"header": "F110-GE-100/400",
+					"text": "Data from American Society of Mechanical Engineers, Naval Air Systems Command (NAVAIR)"
+				},
+				{
+					"header": "F110-GE-129",
+					"text": "Data from General Electric, American Society of Mechanical Engineers (ASME), MTU"
+				},
+				{
+					"header": "F110-GE-132",
+					"text": "Data from General Electric, American Society of Mechanical Engineers (ASME), Forecast International"
 				}
 			],
 			"infobox": [
@@ -2859,24 +3055,105 @@
 				},
 				{
 					"key": "Manufacturer",
-					"value": "General Electric"
+					"value": "GE Aerospace"
 				},
 				{
 					"key": "First run",
-					"value": "1970s"
+					"value": "1980s"
 				},
 				{
 					"key": "Major applications",
-					"value": "Rockwell B-1 Lancer"
+					"value": "Boeing F-15EX Eagle II  General Dynamics F-16 Fighting Falcon  Grumman F-14 Tomcat  McDonnell Douglas F-15E Strike Eagle  Mitsubishi F-2 TAI TF Kaan"
 				},
 				{
-					"key": "Developed into",
-					"value": "General Electric F110  CFM International CFM56"
+					"key": "Developed from",
+					"value": "General Electric F101"
+				},
+				{
+					"key": "Variants",
+					"value": "General Electric F118"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/B-1A_engines_%28cropped%29.jpg/800px-B-1A_engines_%28cropped%29.jpg",
-				"other": []
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/F110-GE_Turbofan_Engine.jpg/800px-F110-GE_Turbofan_Engine.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/General_Electric_F110_AEDC_84-1128_USAF.jpg/800px-General_Electric_F110_AEDC_84-1128_USAF.jpg",
+						"desc": "An F110 engine undergoes performance testing at the Air Force's Arnold Engineering Development Center."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/F-14B_Tomcat_prototype_in_flight_c1973.jpg/800px-F-14B_Tomcat_prototype_in_flight_c1973.jpg",
+						"desc": "The F-14B prototype, BuNo 157986, testing the F101 DFE, which the Navy would eventually adopt as the F110-GE-400"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/F110-GE_viewed_through_exhaust_nozzle_of_an_F-14.jpg/800px-F110-GE_viewed_through_exhaust_nozzle_of_an_F-14.jpg",
+						"desc": "An F110-GE-400 viewed through the afterburner of a Grumman F-14D Tomcat"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lockheed_F-16C_USAF_92-3894_PACAF_F-16_Demo_Team_RJNK.jpg/800px-Lockheed_F-16C_USAF_92-3894_PACAF_F-16_Demo_Team_RJNK.jpg",
+						"desc": "An F-16C Block 50 fitted with the F110-GE-129."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EA%B3%B5%EA%B5%B0_%EC%A0%9C11%EC%A0%84%ED%88%AC_%EB%B9%84%ED%96%89%EB%8B%A8_%287438363072%29.jpg/800px-%EA%B3%B5%EA%B5%B0_%EC%A0%9C11%EC%A0%84%ED%88%AC_%EB%B9%84%ED%96%89%EB%8B%A8_%287438363072%29.jpg",
+						"desc": "A South Korean F-15K with two F110-GE-129 engines fitted."
+					}
+				]
+			}
+		},
+		{
+			"name": "General_Electric_F414",
+			"data": [
+				{
+					"header": "Origins",
+					"text": "GE evolved the F404 into the F412-GE-400 non-afterburning turbofan for the McDonnell Douglas A-12 Avenger II. After the cancellation of the A-12, the research was directed toward an engine for the F/A-18E/F Super Hornet. GE successfully pitched the F414 as a low-risk derivative of the F404, rather than a riskier new engine. The F414 engine was originally envisioned as not using any materials or processes not used in the F404, and was designed to fit in the same footprint as the F404."
+				},
+				{
+					"header": "Further development",
+					"text": "The F414 continues to be improved, both through internal GE efforts and federally funded development programs.  By 2006 GE had tested an Enhanced Durability Engine (EDE) with an advanced core.  The EDE engine provided a 15% thrust increase or longer life without the thrust increase. It has a six-stage high-pressure compressor (down from 7 stages in the standard F414) and an advanced high-pressure turbine. The new compressor should be about 3% more efficient. The new high-pressure turbine uses new materials and a new way of delivering cooling air to the blades. These changes should increase the turbine temperature capability by about 150 °F (83 °C).  The EDE is designed to have better foreign object damage resistance, and a reduced fuel burn rate."
+				},
+				{
+					"header": "F414-GE-400",
+					"text": "Data from GE Aviation, Deagal.com, and MTU Aero Engines"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "GE Aerospace"
+				},
+				{
+					"key": "First run",
+					"value": "May 20, 1993"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing F/A-18E/F Super HornetHAL Tejas Mk2  KAI KF-21 Boramae  Saab JAS 39E/F Gripen"
+				},
+				{
+					"key": "Number built",
+					"value": "1,600+"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric F404"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/General_Electric_F414_AEDC_93-206711_USAF.jpg/800px-General_Electric_F414_AEDC_93-206711_USAF.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Four_Super_Hornets.jpg/800px-Four_Super_Hornets.jpg",
+						"desc": "F/A-18 Super Hornets, powered by the F414-GE-400"
+					}
+				]
 			}
 		},
 		{
@@ -3036,283 +3313,6 @@
 			}
 		},
 		{
-			"name": "General_Electric_F118",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The F118 is a non-afterburning derivative of the F110 specially developed for the B-2 Spirit stealth bomber. A single stage HP turbine drives the 9 stage HP compressor, while a 2-stage LP turbine drives the 3 stage fan. The combustor is annular. In 1998, the USAF's Lockheed U-2S fleet was fitted with a modified version of the F118."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "General Electric"
-				},
-				{
-					"key": "First run",
-					"value": "1980s"
-				},
-				{
-					"key": "Major applications",
-					"value": "Lockheed U-2  Northrop Grumman B-2 Spirit"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric F110"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/F118.jpg/800px-F118.jpg",
-				"other": []
-			}
-		},
-		{
-			"name": "General_Electric_F404",
-			"data": [
-				{
-					"header": "F404",
-					"text": "GE developed the F404 for the F/A-18 Hornet, shortly after losing the competition for the F-15 Eagle's engine to Pratt & Whitney, and losing the Lightweight Fighter (LWF) competition to the Pratt & Whitney F100 powered YF-16. For the F/A-18, GE based the F404 on the YJ101 engine they had developed for the Northrop YF-17, enlarging the bypass ratio from .20 to .34 to enable higher fuel economy. The engine was designed with a higher priority on reliability than performance. Cost was the main goal in the design of the engine."
-				},
-				{
-					"header": "F412",
-					"text": "GE developed the F404 into the F412-GE-400 non-afterburning turbofan for the McDonnell Douglas A-12 Avenger II. After the cancellation of the A-12, the research was directed toward an engine for the Super Hornet, which evolved into the F414."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "General Electric"
-				},
-				{
-					"key": "First run",
-					"value": "1978"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing–Saab T-7 Red Hawk  HAL Tejas Mk 1/1A  KAI T-50 Golden Eagle  Lockheed F-117 Nighthawk  McDonnell Douglas F/A-18 Hornet   Northrop F-20 Tigershark"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric YJ101"
-				},
-				{
-					"key": "Variants",
-					"value": "Volvo RM12"
-				},
-				{
-					"key": "Developed into",
-					"value": "General Electric F414 General Electric GE36 General Electric LM1600"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/GE_F404_engine.jpg/800px-GE_F404_engine.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/US_Navy_050617-N-6009S-001_Sailors_assigned_to_the_Aircraft_Intermediate_Maintenance_Department_%28AIMD%29_jet_shop_lower_a_F-A-18_Hornet_engine_into_its_container.jpg/800px-thumbnail.jpg",
-						"desc": "Sailors lower an F/A-18 Hornet engine into its container aboard the USS Kitty Hawk (CV-63)"
-					}
-				]
-			}
-		},
-		{
-			"name": "General_Electric_F110",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The F110 emerged from an intersection of efforts in the 1970s by General Electric to reenter the U.S. fighter engine market and the U.S. Air Force's desire to address the reliability, longevity, and maintenance issues with the Pratt & Whitney F100 engines that powered its F-15s and F-16s. In 1975, General Electric used its own funds to begin developing the F101X, a derivative of its F101 engine for the B-1 bomber; the F101X would inherit much of the core design while having a smaller fan that was upscaled from the F404 so that its thermodynamic cycle and thrust were better suited for a fighter engine. The convergent-divergent iris nozzle was also derived from the F404."
-				},
-				{
-					"header": "Further developments",
-					"text": "In the mid-1980s, the Air Force sought greater power for its tactical fighters and began Improved Performance Engine (IPE) programs for the F100 and F110, with the goal of achieving thrust in the 29,000 lbf (129 kN) class, while retaining the durability achieved in the F100-PW-220 and F110-GE-100. The result would be the Pratt & Whitney F100-PW-229 and General Electric F110-GE-129. Compared to the -100, the -129 incorporated component improvements, including a full authority digital engine control (FADEC), that allowed maximum thrust to be achieved in a wider range of conditions and across larger portions of the flight envelope, while retaining 80% commonality; bypass ratio was reduced to 0.76. The -129 produces 17,155 lbf (76.3 kN) of thrust in intermediate power and 29,500 lbf (131.2 kN) in full afterburner, and was first fielded in 1992 on the F-16C/D Block 50; the engine would also power enhanced F-15E variants, starting with the F-15K for South Korea."
-				},
-				{
-					"header": "F-16",
-					"text": "The F-16 Fighting Falcon entered service powered by the Pratt & Whitney F100 afterburning turbofan. Seeking a way to drive unit costs down, the USAF implemented the Alternate Fighter Engine (AFE) program in 1984, under which the engine contract would be awarded through competition. The F110 currently powers 86% of the USAF F-16C/Ds (June 2005). While the F110-GE-100 can provide around 4,000 lbf (17.8 kN) more thrust than the F100-PW-200, it requires more airflow for the jet to fully exploit the engine; the standard normal shock inlet (NSI) limited the F110 to 25,735 lbf (114.5 kN). This led to the increase in the area of the engine inlet for the MCID. The F-16C/D Block 30/32s were the first to be built with a common engine bay, able to accept both engines, with Block 30s having the bigger MCID inlet (also known as \"Big Mouth\") for the F110 and Block 32s retaining the standard inlet for the F100."
-				},
-				{
-					"header": "F110-GE-100/400",
-					"text": "Data from American Society of Mechanical Engineers, Naval Air Systems Command (NAVAIR)"
-				},
-				{
-					"header": "F110-GE-129",
-					"text": "Data from General Electric, American Society of Mechanical Engineers (ASME), MTU"
-				},
-				{
-					"header": "F110-GE-132",
-					"text": "Data from General Electric, American Society of Mechanical Engineers (ASME), Forecast International"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "GE Aerospace"
-				},
-				{
-					"key": "First run",
-					"value": "1980s"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing F-15EX Eagle II  General Dynamics F-16 Fighting Falcon  Grumman F-14 Tomcat  McDonnell Douglas F-15E Strike Eagle  Mitsubishi F-2 TAI TF Kaan"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric F101"
-				},
-				{
-					"key": "Variants",
-					"value": "General Electric F118"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/F110-GE_Turbofan_Engine.jpg/800px-F110-GE_Turbofan_Engine.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/General_Electric_F110_AEDC_84-1128_USAF.jpg/800px-General_Electric_F110_AEDC_84-1128_USAF.jpg",
-						"desc": "An F110 engine undergoes performance testing at the Air Force's Arnold Engineering Development Center."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/F-14B_Tomcat_prototype_in_flight_c1973.jpg/800px-F-14B_Tomcat_prototype_in_flight_c1973.jpg",
-						"desc": "The F-14B prototype, BuNo 157986, testing the F101 DFE, which the Navy would eventually adopt as the F110-GE-400"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/F110-GE_viewed_through_exhaust_nozzle_of_an_F-14.jpg/800px-F110-GE_viewed_through_exhaust_nozzle_of_an_F-14.jpg",
-						"desc": "An F110-GE-400 viewed through the afterburner of a Grumman F-14D Tomcat"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lockheed_F-16C_USAF_92-3894_PACAF_F-16_Demo_Team_RJNK.jpg/800px-Lockheed_F-16C_USAF_92-3894_PACAF_F-16_Demo_Team_RJNK.jpg",
-						"desc": "An F-16C Block 50 fitted with the F110-GE-129."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%EA%B3%B5%EA%B5%B0_%EC%A0%9C11%EC%A0%84%ED%88%AC_%EB%B9%84%ED%96%89%EB%8B%A8_%287438363072%29.jpg/800px-%EA%B3%B5%EA%B5%B0_%EC%A0%9C11%EC%A0%84%ED%88%AC_%EB%B9%84%ED%96%89%EB%8B%A8_%287438363072%29.jpg",
-						"desc": "A South Korean F-15K with two F110-GE-129 engines fitted."
-					}
-				]
-			}
-		},
-		{
-			"name": "General_Electric_GE4",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "General Electric"
-				},
-				{
-					"key": "First run",
-					"value": "1967"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 2707"
-				},
-				{
-					"key": "Produced",
-					"value": "1967 - 1972"
-				},
-				{
-					"key": "Number built",
-					"value": "3[citation needed]"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric YJ93"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/General_Electric_GE4_2.JPG/800px-General_Electric_GE4_2.JPG",
-				"other": []
-			}
-		},
-		{
-			"name": "General_Electric_F414",
-			"data": [
-				{
-					"header": "Origins",
-					"text": "GE evolved the F404 into the F412-GE-400 non-afterburning turbofan for the McDonnell Douglas A-12 Avenger II. After the cancellation of the A-12, the research was directed toward an engine for the F/A-18E/F Super Hornet. GE successfully pitched the F414 as a low-risk derivative of the F404, rather than a riskier new engine. The F414 engine was originally envisioned as not using any materials or processes not used in the F404, and was designed to fit in the same footprint as the F404."
-				},
-				{
-					"header": "Further development",
-					"text": "The F414 continues to be improved, both through internal GE efforts and federally funded development programs.  By 2006 GE had tested an Enhanced Durability Engine (EDE) with an advanced core.  The EDE engine provided a 15% thrust increase or longer life without the thrust increase. It has a six-stage high-pressure compressor (down from 7 stages in the standard F414) and an advanced high-pressure turbine. The new compressor should be about 3% more efficient. The new high-pressure turbine uses new materials and a new way of delivering cooling air to the blades. These changes should increase the turbine temperature capability by about 150 °F (83 °C).  The EDE is designed to have better foreign object damage resistance, and a reduced fuel burn rate."
-				},
-				{
-					"header": "F414-GE-400",
-					"text": "Data from GE Aviation, Deagal.com, and MTU Aero Engines"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "GE Aerospace"
-				},
-				{
-					"key": "First run",
-					"value": "May 20, 1993"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing F/A-18E/F Super HornetHAL Tejas Mk2  KAI KF-21 Boramae  Saab JAS 39E/F Gripen"
-				},
-				{
-					"key": "Number built",
-					"value": "1,600+"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric F404"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/General_Electric_F414_AEDC_93-206711_USAF.jpg/800px-General_Electric_F414_AEDC_93-206711_USAF.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Four_Super_Hornets.jpg/800px-Four_Super_Hornets.jpg",
-						"desc": "F/A-18 Super Hornets, powered by the F414-GE-400"
-					}
-				]
-			}
-		},
-		{
 			"name": "General_Electric_GE9X",
 			"data": [
 				{
@@ -3360,62 +3360,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/GE_747-400_N747GF.jpg/800px-GE_747-400_N747GF.jpg",
 						"desc": "GE Propulsion Test Platform Boeing 747-400"
-					}
-				]
-			}
-		},
-		{
-			"name": "General_Electric_GE36",
-			"data": [
-				{
-					"header": "Development",
-					"text": "General Electric (GE) started performing studies and component test work on the concept that would become the UDF in 1981, based on the initial results of early National Aeronautics and Space Administration (NASA) propfan technology studies that the aerospace agency first released to engine makers in 1980. GE then followed up with full-scale development testing of the GE36 starting in 1982. NASA gave GE a $20.4 million contract in February 1984 to study the concept after the company showed the agency its work in December 1983, as NASA's own propfan research efforts were advancing at a slower pace and were dependent on additional grants from the U.S. Congress."
-				},
-				{
-					"header": "Design",
-					"text": "A General Electric F404 military turbofan on loan from the American government was used as the basis for the GE36 prototype. The F404 mixed exhaust stream discharged through a turbine which drove two contra-rotating stages of fans. Although the demonstrator engines had 8x8 and 10x8 fan blade configurations, the most efficient setup that was tested had a 12x10 blade configuration. The scimitar shape of the fan rotor blades could operate at high velocities to match turbojet or turbofan speeds, allowing the engine to power the proposed Boeing 7J7 airliner at a Mach 0.83 cruise speed. The production blades for the MD-91/MD-92 versions of the engine were to be designed for Mach 0.78–0.80 cruise."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Unducted fan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "General Electric Aircraft Engines"
-				},
-				{
-					"key": "First run",
-					"value": "August 29, 1985"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing 7J7 (proposed) McDonnell Douglas MD-94X (proposed)"
-				},
-				{
-					"key": "Number built",
-					"value": "2"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric F404"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Maquette_UDF_-_Mus%C3%A9e_Safran_%28cropped%29.jpg/800px-Maquette_UDF_-_Mus%C3%A9e_Safran_%28cropped%29.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nasa_ge_udf.jpg/800px-Nasa_ge_udf.jpg",
-						"desc": "A full-scale model of the NASA/GE unducted fan at the 1984 Farnborough Air Show."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/McDonnell_Douglas_MD-81%28UHB%29_McDonnell_Douglas_demonstrator%2C_Farnborough_UK_-_England%2C_September_1988_%285589809360%29.jpg/800px-McDonnell_Douglas_MD-81%28UHB%29_McDonnell_Douglas_demonstrator%2C_Farnborough_UK_-_England%2C_September_1988_%285589809360%29.jpg",
-						"desc": "The GE36 on a McDonnell Douglas MD-81 demonstrator at the 1988 Farnborough Air Show."
 					}
 				]
 			}
@@ -3656,6 +3600,105 @@
 			}
 		},
 		{
+			"name": "General_Electric_GE36",
+			"data": [
+				{
+					"header": "Development",
+					"text": "General Electric (GE) started performing studies and component test work on the concept that would become the UDF in 1981, based on the initial results of early National Aeronautics and Space Administration (NASA) propfan technology studies that the aerospace agency first released to engine makers in 1980. GE then followed up with full-scale development testing of the GE36 starting in 1982. NASA gave GE a $20.4 million contract in February 1984 to study the concept after the company showed the agency its work in December 1983, as NASA's own propfan research efforts were advancing at a slower pace and were dependent on additional grants from the U.S. Congress."
+				},
+				{
+					"header": "Design",
+					"text": "A General Electric F404 military turbofan on loan from the American government was used as the basis for the GE36 prototype. The F404 mixed exhaust stream discharged through a turbine which drove two contra-rotating stages of fans. Although the demonstrator engines had 8x8 and 10x8 fan blade configurations, the most efficient setup that was tested had a 12x10 blade configuration. The scimitar shape of the fan rotor blades could operate at high velocities to match turbojet or turbofan speeds, allowing the engine to power the proposed Boeing 7J7 airliner at a Mach 0.83 cruise speed. The production blades for the MD-91/MD-92 versions of the engine were to be designed for Mach 0.78–0.80 cruise."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Unducted fan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric Aircraft Engines"
+				},
+				{
+					"key": "First run",
+					"value": "August 29, 1985"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing 7J7 (proposed) McDonnell Douglas MD-94X (proposed)"
+				},
+				{
+					"key": "Number built",
+					"value": "2"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric F404"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Maquette_UDF_-_Mus%C3%A9e_Safran_%28cropped%29.jpg/800px-Maquette_UDF_-_Mus%C3%A9e_Safran_%28cropped%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nasa_ge_udf.jpg/800px-Nasa_ge_udf.jpg",
+						"desc": "A full-scale model of the NASA/GE unducted fan at the 1984 Farnborough Air Show."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/McDonnell_Douglas_MD-81%28UHB%29_McDonnell_Douglas_demonstrator%2C_Farnborough_UK_-_England%2C_September_1988_%285589809360%29.jpg/800px-McDonnell_Douglas_MD-81%28UHB%29_McDonnell_Douglas_demonstrator%2C_Farnborough_UK_-_England%2C_September_1988_%285589809360%29.jpg",
+						"desc": "The GE36 on a McDonnell Douglas MD-81 demonstrator at the 1988 Farnborough Air Show."
+					}
+				]
+			}
+		},
+		{
+			"name": "General_Electric_J47",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric"
+				},
+				{
+					"key": "First run",
+					"value": "21 June 1947"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing B-47 Stratojet  Convair B-36 Peacemaker  North American F-86 Sabre   North American B-45 Tornado"
+				},
+				{
+					"key": "Number built",
+					"value": "36,500"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric J35"
+				},
+				{
+					"key": "Developed into",
+					"value": "General Electric J73"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/General_Electric_J47_BE.jpg/800px-General_Electric_J47_BE.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/B-36_engines%2C_Richie.jpg/800px-B-36_engines%2C_Richie.jpg",
+						"desc": "Two J47 turbojet engines were mounted outboard of the three Pratt & Whitney R-4360 Wasp Major piston engines on each wing of the B-36."
+					}
+				]
+			}
+		},
+		{
 			"name": "General_Electric_J73",
 			"data": [
 				{
@@ -3711,49 +3754,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Republic_YF-84J_Thunderstreak.jpg/800px-Republic_YF-84J_Thunderstreak.jpg",
 						"desc": "YF-84J Thunderstreak"
-					}
-				]
-			}
-		},
-		{
-			"name": "General_Electric_J47",
-			"data": [],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "General Electric"
-				},
-				{
-					"key": "First run",
-					"value": "21 June 1947"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing B-47 Stratojet  Convair B-36 Peacemaker  North American F-86 Sabre   North American B-45 Tornado"
-				},
-				{
-					"key": "Number built",
-					"value": "36,500"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric J35"
-				},
-				{
-					"key": "Developed into",
-					"value": "General Electric J73"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/General_Electric_J47_BE.jpg/800px-General_Electric_J47_BE.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/B-36_engines%2C_Richie.jpg/800px-B-36_engines%2C_Richie.jpg",
-						"desc": "Two J47 turbojet engines were mounted outboard of the three Pratt & Whitney R-4360 Wasp Major piston engines on each wing of the B-36."
 					}
 				]
 			}
@@ -3831,6 +3831,50 @@
 			}
 		},
 		{
+			"name": "General_Electric_J97",
+			"data": [
+				{
+					"header": "Development and design",
+					"text": "The J97 was based on GE's General Electric GE1/J1 series of turbojets and the engine development was financed by the United States Air Force. The original application was to be the Northrop P-530 (which later evolved into the YF-17), but it was ultimately only used in several small drone aircraft."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Electric"
+				},
+				{
+					"key": "First run",
+					"value": "1960s"
+				},
+				{
+					"key": "Major applications",
+					"value": "Boeing YQM-94 B-GullRyan AQM-91 Firefly"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric GE1"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boeing_YQM-94A_Compass_Cope_B_USAF.jpg/800px-Boeing_YQM-94A_Compass_Cope_B_USAF.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Teledyne_Ryan_AQM-91A_Compass_Arrow_USAF.jpg/800px-Teledyne_Ryan_AQM-91A_Compass_Arrow_USAF.jpg",
+						"desc": "Ryan AQM-91 Firefly"
+					}
+				]
+			}
+		},
+		{
 			"name": "General_Electric_J85",
 			"data": [
 				{
@@ -3878,98 +3922,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/J85_ge_17a_turbojet_engine.jpg/800px-J85_ge_17a_turbojet_engine.jpg",
 						"desc": "A J85-GE-17A engine sectioned for display"
-					}
-				]
-			}
-		},
-		{
-			"name": "General_Electric_J97",
-			"data": [
-				{
-					"header": "Development and design",
-					"text": "The J97 was based on GE's General Electric GE1/J1 series of turbojets and the engine development was financed by the United States Air Force. The original application was to be the Northrop P-530 (which later evolved into the YF-17), but it was ultimately only used in several small drone aircraft."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "General Electric"
-				},
-				{
-					"key": "First run",
-					"value": "1960s"
-				},
-				{
-					"key": "Major applications",
-					"value": "Boeing YQM-94 B-GullRyan AQM-91 Firefly"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric GE1"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boeing_YQM-94A_Compass_Cope_B_USAF.jpg/800px-Boeing_YQM-94A_Compass_Cope_B_USAF.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Teledyne_Ryan_AQM-91A_Compass_Arrow_USAF.jpg/800px-Teledyne_Ryan_AQM-91A_Compass_Arrow_USAF.jpg",
-						"desc": "Ryan AQM-91 Firefly"
-					}
-				]
-			}
-		},
-		{
-			"name": "General_Electric_Passport",
-			"data": [
-				{
-					"header": "Development",
-					"text": "GE's eCore research program developing a common architecture for business, narrowbody and regional jets resulted in the CFM LEAP succeeding the CFM56 aboard the Boeing 737 MAX and Airbus A320neo.After a market study, GE pursued the long-range, large business jet and selected a 14,000–20,000 lbf (62–89 kN) thrust to exploit technology acquired for its commercial and military engine programs.Preliminary design work commenced in 2009.In 2010, Bombardier Aerospace selected the engine rated at 16,500 lbf (73 kN) for the Global 7000 announced at the same year NBAA convention.The testing of the engineering cores began in 2010, with a second core set to be ready in 2011.On May 16, 2011, the TechX was renamed the Passport."
-				},
-				{
-					"header": "Specifications (Passport 20)",
-					"text": "Data from type certificate data sheet"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "GE Aerospace"
-				},
-				{
-					"key": "First run",
-					"value": "June 24, 2013"
-				},
-				{
-					"key": "Major applications",
-					"value": "Bombardier Global 7500 and 8000"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric CF34CFM International LEAP"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EBACE_2019%2C_Le_Grand-Saconnex_%28EB190269%29_%28cropped%29.jpg/800px-EBACE_2019%2C_Le_Grand-Saconnex_%28EB190269%29_%28cropped%29.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/General_Electric_Passport.jpg/800px-General_Electric_Passport.jpg",
-						"desc": "The GE Passport is a high bypass ratio turbofan"
 					}
 				]
 			}
@@ -4023,6 +3975,54 @@
 			}
 		},
 		{
+			"name": "General_Electric_Passport",
+			"data": [
+				{
+					"header": "Development",
+					"text": "GE's eCore research program developing a common architecture for business, narrowbody and regional jets resulted in the CFM LEAP succeeding the CFM56 aboard the Boeing 737 MAX and Airbus A320neo.After a market study, GE pursued the long-range, large business jet and selected a 14,000–20,000 lbf (62–89 kN) thrust to exploit technology acquired for its commercial and military engine programs.Preliminary design work commenced in 2009.In 2010, Bombardier Aerospace selected the engine rated at 16,500 lbf (73 kN) for the Global 7000 announced at the same year NBAA convention.The testing of the engineering cores began in 2010, with a second core set to be ready in 2011.On May 16, 2011, the TechX was renamed the Passport."
+				},
+				{
+					"header": "Specifications (Passport 20)",
+					"text": "Data from type certificate data sheet"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "GE Aerospace"
+				},
+				{
+					"key": "First run",
+					"value": "June 24, 2013"
+				},
+				{
+					"key": "Major applications",
+					"value": "Bombardier Global 7500 and 8000"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric CF34CFM International LEAP"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EBACE_2019%2C_Le_Grand-Saconnex_%28EB190269%29_%28cropped%29.jpg/800px-EBACE_2019%2C_Le_Grand-Saconnex_%28EB190269%29_%28cropped%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/General_Electric_Passport.jpg/800px-General_Electric_Passport.jpg",
+						"desc": "The GE Passport is a high bypass ratio turbofan"
+					}
+				]
+			}
+		},
+		{
 			"name": "General_Electric_T58",
 			"data": [
 				{
@@ -4068,6 +4068,49 @@
 						"desc": "Inspection of a T58 engine before installation in a SH-3G Sea King helicopter"
 					}
 				]
+			}
+		},
+		{
+			"name": "General_Electric_T901",
+			"data": [
+				{
+					"header": "Development",
+					"text": "Since 2010, General Electric has spent more than $300 million to develop and test T901-specific technologies. In 2016, the Army awarded GE Aviation a $102-million, 24-month contract for the T901 preliminary design review for which a team of more than 100 engineers was assembled.The GE-funded prototype six month testing was completed in October 2017, meeting or exceeding the ITEP performance and growth requirements."
+				},
+				{
+					"header": "Design",
+					"text": "GE has maintained the T700 single spool architecture for modularity and reliability with additive manufacturing and ceramic matrix composites (CMCs) from the CFM LEAP, GE9X or GE ATP.Additive manufactured components lower weight by minimizing attaching features in assemblies and allows more advanced aerodynamic shapes for better engine performance, reliability and durability.More durable and higher temperature CMCs replace metal alloys, needing less cooling and improving engine efficiency."
+				},
+				{
+					"header": "Specifications",
+					"text": "Data from 2019 ARPA-E INTEGRATE annual meeting (estimates)"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboshaft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "GE Aviation"
+				},
+				{
+					"key": "First run",
+					"value": "22 March 2022"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric T700"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/GE_Aviation_T901-GE-900.jpg/800px-GE_Aviation_T901-GE-900.jpg",
+				"other": []
 			}
 		},
 		{
@@ -4159,49 +4202,6 @@
 			}
 		},
 		{
-			"name": "General_Electric_T901",
-			"data": [
-				{
-					"header": "Development",
-					"text": "Since 2010, General Electric has spent more than $300 million to develop and test T901-specific technologies. In 2016, the Army awarded GE Aviation a $102-million, 24-month contract for the T901 preliminary design review for which a team of more than 100 engineers was assembled.The GE-funded prototype six month testing was completed in October 2017, meeting or exceeding the ITEP performance and growth requirements."
-				},
-				{
-					"header": "Design",
-					"text": "GE has maintained the T700 single spool architecture for modularity and reliability with additive manufacturing and ceramic matrix composites (CMCs) from the CFM LEAP, GE9X or GE ATP.Additive manufactured components lower weight by minimizing attaching features in assemblies and allows more advanced aerodynamic shapes for better engine performance, reliability and durability.More durable and higher temperature CMCs replace metal alloys, needing less cooling and improving engine efficiency."
-				},
-				{
-					"header": "Specifications",
-					"text": "Data from 2019 ARPA-E INTEGRATE annual meeting (estimates)"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turboshaft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "GE Aviation"
-				},
-				{
-					"key": "First run",
-					"value": "22 March 2022"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric T700"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/GE_Aviation_T901-GE-900.jpg/800px-GE_Aviation_T901-GE-900.jpg",
-				"other": []
-			}
-		},
-		{
 			"name": "General_Electric_TF34",
 			"data": [
 				{
@@ -4245,58 +4245,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lockheed_S-3_Viking.jpg/800px-Lockheed_S-3_Viking.jpg",
 						"desc": "A TF34 mounted on the starboard pylon of an S-3B Viking aboard USS Kitty Hawk (CV-63)"
-					}
-				]
-			}
-		},
-		{
-			"name": "General_Electric_TF39",
-			"data": [
-				{
-					"header": "Development",
-					"text": "The United States Air Force opened the \"CX-X Program\" in 1964, intending to produce a next-generation strategic airlifter. Of the several airframe and engine proposals returned for consideration, Lockheed's aircraft and General Electric's engine were selected for the new design in 1965."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "High-bypass turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "GE Aviation"
-				},
-				{
-					"key": "First run",
-					"value": "1964"
-				},
-				{
-					"key": "Major applications",
-					"value": "Lockheed C-5 Galaxy"
-				},
-				{
-					"key": "Number built",
-					"value": "463"
-				},
-				{
-					"key": "Developed into",
-					"value": "General Electric CF6 General Electric LM2500"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ILA_2008_PD_083.JPG/800px-ILA_2008_PD_083.JPG",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/23-04-057-TF39.jpg/800px-23-04-057-TF39.jpg",
-						"desc": "TF-39 on display at the Museum of Aviation View looking into the fan showing snubbered blades on the inner half-stage and inlet guide vanes in the outer duct in front of the full stage."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Boeing_JB-52E_%28SN_57-0119%29_in_flight_061127-F-1234S-026.jpg/800px-Boeing_JB-52E_%28SN_57-0119%29_in_flight_061127-F-1234S-026.jpg",
-						"desc": "A Boeing B-52E (Serial Number 57-0119) testing a TF39 on the right inboard engine pod. The TF39 has more than double the thrust of the twin Pratt & Whitney J57s that were originally in that spot."
 					}
 				]
 			}
@@ -4492,6 +4440,58 @@
 			}
 		},
 		{
+			"name": "General_Electric_TF39",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The United States Air Force opened the \"CX-X Program\" in 1964, intending to produce a next-generation strategic airlifter. Of the several airframe and engine proposals returned for consideration, Lockheed's aircraft and General Electric's engine were selected for the new design in 1965."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "High-bypass turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "GE Aviation"
+				},
+				{
+					"key": "First run",
+					"value": "1964"
+				},
+				{
+					"key": "Major applications",
+					"value": "Lockheed C-5 Galaxy"
+				},
+				{
+					"key": "Number built",
+					"value": "463"
+				},
+				{
+					"key": "Developed into",
+					"value": "General Electric CF6 General Electric LM2500"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ILA_2008_PD_083.JPG/800px-ILA_2008_PD_083.JPG",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/23-04-057-TF39.jpg/800px-23-04-057-TF39.jpg",
+						"desc": "TF-39 on display at the Museum of Aviation View looking into the fan showing snubbered blades on the inner half-stage and inlet guide vanes in the outer duct in front of the full stage."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Boeing_JB-52E_%28SN_57-0119%29_in_flight_061127-F-1234S-026.jpg/800px-Boeing_JB-52E_%28SN_57-0119%29_in_flight_061127-F-1234S-026.jpg",
+						"desc": "A Boeing B-52E (Serial Number 57-0119) testing a TF39 on the right inboard engine pod. The TF39 has more than double the thrust of the twin Pratt & Whitney J57s that were originally in that spot."
+					}
+				]
+			}
+		},
+		{
 			"name": "Rolls-Royce_Turbomeca_Adour",
 			"data": [
 				{
@@ -4671,6 +4671,62 @@
 			}
 		},
 		{
+			"name": "Rolls-Royce_Dart",
+			"data": [
+				{
+					"header": "History",
+					"text": "Designed in 1946 by a team led by Lionel Haworth, the Dart had a two-stage centrifugal compressor design derived from the earlier Rolls-Royce Clyde. The Dart was initially rated at 890 shp and first flew in October 1947 mounted to the nose of a converted Avro Lancaster. "
+				},
+				{
+					"header": "Variants",
+					"text": "As well as the RB.53 designation each mark of Dart engine was allocated a Ministry of Supply (MoS) \"RDa.n\" number as well as Mk.numbers."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboprop"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Rolls-Royce Limited"
+				},
+				{
+					"key": "First run",
+					"value": "1946"
+				},
+				{
+					"key": "Major applications",
+					"value": "Avro 748Breguet AlizéFokker F27Grumman Gulfstream IVickers Viscount"
+				},
+				{
+					"key": "Number built",
+					"value": "more than 7,100"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RRDart.JPG/800px-RRDart.JPG",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rolls-Royce_Dart_Fokker_F_27.jpg/800px-Rolls-Royce_Dart_Fokker_F_27.jpg",
+						"desc": "A Rolls-Royce Dart mounted on a Fokker F27 Friendship"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rolls-Royce_Dart.jpg/800px-Rolls-Royce_Dart.jpg",
+						"desc": "Rolls-Royce Darts on a Vickers Viscount"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/RR_Dart.jpg/800px-RR_Dart.jpg",
+						"desc": "Rolls Royce Dart Engine on Display at the Pima Air and Space Museum in Tucson, Arizona"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rolls_royce_dart_turboprop.jpg/800px-Rolls_royce_dart_turboprop.jpg",
+						"desc": "Rolls-Royce Dart Turboprop engine, cut-away display"
+					}
+				]
+			}
+		},
+		{
 			"name": "Rolls-Royce_Avon",
 			"data": [
 				{
@@ -4743,59 +4799,34 @@
 			}
 		},
 		{
-			"name": "Rolls-Royce_Dart",
+			"name": "Rolls-Royce_Gem",
 			"data": [
 				{
-					"header": "History",
-					"text": "Designed in 1946 by a team led by Lionel Haworth, the Dart had a two-stage centrifugal compressor design derived from the earlier Rolls-Royce Clyde. The Dart was initially rated at 890 shp and first flew in October 1947 mounted to the nose of a converted Avro Lancaster. "
-				},
-				{
-					"header": "Variants",
-					"text": "As well as the RB.53 designation each mark of Dart engine was allocated a Ministry of Supply (MoS) \"RDa.n\" number as well as Mk.numbers."
+					"header": "Design and development",
+					"text": "The Gem's three-shaft engine configuration is rather unusual for turboshaft/turboprop engines. Basic arrangement is a four-stage axial LP (Low Pressure) compressor, driven by a single stage LP turbine, supercharging a centrifugal HP (High Pressure) compressor, driven by a single stage HP turbine. Power is delivered to the load via a third shaft, connected to a two-stage free (power) turbine. A reverse flow combustor is featured."
 				}
 			],
 			"infobox": [
 				{
 					"key": "Type",
-					"value": "Turboprop"
+					"value": "Turboshaft"
+				},
+				{
+					"key": "National origin",
+					"value": "United Kingdom"
 				},
 				{
 					"key": "Manufacturer",
 					"value": "Rolls-Royce Limited"
 				},
 				{
-					"key": "First run",
-					"value": "1946"
-				},
-				{
 					"key": "Major applications",
-					"value": "Avro 748Breguet AlizéFokker F27Grumman Gulfstream IVickers Viscount"
-				},
-				{
-					"key": "Number built",
-					"value": "more than 7,100"
+					"value": "Westland Lynx"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RRDart.JPG/800px-RRDart.JPG",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rolls-Royce_Dart_Fokker_F_27.jpg/800px-Rolls-Royce_Dart_Fokker_F_27.jpg",
-						"desc": "A Rolls-Royce Dart mounted on a Fokker F27 Friendship"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rolls-Royce_Dart.jpg/800px-Rolls-Royce_Dart.jpg",
-						"desc": "Rolls-Royce Darts on a Vickers Viscount"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/RR_Dart.jpg/800px-RR_Dart.jpg",
-						"desc": "Rolls Royce Dart Engine on Display at the Pima Air and Space Museum in Tucson, Arizona"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rolls_royce_dart_turboprop.jpg/800px-Rolls_royce_dart_turboprop.jpg",
-						"desc": "Rolls-Royce Dart Turboprop engine, cut-away display"
-					}
-				]
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rolls_Royce_Gem_HMW.JPG/800px-Rolls_Royce_Gem_HMW.JPG",
+				"other": []
 			}
 		},
 		{
@@ -4850,11 +4881,15 @@
 			}
 		},
 		{
-			"name": "Rolls-Royce_Gem",
+			"name": "Rolls-Royce_Gnome",
 			"data": [
 				{
 					"header": "Design and development",
-					"text": "The Gem's three-shaft engine configuration is rather unusual for turboshaft/turboprop engines. Basic arrangement is a four-stage axial LP (Low Pressure) compressor, driven by a single stage LP turbine, supercharging a centrifugal HP (High Pressure) compressor, driven by a single stage HP turbine. Power is delivered to the load via a third shaft, connected to a two-stage free (power) turbine. A reverse flow combustor is featured."
+					"text": "A two-stage turbine drives the 10 stage all-axial compressor, whilst a single-stage free power turbine drives the load. The combustor is annular. The Gnome differed from the T-58 in having a British developed fuel control system (Lucas)."
+				},
+				{
+					"header": "Specifications (Gnome H1400-1)",
+					"text": "Data from Jane's All the World's Aircraft 1982-83"
 				}
 			],
 			"infobox": [
@@ -4863,20 +4898,24 @@
 					"value": "Turboshaft"
 				},
 				{
-					"key": "National origin",
-					"value": "United Kingdom"
+					"key": "Manufacturer",
+					"value": "de Havilland Engine Company  Bristol Siddeley  Rolls-Royce"
 				},
 				{
-					"key": "Manufacturer",
-					"value": "Rolls-Royce Limited"
+					"key": "First run",
+					"value": "5 June 1959"
 				},
 				{
 					"key": "Major applications",
-					"value": "Westland Lynx"
+					"value": "Westland Sea King Westland Wessex Westland Whirlwind"
+				},
+				{
+					"key": "Developed from",
+					"value": "General Electric T58"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rolls_Royce_Gem_HMW.JPG/800px-Rolls_Royce_Gem_HMW.JPG",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RRGnome.JPG/800px-RRGnome.JPG",
 				"other": []
 			}
 		},
@@ -4926,45 +4965,6 @@
 						"desc": "The M45SD-02 variable geometry fan engine at the New Mills Technology Centre."
 					}
 				]
-			}
-		},
-		{
-			"name": "Rolls-Royce_Gnome",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "A two-stage turbine drives the 10 stage all-axial compressor, whilst a single-stage free power turbine drives the load. The combustor is annular. The Gnome differed from the T-58 in having a British developed fuel control system (Lucas)."
-				},
-				{
-					"header": "Specifications (Gnome H1400-1)",
-					"text": "Data from Jane's All the World's Aircraft 1982-83"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turboshaft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "de Havilland Engine Company  Bristol Siddeley  Rolls-Royce"
-				},
-				{
-					"key": "First run",
-					"value": "5 June 1959"
-				},
-				{
-					"key": "Major applications",
-					"value": "Westland Sea King Westland Wessex Westland Whirlwind"
-				},
-				{
-					"key": "Developed from",
-					"value": "General Electric T58"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RRGnome.JPG/800px-RRGnome.JPG",
-				"other": []
 			}
 		},
 		{
@@ -5110,6 +5110,49 @@
 			}
 		},
 		{
+			"name": "Rolls-Royce_RB.108",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The RB.108 was the first direct-lift turbojet produced by Rolls-Royce. It originated from a VTOL concept in which Alan A. Griffith proposed using a small number of specialised lift engines in a VTOL aircraft, separate from the engines which provided forward propulsion. Its power output (thrust) was not high enough for use as a practical engine in a production aircraft and was used only for research into VTOL. It was constructed from conventional materials. (The next engine, the RB.162,[citation needed] would have a compressor built mainly from glass-fibre composite and have a higher T/W ratio.) The RB.108 bearings and oil system were designed to operate with an engine attitude envelope which covered engine and aircraft tilting while transitioning between hovering and forward flight. When a fifth engine was installed in the SC.1 to provide forward thrust it had to be mounted at about 45 degrees to remain within the envelope. The exhaust was directed horizontally with a curved jetpipe."
+				},
+				{
+					"header": "Operational history",
+					"text": "The RB.108 was used in the Short SC.1, which used four for lift with an additional one mounted at an angle at the rear for propulsion, and the Dassault Balzac V, which used eight vertically mounted RB.108s for lift. The Vereinigte Flugtechnische Werke (VFW) SG 1262 used five RB.108s, three mounted in tandem on the centreline, with one RB.108 either side."
+				},
+				{
+					"header": "Specifications (RB.108)",
+					"text": "Data from Aircraft engines of the World 1964/65."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbojet"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Rolls-Royce Limited"
+				},
+				{
+					"key": "First run",
+					"value": "1955"
+				},
+				{
+					"key": "Major applications",
+					"value": "Short SC.1"
+				},
+				{
+					"key": "Developed into",
+					"value": "Rolls-Royce RB145"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RollsRoyceRB108.JPG/800px-RollsRoyceRB108.JPG",
+				"other": []
+			}
+		},
+		{
 			"name": "Rolls-Royce_Olympus",
 			"data": [
 				{
@@ -5162,56 +5205,8 @@
 			}
 		},
 		{
-			"name": "Rolls-Royce_RB.108",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The RB.108 was the first direct-lift turbojet produced by Rolls-Royce. It originated from a VTOL concept in which Alan A. Griffith proposed using a small number of specialised lift engines in a VTOL aircraft, separate from the engines which provided forward propulsion. Its power output (thrust) was not high enough for use as a practical engine in a production aircraft and was used only for research into VTOL. It was constructed from conventional materials. (The next engine, the RB.162,[citation needed] would have a compressor built mainly from glass-fibre composite and have a higher T/W ratio.) The RB.108 bearings and oil system were designed to operate with an engine attitude envelope which covered engine and aircraft tilting while transitioning between hovering and forward flight. When a fifth engine was installed in the SC.1 to provide forward thrust it had to be mounted at about 45 degrees to remain within the envelope. The exhaust was directed horizontally with a curved jetpipe."
-				},
-				{
-					"header": "Operational history",
-					"text": "The RB.108 was used in the Short SC.1, which used four for lift with an additional one mounted at an angle at the rear for propulsion, and the Dassault Balzac V, which used eight vertically mounted RB.108s for lift. The Vereinigte Flugtechnische Werke (VFW) SG 1262 used five RB.108s, three mounted in tandem on the centreline, with one RB.108 either side."
-				},
-				{
-					"header": "Specifications (RB.108)",
-					"text": "Data from Aircraft engines of the World 1964/65."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbojet"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Rolls-Royce Limited"
-				},
-				{
-					"key": "First run",
-					"value": "1955"
-				},
-				{
-					"key": "Major applications",
-					"value": "Short SC.1"
-				},
-				{
-					"key": "Developed into",
-					"value": "Rolls-Royce RB145"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/RollsRoyceRB108.JPG/800px-RollsRoyceRB108.JPG",
-				"other": []
-			}
-		},
-		{
-			"name": "Rolls-Royce_Olympus_variants",
-			"data": [
-				{
-					"header": "Industrial power generation",
-					"text": "The Olympus entered service as a peak demand industrial power generator in 1962 when the Central Electricity Generating Board (CEGB) commissioned a single prototype installation at its Hams Hall power station. Power was provided by an Olympus 201 exhausting through a two-stage turbine powering a Brush synchronous alternator providing 20 MW at 3000 rpm. By 1972, the CEGB had installed 42 Olympus generating sets. Olympus engines are also used to provide backup power in case of a loss of grid electrical power at some of Britain's nuclear power stations."
-				}
-			],
+			"name": "Rolls-Royce_RB.145",
+			"data": [],
 			"infobox": [
 				{
 					"key": "Type",
@@ -5223,33 +5218,24 @@
 				},
 				{
 					"key": "Manufacturer",
-					"value": "Bristol Aero EnginesBristol Siddeley Engines LimitedRolls-Royce Bristol Engine Division"
+					"value": "Rolls-Royce Limited"
 				},
 				{
 					"key": "First run",
-					"value": "1950"
+					"value": "April 1961"
 				},
 				{
 					"key": "Major applications",
-					"value": "Avro Vulcan  BAC TSR-2"
+					"value": "EWR VJ 101"
+				},
+				{
+					"key": "Developed from",
+					"value": "Rolls-Royce RB108"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cosford-_Royal_Air_Force_Museum-_TSR2_combat_aircraft_prototype_%281664-5%29_3_%28geograph_5765838%29.jpg/800px-Cosford-_Royal_Air_Force_Museum-_TSR2_combat_aircraft_prototype_%281664-5%29_3_%28geograph_5765838%29.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rolls-Royce_Olympus_101_RRHT_Derby.jpg/800px-Rolls-Royce_Olympus_101_RRHT_Derby.jpg",
-						"desc": "Preserved Rolls-Royce Olympus Mk.101 on display at the Rolls-Royce Heritage Trust, Derby"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vulcan_B2_XJ784_at_Bagotville.jpg/800px-Vulcan_B2_XJ784_at_Bagotville.jpg",
-						"desc": "Avro Vulcan XJ784 at CFB Bagotville in 1978. It is powered by four Olympus Mk 301 engines, identified by their shorter and wider jet pipe nozzles.[16]"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BAC_TSR.2_XR220_%2827873805802%29.jpg/800px-BAC_TSR.2_XR220_%2827873805802%29.jpg",
-						"desc": "TSR-2 with Olympus Mk.320 engines on display at the Royal Air Force Museum Cosford"
-					}
-				]
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rolls-Royce_RB.145_RRHT_Derby.jpg/800px-Rolls-Royce_RB.145_RRHT_Derby.jpg",
+				"other": []
 			}
 		},
 		{
@@ -5325,8 +5311,13 @@
 			}
 		},
 		{
-			"name": "Rolls-Royce_RB.145",
-			"data": [],
+			"name": "Rolls-Royce_Olympus_variants",
+			"data": [
+				{
+					"header": "Industrial power generation",
+					"text": "The Olympus entered service as a peak demand industrial power generator in 1962 when the Central Electricity Generating Board (CEGB) commissioned a single prototype installation at its Hams Hall power station. Power was provided by an Olympus 201 exhausting through a two-stage turbine powering a Brush synchronous alternator providing 20 MW at 3000 rpm. By 1972, the CEGB had installed 42 Olympus generating sets. Olympus engines are also used to provide backup power in case of a loss of grid electrical power at some of Britain's nuclear power stations."
+				}
+			],
 			"infobox": [
 				{
 					"key": "Type",
@@ -5338,24 +5329,33 @@
 				},
 				{
 					"key": "Manufacturer",
-					"value": "Rolls-Royce Limited"
+					"value": "Bristol Aero EnginesBristol Siddeley Engines LimitedRolls-Royce Bristol Engine Division"
 				},
 				{
 					"key": "First run",
-					"value": "April 1961"
+					"value": "1950"
 				},
 				{
 					"key": "Major applications",
-					"value": "EWR VJ 101"
-				},
-				{
-					"key": "Developed from",
-					"value": "Rolls-Royce RB108"
+					"value": "Avro Vulcan  BAC TSR-2"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rolls-Royce_RB.145_RRHT_Derby.jpg/800px-Rolls-Royce_RB.145_RRHT_Derby.jpg",
-				"other": []
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cosford-_Royal_Air_Force_Museum-_TSR2_combat_aircraft_prototype_%281664-5%29_3_%28geograph_5765838%29.jpg/800px-Cosford-_Royal_Air_Force_Museum-_TSR2_combat_aircraft_prototype_%281664-5%29_3_%28geograph_5765838%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rolls-Royce_Olympus_101_RRHT_Derby.jpg/800px-Rolls-Royce_Olympus_101_RRHT_Derby.jpg",
+						"desc": "Preserved Rolls-Royce Olympus Mk.101 on display at the Rolls-Royce Heritage Trust, Derby"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vulcan_B2_XJ784_at_Bagotville.jpg/800px-Vulcan_B2_XJ784_at_Bagotville.jpg",
+						"desc": "Avro Vulcan XJ784 at CFB Bagotville in 1978. It is powered by four Olympus Mk 301 engines, identified by their shorter and wider jet pipe nozzles.[16]"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BAC_TSR.2_XR220_%2827873805802%29.jpg/800px-BAC_TSR.2_XR220_%2827873805802%29.jpg",
+						"desc": "TSR-2 with Olympus Mk.320 engines on display at the Royal Air Force Museum Cosford"
+					}
+				]
 			}
 		},
 		{
@@ -5689,6 +5689,37 @@
 			}
 		},
 		{
+			"name": "Rolls-Royce_RR500",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The RR500 is a larger derivative of the Rolls-Royce RR300 turboshaft, with the engine core scaled-up for increased power."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboprop/turboshaft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Rolls-Royce Corporation"
+				},
+				{
+					"key": "Developed from",
+					"value": "Rolls-Royce RR300"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RR500_HeliExpo2009.jpg/800px-RR500_HeliExpo2009.jpg",
+				"other": []
+			}
+		},
+		{
 			"name": "Rolls-Royce_AE_2100",
 			"data": [
 				{
@@ -5738,37 +5769,6 @@
 						"desc": "A side view of the AE 2100J engine without its casing, on display at Marine Corps Air Station Iwakuni in 2019"
 					}
 				]
-			}
-		},
-		{
-			"name": "Rolls-Royce_RR500",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The RR500 is a larger derivative of the Rolls-Royce RR300 turboshaft, with the engine core scaled-up for increased power."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turboprop/turboshaft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Rolls-Royce Corporation"
-				},
-				{
-					"key": "Developed from",
-					"value": "Rolls-Royce RR300"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/RR500_HeliExpo2009.jpg/800px-RR500_HeliExpo2009.jpg",
-				"other": []
 			}
 		},
 		{
@@ -6299,70 +6299,6 @@
 			}
 		},
 		{
-			"name": "Rolls-Royce_Trent_900",
-			"data": [
-				{
-					"header": "Design",
-					"text": "The Trent 900 is an axial flow, high bypass turbofan with the three coaxial shafts of the Rolls-Royce Trent family.The 2.95 m (116 in) fan with swept blades is driven by a 5-stage LP turbine, the 8-stage IP compressor and the 6-stage HP compressor are both powered by a single stage turbine, with the HP spool rotating in the opposite direction of the others.It has a single annular combustor and is controlled by an EEC.It is certified for thrusts between 334.29 and 374.09 kN (75,152 to 84,098 lbf)."
-				},
-				{
-					"header": "Upgrades",
-					"text": "The Trent 900 family of engines had their first set of upgrades marketed as the Trent 900EP; these were available for delivery from 2012. This package delivered a 1% saving on fuel burn compared to non EP engines. Rolls-Royce told Aviation Week and Space Technology that the upgrades were intended in most cases for both new engines and as retrofits. This upgrade is based on advancements made during the development of the Trent XWB for the Airbus A350 XWB and matches improvements made for the Trent 700 called the Trent 700EP. Block 1 includes elliptical leading edges in the compressor, smaller low-pressure turbine tip clearances, and new coating for the high-pressure compressor drum, as well as an upgrade to the engine control (FADEC) software."
-				},
-				{
-					"header": "Cost",
-					"text": "In 2000 Qantas were quoted a price of US$12.85 million per Trent 900. In 2015 Emirates Airlines signed a contract for 200 Trent 900s including long-term service support at a cost of US$9.2 billion or US$46 million per engine.In 2016 ANA bought engines for three new Airbus A380 aircraft for $300m: $25m per Trent 900.A new set of LLPs is worth $7 million and an overhaul costs slightly more."
-				},
-				{
-					"header": "Engines on display",
-					"text": "Trent 900s are on display at LeBourget Air Museum (Paris, France), Seville University (Seville, Spain), and the Málaga Aeronautical Museum (Málaga, Spain)."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turbofan"
-				},
-				{
-					"key": "National origin",
-					"value": "United Kingdom"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Rolls-Royce Holdings"
-				},
-				{
-					"key": "First run",
-					"value": "18 March 2003"
-				},
-				{
-					"key": "Major applications",
-					"value": "Airbus A380"
-				},
-				{
-					"key": "Developed from",
-					"value": "Trent 800"
-				},
-				{
-					"key": "Developed into",
-					"value": "Trent 1000"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Airbus_Lagard%C3%A8re_-_Trent_900_engine_MSN100_%286%29.JPG/800px-Airbus_Lagard%C3%A8re_-_Trent_900_engine_MSN100_%286%29.JPG",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rolls-Royce_Trent_900_AEDC-d0404084_USAF.jpg/800px-Rolls-Royce_Trent_900_AEDC-d0404084_USAF.jpg",
-						"desc": "A Trent 900 on test at the Arnold Engineering Development Complex"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/British_Airways_Airbus_A380-841_F-WWSK_PAS_2013_03_Trent_970_engine.jpg/800px-British_Airways_Airbus_A380-841_F-WWSK_PAS_2013_03_Trent_970_engine.jpg",
-						"desc": "Rolls-Royce Trent 970B-84 on a British Airways A380"
-					}
-				]
-			}
-		},
-		{
 			"name": "Rolls-Royce_Trent",
 			"data": [
 				{
@@ -6474,6 +6410,122 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Rolls-Royce_Trent_XWB_Fan%2C_ILA_2018.jpg/800px-Rolls-Royce_Trent_XWB_Fan%2C_ILA_2018.jpg",
 						"desc": "The 3.00 m (118 in) fan of the Trent XWB"
+					}
+				]
+			}
+		},
+		{
+			"name": "Rolls-Royce_Trent_900",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The Trent 900 is an axial flow, high bypass turbofan with the three coaxial shafts of the Rolls-Royce Trent family.The 2.95 m (116 in) fan with swept blades is driven by a 5-stage LP turbine, the 8-stage IP compressor and the 6-stage HP compressor are both powered by a single stage turbine, with the HP spool rotating in the opposite direction of the others.It has a single annular combustor and is controlled by an EEC.It is certified for thrusts between 334.29 and 374.09 kN (75,152 to 84,098 lbf)."
+				},
+				{
+					"header": "Upgrades",
+					"text": "The Trent 900 family of engines had their first set of upgrades marketed as the Trent 900EP; these were available for delivery from 2012. This package delivered a 1% saving on fuel burn compared to non EP engines. Rolls-Royce told Aviation Week and Space Technology that the upgrades were intended in most cases for both new engines and as retrofits. This upgrade is based on advancements made during the development of the Trent XWB for the Airbus A350 XWB and matches improvements made for the Trent 700 called the Trent 700EP. Block 1 includes elliptical leading edges in the compressor, smaller low-pressure turbine tip clearances, and new coating for the high-pressure compressor drum, as well as an upgrade to the engine control (FADEC) software."
+				},
+				{
+					"header": "Cost",
+					"text": "In 2000 Qantas were quoted a price of US$12.85 million per Trent 900. In 2015 Emirates Airlines signed a contract for 200 Trent 900s including long-term service support at a cost of US$9.2 billion or US$46 million per engine.In 2016 ANA bought engines for three new Airbus A380 aircraft for $300m: $25m per Trent 900.A new set of LLPs is worth $7 million and an overhaul costs slightly more."
+				},
+				{
+					"header": "Engines on display",
+					"text": "Trent 900s are on display at LeBourget Air Museum (Paris, France), Seville University (Seville, Spain), and the Málaga Aeronautical Museum (Málaga, Spain)."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turbofan"
+				},
+				{
+					"key": "National origin",
+					"value": "United Kingdom"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Rolls-Royce Holdings"
+				},
+				{
+					"key": "First run",
+					"value": "18 March 2003"
+				},
+				{
+					"key": "Major applications",
+					"value": "Airbus A380"
+				},
+				{
+					"key": "Developed from",
+					"value": "Trent 800"
+				},
+				{
+					"key": "Developed into",
+					"value": "Trent 1000"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Airbus_Lagard%C3%A8re_-_Trent_900_engine_MSN100_%286%29.JPG/800px-Airbus_Lagard%C3%A8re_-_Trent_900_engine_MSN100_%286%29.JPG",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rolls-Royce_Trent_900_AEDC-d0404084_USAF.jpg/800px-Rolls-Royce_Trent_900_AEDC-d0404084_USAF.jpg",
+						"desc": "A Trent 900 on test at the Arnold Engineering Development Complex"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/British_Airways_Airbus_A380-841_F-WWSK_PAS_2013_03_Trent_970_engine.jpg/800px-British_Airways_Airbus_A380-841_F-WWSK_PAS_2013_03_Trent_970_engine.jpg",
+						"desc": "Rolls-Royce Trent 970B-84 on a British Airways A380"
+					}
+				]
+			}
+		},
+		{
+			"name": "Rolls-Royce_Tyne",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Designed in 1954 by a team under Lionel Haworth and intended as a more powerful alternative to the Dart, the RB.109 Tyne was initially designed for a power of 2,500 shp but when first run in April 1955 the engine far exceeded expectations and was soon being type-tested at 4,220 shp. The Tyne was developed primarily for the four-engined Vickers Vanguard airliner, the prototype first flying on 20 January 1959 equipped with four Tyne Mk.506 of 4,985 e.s.h.p. Production deliveries of the engine were made from mid-1959 onwards to power the 43 Vanguards delivered to British European Airways and Trans-Canada Airlines."
+				},
+				{
+					"header": "Ships",
+					"text": "The marine version, the Rolls-Royce Tyne RM1A, RM1C and RM3C remained in service as the cruise gas turbines in Royal Navy Type 21 frigates, Type 42 destroyers and Type 22 frigates until the retirement of the 4 Batch 3 Type 22 frigates (2011) and the last remaining Type 42 Destroyer (2013). They were also used in numerous other European ships such as the Tromp and Kortenaer-class frigates."
+				},
+				{
+					"header": "Engines on display",
+					"text": "A Rolls-Royce Tyne is on public display at the Royal Air Force Museum Cosford.[citation needed]"
+				},
+				{
+					"header": "Specifications (Tyne RTy.20 Mk 21)",
+					"text": "Data from Jane's All the World's Aircraft 1962-63."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboprop"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Rolls-Royce Limited"
+				},
+				{
+					"key": "First run",
+					"value": "April 1955"
+				},
+				{
+					"key": "Major applications",
+					"value": "Breguet Atlantic  Canadair CL-44  Transall C-160  Vickers Vanguard"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Engine_of_a_Transall_C-160.jpg/800px-Engine_of_a_Transall_C-160.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RR_Tyne.jpg/800px-RR_Tyne.jpg",
+						"desc": "Rolls-Royce Tyne Mk.506 at RAF Museum Cosford"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rolls-Royce_Tyne_Avro_Lincoln_Farnborough_1956.jpg/800px-Rolls-Royce_Tyne_Avro_Lincoln_Farnborough_1956.jpg",
+						"desc": "Rolls-Royce Tyne testbed Avro Lincoln demonstrating at Farnborough 1956 on just the nose Tyne, the four Merlins being shut down"
 					}
 				]
 			}
@@ -6666,58 +6718,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/B787-2139.jpg/800px-B787-2139.jpg",
 						"desc": "Trent 1000 on a Boeing 787 prototype"
-					}
-				]
-			}
-		},
-		{
-			"name": "Rolls-Royce_Tyne",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Designed in 1954 by a team under Lionel Haworth and intended as a more powerful alternative to the Dart, the RB.109 Tyne was initially designed for a power of 2,500 shp but when first run in April 1955 the engine far exceeded expectations and was soon being type-tested at 4,220 shp. The Tyne was developed primarily for the four-engined Vickers Vanguard airliner, the prototype first flying on 20 January 1959 equipped with four Tyne Mk.506 of 4,985 e.s.h.p. Production deliveries of the engine were made from mid-1959 onwards to power the 43 Vanguards delivered to British European Airways and Trans-Canada Airlines."
-				},
-				{
-					"header": "Ships",
-					"text": "The marine version, the Rolls-Royce Tyne RM1A, RM1C and RM3C remained in service as the cruise gas turbines in Royal Navy Type 21 frigates, Type 42 destroyers and Type 22 frigates until the retirement of the 4 Batch 3 Type 22 frigates (2011) and the last remaining Type 42 Destroyer (2013). They were also used in numerous other European ships such as the Tromp and Kortenaer-class frigates."
-				},
-				{
-					"header": "Engines on display",
-					"text": "A Rolls-Royce Tyne is on public display at the Royal Air Force Museum Cosford.[citation needed]"
-				},
-				{
-					"header": "Specifications (Tyne RTy.20 Mk 21)",
-					"text": "Data from Jane's All the World's Aircraft 1962-63."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turboprop"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Rolls-Royce Limited"
-				},
-				{
-					"key": "First run",
-					"value": "April 1955"
-				},
-				{
-					"key": "Major applications",
-					"value": "Breguet Atlantic  Canadair CL-44  Transall C-160  Vickers Vanguard"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Engine_of_a_Transall_C-160.jpg/800px-Engine_of_a_Transall_C-160.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RR_Tyne.jpg/800px-RR_Tyne.jpg",
-						"desc": "Rolls-Royce Tyne Mk.506 at RAF Museum Cosford"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rolls-Royce_Tyne_Avro_Lincoln_Farnborough_1956.jpg/800px-Rolls-Royce_Tyne_Avro_Lincoln_Farnborough_1956.jpg",
-						"desc": "Rolls-Royce Tyne testbed Avro Lincoln demonstrating at Farnborough 1956 on just the nose Tyne, the four Merlins being shut down"
 					}
 				]
 			}
@@ -6923,6 +6923,50 @@
 			}
 		},
 		{
+			"name": "Lycoming_T53",
+			"data": [
+				{
+					"header": "Specifications (T53-L-701)",
+					"text": "Data from Flight International "
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboshaft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Lycoming Engines  Honeywell Aerospace  Ozark Aeroworks LLC"
+				},
+				{
+					"key": "First run",
+					"value": "~1955 "
+				},
+				{
+					"key": "Major applications",
+					"value": "AH-1 Cobra  Kaman K-MAX  OV-1 Mohawk  UH-1 Iroquois"
+				},
+				{
+					"key": "Developed into",
+					"value": "Lycoming T55"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Turboprop_T-53.jpg/800px-Turboprop_T-53.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lycoming_T53-L-1_Turboshaft_Engine.jpg/800px-Lycoming_T53-L-1_Turboshaft_Engine.jpg",
+						"desc": "Lycoming T53-L-1 turboshaft engine at Steven F. Udvar-Hazy Center in Virginia, USA"
+					}
+				]
+			}
+		},
+		{
 			"name": "Honeywell_Aerospace",
 			"data": [
 				{
@@ -7043,50 +7087,6 @@
 			}
 		},
 		{
-			"name": "Lycoming_T53",
-			"data": [
-				{
-					"header": "Specifications (T53-L-701)",
-					"text": "Data from Flight International "
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turboshaft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Lycoming Engines  Honeywell Aerospace  Ozark Aeroworks LLC"
-				},
-				{
-					"key": "First run",
-					"value": "~1955 "
-				},
-				{
-					"key": "Major applications",
-					"value": "AH-1 Cobra  Kaman K-MAX  OV-1 Mohawk  UH-1 Iroquois"
-				},
-				{
-					"key": "Developed into",
-					"value": "Lycoming T55"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Turboprop_T-53.jpg/800px-Turboprop_T-53.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lycoming_T53-L-1_Turboshaft_Engine.jpg/800px-Lycoming_T53-L-1_Turboshaft_Engine.jpg",
-						"desc": "Lycoming T53-L-1 turboshaft engine at Steven F. Udvar-Hazy Center in Virginia, USA"
-					}
-				]
-			}
-		},
-		{
 			"name": "Honeywell_T55",
 			"data": [],
 			"infobox": [
@@ -7125,6 +7125,49 @@
 			],
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Lycoming_T55-GA-712.jpg/800px-Lycoming_T55-GA-712.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "Garrett_TPF351",
+			"data": [
+				{
+					"header": "Design",
+					"text": "It was built on the 1,310 kW (1,760 hp) TPE331-14 which power the Jetstream 41, keeping its combustor system and high pressure turbine, already of the right size.The two-stage centrifugal compressor is scaled-up from the Garrett F109 turbofan of the Fairchild T-46 and Promavia Jet Squalus trainers.The engine ran about 60 °F (33 °C) hotter than the TPE331-14 in the core.It was Garrett's first free-turbine turboshaft, avoiding the high reduction gear of a single spool turboprop and allowing an easier starting since the gas generator is disengaged from the power turbine.The HP spool turns at 31,500 rpm while the LP spool turns at 19,444, reduced to 1,700 for the propeller: a 11.4 reduction ratio.Power can grow by 25% within the same size."
+				},
+				{
+					"header": "Specifications (TPF351-20)",
+					"text": "Data from Flight International, 28 November 1990 "
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Turboprop"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Garrett Engine Division of AlliedSignal Aerospace"
+				},
+				{
+					"key": "First run",
+					"value": "May 19, 1989"
+				},
+				{
+					"key": "Major applications",
+					"value": "Embraer/FMA CBA 123 Vector"
+				},
+				{
+					"key": "Developed from",
+					"value": "Garrett TPE331"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Garrett_TPF351.jpg/800px-Garrett_TPF351.jpg",
 				"other": []
 			}
 		},
@@ -7178,49 +7221,6 @@
 						"desc": "Cutaway view of a TPE-331"
 					}
 				]
-			}
-		},
-		{
-			"name": "Garrett_TPF351",
-			"data": [
-				{
-					"header": "Design",
-					"text": "It was built on the 1,310 kW (1,760 hp) TPE331-14 which power the Jetstream 41, keeping its combustor system and high pressure turbine, already of the right size.The two-stage centrifugal compressor is scaled-up from the Garrett F109 turbofan of the Fairchild T-46 and Promavia Jet Squalus trainers.The engine ran about 60 °F (33 °C) hotter than the TPE331-14 in the core.It was Garrett's first free-turbine turboshaft, avoiding the high reduction gear of a single spool turboprop and allowing an easier starting since the gas generator is disengaged from the power turbine.The HP spool turns at 31,500 rpm while the LP spool turns at 19,444, reduced to 1,700 for the propeller: a 11.4 reduction ratio.Power can grow by 25% within the same size."
-				},
-				{
-					"header": "Specifications (TPF351-20)",
-					"text": "Data from Flight International, 28 November 1990 "
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Turboprop"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Garrett Engine Division of AlliedSignal Aerospace"
-				},
-				{
-					"key": "First run",
-					"value": "May 19, 1989"
-				},
-				{
-					"key": "Major applications",
-					"value": "Embraer/FMA CBA 123 Vector"
-				},
-				{
-					"key": "Developed from",
-					"value": "Garrett TPE331"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Garrett_TPF351.jpg/800px-Garrett_TPF351.jpg",
-				"other": []
 			}
 		}
 	]

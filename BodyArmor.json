@@ -1,0 +1,349 @@
+{
+	"count": 5,
+	"data": [
+		{
+			"name": "Enhanced_Combat_Helmet_(United_States)",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The ECH's profile is very similar to the Advanced Combat Helmet (ACH) but is thicker; they can be differentiated from the ACH by the different chinstrap. The ECH helmet's shell is made of an ultra-high-molecular-weight polyethylene (UHMWPE) material. The helmet provides 35% better protection against small-arms fire and fragmentation than the ACH, and it protects against certain rifle projectiles. The helmet is of the \"tactical cut\" type and thus offers less coverage but does enable better mobility. The helmet is compatible with camouflage fabric helmet covers. The helmet has been shown nearly impenetrable to fragments fired by test guns. In a v50 test, guns were unable to attain the velocity required to get 50% of the fragments through a helmet. The helmet's design allows for the addition of devices such as communications and night-vision equipment."
+				},
+				{
+					"header": "Development",
+					"text": "In an effort led by the U.S. Army Research Laboratory (ARL), ECH development began in 2007 under the Army Manufacturing Technology (ManTech) Program. In July 2009, more than $8 million was awarded to four vendors for five helmet designs. Mine Safety Appliances was awarded $4.7 million, Gentex Corporation was awarded $1.8 million, BAE Systems Aerospace & Defense Group was awarded $764,000, and 3M subsidiary Ceradyne was awarded $729,000. Testing in September revealed that each helmet failed in ballistic and/or blunt force tests. In February 2010, the Navy joined the program and issued their own requirements. Marine Corps officials suggested design improvements such as better materials to industry and testing resumed in June 2010. Three vendors were to be downselected, and the remaining two would be tested in November. If the program proceeded as planned the Army would acquire 200,000, the Marine Corps would acquire 38,500, and the Navy would acquire 6,700."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Combat helmet"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2012–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Users"
+				},
+				{
+					"key": "Designed",
+					"value": "2007"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Ceradyne and Gentex"
+				},
+				{
+					"key": "Produced",
+					"value": "March 2012 – present"
+				},
+				{
+					"key": "Mass",
+					"value": "3.3 lb/1.5kg"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ECH_high_cut_2.png/800px-ECH_high_cut_2.png",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PEO_Soldier_Enhanced_Combat_Helmet_profile.jpg/800px-PEO_Soldier_Enhanced_Combat_Helmet_profile.jpg",
+						"desc": "An early ECH prototype; the production model uses a slightly different chinstrap."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg/800px-180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg",
+						"desc": "U.S. Marine wearing an ECH in 2018"
+					}
+				]
+			}
+		},
+		{
+			"name": "Integrated_Head_Protection_System",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The IHPS, combined with Military Combat Eye Protection (MCEP), completes the head protection portion of the Soldier Protection System. The IHPS is claimed to be 5% lighter than previous helmets, while offering improved blunt force impact, passive hearing and ballistic protection. An optional 2 lb/.9 kg applique armor plate is available for further improved ballistic protection."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Combat helmet"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2019–present"
+				},
+				{
+					"key": "Used by",
+					"value": "U.S. Army"
+				},
+				{
+					"key": "Wars",
+					"value": "Global War on TerrorismWar in AfghanistanOperation Resolute SupportOperation Inherent Resolve"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Avon Protection | Ceradyne 3M"
+				},
+				{
+					"key": "Produced",
+					"value": "2019–present"
+				},
+				{
+					"key": "Weight",
+					"value": "Size Medium: approx. 3 lbs/1.36 kg"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IHPS_helmet.jpg/800px-IHPS_helmet.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/U.S._Troops_observe_protests_in_Green_Zone.jpg/800px-U.S._Troops_observe_protests_in_Green_Zone.jpg",
+						"desc": "U.S. Army's 25th Infantry Division soldiers wearing the IHPS during the 2019–20 attack on the U.S. embassy in Baghdad."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2000x1333_q95_%282%29.jpg/800px-2000x1333_q95_%282%29.jpg",
+						"desc": "A U.S. Army paratrooper of the 82nd Airborne Division deployed in Afghanistan in 2019 wearing the IHPS with a communications headset."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IHPS_boltless.jpg/800px-IHPS_boltless.jpg",
+						"desc": "The boltless chinstrap attachment on the IHPS helmet."
+					}
+				]
+			}
+		},
+		{
+			"name": "Advanced_Combat_Helmet",
+			"data": [
+				{
+					"header": "2000s",
+					"text": "The Advanced Combat Helmet was first fielded beginning in 2003[N 1] in limited numbers to eventually replace the PASGT helmet. In 2006, 102,000 helmets were ordered from ArmorSource, of which 99,000 were delivered when the contract was fulfilled and properly closed. In 2007, the Army introduced a ballistic \"nape pad\" that attaches to the ACH's rear suspension system. Of these, 430,000 were to be issued in the Rapid Fielding Initiative (RFI). Beginning in 2008, the Army's Program Executive Office Soldier outfitted soldiers of the 101st Airborne Division and 4th Infantry Division bound for Iraq with helmet-mounted sensors designed to gather data on head injuries (or traumatic brain injuries) caused during IED detonations. The data collected will help with the design of improvements to the ACH's suspension and chin strap systems. In May 2009, 55,000 of these were in storage and 44,000 were in use by U.S. Army, Navy, and Air Force personnel. The 44,000 helmets in use by service members were recalled by the U.S. Army in May 2010 due to potentially defective materials being used. No proof of defective materials was ever established nor evidence of any wrongdoing by the contractor.[citation needed]"
+				},
+				{
+					"header": "2010s",
+					"text": "On March 7, 2016, Armorsource LLC agreed to pay $3 million to settle False Claims Act allegations. Revision was awarded a contract for the ACH II contract. The ACH and Lightweight Helmets will eventually be replaced by the Enhanced Combat Helmet and Integrated Head Protection System."
+				},
+				{
+					"header": "Design",
+					"text": "The shape of the ACH is virtually identical to the MICH TC-2000. Compared to the PASGT helmet, the front brow is eliminated to improve upwards visibility and allow easier mounting of night-vision goggle brackets. The side brim has been raised to the point that the entire lower brim of the helmet is \"flat\" compared to the PASGT which curves upwards at the back. This is to allow greater compatibility with communications headsets and improve hearing when headsets are not used."
+				},
+				{
+					"header": "Lightweight Advanced Combat Helmet",
+					"text": "The Lightweight Advanced Combat Helmet Generation II (LW-ACH Gen II) weighs one pound less than the original ACH while offering the same ballistic protection. This is being used for the basis of the Lightweight Helmet."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Combat helmet"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States of America"
+				},
+				{
+					"key": "In service",
+					"value": "2003-present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Users"
+				},
+				{
+					"key": "Wars",
+					"value": "In U.S service:Global War on TerrorismWar in Afghanistan (2001–2021)Iraq WarAmerican-led intervention in the Syrian civil war In non-US service:Mexican drug war"
+				},
+				{
+					"key": "Designer",
+					"value": "U.S. Army Soldier Systems Center"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "ArmorSource GentexMKU"
+				},
+				{
+					"key": "Variants",
+					"value": "Generation II Lightweight Advanced Combat Helmet"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/ACH_side_view.jpg/800px-ACH_side_view.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ACH_005.jpg/800px-ACH_005.jpg",
+						"desc": "A soldier wearing the ACH in UCP pattern."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/MultiCam_ACU.jpg/800px-MultiCam_ACU.jpg",
+						"desc": "A 4th Infantry Division soldier wearing an ACH helmet in the OCP pattern."
+					}
+				]
+			}
+		},
+		{
+			"name": "Modular_Integrated_Communications_Helmet",
+			"data": [
+				{
+					"header": "History",
+					"text": "The MICH was originally part of a series of combat helmets designed for the U.S. Army Special Operations Command as a replacement for the PASGT helmet and the various non-ballistic skateboard, bicycle, and whitewater \"bump\" helmets solely within those units. Development was done from 1997 before it was released in January 2001 by the United States Army Soldier Systems Center."
+				},
+				{
+					"header": "MICH TC-2000",
+					"text": "The baseline \"full cut\" helmet, which has a four-point chin strap and seven pads worn inside."
+				},
+				{
+					"header": "MICH TC-2001",
+					"text": "The second cut known as \"high cut\", which removes all ear protection allowing for more headset options at the cost of all side protection."
+				},
+				{
+					"header": "MICH TC-2002",
+					"text": "The third cut known \"gunfighter cut\", which raises the area around the ears by about 1/2\", allowing for a wider range of headsets to be used and roughly meeting the profile of the skateboard and whitewater helmets previously used by special forces."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Combat helmet"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States of America"
+				},
+				{
+					"key": "In service",
+					"value": "January 2001 – present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Users"
+				},
+				{
+					"key": "Wars",
+					"value": "In US service: Global war on terrorismWar in AfghanistanIraq warAmerican-led intervention in the Syrian civil warIn non-US service:  Syrian civil war spillover in Lebanon Russian invasion of Ukraine"
+				},
+				{
+					"key": "Designer",
+					"value": "United States Army Soldier Systems Center"
+				},
+				{
+					"key": "Designed",
+					"value": "1997"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Made by numerous manufacturers like MSA Gallet and Gentex"
+				},
+				{
+					"key": "Produced",
+					"value": "January 2001 – present"
+				},
+				{
+					"key": "Variants",
+					"value": "See Variants"
+				},
+				{
+					"key": "Weight",
+					"value": "1.36 kg (3.0 lb) to 1.63 kg (3.6 lb), depending on size"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ain%27t_no_sunshine_when_he%27s_gone_170207-M-HF454-121.jpg/800px-Ain%27t_no_sunshine_when_he%27s_gone_170207-M-HF454-121.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/U.S._Marine_SOF_prepare_for_role_in_Combined_Resolve_II_%2814041849310%29.jpg/800px-U.S._Marine_SOF_prepare_for_role_in_Combined_Resolve_II_%2814041849310%29.jpg",
+						"desc": "A U.S. Marine CSO practices firing his MK18 at the Grafenwoehr Training Area's shooting range."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/MRF_conducts_maritime_interoperability_training_150113-M-SV584-241.jpg/800px-MRF_conducts_maritime_interoperability_training_150113-M-SV584-241.jpg",
+						"desc": "U.S. Marines with the 15th Marine Expeditionary Unit's Maritime Raid Force practice maritime interoperability training."
+					}
+				]
+			}
+		},
+		{
+			"name": "Future_Assault_Shell_Technology_helmet",
+			"data": [
+				{
+					"header": "History",
+					"text": "It was developed by the U.S. Army Research Laboratory in collaboration with the U.S. Army Natick Soldier Research, Development and Engineering Center and the Program Executive Office (PEO) Soldier as part of the Army Manufacturing Technology (ManTech) Program, which also led to the development of the Enhanced Combat Helmet (ECH)."
+				},
+				{
+					"header": "Development",
+					"text": "Compared to standard combat helmets, the FAST helmet offers up to 25% weight reduction and is notable for its early use of ultra-high-molecular-weight polyethylene fibers (UHMWPE) in its design. It was also designed to allow outside features such as wearing communications headsets which can be attached with rail adapters."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Combat helmet"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2009–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Users"
+				},
+				{
+					"key": "Wars",
+					"value": "Global War on Terrorism War in Afghanistan Iraq War War on Drugs Syrian Civil War  Kurdish-Turkish War Second Libyan Civil War Russo-Ukrainian War"
+				},
+				{
+					"key": "Designer",
+					"value": "U.S. Army Research Laboratory in collaboration with the U.S. Army Natick Soldier Research, Development and Engineering Center and the Program Executive Office (PEO) Soldier"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Ops-Core (a part of Gentex)"
+				},
+				{
+					"key": "Unit cost",
+					"value": "$1,690 (2019)"
+				},
+				{
+					"key": "Produced",
+					"value": "2007 – present"
+				},
+				{
+					"key": "Variants",
+					"value": "ballistic:FAST SentryFAST XPFAST Maritime (MT)FAST SFFAST RF1FAST XRnon-ballistic:FAST Bump (Base Jump)FAST CarbonFAST SF Carbon Composite"
+				},
+				{
+					"key": "Weight",
+					"value": "667–1592 g (1.47–3.51 lbs), depending on size and model"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ops-Core_FAST_helmet.jpg/800px-Ops-Core_FAST_helmet.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/District_governor_visits_a_local_school_130415-M-BO337-031.jpg/800px-District_governor_visits_a_local_school_130415-M-BO337-031.jpg",
+						"desc": "U.S. Marine Raider wearing a FAST Maritime helmet."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/256%281%29.KSO.jpg/800px-256%281%29.KSO.jpg",
+						"desc": "Russian SSO operator wearing a LShZ 1+ helmet."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GDF_DH_MKIII_%282%29.jpg/800px-GDF_DH_MKIII_%282%29.jpg",
+						"desc": "GSOF operator wearing the Georgian DH MK-III."
+					}
+				]
+			}
+		}
+	]
+}

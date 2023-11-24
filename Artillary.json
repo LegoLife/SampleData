@@ -1,0 +1,2415 @@
+{
+	"count": 16,
+	"data": [
+		{
+			"name": "Cardom",
+			"data": [
+				{
+					"header": "Overview",
+					"text": "The system uses a new Computerized Integrated Navigation and Self Positioning and Aiming systems. Its modern Target Acquisition Devices together with a specially designed Recoiling Mortar System, attenuates the firing loads and enables mounting the systems on wheeled and tracked AFV's, or even soft-skinned vehicles such as trucks. The CARDOM Aiming mechanisms are linked to state-of-the-art command, control and communication systems, to achieve quick response automatic laying mode. The IDF delivered Cardom system takes target acquisition data, that provides range, bearing, position and other data from an observation point and transmits it directly to the Cardom system. Using electrical servo motors the mortar barrel is then set at the exact traverse and elevation angles ready for firing."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Recoil mortar system"
+				},
+				{
+					"key": "In service",
+					"value": "2003-present"
+				},
+				{
+					"key": "Used by",
+					"value": "US army, IDF, NATO forces and more"
+				},
+				{
+					"key": "Wars",
+					"value": "List of Conflicts War in Afghanistan (2001–2021)  Iraq War Syrian civil war 2020 Nagorno-Karabakh conflict"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Soltam Systems"
+				},
+				{
+					"key": "Caliber",
+					"value": "81 mm or 120 mm"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "16 rounds per min, 4 rpm sustained"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stryker_fie_120.jpg/800px-Stryker_fie_120.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Keshet-120-mortar001.jpg/800px-Keshet-120-mortar001.jpg",
+						"desc": "IDF \"Keshet\" 120mm mortar."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Illuminationflare.jpg/800px-Illuminationflare.jpg",
+						"desc": "Cardom on a US  M1129 Mortar Carrier in operation in Iraq"
+					}
+				]
+			}
+		},
+		{
+			"name": "M119_howitzer",
+			"data": [],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Towed field gun"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "Used by",
+					"value": "United States Army, Saudi Arabian Army, Ukraine"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Joint Manufacturing Technology Center of Rock Island Arsenal"
+				},
+				{
+					"key": "Produced",
+					"value": "1989–2013"
+				},
+				{
+					"key": "Variants",
+					"value": "M119, M119A1, M119A2, M119A3"
+				},
+				{
+					"key": "Mass",
+					"value": "With BII: 5,110 lb (2,320 kg)Without BII: 4,690 lb (2,130 kg)Cannon alone: 1,389 lb (630 kg)Combat: 4,268 lb (1,936 kg)"
+				},
+				{
+					"key": "Barrel length",
+					"value": "10 ft 6 in (3.20 m) L/30.48"
+				},
+				{
+					"key": "Width",
+					"value": "5 ft 10 in (1.78 m)"
+				},
+				{
+					"key": "Height",
+					"value": "Combat: 7 ft 3 in (2.21 m)Travel: 4 ft 6 in (1.37 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "5 to 7"
+				},
+				{
+					"key": "Shell",
+					"value": "Semi-fixed 105 x 372 mm R"
+				},
+				{
+					"key": "Caliber",
+					"value": "105 mm (4.13 in)"
+				},
+				{
+					"key": "Elevation",
+					"value": "-5.625° (−100 mils) to +69.975° (+1,244 mils)"
+				},
+				{
+					"key": "Traverse",
+					"value": "5.625° (100 mils) left or right"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "Maximum: 8 rpm for 3 minutesSustained: 3 rpm for 30 minutes"
+				},
+				{
+					"key": "Maximum firing range",
+					"value": "Charge 7: 17,500 m (10.9 mi)Charge 8 (with RAP): 19,500 m (12.1 mi)"
+				},
+				{
+					"key": "Sights",
+					"value": "3 × M90A2 telescope, M137A1 panoramic telescope"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/M119a_trimmed.jpg/800px-M119a_trimmed.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/US_M119_Howitzer.jpg/800px-US_M119_Howitzer.jpg",
+						"desc": "M119 Howitzer as part of a training exercise conducted near Kandahar Airfield, Afghanistan, September 17, 2004"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/M119_slingloaded_by_UH-60.jpg/800px-M119_slingloaded_by_UH-60.jpg",
+						"desc": "M119 slingloaded by UH-60 Blackhawk"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Firing_a_105mm_shell_from_a_howitzer.jpg/800px-Firing_a_105mm_shell_from_a_howitzer.jpg",
+						"desc": "105mm howitzer being fired by A Battery, 2-218th Field Artillery of Oregon"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Operation_Fulton_Harvest_DVIDS73045.jpg/800px-Operation_Fulton_Harvest_DVIDS73045.jpg",
+						"desc": "M119 ammo in the Iraq War (M1 projectiles with point detonating and variable time fuzes)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/M119A1-howitzer-afghanistan-20041023.jpg/800px-M119A1-howitzer-afghanistan-20041023.jpg",
+						"desc": "Soldiers with the 3rd Battalion, 7th Field Artillery Regiment, 25th Infantry Division (Light) position an M119A1 howitzer near Forward Operating Base Cobra, Afghanistan, 23 October 2004."
+					}
+				]
+			}
+		},
+		{
+			"name": "M224_mortar",
+			"data": [
+				{
+					"header": "Description",
+					"text": "The M224 system is composed of these parts:"
+				},
+				{
+					"header": "History",
+					"text": "The M224 LWCMS (Lightweight Company Mortar System) replaced the older (WWII-era) 60 mm M2 mortar and the inaccurate M19 Mortar and began fielding as prototypes in the mid-1970s during the Vietnam War. The M2s and M19s had an effective range of only 2,000 m (2,187 yd). While the M224s were designed to fire all types of the older ammunition, their primary rounds are of the newer, longer-range type that range out to 3,489 m (3,816 yd)."
+				},
+				{
+					"header": "Ammunition",
+					"text": "The M224 Mortar can fire the following principal classifications of training and service ammunition:"
+				},
+				{
+					"header": "Fuzes",
+					"text": "The M224 rounds have three fuze types: The Multioption Fuze (M734), the Point-Detonating Fuze (M525), and Timer fuze. The M734 is used for the M720 HE round and can be set to function as proximity burst, near-surface burst, impact burst, or delay burst."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mortar"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1978–present"
+				},
+				{
+					"key": "Used by",
+					"value": "United StatesIraqUkraine"
+				},
+				{
+					"key": "Wars",
+					"value": "Vietnam War (prototype model)Gulf WarWar in AfghanistanIraq WarWar in IraqRusso-Ukrainian War"
+				},
+				{
+					"key": "Unit cost",
+					"value": "$10,658"
+				},
+				{
+					"key": "Variants",
+					"value": "M224M224A1"
+				},
+				{
+					"key": "Mass",
+					"value": "21.1 kilograms (47 lb)"
+				},
+				{
+					"key": "Barrel length",
+					"value": "1 meter (3.3 feet)"
+				},
+				{
+					"key": "Crew",
+					"value": "3"
+				},
+				{
+					"key": "Caliber",
+					"value": "60 mm (2.4 in)"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "up to 20 rpm sustained, 30 rpm in exceptional circumstances and for short periods"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "HE: 70–3,490 m(76–3,816 yds)"
+				},
+				{
+					"key": "Feed system",
+					"value": "manual"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/60mm_mortar_round_being_launch_%28crop%29.jpg/800px-60mm_mortar_round_being_launch_%28crop%29.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "M120_120_mm_mortar",
+			"data": [
+				{
+					"header": "Design overview",
+					"text": "The K6 fires fin-stabilized ammunition from a smoothbore barrel. Unlike its smaller ammunition cousins, the 81 mm and 60 mm mortars, the fin blades of the ammunition fired from the M120 are not canted. Thus, no spin is imparted to the projectile in flight. Although heavy mortars require trucks or tracked mortar carriers to move them, they are still much lighter than field artillery pieces. They outrange light and medium mortars, and their explosive power is much greater. An improved version is known as the K6A3."
+				},
+				{
+					"header": "Components",
+					"text": "The M120 mortar system consists of the following major components:"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mortar"
+				},
+				{
+					"key": "Place of origin",
+					"value": "Israel"
+				},
+				{
+					"key": "Used by",
+					"value": "See below"
+				},
+				{
+					"key": "Mass",
+					"value": "144.7 kg (319 lb)"
+				},
+				{
+					"key": "Crew",
+					"value": "5"
+				},
+				{
+					"key": "Caliber",
+					"value": "120 millimetres (4.7 in)"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "16 RPM max, 4 RPM sustained"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "7,240 metres (7,920 yd)"
+				},
+				{
+					"key": "Feed system",
+					"value": "manual"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/160808-F-VH066-018.jpg/800px-160808-F-VH066-018.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mortar_of_2nd_Armored_Cavalry_Regiment%2C_Stabilization_Force%2C_Bosnia_and_Herzegovina.jpg/800px-Mortar_of_2nd_Armored_Cavalry_Regiment%2C_Stabilization_Force%2C_Bosnia_and_Herzegovina.jpg",
+						"desc": ""
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/40th_Cavalry_Regiment_soldier_loads_120_mm_mortar_round_120208-A-ZU930-014.jpg/800px-40th_Cavalry_Regiment_soldier_loads_120_mm_mortar_round_120208-A-ZU930-014.jpg",
+						"desc": "M934A1 high explosive round with propellant rings"
+					}
+				]
+			}
+		},
+		{
+			"name": "M252_mortar",
+			"data": [
+				{
+					"header": "History",
+					"text": "The M252 is an adaptation of the British 81mm L16A2 mortar developed in the 1950s. It entered service with the U.S. Army and replaced the previous 81 mm M29 mortar in 1987. It was adopted due to the extended range (from 4,500 meters to 5,650 meters) and enhanced lethality. In the U.S. it is produced by Watervliet Arsenal."
+				},
+				{
+					"header": "Crew",
+					"text": "A crew of five enlisted personnel operate the M252: the squad leader, the gunner, the assistant gunner, the first ammunition bearer, and the second ammunition bearer."
+				},
+				{
+					"header": "Fuzes",
+					"text": "The M224 rounds have two fuze types: the Multi-option Fuze (M734) and the Point-Detonating Fuze (M935). The M734 is used for the M720 HE round and can be set to function as proximity burst, near-surface burst, impact burst, or delay burst."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mortar"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United Kingdom (designed)United States (manufactured)"
+				},
+				{
+					"key": "In service",
+					"value": "1987–present (United States)"
+				},
+				{
+					"key": "Used by",
+					"value": "See Operators"
+				},
+				{
+					"key": "Wars",
+					"value": "Vietnam War (prototype model)Soviet–Afghan WarGulf WarWar in AfghanistanIraq WarSyrian Civil War"
+				},
+				{
+					"key": "Mass",
+					"value": "41.3 kilograms (91 lb)"
+				},
+				{
+					"key": "Length",
+					"value": "50 in (127 cm)"
+				},
+				{
+					"key": "Barrel length",
+					"value": "1.27 metres (4 ft 2 in)"
+				},
+				{
+					"key": "Crew",
+					"value": "5"
+				},
+				{
+					"key": "Caliber",
+					"value": "81 millimetres (3.2 in)"
+				},
+				{
+					"key": "Elevation",
+					"value": "45°–85.2°"
+				},
+				{
+					"key": "Traverse",
+					"value": "5.6°"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "8–16 rpm sustained20–30 rpm in exceptional circumstances and for short periods"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "HE: 91–5,935 m(99–6,490.6 yd)"
+				},
+				{
+					"key": "Feed system",
+					"value": "muzzle-loaded"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/USMC-090504-M-1012C-001.jpg/800px-USMC-090504-M-1012C-001.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/151024-M-CJ278-001_%2822698262229%29.jpg/800px-151024-M-CJ278-001_%2822698262229%29.jpg",
+						"desc": "Mortar team carrying (L-R) the mount, the baseplate and sight, and the cannon for an M252A2 system"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/US_Marines_get_hands_on_with_new_mortar_system_151024-M-CJ278-002.jpg/800px-US_Marines_get_hands_on_with_new_mortar_system_151024-M-CJ278-002.jpg",
+						"desc": "Lighter, M252A2 version"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/USMC-110818-M-KU932-174.jpg/800px-USMC-110818-M-KU932-174.jpg",
+						"desc": "Round with the standard four C-charges"
+					}
+				]
+			}
+		},
+		{
+			"name": "M992_Field_Artillery_Ammunition_Supply_Vehicle",
+			"data": [
+				{
+					"header": "External links",
+					"text": " Media related to M992 Field Artillery Ammunition Support Vehicle at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Ammunition resupply vehicle"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1982–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See users"
+				},
+				{
+					"key": "Designer",
+					"value": "BMY Combat Systems"
+				},
+				{
+					"key": "Designed",
+					"value": "1979–1982"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "BAE Systems Inc."
+				},
+				{
+					"key": "Variants",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}M992M992A1M992A2M992A3M1050"
+				},
+				{
+					"key": "Mass",
+					"value": "28.8 short tons (26.1 t)"
+				},
+				{
+					"key": "Length",
+					"value": "21 ft 8 in (6.6 m)"
+				},
+				{
+					"key": "Width",
+					"value": "10 ft 4 in (3.15 m)"
+				},
+				{
+					"key": "Height",
+					"value": "10 ft 9 in (3.28 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "4"
+				},
+				{
+					"key": "Armor",
+					"value": "5083 aluminium alloy"
+				},
+				{
+					"key": "Mainarmament",
+					"value": ".50 BMG (12.7 mm) M2 HB MG"
+				},
+				{
+					"key": "Engine",
+					"value": "Detroit Diesel 8V-71T LHR, 9.3 litre, 8 cylinder, turbocharged, 2 stroke diesel440 hp (330 kW) at 2,350 rpm"
+				},
+				{
+					"key": "Payload capacity",
+					"value": "95 x 155 mm projectiles, charges and fuzes"
+				},
+				{
+					"key": "Drive",
+					"value": "Tracked"
+				},
+				{
+					"key": "Transmission",
+					"value": "Allison Transmission XTG-411-4 crossdrive, 4 forward, 2 reverse"
+				},
+				{
+					"key": "Suspension",
+					"value": "Torsion bar"
+				},
+				{
+					"key": "Fuel capacity",
+					"value": "135 US gal (511 L)"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "220 mi (354 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "40 mph (64 km/h)"
+				},
+				{
+					"key": "References",
+					"value": "Janes"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/M992A2_FAASV.jpg/800px-M992A2_FAASV.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Loader_M-992.jpg/800px-Loader_M-992.jpg",
+						"desc": "Inside the M992 as viewed from the rear as well as its loader"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/M109A7_-_200916-A-BT735-939.jpg/800px-M109A7_-_200916-A-BT735-939.jpg",
+						"desc": "M992A3 Field Artillery Ammunition Support Vehicle"
+					}
+				]
+			}
+		},
+		{
+			"name": "M777_howitzer",
+			"data": [
+				{
+					"header": "Brazil",
+					"text": "In 2010, the Brazilian Navy evaluated the 155 mm M777 as a candidate to replace the six 155 mm M114A1 howitzers of the Marine Corps branch. The successor to the M114 has not yet been chosen.[citation needed]"
+				},
+				{
+					"header": "Ukraine",
+					"text": "In April 2022, during the 2022 Russian invasion of Ukraine in the Russo-Ukraine War, the United States provided 108, Canada 4, and Australia 6 M777 howitzers with ammunition to the Ukrainian armed forces, to repel Russia. Canada promised 10 barrels to replace any worn out during firing. Usually a modern artillery system, like the M777, must have the barrel replaced after firing up to 2,500 rounds."
+				},
+				{
+					"header": "United States",
+					"text": "The M777 succeeded the M198 howitzer in the United States Marine Corps and United States Army in 2005. In 2014 the US military began fielding several upgrades to its M777 howitzers including new liquid crystal display units, software updates, improved power systems, and muzzle sensors for onboard ballistic computing. Future upgrades include a touchscreen Chief Section Display, a new Mission System Computer, and a digital radio."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Towed howitzer"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United Kingdom"
+				},
+				{
+					"key": "In service",
+					"value": "2005–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Operators"
+				},
+				{
+					"key": "Wars",
+					"value": "War in Afghanistan (2001-2021)Iraqi conflictIraq WarWar in Iraq (2013–17)Syrian civil warYemeni Civil War (2014-present)Saudi Arabian-led intervention in YemenRusso-Ukrainian WarRussian invasion of Ukraine"
+				},
+				{
+					"key": "Designer",
+					"value": "Vickers Shipbuilding and Engineering"
+				},
+				{
+					"key": "Designed",
+					"value": "1987–2003"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "BAE Systems"
+				},
+				{
+					"key": "Produced",
+					"value": "1987–present"
+				},
+				{
+					"key": "Mass",
+					"value": "4,200 kg (9,300 lb)"
+				},
+				{
+					"key": "Length",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Combat: 10.7 m (35 ft)Travel: 9.5 m (31 ft)"
+				},
+				{
+					"key": "Barrel length",
+					"value": "5.08 m (16.7 ft) L/39"
+				},
+				{
+					"key": "Crew",
+					"value": "7+1"
+				},
+				{
+					"key": "Shell",
+					"value": "M107, M549, M712 Copperhead, M795, ERFB, M982"
+				},
+				{
+					"key": "Caliber",
+					"value": "155 mm (6.1 in)"
+				},
+				{
+					"key": "Carriage",
+					"value": "Split trail"
+				},
+				{
+					"key": "Elevation",
+					"value": "0° to +71.7°"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "Normal: 2 rpmMaximum: 4 rpm"
+				},
+				{
+					"key": "Muzzle velocity",
+					"value": "Charge 8S: 827 m/s (2,710 ft/s)"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "M107: 21 km (13 mi)M795: 23.5 km (14.6 mi)ERFB: M795E1 30 km (19 mi) base bleedExcalibur: 40 km (25 mi)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/M777_howitzer_rear.jpg/800px-M777_howitzer_rear.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/M777_Light_Towed_Howitzer_1.jpg/800px-M777_Light_Towed_Howitzer_1.jpg",
+						"desc": "M777 Light Towed Howitzer in service with the 10th Mountain Division in support of Operation Enduring Freedom, Logar Province, Charkh District, Afghanistan"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/XM982_Excalibur_inert_%28cropped%29.jpg/800px-XM982_Excalibur_inert_%28cropped%29.jpg",
+						"desc": "XM982 Excalibur GPS-guided munition (inert)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/XM1113_in_flight.jpg/800px-XM1113_in_flight.jpg",
+						"desc": "XM1113 extended range artillery round, shown here at a range demonstration, uses a rocket-assist motor."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Rocket-Assisted-Projectile-Ammunition.jpg/800px-Rocket-Assisted-Projectile-Ammunition.jpg",
+						"desc": "Colour-coded section view of an XM1113 rocket assisted projectile ammunition round"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Australian_soldiers_from_the_8-12_Field_Regiment_firing_a_M777_155mm_howitzer.jpg/800px-Australian_soldiers_from_the_8-12_Field_Regiment_firing_a_M777_155mm_howitzer.jpg",
+						"desc": "Australian soldiers firing an M777A2 during a training exercise in 2016"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Firing_rounds_with_an_M777_Howitzer_Afghanistan_2009.jpg/800px-Firing_rounds_with_an_M777_Howitzer_Afghanistan_2009.jpg",
+						"desc": "M777 of Battery C, 1st Battalion, 321st Airborne Field Artillery Regiment firing at Forward Operating Base Bostick, Afghanistan, 2009."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/United_States_Marine_Corps_M777A2-155mm-howitzer.jpg/800px-United_States_Marine_Corps_M777A2-155mm-howitzer.jpg",
+						"desc": "Marines fire an M777A2 155 mm howitzer."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Map_of_M777_operators_in_blue.jpg/800px-Map_of_M777_operators_in_blue.jpg",
+						"desc": "A map of M777 operators in blue"
+					}
+				]
+			}
+		},
+		{
+			"name": "M109_howitzer",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The M109 was developed by the Ground System Division of United Defense LP, now BAE Systems Land and Armaments."
+				},
+				{
+					"header": "Hypervelocity Projectile (HVP)",
+					"text": "In January 2016, the U.S. Army test-fired hypervelocity projectiles originally designed for use by U.S. Navy electromagnetic railguns. They found that they significantly increased the gun's range. The Army is looking into using the M109 Paladin firing the HVP for ballistic missile defense, as traditional missile interceptors are expensive, and gun-based missile defense used for point defense would use artillery at a much lower cost per round.  "
+				},
+				{
+					"header": "M109",
+					"text": "First produced in 1963. It had a 155 mm M126 Cannon in an M127 Mount, and carried 28 rounds of 155 mm ammunition. It was also armed with a .50cal M2HB machine gun with 500 rounds of ammunition. Easily identified by its short barrel and a double baffle muzzle brake with a large fume extractor just behind it. Maximum range of 14,600 meters."
+				},
+				{
+					"header": "M109G",
+					"text": "Germanized M109 in 1965 with new tracks, fire control system, muzzle brake, breach, and Thyssen L/20 155 mm gun to extend range to 18.5 km."
+				},
+				{
+					"header": "M109A2",
+					"text": "Incorporated 27 Reliability, Availability, and Maintainability (RAM) mid-life improvements. Most notably, the long barreled 155 mm M185 Cannon in the new M178 gun mount, ballistic protection for the panoramic telescope, counterbalanced travel lock, and the ability to mount the M140 bore sight alignment device. Stowage of 155mm rounds increased from 28 to 36 rounds; .50cal ammunition remained at 500 rounds. During M109A2 production, a slightly simplified version was also produced for export. This had minor internal changes and deleted the hull flotation feature. These were designated M109A1B."
+				},
+				{
+					"header": "K55",
+					"text": "K55 is a South Korean license produced variant of the M109A2. In the 1960s, the South Korean Army received M107 and M110 from the United States. However, the number of these self-propelled guns was insufficient to counter rapidly-growing North Korean artillery capabilities. In the 1970s, South Korea began mass-producing towed howitzers locally, but intelligence reports of North Korean 170 mm self-propelled artillery forced South Korea to look for a new self-propelled artillery system."
+				},
+				{
+					"header": "M109A3 and M109A3B",
+					"text": "M109A1s and M109A1Bs rebuilt to M109A2 standard respectively. Some A3s feature three contact arm assemblies[further explanation needed], while all A2s have five."
+				},
+				{
+					"header": "M109A3G",
+					"text": "The M109G fitted with FH70 L/39 155 mm gun and other minor upgrades. Produced between 1986 and 1990."
+				},
+				{
+					"header": "M109A4",
+					"text": "M109A2s and M109A3s improved with Nuclear, Biological, and Chemical / Reliability, Availability, and Maintainability (NBC/RAM) improvements, including air purifiers, heaters, and Mission Oriented Protective Posture (MOPP) (protective) gear."
+				},
+				{
+					"header": "M109A5+",
+					"text": "Various manufacturers have upgraded the fire control and other components of the M109A5. BAE Systems in York, PA recently delivered 12 M109A5+ vehicles to Chile and 40 M109A5+ vehicles for Brazil."
+				},
+				{
+					"header": "M109 \"KAWEST WE\"",
+					"text": "Improvement of the Swiss Kawest variant, 133 in total were brought up to this standard:"
+				},
+				{
+					"header": "M109L52",
+					"text": "Jointly developed by the Dutch firm RDM and the German firm Rheinmetall, the M109L52 was first revealed in 2002. The main improvement was replacing the M126 series gun with the longer 52-caliber cannon from the PzH 2000, thus the MTLS ammunition of the PzH 2000 can be used. Improvements to the loading system were also made, resulting in an increased rate of fire from 3 rds/min to 9–10 rds/min, able to be sustained for up to 2 minutes. A total of 35 rounds can be carried."
+				},
+				{
+					"header": "K55A1",
+					"text": "The K55A1 is a South Korean overhaul and modernization of the K55, augmenting the proven systems of the K9 Thunder and the K9A1. The development took three years between 2007 and 2010. The upgrade started in 2010. In November 2010, in the wake of the North Korean artillery attack, the South Korean government authorized a massive increase in military spending. South Korea allocated 11.5 billion KRW on K55A1 upgrades for FY2011, more than a 1500% increase from 700 million KRW for FY2010. The upgrade was performed by Samsung Techwin, and the first vehicle was fielded by the South Korean Army in early 2011."
+				},
+				{
+					"header": "K66",
+					"text": "The K66 was a planned ammunition support vehicle for the K55. As a follow-up to the K55 program, Samsung Aerospace Industries prepared for licensing a local variant of the M992, featuring such modifications as NBC protection and an increase of ammunition storage capacity to 110 rounds, 116 packs of powders, and 132 primers."
+				},
+				{
+					"header": "K77 FDCV (Fire Direction Center Vehicle)",
+					"text": "The K77 FDCV is a command & control post vehicle variant based on the K55 platform."
+				},
+				{
+					"header": "K56 ARV (Ammunition Resupply Vehicle)",
+					"text": "The K56 ARV is an ammunition resupply vehicle based on the K55 platform. Unlike the K10 ARV, the K56 can resupply both the K55A1 and the K9 Thunder. It has a 45.7% (4,197 out of 9,191 total parts) compatibility with the K55A1."
+				},
+				{
+					"header": "Training systems",
+					"text": "The US Army uses the Fire Support Combined Arms Tactical Trainer (FSCATT) in two versions, for initial and sustainment training of the M109A6 and M109A5. The system uses an actual surplus turret and a simulated ammunition system."
+				},
+				{
+					"header": "Successors",
+					"text": "The U.S. Army sought to replace the M109 with the XM2001 Crusader, initially part of the Armored Systems Modernization program. The program was canceled in 2002 amid criticism that the program was not in line with the Army's long-term plans for lighter armored brigades. Funding was redirected to the Future Combat Systems Manned Ground Vehicles program, which produced the 18-ton XM1203 Non-Line-of-Sight Cannon as the program's lead effort. The Pentagon terminated the MGV program in 2009 due to concerns over its affordability. The U.S. Army's M1299 howitzer was planned to be completed in 2021 and will undergo operational assessment in 2023."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Self-propelled artillery"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "M109: 1963–presentM109A1: 1970–presentM109A2: 1979–presentM109A6: 1994–presentM109A7: 2015–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Operators"
+				},
+				{
+					"key": "Wars",
+					"value": "Vietnam War  Cambodian Civil War  Yom Kippur War  Iran–Iraq War   1982 Lebanon war  Western Sahara War  Persian Gulf War  Iraq WarGaza War  2014 Israel–Gaza conflict  War in Iraq (2013-2017) Yemeni Civil War (2015–present),  Saudi Arabian-led intervention in Yemen  Syrian Civil War  Russian invasion of Ukraine  2023 Israel–Hamas war"
+				},
+				{
+					"key": "Designed",
+					"value": "1952–1962"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "CadillacGeneral MotorsChryslerBMY Harsco, formerly Bowen & McLaughlin York (1974–1994)United Defense (1994–2005)BAE Systems Inc. (2005–present) Samsung (1985–2015) Hanwha (2015–present)"
+				},
+				{
+					"key": "Mass",
+					"value": "27.5 tonsM109A7: 84,000 lb (38.1 t)"
+				},
+				{
+					"key": "Length",
+					"value": "30 ft (9.1 m)"
+				},
+				{
+					"key": "Width",
+					"value": "10 ft 4 in (3.15 m)"
+				},
+				{
+					"key": "Height",
+					"value": "10 ft 8 in (3.25 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "6 (commander, driver, gunner, 3 loaders)M109A6–A7: 4 (commander, driver, gunner, loader)"
+				},
+				{
+					"key": "Shell",
+					"value": "separate loading, bagged charge"
+				},
+				{
+					"key": "Breech",
+					"value": "interrupted screw"
+				},
+				{
+					"key": "Traverse",
+					"value": "360°"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "Maximum: 4 rpm/3 min.Sustained: 1 rpm"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "M109A1–A4:18.1 km (11.2 mi) (M107, HE)23.5 km (14.6 mi) (M549A1, RAP/HE)M109A5–A7:HE: 21 km (13 mi)RAP: 30 km (19 mi)  Excalibur: 40 km (25 mi)"
+				},
+				{
+					"key": "Armor",
+					"value": "Aluminum alloy"
+				},
+				{
+					"key": "Mainarmament",
+					"value": "M109: M126 155 mm 23 caliber, 28 roundsM109A1–A4: Watervliet Arsenal M185 155 mm 39 caliber, 28 rounds (A1) or 36 rounds (A2–A4)M109A5–A7: M284 155 mm 39 caliber"
+				},
+				{
+					"key": "Secondaryarmament",
+					"value": ".50 caliber (12.7 mm) M2 machine gun"
+				},
+				{
+					"key": "Engine",
+					"value": "M109: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 345 hp @ 2.300 rpm, 14.5 hp/tM109A1–A4: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 405 hp @ 2.300 rpm, 16.9 hp/tM109A5–A6: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 440 hpM109A7: V903 675 hp"
+				},
+				{
+					"key": "Transmission",
+					"value": "Allison Transmission XTG-411-2A, 4 forward, 2 reverseM109A6: Allison Transmission XTG-411-4M109A7: HMPT-800"
+				},
+				{
+					"key": "Suspension",
+					"value": "torsion bar"
+				},
+				{
+					"key": "Ground clearance",
+					"value": "M109A7:longitudinal slope: 60 %lateral slope: 40 %trench: 72 in (1.8 m)fording: 42 in (1.07 m)"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "216 mi (350 km)M109A7: 186 mi (300 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "35 mph (56 km/h)M109A7: 38 mph (61 km/h)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/M109A6_Paladin_blast_in_2007.jpg/800px-M109A6_Paladin_blast_in_2007.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dutch_M109_155_mm_Self-propelled_Howitzer_Right_Side.jpg/800px-Dutch_M109_155_mm_Self-propelled_Howitzer_Right_Side.jpg",
+						"desc": "Early M109 howitzer of the Royal Netherlands Army."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/United_States_Army_M109A1_self-propelled_howitzer_in_Germany_during_exercise_REFORGER_%2782.jpg/800px-United_States_Army_M109A1_self-propelled_howitzer_in_Germany_during_exercise_REFORGER_%2782.jpg",
+						"desc": "United States Army M109A1 howitzer in 1982."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UA_72nd_bde_M109A3GN_04.jpg/800px-UA_72nd_bde_M109A3GN_04.jpg",
+						"desc": "Ukraine's 72nd Mechanized Brigade operating an M109A3GN during the Russian invasion of Ukraine"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/M-109A6_Paladin_firing.jpg/800px-M-109A6_Paladin_firing.jpg",
+						"desc": "A M109A6 \"Paladin\" firing at night"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fallujah11092004-11-09.jpg/800px-Fallujah11092004-11-09.jpg",
+						"desc": "An M109A6 firing a shell during combat operations in Fallujah, Iraq"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/XM1113_in_flight.jpg/800px-XM1113_in_flight.jpg",
+						"desc": "A XM1113 extended range artillery round, shown here at a range demonstration, uses a rocket-assist motor"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/M109A7_-_200916-A-BT735-939.jpg/800px-M109A7_-_200916-A-BT735-939.jpg",
+						"desc": "A M992A3 Field Artillery Ammunition Support Vehicle (M992A3 FAASV)"
+					}
+				]
+			}
+		},
+		{
+			"name": "M109A7",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The M109 was developed by the Ground System Division of United Defense LP, now BAE Systems Land and Armaments."
+				},
+				{
+					"header": "Hypervelocity Projectile (HVP)",
+					"text": "In January 2016, the U.S. Army test-fired hypervelocity projectiles originally designed for use by U.S. Navy electromagnetic railguns. They found that they significantly increased the gun's range. The Army is looking into using the M109 Paladin firing the HVP for ballistic missile defense, as traditional missile interceptors are expensive, and gun-based missile defense used for point defense would use artillery at a much lower cost per round.  "
+				},
+				{
+					"header": "M109",
+					"text": "First produced in 1963. It had a 155 mm M126 Cannon in an M127 Mount, and carried 28 rounds of 155 mm ammunition. It was also armed with a .50cal M2HB machine gun with 500 rounds of ammunition. Easily identified by its short barrel and a double baffle muzzle brake with a large fume extractor just behind it. Maximum range of 14,600 meters."
+				},
+				{
+					"header": "M109G",
+					"text": "Germanized M109 in 1965 with new tracks, fire control system, muzzle brake, breach, and Thyssen L/20 155 mm gun to extend range to 18.5 km."
+				},
+				{
+					"header": "M109A2",
+					"text": "Incorporated 27 Reliability, Availability, and Maintainability (RAM) mid-life improvements. Most notably, the long barreled 155 mm M185 Cannon in the new M178 gun mount, ballistic protection for the panoramic telescope, counterbalanced travel lock, and the ability to mount the M140 bore sight alignment device. Stowage of 155mm rounds increased from 28 to 36 rounds; .50cal ammunition remained at 500 rounds. During M109A2 production, a slightly simplified version was also produced for export. This had minor internal changes and deleted the hull flotation feature. These were designated M109A1B."
+				},
+				{
+					"header": "K55",
+					"text": "K55 is a South Korean license produced variant of the M109A2. In the 1960s, the South Korean Army received M107 and M110 from the United States. However, the number of these self-propelled guns was insufficient to counter rapidly-growing North Korean artillery capabilities. In the 1970s, South Korea began mass-producing towed howitzers locally, but intelligence reports of North Korean 170 mm self-propelled artillery forced South Korea to look for a new self-propelled artillery system."
+				},
+				{
+					"header": "M109A3 and M109A3B",
+					"text": "M109A1s and M109A1Bs rebuilt to M109A2 standard respectively. Some A3s feature three contact arm assemblies[further explanation needed], while all A2s have five."
+				},
+				{
+					"header": "M109A3G",
+					"text": "The M109G fitted with FH70 L/39 155 mm gun and other minor upgrades. Produced between 1986 and 1990."
+				},
+				{
+					"header": "M109A4",
+					"text": "M109A2s and M109A3s improved with Nuclear, Biological, and Chemical / Reliability, Availability, and Maintainability (NBC/RAM) improvements, including air purifiers, heaters, and Mission Oriented Protective Posture (MOPP) (protective) gear."
+				},
+				{
+					"header": "M109A5+",
+					"text": "Various manufacturers have upgraded the fire control and other components of the M109A5. BAE Systems in York, PA recently delivered 12 M109A5+ vehicles to Chile and 40 M109A5+ vehicles for Brazil."
+				},
+				{
+					"header": "M109 \"KAWEST WE\"",
+					"text": "Improvement of the Swiss Kawest variant, 133 in total were brought up to this standard:"
+				},
+				{
+					"header": "M109L52",
+					"text": "Jointly developed by the Dutch firm RDM and the German firm Rheinmetall, the M109L52 was first revealed in 2002. The main improvement was replacing the M126 series gun with the longer 52-caliber cannon from the PzH 2000, thus the MTLS ammunition of the PzH 2000 can be used. Improvements to the loading system were also made, resulting in an increased rate of fire from 3 rds/min to 9–10 rds/min, able to be sustained for up to 2 minutes. A total of 35 rounds can be carried."
+				},
+				{
+					"header": "K55A1",
+					"text": "The K55A1 is a South Korean overhaul and modernization of the K55, augmenting the proven systems of the K9 Thunder and the K9A1. The development took three years between 2007 and 2010. The upgrade started in 2010. In November 2010, in the wake of the North Korean artillery attack, the South Korean government authorized a massive increase in military spending. South Korea allocated 11.5 billion KRW on K55A1 upgrades for FY2011, more than a 1500% increase from 700 million KRW for FY2010. The upgrade was performed by Samsung Techwin, and the first vehicle was fielded by the South Korean Army in early 2011."
+				},
+				{
+					"header": "K66",
+					"text": "The K66 was a planned ammunition support vehicle for the K55. As a follow-up to the K55 program, Samsung Aerospace Industries prepared for licensing a local variant of the M992, featuring such modifications as NBC protection and an increase of ammunition storage capacity to 110 rounds, 116 packs of powders, and 132 primers."
+				},
+				{
+					"header": "K77 FDCV (Fire Direction Center Vehicle)",
+					"text": "The K77 FDCV is a command & control post vehicle variant based on the K55 platform."
+				},
+				{
+					"header": "K56 ARV (Ammunition Resupply Vehicle)",
+					"text": "The K56 ARV is an ammunition resupply vehicle based on the K55 platform. Unlike the K10 ARV, the K56 can resupply both the K55A1 and the K9 Thunder. It has a 45.7% (4,197 out of 9,191 total parts) compatibility with the K55A1."
+				},
+				{
+					"header": "Training systems",
+					"text": "The US Army uses the Fire Support Combined Arms Tactical Trainer (FSCATT) in two versions, for initial and sustainment training of the M109A6 and M109A5. The system uses an actual surplus turret and a simulated ammunition system."
+				},
+				{
+					"header": "Successors",
+					"text": "The U.S. Army sought to replace the M109 with the XM2001 Crusader, initially part of the Armored Systems Modernization program. The program was canceled in 2002 amid criticism that the program was not in line with the Army's long-term plans for lighter armored brigades. Funding was redirected to the Future Combat Systems Manned Ground Vehicles program, which produced the 18-ton XM1203 Non-Line-of-Sight Cannon as the program's lead effort. The Pentagon terminated the MGV program in 2009 due to concerns over its affordability. The U.S. Army's M1299 howitzer was planned to be completed in 2021 and will undergo operational assessment in 2023."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Self-propelled artillery"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "M109: 1963–presentM109A1: 1970–presentM109A2: 1979–presentM109A6: 1994–presentM109A7: 2015–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Operators"
+				},
+				{
+					"key": "Wars",
+					"value": "Vietnam War  Cambodian Civil War  Yom Kippur War  Iran–Iraq War   1982 Lebanon war  Western Sahara War  Persian Gulf War  Iraq WarGaza War  2014 Israel–Gaza conflict  War in Iraq (2013-2017) Yemeni Civil War (2015–present),  Saudi Arabian-led intervention in Yemen  Syrian Civil War  Russian invasion of Ukraine  2023 Israel–Hamas war"
+				},
+				{
+					"key": "Designed",
+					"value": "1952–1962"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "CadillacGeneral MotorsChryslerBMY Harsco, formerly Bowen & McLaughlin York (1974–1994)United Defense (1994–2005)BAE Systems Inc. (2005–present) Samsung (1985–2015) Hanwha (2015–present)"
+				},
+				{
+					"key": "Mass",
+					"value": "27.5 tonsM109A7: 84,000 lb (38.1 t)"
+				},
+				{
+					"key": "Length",
+					"value": "30 ft (9.1 m)"
+				},
+				{
+					"key": "Width",
+					"value": "10 ft 4 in (3.15 m)"
+				},
+				{
+					"key": "Height",
+					"value": "10 ft 8 in (3.25 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "6 (commander, driver, gunner, 3 loaders)M109A6–A7: 4 (commander, driver, gunner, loader)"
+				},
+				{
+					"key": "Shell",
+					"value": "separate loading, bagged charge"
+				},
+				{
+					"key": "Breech",
+					"value": "interrupted screw"
+				},
+				{
+					"key": "Traverse",
+					"value": "360°"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "Maximum: 4 rpm/3 min.Sustained: 1 rpm"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "M109A1–A4:18.1 km (11.2 mi) (M107, HE)23.5 km (14.6 mi) (M549A1, RAP/HE)M109A5–A7:HE: 21 km (13 mi)RAP: 30 km (19 mi)  Excalibur: 40 km (25 mi)"
+				},
+				{
+					"key": "Armor",
+					"value": "Aluminum alloy"
+				},
+				{
+					"key": "Mainarmament",
+					"value": "M109: M126 155 mm 23 caliber, 28 roundsM109A1–A4: Watervliet Arsenal M185 155 mm 39 caliber, 28 rounds (A1) or 36 rounds (A2–A4)M109A5–A7: M284 155 mm 39 caliber"
+				},
+				{
+					"key": "Secondaryarmament",
+					"value": ".50 caliber (12.7 mm) M2 machine gun"
+				},
+				{
+					"key": "Engine",
+					"value": "M109: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 345 hp @ 2.300 rpm, 14.5 hp/tM109A1–A4: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 405 hp @ 2.300 rpm, 16.9 hp/tM109A5–A6: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 440 hpM109A7: V903 675 hp"
+				},
+				{
+					"key": "Transmission",
+					"value": "Allison Transmission XTG-411-2A, 4 forward, 2 reverseM109A6: Allison Transmission XTG-411-4M109A7: HMPT-800"
+				},
+				{
+					"key": "Suspension",
+					"value": "torsion bar"
+				},
+				{
+					"key": "Ground clearance",
+					"value": "M109A7:longitudinal slope: 60 %lateral slope: 40 %trench: 72 in (1.8 m)fording: 42 in (1.07 m)"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "216 mi (350 km)M109A7: 186 mi (300 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "35 mph (56 km/h)M109A7: 38 mph (61 km/h)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/M109A6_Paladin_blast_in_2007.jpg/800px-M109A6_Paladin_blast_in_2007.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dutch_M109_155_mm_Self-propelled_Howitzer_Right_Side.jpg/800px-Dutch_M109_155_mm_Self-propelled_Howitzer_Right_Side.jpg",
+						"desc": "Early M109 howitzer of the Royal Netherlands Army."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/United_States_Army_M109A1_self-propelled_howitzer_in_Germany_during_exercise_REFORGER_%2782.jpg/800px-United_States_Army_M109A1_self-propelled_howitzer_in_Germany_during_exercise_REFORGER_%2782.jpg",
+						"desc": "United States Army M109A1 howitzer in 1982."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UA_72nd_bde_M109A3GN_04.jpg/800px-UA_72nd_bde_M109A3GN_04.jpg",
+						"desc": "Ukraine's 72nd Mechanized Brigade operating an M109A3GN during the Russian invasion of Ukraine"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/M-109A6_Paladin_firing.jpg/800px-M-109A6_Paladin_firing.jpg",
+						"desc": "A M109A6 \"Paladin\" firing at night"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fallujah11092004-11-09.jpg/800px-Fallujah11092004-11-09.jpg",
+						"desc": "An M109A6 firing a shell during combat operations in Fallujah, Iraq"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/XM1113_in_flight.jpg/800px-XM1113_in_flight.jpg",
+						"desc": "A XM1113 extended range artillery round, shown here at a range demonstration, uses a rocket-assist motor"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/M109A7_-_200916-A-BT735-939.jpg/800px-M109A7_-_200916-A-BT735-939.jpg",
+						"desc": "A M992A3 Field Artillery Ammunition Support Vehicle (M992A3 FAASV)"
+					}
+				]
+			}
+		},
+		{
+			"name": "TWQ-1_Avenger",
+			"data": [
+				{
+					"header": "History",
+					"text": "Originally developed as a private venture by Boeing in the 1980s, the Avenger was developed over a period of only 10 months from initial concept to delivery for testing to the U.S. Army. Initial testing was conducted in May 1984 at the Army's Yakima Training Center in the U.S. state of Washington. During testing three FIM-92 Stinger missiles were fired.  During the first test firing the system achieved a direct hit while the Avenger was moving at 20 miles per hour (32 km/h)."
+				},
+				{
+					"header": "Boeing/Matra Guardian",
+					"text": "In the 1990s Boeing teamed with Matra of France to offer the Avenger modified by the substitution of standard triple launcher boxes for Matra Mistral missiles in place of the quadruple Stinger pods of the standard Avenger. One demonstrator vehicle was built in 1992 and test firings took place in France.  The project was dropped around 1997."
+				},
+				{
+					"header": "Avengers during the Iraq War",
+					"text": "Due to the lack of serious airborne threats  during much of the Iraq War, along with the pressing need for ground assets for combat roles such as convoy protection, the Avenger was pressed into this role. The FLIR/laser rangefinder combined with the 12.7 mm (.50) cal machine gun has proved to be very effective, but was limited by no-fire zones, particularly to the front of the vehicle. A program was instituted to remove one of the missile pods and move the machine gun to that position to enable a 360° field of fire. The upgrade also increased the ammunition capacity to 650 rounds."
+				},
+				{
+					"header": "Avenger DEW",
+					"text": "Another potential variant proposed by Boeing is an Avenger with a Directed Energy Weapon (DEW).  Boeing completed an initial test of a 1 kW laser mounted where the right missile pod would be.  The M3P 12.7 mm (.50) cal has been replaced by the M242 Bushmaster as its close defense weapon.[citation needed]"
+				},
+				{
+					"header": "Avenger Multi-Role Weapon System",
+					"text": "Test firing demonstrations of this variant took place in 2004. It is modified by re-locating the M3P machine gun over the turret cab to allow a 360-degree field of fire, increasing ready-use machine gun ammunition stowage to 600 rounds, and providing the option to substitute launchers for 2 FGM-148 Javelin missiles in place of 1 Stinger pod."
+				},
+				{
+					"header": "Accelerated Improved Interceptor Initiative (AI3)",
+					"text": "In February 2012, Raytheon was awarded a contract to develop the AI3, a modified AIM-9 Sidewinder missile mounted on the Avenger launcher, to perform counter rocket, artillery, mortar (C-RAM), counter unmanned aerial vehicle (C-UAV), and counter cruise missile duties."
+				},
+				{
+					"header": "Other variants",
+					"text": "Boeing have proposed that the Avenger PMS turret could be mounted on other vehicles such as Unimog truck, BV-206 all-terrain vehicles, M113 APC, and M548 tracked cargo carrier as well as being used as a stationary ground mount on a pallet for defense of static targets. The Avenger PMS has been demonstrated with a mock-up of two 70 mm helicopter-type rocket pods carrying a total of 36 rockets to give the system greater multi-mission utility.  Other missiles such as the Bofors RBS 70/Bolide have been proposed for use on the Avenger PMS."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Hybrid mobile surface-to-air missile launcher system and self-propelled anti-aircraft gun"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1989–present"
+				},
+				{
+					"key": "Used by",
+					"value": "United States ArmyUnited States Marine Corps, Ukrainian Military, Peshmerga (Kurdistan Army)"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Boeing"
+				},
+				{
+					"key": "Produced",
+					"value": "1980s–present"
+				},
+				{
+					"key": "No. built",
+					"value": "Over 1,100"
+				},
+				{
+					"key": "Mass",
+					"value": "8,600 pounds (3,900 kg)"
+				},
+				{
+					"key": "Length",
+					"value": "16 feet 3 inches (4.95 m)"
+				},
+				{
+					"key": "Width",
+					"value": "7 feet 2 inches (2.18 m)"
+				},
+				{
+					"key": "Height",
+					"value": "8 feet 8 inches (2.64 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "2 (Basic), 3 (STC)"
+				},
+				{
+					"key": "Mainarmament",
+					"value": "4/8 FIM-92 Stinger missiles"
+				},
+				{
+					"key": "Secondaryarmament",
+					"value": ".50 FN M3P machine gun"
+				},
+				{
+					"key": "Engine",
+					"value": "Detroit Diesel cooled V-8135 horsepower (101 kW)"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "275 miles (443 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "55 miles per hour (89 km/h)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avenger_missile.jpg/800px-Avenger_missile.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Avenger_04.jpg/800px-Avenger_04.jpg",
+						"desc": "M1097 Avenger launching Starstreak missile"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Avenger_Air_Defense_System_in_Songshan_Air_Force_Base_20110813a.jpg/800px-Avenger_Air_Defense_System_in_Songshan_Air_Force_Base_20110813a.jpg",
+						"desc": "A Taiwanese Avenger"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2nd_LAAD_Conducts_Stinger_Live_Fire_Exercises_160607-M-AD586-021.jpg/800px-2nd_LAAD_Conducts_Stinger_Live_Fire_Exercises_160607-M-AD586-021.jpg",
+						"desc": "The operator's cabin on a US Army Avenger"
+					}
+				]
+			}
+		},
+		{
+			"name": "Centurion_C-RAM",
+			"data": [
+				{
+					"header": "History",
+					"text": "The Phalanx Close-In Weapons System (CIWS) was developed as the last line of automated weapons defense (terminal defense or point defense) against all incoming threats, including antiship missiles (AShMs or ASMs), aircraft including high-g and maneuvering sea-skimmers, and small boats."
+				},
+				{
+					"header": "Design",
+					"text": "The basis of the system is the 20 mm M61 Vulcan Gatling gun autocannon, used by the United States military on various tactical aircraft since 1959, linked to a Ku band fire control radar system for acquiring and tracking targets. This proven system was combined with a purpose-made mounting, capable of fast elevation and traverse speeds, to track incoming targets. An entirely self-contained unit, the mounting houses the gun, an automated fire-control system and all other major components, enabling it to automatically search for, detect, track, engage, and confirm kills using its computer-controlled radar system. Owing to this self-contained nature, Phalanx is ideal for support ships, which lack integrated targeting systems and generally have limited sensors. The entire unit has a mass between 12,400 to 13,500 lb (5,600 to 6,100 kg)."
+				},
+				{
+					"header": "Upgrades",
+					"text": "Due to the evolution of threats and computer technology, the Phalanx system has been developed through several configurations. The basic (original) style is the Block 0, equipped with first-generation, solid-state electronics and with marginal capability against surface targets. The Block 1 (1988) upgrade offered various improvements in radar, ammunition, computing power, rate of fire, and an increase in maximum engagement elevation to +70 degrees. These improvements were intended to increase the system's capability against emerging Russian supersonic anti-ship missiles. Block 1A introduced a new computer system to counter more maneuverable targets. The Block 1B PSuM (Phalanx Surface Mode, 1999) adds a forward-looking infrared (FLIR) sensor to make the weapon effective against surface targets. This addition was developed to provide ship defense against small vessel threats and other \"floaters\" in littoral waters and to improve the weapon's performance against slower low-flying aircraft. The FLIR's capability is also of use against low-observability missiles and can be linked with the RIM-116 Rolling Airframe Missile (RAM) system to increase RAM engagement range and accuracy. The Block 1B also allows for an operator to visually identify and target threats."
+				},
+				{
+					"header": "Operation",
+					"text": "The CIWS is designed to be the last line of defense against anti-ship missiles. Due to its design criteria, its effective range is very short relative to the range of modern ASMs, from 1 to 5 nautical miles (2 to 9 km). The gun mount moves at a very high speed and with great precision. The system takes minimal inputs from the ship, making it capable of functioning despite potential damage to the ship."
+				},
+				{
+					"header": "Radar subsystems",
+					"text": "The CIWS has two antennas that work together to engage targets. The first antenna, for searching, is located inside the radome on the weapon control group (top of the white-painted portion). The search subsystem provides bearing, range, velocity, heading, and altitude information of potential targets to the CIWS computer. This information is analyzed to determine whether the detected object should be engaged by the CIWS system. Once the computer identifies a valid target (see details below), the mount moves to face the target and then hands the target over to the tracking antenna at around 8 km. The track antenna is extremely precise, but views a much smaller area. The tracking subsystem observes the target until the computer determines that the probability of a successful hit is maximized and then, depending on the operator conditions, the system either fires automatically at around 2 km or recommends fire to the operator. While firing 75 rounds per second, the system tracks outgoing rounds and 'walks' them onto the target."
+				},
+				{
+					"header": "Gun and ammunition handling system",
+					"text": "The Block 0 CIWS mounts (hydraulic driven) fired at a rate of 3,000 rounds per minute and held 989 rounds in the magazine drum. The Block 1 CIWS mounts (hydraulic) also fired at 3,000 rounds per minute with an extended magazine drum holding 1,550 rounds. The Block 1A and newer (pneumatic driven) CIWS mounts fire at a rate of 4,500 rounds per minute with a 1,550-round magazine. The velocity of the rounds fired is about 3,600 feet per second (1,100 m/s). The rounds are armor-piercing tungsten penetrator rounds or depleted uranium with discardable plastic sabots. The Phalanx CIWS 20–mm rounds are designed to destroy a missile's airframe and make it non aerodynamic, thus keeping shrapnel from the exploding projectile to a minimum, effectively keeping secondary damage to a minimum. The ammunition handling system has two conveyor belt systems. The first takes the rounds out of the magazine drum to the gun; the second takes empty shells or unfired rounds to the opposite end of the drum."
+				},
+				{
+					"header": "CIWS contact target identification",
+					"text": "The CIWS does not recognize identification friend or foe, also known as IFF. The CIWS has only the data it collects in real time from the radars to decide if the target is a threat and to engage it. A contact must meet multiple criteria for the CIWS to consider it a target.[citation needed] These criteria include:"
+				},
+				{
+					"header": "Drone exercise accidents",
+					"text": "On 10 February 1983, USS Antrim was conducting a live-fire exercise off the East Coast of the United States using the Phalanx against a target drone. Although the drone was successfully engaged at close range, the debris of the destroyed target bounced off the sea surface and struck the ship causing significant damage and fire from the drone's residual fuel, and killing a civilian instructor aboard the ship."
+				},
+				{
+					"header": "Iraqi missile attack in 1991 Gulf War",
+					"text": "On 25 February 1991, during the first Gulf War, the Phalanx-equipped frigate USS Jarrett was a few miles from the U.S. Navy battleship USS Missouri and the Royal Navy destroyer HMS Gloucester. An Iraqi missile battery fired two Silkworm anti-ship missiles (often referred to as the Seersucker); Missouri responded by firing its SRBOC chaff countermeasures. The Phalanx system on Jarrett, operating in automatic target-acquisition mode, fixed on Missouri's chaff and fired a burst of rounds, of which four hit Missouri,  2–3 miles (3.2–4.8 km) from Jarrett at the time. There were no injuries on Missouri, and the Iraqi missiles were destroyed by Sea Dart missiles fired by Gloucester."
+				},
+				{
+					"header": "Accidental shoot-down of US aircraft by Japanese ship",
+					"text": "On 4 June 1996, a Phalanx operated by the JMSDF accidentally shot down a US A-6 Intruder from the aircraft carrier USS Independence that was towing a radar target during gunnery exercises about 1,500 mi (2,400 km) west of the main Hawaiian island of Oahu. The Asagiri-class destroyer JDS Yūgiri locked onto the Intruder instead of the target, or tracked up the tow cable after acquiring the towed target. The aircraft's two-man crew ejected safely. A post-accident investigation concluded that Yūgiri's gunnery officer gave the order to fire before the A-6 was out of the CIWS engagement envelope."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Close-in weapon system"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1980–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See operators"
+				},
+				{
+					"key": "Wars",
+					"value": "Persian Gulf War"
+				},
+				{
+					"key": "Designer",
+					"value": "General Dynamics"
+				},
+				{
+					"key": "Designed",
+					"value": "1969"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Dynamics"
+				},
+				{
+					"key": "Unit cost",
+					"value": "5 × Block 1B £8.56M each to UK9 × Block 1B US$13.66M each for SK13 × Mk 15 Block 1B Baseline 2 for TW, total cost: US$416M with 260,000 × Mk 244 Mod 0 armor-piercing bullet. 8 sets are for upgrading the current Block 0 to MK15 Phalanx Block 1B Baseline 2. Baseline2 is the newest model in Block 1B on 11/2016. (price may vary for different amounts of ammo, technical protocols, and personnel training.)[clarification needed]"
+				},
+				{
+					"key": "Produced",
+					"value": "1978"
+				},
+				{
+					"key": "Variants",
+					"value": "3"
+				},
+				{
+					"key": "Mass",
+					"value": "12,500 lb (5,700 kg) early models13,600 lb (6,200 kg) late models"
+				},
+				{
+					"key": "Barrel length",
+					"value": "Block 0 & 1 (L76 gun barrel): 59.8 in (1,520 mm)Block 1B (L99 gun barrel): 78 in (2,000 mm)"
+				},
+				{
+					"key": "Height",
+					"value": "15.5 ft (4.7 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "Automated, with human oversight"
+				},
+				{
+					"key": "Shell",
+					"value": "Naval: Armor-piercing tungsten penetrator rounds with discarding sabotsLand: High-explosive incendiary tracer, self-destruct"
+				},
+				{
+					"key": "Caliber",
+					"value": "20×102mm"
+				},
+				{
+					"key": "Barrels",
+					"value": "6-barrel (progressive RH parabolic twist, 9 grooves)"
+				},
+				{
+					"key": "Elevation",
+					"value": "Block 0: −10°/+80°Block 1: −20°/+80°(Rate of elevation: 86°/s for Block 0/1)Block 1B: −25°/+85°(Rate of elevation: 115°/s)"
+				},
+				{
+					"key": "Traverse",
+					"value": "150° from either side of centerline(Rate of traverse: 100°/s for Block 0 & 115°/s for Block 1B)"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "Block 0/1: 3,000 rounds/minute (50 rounds/second)Block 1A/1B: 4,500 rounds/minute (75 rounds/second)"
+				},
+				{
+					"key": "Muzzle velocity",
+					"value": "3,600 ft/s (1,100 m/s)"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "1,625 yd (1,486 m) (max. effective range)"
+				},
+				{
+					"key": "Maximum firing range",
+					"value": "6,000 yd (5,500 m)"
+				},
+				{
+					"key": "Mainarmament",
+					"value": "1×20 mm M61 Vulcan 6-barreled Gatling cannon"
+				},
+				{
+					"key": "Guidancesystem",
+					"value": "Ku-band radar and FLIR"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Phalanx_CIWS_USS_Jason_Dunham.jpg/800px-Phalanx_CIWS_USS_Jason_Dunham.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Phalanx_CIWS_Block_1B_Full_Sized_USS_Elrod_FFG-55.jpg/800px-Phalanx_CIWS_Block_1B_Full_Sized_USS_Elrod_FFG-55.jpg",
+						"desc": "The Phalanx CIWS Block 1B mounted on the Oliver Hazard Perry-class frigate USS Elrod, in mothballs at the Philadelphia Navy Yard."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/USS_King_%28DLG-10%29_with_Phalanx_CIWS_prototype_in_1973.jpg/800px-USS_King_%28DLG-10%29_with_Phalanx_CIWS_prototype_in_1973.jpg",
+						"desc": "The Phalanx prototype on USS King in 1973."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/US_Navy_101027-N-8913A-252_Rounds_from_a_Mk-15_Phalanx_Close-in_Weapon_System_%28CIWS%29_from_the_guided-missile_destroyer_USS_Mitscher_%28DDG_57%29_impact.jpg/800px-US_Navy_101027-N-8913A-252_Rounds_from_a_Mk-15_Phalanx_Close-in_Weapon_System_%28CIWS%29_from_the_guided-missile_destroyer_USS_Mitscher_%28DDG_57%29_impact.jpg",
+						"desc": "Rounds from a Mk-15 Phalanx CIWS from the guided missile destroyer USS Mitscher hit ex-USNS Saturn during a sinking exercise (SINKEX), 2010."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CIWS_Radar.jpg/800px-CIWS_Radar.jpg",
+						"desc": "A technician checks the radar transmitter and microwave assemblies of a Phalanx CIWS, most likely a Block 0. On the unit in the background, the search radar can be seen at the top left with the vertical, orange-peel shaped, tracking radar below it."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Phalanx_CIWS_Tungsten_Upload.jpg/800px-Phalanx_CIWS_Tungsten_Upload.jpg",
+						"desc": "U.S. Navy sailors load tungsten ammunition (white sabots at right) and offload dummy ammunition (left)."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/CIWS_LCP.jpg/800px-CIWS_LCP.jpg",
+						"desc": "A sailor sits at a CIWS Local Control Panel (LCP) during a general quarters drill."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/USS_Stark.jpg/800px-USS_Stark.jpg",
+						"desc": "Stark listing after being hit."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/JS_Makinami_%28DD-112%29_Phalanx_CIWS.jpg/800px-JS_Makinami_%28DD-112%29_Phalanx_CIWS.jpg",
+						"desc": "JMSDF mounted Phalanx CIWS"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phalanx_CIWS_and_Bofors_40mm_L70_Gun_aboard_on_ROCN_Di_Hua_%28PFG-1206%29_20151024.jpg/800px-Phalanx_CIWS_and_Bofors_40mm_L70_Gun_aboard_on_ROCN_Di_Hua_%28PFG-1206%29_20151024.jpg",
+						"desc": "Phalanx CIWS and Bofors 40mm L70 Gun aboard ROCN Di Hua (PFG-1206)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Phalanx_LPWS_-_140301-A-ZA744-187.jpg/800px-Phalanx_LPWS_-_140301-A-ZA744-187.jpg",
+						"desc": "Phalanx LPWS conducts a test fire system at Bagram Air Field, Afghanistan on March 1, 2014."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Phalanx_LPWS_-_140301-A-ZA744-174.jpg/800px-Phalanx_LPWS_-_140301-A-ZA744-174.jpg",
+						"desc": "Phalanx LPWS conducts a test fire system at Bagram Air Field, Afghanistan on March 1, 2014."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Phalanx_LPWS_-_171108-A-AA101-398.jpg/800px-Phalanx_LPWS_-_171108-A-AA101-398.jpg",
+						"desc": "Phalanx LPWS during the battalion’s live fire exercise on Fort Campbell, Kentucky."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phalanx_CIWS_test_fire_-_081107-N-5416W-003.jpg/800px-Phalanx_CIWS_test_fire_-_081107-N-5416W-003.jpg",
+						"desc": "Phalanx (Block 1A) live fire test aboard USS Monterey in November 2008."
+					}
+				]
+			}
+		},
+		{
+			"name": "M270_Multiple_Launch_Rocket_System",
+			"data": [
+				{
+					"header": "Background",
+					"text": "In the early 1970s, the Soviet Union had a clear advantage over U.S. and NATO forces in terms of rocket artillery. Soviet tactics of bombardment by large numbers of truck-mounted multiple rocket launchers (MRLs), such as the BM-21 \"Grad\", would saturate a target area with thousands of rockets, ensuring some would hit specific targets while delivering a psychological impact. By contrast, U.S. artillerists favored cannon artillery for its relative accuracy and ammunition conservation over \"area fire\" rockets, and as a result were left with only a small amount of World War II vintage rocket artillery."
+				},
+				{
+					"header": "Overview",
+					"text": "The M270 MLRS weapons system is collectively known as the M270 MLRS Self-Propelled Loader/Launcher (SPLL). The SPLL is composed of three primary subsystems, namely the M269 Loader Launcher Module (LLM), which also houses the electronic Fire Control System, is mated to the M993 Carrier Vehicle."
+				},
+				{
+					"header": "Gulf War",
+					"text": "The first combat use of the MLRS occurred in the Gulf War. The U.S. deployed over 230 MLRS systems during Operation Desert Storm, and the UK an additional 16."
+				},
+				{
+					"header": "Middle East",
+					"text": "The MLRS has since been used in numerous military engagements, including the 2003 invasion of Iraq. In March 2007, the British Ministry of Defence decided to send a troop of MLRS to support ongoing operations in Afghanistan's southern province of Helmand; they would use newly developed guided munitions."
+				},
+				{
+					"header": "Ukraine",
+					"text": "During the 2022 Russian invasion of Ukraine, the United States considered sending the MLRS as part of military aid to Ukraine. Concerns were raised that this system could be used to hit targets inside Russia. US President Joe Biden initially declined to send it to Ukraine, but on May 31 he announced that the M142 HIMARS, another vehicle capable of firing GMLRS rockets, would be supplied."
+				},
+				{
+					"header": "MLRS",
+					"text": "M26 and M28 rocket production began in 1980. Until 2005 they were the only rockets available for the M270 system. When production of the M26 series ceased in 2001, a total of 506,718 rockets had been produced. Each rocket pod contains 6 identical rockets. The M26 rocket and its derivatives were removed from the US Army's active inventory in June 2009, as they did not satisfy a July 2008 Department of Defense policy directive, issued under President George W. Bush, that US cluster munitions that leave more than 1% of submunitions as unexploded ordnance must be destroyed by the end of 2018. (The United States is not a party to the Convention on Cluster Munitions, which prohibits them). The last use of the M26 rocket prior to its use with the GLSDB occurred during Operation Iraqi Freedom in 2003."
+				},
+				{
+					"header": "GMLRS",
+					"text": "Guided Multiple Launch Rocket System (GMLRS) rockets have a GPS-aided inertial navigation system and extended range. Flight control is accomplished by four forward-mounted canards driven by electromechanical actuators. GMLRS rockets were introduced in 2005 and can be fired from the M270A1 and M270A2, the European M270A1 variants (British Army M270B1, German Army MARS II, French Army Lance Roquette Unitaire (LRU), Italian Army MLRS Improved (MLRS-I), Finnish Army M270D1), and the lighter M142 HIMARS launchers."
+				},
+				{
+					"header": "Reverse engineering",
+					"text": "In the Turkish SAGE-227 project A/B/C/D medium-range composite-fuel artillery rocket and SAGE-227 F experimental guided rocket were developed from reverse engineering HIMAR missiles due to trust issues in 2019."
+				},
+				{
+					"header": "Israeli rockets",
+					"text": "Israel developed its own rockets to be used in the \"Menatetz\", an upgraded version of the M270 MLRS. "
+				},
+				{
+					"header": "British rockets",
+					"text": "As part of the circa £2bn Land Deep Fires Programme (LDFP), the British Army intends a large scale modernisation of its GMLRS capability involving both a increase in platform and the variety of effectors available. British Army launchers will be upgraded to M270A2 standard and additional launchers will be purchased and upgraded from stockpiles likely from the US for a total of 75 launchers and 10 recovery vehicles. M270A2 will include a number of British-specific upgrades such as new composite rubber tracks, radar and video sensors as well as the new jointly developed fire control system from the UK, US, Italy, and Finland."
+				},
+				{
+					"header": "Alternative Warhead Program",
+					"text": "In April 2012, Lockheed Martin received a $79.4 million contract to develop a GMLRS incorporating an Alliant Techsystems-designed alternative warhead to replace DPICM cluster warheads. The AW version is designed as a drop-in replacement with little modification needed to existing rockets. An Engineering and Manufacturing Development (EMD) program was to last 36 months, with the alternative warhead GMLRS expected to enter service in late 2016. The AW warhead is a large airburst fragmentation warhead that explodes 30 ft (9.1 m) over a target area to disperse penetrating projectiles. Considerable damage is caused to a large area while leaving behind only solid metal penetrators and inert rocket fragments from a 90 kilograms (200 lb) warhead containing approximately 182,000 preformed tungsten fragments. The unitary GMLRS also has an airburst option, but while it produces a large blast and pieces of shrapnel, the AW round's small pellets cover a larger area."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Multiple rocket launcher"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1983–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Operators"
+				},
+				{
+					"key": "Wars",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Persian Gulf WarWar in AfghanistanIraq War2022 Russian invasion of Ukraine2023 Israel–Hamas war"
+				},
+				{
+					"key": "Designer",
+					"value": "Ling-Temco-Vought"
+				},
+				{
+					"key": "Designed",
+					"value": "1977"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Lockheed MartinDiehl BGT DefenceKrauss-Maffei WegmannAérospatiale-Matra"
+				},
+				{
+					"key": "Unit cost",
+					"value": "Domestic cost:$2.3 million per one launcher (FY 1990)$4.3 million (in 2021) per one launcher$168,000 per one M31 GMLRS (FY 2023)Export cost:$434,000 per one M31ER GMLRS (FY 2022)"
+				},
+				{
+					"key": "Produced",
+					"value": "1980–2003[citation needed]"
+				},
+				{
+					"key": "Variants",
+					"value": "M270, M270A1, M270A2, MARS II, LRU, MLRS-I"
+				},
+				{
+					"key": "Mass",
+					"value": "52,990 lb (24,040 kg) (combat loaded w/ 12 rockets)"
+				},
+				{
+					"key": "Length",
+					"value": "274.5 in (6.97 m)"
+				},
+				{
+					"key": "Width",
+					"value": "117 in (3.0 m)"
+				},
+				{
+					"key": "Height",
+					"value": "102 in (2.59 m) (launcher stowed)"
+				},
+				{
+					"key": "Crew",
+					"value": "3"
+				},
+				{
+					"key": "Caliber",
+					"value": "227 mm (8.9 in)"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "M26: 32 km (19.9 mi)M26A1/A2: 45 km (28.0 mi)M30/31: 92 km (57.2 mi)"
+				},
+				{
+					"key": "Maximum firing range",
+					"value": "ATACMS: 165 or 300 km (103 or 186 mi)"
+				},
+				{
+					"key": "Armor",
+					"value": "5083 aluminum hull, 7039 aluminum cab"
+				},
+				{
+					"key": "Mainarmament",
+					"value": "12 × MLRS or2 × ATACMS or 4 x PrSM"
+				},
+				{
+					"key": "Engine",
+					"value": "Cummins VTA-903 diesel engine500 hp (373 kW) at 2600 rpm600 hp (447 kW) (M270A1)"
+				},
+				{
+					"key": "Power/weight",
+					"value": "18.9 hp/ST (15.5 kW/t) (M270)"
+				},
+				{
+					"key": "Suspension",
+					"value": "Torsion bar"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "300 mi (483 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "40 mph (64.4 km/h)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg/800px-M270A1_Multiple_Launch_Rocket_System_South_Dakota_ANG.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Task_Force_XXI_Armored_Treatment_and_Transport_Vehicle_ATTP.jpg/800px-Task_Force_XXI_Armored_Treatment_and_Transport_Vehicle_ATTP.jpg",
+						"desc": "Task Force XXI Armored Treatment and Transport Vehicle (ATTP)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Army_mlrs_1982_02.jpg/800px-Army_mlrs_1982_02.jpg",
+						"desc": "The M270 MLRS conducts a rocket launch."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/MLRS_%28Multiple_Launch_Rocket_System%29_Vehicles_at_Camp_Bastion%2C_Afghanistan_MOD_45148148.jpg/800px-MLRS_%28Multiple_Launch_Rocket_System%29_Vehicles_at_Camp_Bastion%2C_Afghanistan_MOD_45148148.jpg",
+						"desc": "A British M270 MLRS in 2008 in Camp Bastion, Afghanistan (right vehicle)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MLRS_firing_on_the_ranges_at_Otterburn._MOD_45158572.jpg/800px-MLRS_firing_on_the_ranges_at_Otterburn._MOD_45158572.jpg",
+						"desc": "British M270 firing at Otterburn Training Area in 2015"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/MARS_%28MLRS%29_Bundeswehr.jpg/800px-MARS_%28MLRS%29_Bundeswehr.jpg",
+						"desc": "A MARS II of the German Army"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/M77_Cluster_Munition_With_Hand.jpg/800px-M77_Cluster_Munition_With_Hand.jpg",
+						"desc": "\"Steel Rain\" – M77 DPICM submunition of type used by the M26 rocket. The M77 was developed from the M483A1 that was developed for artillery shells."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IDF-M270-MLRS-Israel-60.jpg/800px-IDF-M270-MLRS-Israel-60.jpg",
+						"desc": "\"Menatetz\" (מנתץ), an Israeli upgraded version of the M270 MLRS used by the Israel Defense Forces Artillery Corps"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/IDF-MLRS-66-IndependenceDay_0055.jpg/800px-IDF-MLRS-66-IndependenceDay_0055.jpg",
+						"desc": "Israel Defense Forces M270 MLRS \"Menatetz\" on display"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%E5%A4%9A%E9%80%A3%E8%A3%85%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%E8%87%AA%E8%B5%B0%E7%99%BA%E5%B0%84%E6%A9%9F%EF%BC%AD%EF%BC%92%EF%BC%97%EF%BC%90008b_%E8%A3%85%E5%82%99_167.jpg/800px-%E5%A4%9A%E9%80%A3%E8%A3%85%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_%E8%87%AA%E8%B5%B0%E7%99%BA%E5%B0%84%E6%A9%9F%EF%BC%AD%EF%BC%92%EF%BC%97%EF%BC%90008b_%E8%A3%85%E5%82%99_167.jpg",
+						"desc": "Japan Ground Self-Defense Force M270"
+					}
+				]
+			}
+		},
+		{
+			"name": "M142_High_Mobility_Artillery_Rocket_System",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The requirement for HIMARS first came about in 1982, when the 9th Infantry Division (Motorized) saw the need to acquire a light multiple rocket launcher as a counterfire asset. The requirement failed to gather support from the Field Artillery School and languished for a number of years. The institutional bias at the time was oriented towards heavy forces. With the waning of the Cold War and the growing interest in low-intensity operations, both the Field Artillery School and Missile Command realized that the M270 MLRS was too heavy for rapid deployment and pushed for the funding of HIMARS. "
+				},
+				{
+					"header": "Design",
+					"text": "The HIMARS is similar in design to the M270 Multiple Launch Rocket System (MLRS), with the main exception being that it is a wheeled vehicle as opposed to a tracked vehicle. The HIMARS can carry the same type of pods as the M270, but carries one pod while the M270 carries two pods. The HIMARS windows are made of sheets of sapphire laminated with glass and polycarbonate."
+				},
+				{
+					"header": "MLRS",
+					"text": "MLRS is a series of 227 mm rockets."
+				},
+				{
+					"header": "GMLRS",
+					"text": "Guided Multiple Launch Rocket System (GMLRS) 227mm rockets have an extended range and add GPS-aided guidance to their Inertial Navigation System. GMLRS rockets were introduced in 2005 and the M30 and M31 rockets are, except for their warheads, identical. As of 1 December 2021[update] 50,000 GMLRS rockets have been produced, with yearly production now exceeding 9,000 rockets. Each rocket pod contains 6 identical rockets. Both Lockheed Martin and the U.S. Army report that the GMLRS has a maximum range of 70+ km (43+ mi).  According to a U.S. Department of Defense document the maximum demonstrated performance of a GMLRS is 84 km (52 mi), a figure also reported elsewhere. Another source reports a maximum range of about 90 km (56 mi). In 2009 Lockheed Martin announced that a GMLRS had been successfully test fired 92 km (57 mi)."
+				},
+				{
+					"header": "Related developments",
+					"text": "Lockheed Martin UK and INSYS had jointly developed a demonstrator rocket artillery system similar to HIMARS for the British Army's \"Lightweight Mobile Artillery Weapon System/Rocket\" (LIMAWS(R)) program. The system consisted of a single MLRS pod, mounted on a Supacat SPV600 chassis. The LIMAWS(R) program was canceled in September 2007."
+				},
+				{
+					"header": "Autonomous Multi-domain Launcher",
+					"text": "The Autonomous Multi-domain Launcher (AML) is unmanned variant of the HIMARS. The AML is equipped with remote controlled launcher and fire-control system that ensures compatibility with current munitions used onboard both M270 MLRS and HIMARS. The concept video shows the AML can carry two pods compared to one on HIMARS and is expected to be compatible with munitions from other services or in development."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Multiple rocket launcherTactical ballistic missile"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2010–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Operators"
+				},
+				{
+					"key": "Wars",
+					"value": ".mw-parser-output .treeview ul{padding:0;margin:0}.mw-parser-output .treeview li{padding:0;margin:0;list-style-type:none;list-style-image:none}.mw-parser-output .treeview li li{background:url(\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Treeview-grey-line.png\")no-repeat 0 -2981px;padding-left:21px;text-indent:0.3em}.mw-parser-output .treeview li li:last-child{background-position:0 -5971px}.mw-parser-output .treeview li.emptyline>ul>.mw-empty-elt:first-child+.emptyline,.mw-parser-output .treeview li.emptyline>ul>li:first-child{background-position:0 9px}War in AfghanistanSyrian Civil WarIraqi Civil WarRusso-Ukrainian WarInvasion of Ukraine"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Lockheed Martin Missiles and Fire Control"
+				},
+				{
+					"key": "Unit cost",
+					"value": "Domestic cost:$3.5 million per one launcher+carrier (FY 2014);$4 million (in 2021) per one launcher+carrier $168,000 per one M31 GMLRS (FY 2023)Export cost:$8 - 10 million per one launcher+carrier (FY 2022);$434,000 per one M31ER GMLRS (FY 2022)"
+				},
+				{
+					"key": "No. built",
+					"value": ">540"
+				},
+				{
+					"key": "Mass",
+					"value": "16,250 kg (35,800 lb)"
+				},
+				{
+					"key": "Length",
+					"value": "7 m (23 ft 0 in)"
+				},
+				{
+					"key": "Width",
+					"value": "2.4 m (7 ft 10 in)"
+				},
+				{
+					"key": "Height",
+					"value": "3.2 m (10 ft 6 in)"
+				},
+				{
+					"key": "Crew",
+					"value": "3"
+				},
+				{
+					"key": "Traverse",
+					"value": "360°"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "depends on armamentstarting from 9 km (5.6 mi) armed with MLRSup to 499 km (310 mi) (planned) armed with PrSM"
+				},
+				{
+					"key": "Armor",
+					"value": "light/medium"
+				},
+				{
+					"key": "Mainarmament",
+					"value": "6 × MLRS or1 × MGM-140 ATACMS or 2 x PrSM"
+				},
+				{
+					"key": "Engine",
+					"value": "Caterpillar 3116 ATAAC 6.6-liter diesel290 hp"
+				},
+				{
+					"key": "Power/weight",
+					"value": "17.8 hp/t (13.27 kW/t)"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "480 km (300 mi)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "85 km/h (53 mph)"
+				},
+				{
+					"key": "Accuracy",
+					"value": "very high e.g. at 186 miles range (300 km) within 3 feet (1 meter)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HIMARS_-_missile_launched.jpg/800px-HIMARS_-_missile_launched.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/HIMARS_Prototype.jpg/800px-HIMARS_Prototype.jpg",
+						"desc": "Proof-of-concept prototype of HIMARS at White Sands Missile Range, April 1991"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fire_support_training_140313-A-DM872-123.jpg/800px-Fire_support_training_140313-A-DM872-123.jpg",
+						"desc": "A HIMARS launcher with armored cab"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/118th_Airlift_Wing_C-130_unloads_Tennessee_National_Guard_equipment_at_Berry_Field_ANGB.jpg/800px-118th_Airlift_Wing_C-130_unloads_Tennessee_National_Guard_equipment_at_Berry_Field_ANGB.jpg",
+						"desc": "A HIMARS launcher being loaded into a C-130 Hercules aircraft in 2011"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/USMC-090301-M-0000S-006.jpg/800px-USMC-090301-M-0000S-006.jpg",
+						"desc": "Reloading a HIMARS with a pod of six rockets"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%281%29.jpg/800px-Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%281%29.jpg",
+						"desc": "A Ukrainian HIMARS in Zaporizhzhia Oblast, July 2022"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%283%29.jpg/800px-Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%283%29.jpg",
+						"desc": "A Ukrainian HIMARS in the Zaporizhya region, June 2022."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Romanian_HIMARS_loaded_into_an_RAF_A400M_airplane.jpg/800px-Romanian_HIMARS_loaded_into_an_RAF_A400M_airplane.jpg",
+						"desc": "Romanian HIMARS loaded into a Royal Air Force A400M Atlas"
+					}
+				]
+			}
+		},
+		{
+			"name": "Terminal_High_Altitude_Area_Defense",
+			"data": [
+				{
+					"header": "Engineering and manufacturing",
+					"text": "In June 2000, Lockheed won the Engineering and Manufacturing Development (EMD) contract to turn the design into a mobile tactical army fire unit. Flight tests of this system resumed with missile characterization and full system tests in 2006 at White Sands Missile Range, then moved to the Pacific Missile Range Facility. The Interceptor was led through development and initial production by Tory Bruno, who later became CEO of United Launch Alliance."
+				},
+				{
+					"header": "THAAD-ER",
+					"text": "Lockheed is pushing for funding for the development of an extended-range (ER) version of the THAAD to counter maturing threats posed by hypersonic glide vehicles that adversaries may deploy, namely the Chinese WU-14, to penetrate the gap between low- and high-altitude missile defenses. The company performed static fire trials of a modified THAAD booster in 2006 and continued to fund the project until 2008. The current 14.5 in (37 cm)-diameter single-stage booster design would be expanded to a 21 in (53 cm) first stage for greater range with a second \"kick stage\" to close the distance to the target and provide improved velocity at burnout and more lateral movement during an engagement. Although the kill vehicle would not need redesign, the ground-based launcher would have only five missiles instead of eight. As of 2020, THAAD-ER is only an industry concept, but Lockheed believes that the Missile Defense Agency will show interest because of the weapons under development by potential adversaries. If funding for the THAAD-ER begins in 2020, a system could be produced by 2024 to provide an interim capability against a rudimentary hypersonic threat. The Pentagon is researching whether other technologies like directed energy weapons and railguns are better solutions for missile defense; these are expected to become available in the mid to late 2020s."
+				},
+				{
+					"header": "First units equipped (FUE)",
+					"text": "On 28 May 2008, the U.S. Army activated Alpha Battery, 4th Air Defense Artillery Regiment (A-4), 11th Air Defense Artillery Brigade at Fort Bliss, Texas. Battery A-4 is part of the 32nd Army Air & Missile Defense Command. At the time, the battery had 24 THAAD interceptors, three THAAD launchers based on the M1120 HEMTT Load Handling System, a THAAD Fire Control and a THAAD radar. Full fielding began in 2009. On 16 October 2009, the U.S. Army and the Missile Defense Agency activated the second Terminal High Altitude Area Defense Battery, Alpha Battery, 2nd Air Defense Artillery Regiment (A-2), at Fort Bliss."
+				},
+				{
+					"header": "General missile defense plans",
+					"text": "In May 2017, the Pentagon proposed spending $7.9 billion in its FY 2018 budget on missile defense which includes THAAD interceptors and Patriot interceptors, along with $1.5 billion for Ground-based Midcourse Defense (GMD) against intercontinental ballistic missiles."
+				},
+				{
+					"header": "Israel",
+					"text": "In March 2019, Bravo Battery, 2nd ADA Regiment (B-2 THAAD), 11th Air Defense Artillery Brigade was deployed at Nevatim Airbase during a joint US-Israeli drill, after which it was to be moved to an undisclosed location in the Negev desert in southern Israel. The X-Band radar system, which is part of the THAAD system, has been deployed at Nevatim since 2008."
+				},
+				{
+					"header": "Romania",
+					"text": "In 2019, while the Aegis Ashore at NSF Deveselu was being upgraded, B Battery, 62nd Air Defense Artillery Regiment (B-62 THAAD), was emplaced in NSF Deveselu, Romania during the interim."
+				},
+				{
+					"header": "Turkey",
+					"text": "According to U.S. officials the AN/TPY-2 radar was deployed at Turkey's Kürecik Air Force base. The radar was activated in January 2012."
+				},
+				{
+					"header": "United Arab Emirates",
+					"text": "The United Arab Emirates (UAE) signed a deal to purchase the missile defense system on 25 December 2011. The United Arab Emirates (UAE) graduated its first two THAAD unit classes at Fort Bliss in 2015 and 2016. Its first live-fire exercises with Patriot missiles took place in 2014."
+				},
+				{
+					"header": "Guam",
+					"text": "In April 2013, the United States declared that Alpha Battery, 4th Air Defense Artillery Regiment (A-4), would be deployed to Guam to defend against a possible North Korean IRBM attack targeting the island. In March 2014, Alpha Battery, 2nd ADA RGT (A-2), did a change of responsibility with A-4 and took over the Defense of Guam Mission. After a successful 12-month deployment by A-4, Delta 2 (D-2) took its place for a 12-month deployment.In 2018-2019 Echo Battery, 3rd ADA Regiment (E-3) deployed to Guam."
+				},
+				{
+					"header": "Europe and the Middle East",
+					"text": "By March 2016, Army Space and Missile Defense Command was considering THAAD deployments to Europe with EUCOM and the Middle East with CENTCOM."
+				},
+				{
+					"header": "Japan",
+					"text": "In November 2015, Japanese Defense Minister Gen Nakatani said he would consider the U.S. deploying the THAAD in Japan to counter the threat of North Korean ballistic missiles.  By October 2016, Japan was considering procuring either THAAD or Aegis Ashore to add a new missile defense layer. In May 2017 it was reported that Japan government officials now favor the Aegis Ashore system as it comes with a wider coverage area, which would mean fewer units needed to protect Japan, and it is also cheaper."
+				},
+				{
+					"header": "Oman",
+					"text": "On 27 May 2013, Oman announced a deal for the acquisition of the THAAD air defense system. However, a sale has not been announced."
+				},
+				{
+					"header": "Saudi Arabia",
+					"text": "On 6 October 2017, the US reached a deal to provide Saudi Arabia with THAAD in a deal worth $15 billion. Seven fire units each with a Raytheon AN/TPY-2 radar, two mobile tactical stations (with two spares for a total of 16), and six launchers (with two spares for a total of 44), 360 interceptor missiles."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mobile anti-ballistic missile system"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2008–present"
+				},
+				{
+					"key": "Used by",
+					"value": "United States Army"
+				},
+				{
+					"key": "Designed",
+					"value": "1987"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Lockheed Martin"
+				},
+				{
+					"key": "Produced",
+					"value": "2008–present"
+				},
+				{
+					"key": "No. built",
+					"value": "numerous"
+				},
+				{
+					"key": "Mass",
+					"value": "900 kg (2,000 lb)"
+				},
+				{
+					"key": "Length",
+					"value": "6.17 m (20 ft 3 in)"
+				},
+				{
+					"key": "Diameter",
+					"value": "340 mm (13 in) (booster); 370 mm (15 in) (kill vehicle)"
+				},
+				{
+					"key": "Engine",
+					"value": "Single-stage rocket"
+				},
+				{
+					"key": "Propellant",
+					"value": "Pratt & Whitney solid-fueled rocket"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "200 km (120 mi; 110 nmi)"
+				},
+				{
+					"key": "Flight ceiling",
+					"value": "150 km (93 mi)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "2,800 m/s (10,000 km/h; 6,300 mph; Mach 8.2)"
+				},
+				{
+					"key": "Guidancesystem",
+					"value": "Indium-antimonide imaging infra-red seeker head"
+				},
+				{
+					"key": "Accuracy",
+					"value": "0m (Hit to kill)"
+				},
+				{
+					"key": "Transport",
+					"value": "TEL"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg/800px-The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FBX_T.jpg/800px-FBX_T.jpg",
+						"desc": "The AN/TPY-2 radar"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tems11.jpg/800px-Tems11.jpg",
+						"desc": "THAAD Energy Management Steering maneuver, used to burn excess propellant"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg/800px-Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg",
+						"desc": "Two THAAD launchers shortly after being flown into South Korea in March 2017"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg/800px-SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg",
+						"desc": "SM 3 Block IIA launched from the Aegis Ashore in Hawaii"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/THAAD_missile_launch_on_Wake_Island.jpg/800px-THAAD_missile_launch_on_Wake_Island.jpg",
+						"desc": "A THAAD interceptor is launched from a THAAD battery on Wake Island during Flight Test Operational (FTO)-02 Event 2a where two air-launched ballistic missile targets were successfully intercepted in November 2015."
+					}
+				]
+			}
+		},
+		{
+			"name": "Stryker_M-SHORAD",
+			"data": [
+				{
+					"header": "Team General Dynamics–General Motors",
+					"text": "In February 2000, General Dynamics and General Motors announced they were partnering to enter the IAV competition. The agreement built off earlier cooperative effort: In January 1999, General Dynamics Land Systems (GDLS)–Canada integrated its Low Profile Turret (LPT) onto an assault gun version of the LAV III. The General Motors Defense–General Dynamics Land Systems team was awarded the $8 billion contract in November 2000 to produce 2,131 vehicles of a variant of the Canadian LAV III, for equipping six rapid deployment Brigade Combat Teams by 2008. United Defense protested the contract award in December, saying that their proposal cost less than half that of GM–GDLS. The General Accounting Office rejected the protest in April 2001."
+				},
+				{
+					"header": "DE M-SHORAD",
+					"text": "The Army began an effort to put a laser on an M-SHORAD vehicle began in mid-2019. A combat shoot-off of laser-equipped Strykers facing realistic scenarios was conducted in July 2021, after which Raytheon was awarded a contract to supply a platoon of four vehicles each equipped with a 50 kW laser to defend against Group 1-3 UAS and rocket, artillery, and mortar (RAM) threats. The first two Directed Energy Maneuver-SHORAD Strykers were delivered in early 2023 for training with soldiers. A second platoon is planned to be ordered later in 2023, with the program to transfer to a program of record in 2025 and a competition to open up to produce the DE M-SHORAD capability."
+				},
+				{
+					"header": "Engine and mechanical features",
+					"text": "For its powerpack the Stryker uses a Caterpillar diesel engine common in U.S. Army medium-lift trucks, eliminating additional training for maintenance crews and allowing the use of common parts.[citation needed] Because of obsolescence concerns, the Caterpillar 3126 engine was recently replaced by a Caterpillar C7 engine and the Allison 3200SP transmission."
+				},
+				{
+					"header": "Tactical",
+					"text": "The Stryker can alter the pressure in all eight tires to suit terrain conditions: highway, cross-country, mud/sand/snow, and emergency. The system warns the driver if the vehicle exceeds the recommended speed for its tire pressure, then automatically inflates the tires to the next higher pressure setting. The system can warn the driver of a flat tire. The Stryker is equipped with run-flat tire inserts that also serve as bead-locks, allowing the vehicle to move at reduced speeds for several miles before the tire completely deteriorates."
+				},
+				{
+					"header": "Cost",
+					"text": "The unit cost to purchase the initial Stryker ICVs, without add-ons, including the slat armor, was US$3 million in April 2002.[citation needed] By May 2003, the regular production cost per vehicle was US$1.42 million. In February 2012, the cost had risen to US$4.9 million."
+				},
+				{
+					"header": "Field reports",
+					"text": "Due to their use during the 2003–11 Iraq War, many reports have come back on the Stryker's performance. Soldiers and officers who use Strykers defend them as very effective vehicles. A 2005 Washington Post article states that \"commanders, soldiers and mechanics who use the Stryker fleet daily in one of Iraq's most dangerous areas unanimously praised the vehicle. The defects outlined in the report were either wrong or relatively minor and did little to hamper the Stryker's effectiveness.\""
+				},
+				{
+					"header": "Variants",
+					"text": "The Stryker chassis' modular design supports a wide range of variants. The main chassis is the Infantry Carrier Vehicle (ICV)."
+				},
+				{
+					"header": "Double V-Hull",
+					"text": "In response to poor performance against Improvised explosive devices (IEDs), the Army began manufacturing and retrofitting Stryker vehicles with a more survivable double v-hull designed underside. Seven Stryker versions are being produced in this configuration; the M1256 ICVV, M1252 MCVV, M1255CVV, M1251 FSVV, M1257 ESVV, M1254 MEVV and M1253 ATVV. Three variants are not receiving the new hull and will retain their current flat-bottom configuration: the M1127 Reconnaissance Vehicle, the M1128 Mobile Gun System, and the M1135 NBC Reconnaissance Vehicle."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Armored personnel carrier–infantry fighting vehicle hybrid"
+				},
+				{
+					"key": "Place of origin",
+					"value": "Canada/United States"
+				},
+				{
+					"key": "In service",
+					"value": "2002–present"
+				},
+				{
+					"key": "Used by",
+					"value": "United States (see Operators below for details)"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "General Dynamics Land Systems-Canada"
+				},
+				{
+					"key": "Unit cost",
+					"value": "US$4.9 million (2012)"
+				},
+				{
+					"key": "No. built",
+					"value": "~4,900 including 4,466 vehicles in US Army"
+				},
+				{
+					"key": "Mass",
+					"value": "ICV: 18.16 short tons (16.47 t) MGS: 20.69 short tons (18.77 t)"
+				},
+				{
+					"key": "Length",
+					"value": "22 ft 10 in (6.95 m)"
+				},
+				{
+					"key": "Width",
+					"value": "8 ft 11 in (2.72 m)"
+				},
+				{
+					"key": "Height",
+					"value": "8 ft 8 in (2.64 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "Varies, usually 2"
+				},
+				{
+					"key": "Passengers",
+					"value": "Up to 9"
+				},
+				{
+					"key": "Armor",
+					"value": "With bolt-on ceramic armor: all-around 14.5×114mm protection"
+				},
+				{
+					"key": "Mainarmament",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}0.50 in (12.7 mm) M2 machine gunor40 mm Mk 19 grenade launcher mounted in a Protector remote weapon stationor30 mm Mk44 Bushmaster II gun (on Stryker Dragoons)or105 mm M68A2 gun (on M1128 Mobile Gun System)"
+				},
+				{
+					"key": "Secondaryarmament",
+					"value": "0.50 in (12.7 mm) M2 and 7.62 mm M240 machine guns (on M1128 Mobile Gun System)"
+				},
+				{
+					"key": "Engine",
+					"value": "Caterpillar C7350 hp (260 kW)"
+				},
+				{
+					"key": "Power/weight",
+					"value": "ICV: 19.3 hp/sh ton (15.8 kW/tonne)"
+				},
+				{
+					"key": "Suspension",
+					"value": "8×8 wheeled"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "310 mi (500 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "60 mph (97 km/h)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Stryker_ICV_front_q.jpg/800px-Stryker_ICV_front_q.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stryker_by_Augustas_Didzgalvis.jpg/800px-Stryker_by_Augustas_Didzgalvis.jpg",
+						"desc": "The interior of a Stryker IFV"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Fort_Irwin_National_Training_Center_-_Stryker_-_4.jpg/800px-Fort_Irwin_National_Training_Center_-_Stryker_-_4.jpg",
+						"desc": "A Stryker at Fort Irwin National Training Center"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A_Stryker_armored_vehicle_manned_by_U.S._Soldiers_with_the_2nd_Cavalry_Regiment_moves_in_a_convoy_during_exercise_Saber_Junction_near_Hohenfels%2C_Germany_121023-A-ZR192-004.jpg/800px-thumbnail.jpg",
+						"desc": "A Stryker on an exercise in Germany, 2012"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/5-4_ADA_train_with_Polish_ADA_during_Saber_Strike_2022_03.jpg/800px-5-4_ADA_train_with_Polish_ADA_during_Saber_Strike_2022_03.jpg",
+						"desc": "5th Battalion, 4th Air Defense Artillery Regiment train with Maneuver Short Range Air Defense platform (M-SHORAD) prototypes during a training exercise at BPTA, Poland, February 2022."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/US_Army_53413_Range_Training_in_India_fires_up_Strykehorse_Soldiers.jpg/800px-US_Army_53413_Range_Training_in_India_fires_up_Strykehorse_Soldiers.jpg",
+						"desc": "A view into the rear compartment"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Rws_stryker_interiorscreen.jpg/800px-Rws_stryker_interiorscreen.jpg",
+						"desc": "A remote weapon system screen"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Stryker_vehicle_from_the_56th_SBCT.jpg/800px-Stryker_vehicle_from_the_56th_SBCT.jpg",
+						"desc": "A Stryker with slat armor, full Hull Protection Kit and commander's ballistic shield"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Buried_IED_blast_in_2007_in_Iraq.jpg/800px-Buried_IED_blast_in_2007_in_Iraq.jpg",
+						"desc": "A Stryker rolled over by a buried IED in 2007. All crew survived, but the vehicle required a factory rebuild before returning to service.[65]"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kongsberg_Protector_RWS_on_M1126.jpg/800px-Kongsberg_Protector_RWS_on_M1126.jpg",
+						"desc": "A Protector RWS with an M2 heavy machine gun on an M1126 Stryker ICV variant"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Dragoon_at_Hohenfels.jpg/800px-Dragoon_at_Hohenfels.jpg",
+						"desc": "An Infantry Carrier Vehicle Dragoon (ICVD)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Stryker_MC_unloading_from_C130.jpg/800px-Stryker_MC_unloading_from_C130.jpg",
+						"desc": "A Stryker unloading from a C-130"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/US_Army_53414_Range_Training_in_India_fires_up_Strykehorse_Soldiers.jpg/800px-US_Army_53414_Range_Training_in_India_fires_up_Strykehorse_Soldiers.jpg",
+						"desc": "U.S. Army and Indian Army troops with a Stryker IFV during a bilateral training exercise"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/US_Navy_050320-N-9588P-027_U.S._Army_Soldiers_ploy_out_of_the_back_of_a_Stryker_infantry_carrier_vehicle_to_provide_suppressive_fire_on_the_enemy_during_a_simulated_convoy_attack.jpg/800px-thumbnail.jpg",
+						"desc": "Members of the 1-23rd Infantry Regiment deploying from the rear ramp of a Stryker, 2005"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flickr_-_The_U.S._Army_-_Bulldogs_show_diversity%2C_win_top_honors.jpg/800px-Flickr_-_The_U.S._Army_-_Bulldogs_show_diversity%2C_win_top_honors.jpg",
+						"desc": "Stryker with infantry in Sab al Bour, Iraq, 2008"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flickr_-_The_U.S._Army_-_Humanitarian_aid_in_Rajan_Kala%2C_Afghanistan.jpg/800px-Flickr_-_The_U.S._Army_-_Humanitarian_aid_in_Rajan_Kala%2C_Afghanistan.jpg",
+						"desc": "U.S. Army soldiers unload humanitarian aid from their Strykers in the town of Rajan Kala, Afghanistan, 2009."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2005_01_21_Mobile_Gun_System_from_an_angle.jpg/800px-2005_01_21_Mobile_Gun_System_from_an_angle.jpg",
+						"desc": "Mobile Gun System"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Stryker_MCV-B.jpg/800px-Stryker_MCV-B.jpg",
+						"desc": "120 mm mortar fired from Stryker MCV-B variant"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Strykerinterior_lg.jpg/800px-Strykerinterior_lg.jpg",
+						"desc": "Interior of Medical Evacuation Vehicle"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flickr_-_The_U.S._Army_-_TOW_missile_fire.jpg/800px-Flickr_-_The_U.S._Army_-_TOW_missile_fire.jpg",
+						"desc": "Anti-Tank Guided missile vehicle"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dragoon_Ride_150326-A-WZ553-606.jpg/800px-Dragoon_Ride_150326-A-WZ553-606.jpg",
+						"desc": "U.S. Army 3rd Squadron, 2nd Cavalry Regiment soldiers in a Stryker"
+					}
+				]
+			}
+		},
+		{
+			"name": "MIM-104_Patriot",
+			"data": [
+				{
+					"header": "Introduction",
+					"text": "Prior to the Patriot, Raytheon was involved in a number of surface to air missile programs, including FABMDS (Field Army Ballistic Missile Defense System), AADS-70 (Army Air-Defense System – 1970) and SAM-D (Surface-to-Air Missile – Development). In 1975, the SAM-D missile successfully engaged a drone at the White Sands Missile Range. In 1976, it was renamed the PATRIOT Air Defense Missile System. The MIM-104 Patriot combined several new technologies, including the MPQ-53 passive electronically scanned array radar and track-via-missile guidance."
+				},
+				{
+					"header": "AN/MPQ-53, -65 and -65A Radar Set",
+					"text": "The AN/MPQ-53/65 Radar Set is a passive electronically scanned array radar equipped with IFF, electronic counter-countermeasure (ECCM), and track-via-missile (TVM) guidance subsystems.The AN/MPQ-53 Radar Set supports PAC-2 units, while the AN/MPQ-65 Radar Set supports PAC-2 and PAC-3 units. The main difference between these two radars is the addition of a second travelling wave tube (TWT), which gives the −65 radar increased search, detection, and tracking capability. The radar antenna array consists of over 5,000 elements that \"deflect\" the radar beam many times per second."
+				},
+				{
+					"header": "Patriot missile design",
+					"text": "The PAC-2 family of missiles all have a fairly standard design, the only differences between the variants being certain internal components. They consist of (from front to rear) the radome, guidance section, warhead section, propulsion section, and control actuator section."
+				},
+				{
+					"header": "MIM-104A",
+					"text": "Patriot was first introduced with a single missile type: the MIM-104A. This was the initial \"Standard\" missile, still known as \"Standard\" today. In Patriot's early days, the system was used exclusively as an anti-aircraft weapon, with no capability against ballistic missiles. This was remedied during the late 1980s when Patriot received its first major system overhaul with the introduction of the Patriot Advanced Capability missile and concurrent system upgrades."
+				},
+				{
+					"header": " MIM-104B (PAC-1)",
+					"text": "Patriot Advanced Capability (PAC-1), known today as the PAC-1 upgrade, was a software-only upgrade. The most significant aspects of this upgrade were changing the way the radar searched and the way the system defended its assets. Instead of searching low to the horizon, the top of the radar's search angle was lifted to near vertical (89 degrees) from the previous angle of 25 degrees. This was done as a counter to the steep parabolic trajectory of inbound ballistic missiles. The search beams of the radar were tightened, and while in \"TBM search mode\" the \"flash\", or the speed at which these beams were shot out, was increased significantly."
+				},
+				{
+					"header": " MIM-104C (PAC-2)",
+					"text": "During the late 1980s, tests began to indicate that, although Patriot was certainly capable of intercepting inbound ballistic missiles, it was questionable whether the MIM-104A/B missile was capable of destroying them reliably. This necessitated the introduction of the PAC-2 missile and system upgrade."
+				},
+				{
+					"header": " MIM-104D (PAC-2/GEM)",
+					"text": "There were more upgrades to PAC-2 systems throughout the 1990s and into the 21st century, mostly centering on software. The PAC-2 missiles were modified significantly—four separate variants became known collectively as guidance enhanced missiles (GEM)."
+				},
+				{
+					"header": " MIM-104E (PAC-2/GEM+)",
+					"text": "Just prior to OIF, it was decided to further upgrade the GEM and PAC-2 missiles. This upgrade program produced missiles known as the GEM-T and the GEM-C, the \"T\" designator referring to tactical ballistic missiles, and the \"C\" designator referring to cruise missiles. These missiles were both given a totally new nose section, which was designed specifically to be more effective against low altitude, low RCS targets like cruise missiles. The GEM-T was given a new fuze which was further optimized against ballistic missiles and a new low noise oscillator which increases the seeker's sensitivity to low radar cross-section targets. The GEM-C is the upgraded version of the GEM, and the GEM-T is the upgraded version of the PAC-2. The GEM+ entered service in November 2002."
+				},
+				{
+					"header": "Upgrades",
+					"text": "PAC-3 system upgrades continue under the International Engineering Services Program (IESP) which includes all countries that rely on the Patriot for integrated air and missile defense - as of 2022, the United States of America, The Netherlands, Germany, Japan, Israel, Saudi Arabia, Kuwait, Taiwan, Greece, Spain, South Korea, United Arab Emirates, Qatar, Romania, Sweden, Poland, and Bahrain."
+				},
+				{
+					"header": "Patriot battalion",
+					"text": "In the U.S. Army, the Patriot System is designed around the battalion echelon. A Patriot battalion consists of a headquarters battery, which includes the Patriot ICC and its operators), a maintenance company, and between four and six \"line batteries\", which are the actual launching batteries that employ the Patriot systems. Each line battery consists of (nominally) six launchers[citation needed] and three or four platoons: Fire Control platoon, Launcher platoon, and a Headquarters/Maintenance platoon - either a single platoon or separated into two separate units, at the battery commander's discretion."
+				},
+				{
+					"header": "Operation",
+					"text": "Following is the process a PAC-2 firing battery uses to engage a single target (an aircraft) with a single missile:[citation needed]"
+				},
+				{
+					"header": "Trial by fire",
+					"text": "Prior to the First Gulf War, ballistic missile defense was an unproven concept in war. During Operation Desert Storm, in addition to its anti-aircraft mission, the Patriot was assigned to shoot down incoming Iraqi Scud or Al Hussein short range ballistic missiles launched at Israel and Saudi Arabia. The first combat use of Patriot occurred January 18, 1991, when it engaged what was later found to be a computer glitch. There were actually no Scuds fired at Saudi Arabia on January 18. This incident was widely misreported as the first successful interception of an enemy ballistic missile in history."
+				},
+				{
+					"header": "Failure at Dhahran",
+					"text": "On February 25, 1991, an Iraqi Al Hussein Scud missile hit the barracks in Dhahran, Saudi Arabia, killing 28 soldiers from the U.S. Army's 14th Quartermaster Detachment."
+				},
+				{
+					"header": "US-led invasion of Iraq (2003)",
+					"text": "Patriot was deployed to Iraq a second time in 2003, this time to provide air and missile defense for the forces conducting Operation Iraqi Freedom (OIF). Patriot PAC-3, GEM, and GEM+ missiles both had a very high success rate, intercepting Al-Samoud 2 and Ababil-100 tactical ballistic missiles. No longer-range ballistic missiles were fired during that conflict. The systems were stationed in Kuwait and Iraq, and successfully destroyed a number of hostile surface-to-surface missiles using the new PAC-3 and guidance enhanced missiles."
+				},
+				{
+					"header": "Operation Protective Edge (2014)",
+					"text": "During Operation Protective Edge, Patriot batteries of the Israeli Air Defense Command intercepted and destroyed two unmanned aerial vehicles launched by Hamas. The interception of a Hamas drone in July 2014, was the first time in the history of the Patriot system's use that it successfully intercepted an enemy aircraft."
+				},
+				{
+					"header": "Syrian civil war (2014–)",
+					"text": "In August 2014, a Syrian unmanned aerial vehicle was shot down by an Israeli Air Defense Command MIM-104D Patriot missile near Quneitra, after it had penetrated the airspace over the Israeli-controlled Golan Heights. In September 2014, a Syrian Air Force Sukhoi Su-24 was shot down in similar circumstances."
+				},
+				{
+					"header": "Service with Saudi Arabia",
+					"text": "In June 2015, a Patriot battery was used to shoot down a Scud missile, fired at Saudi Arabia by Houthi rebels in response to the Saudi Arabian-led intervention in Yemen. Another Scud was fired at an electricity station in Jizan province and intercepted by a Saudi Patriot in August 2015."
+				},
+				{
+					"header": "Service with the United Arab Emirates",
+					"text": "According to Brigadier General Murad Turaiq, the commander of some of the Yemeni forces allied to the Saudi-led coalition currently fighting in Yemen, Patriot air defense systems deployed to Yemen by the United Arab Emirates (UAE) have successfully intercepted two ballistic missiles fired by Houthi forces. General Turaiq told the Abu Dhabi-based The National newspaper on November 14, 2015 that the first missile was shot down late the previous day in the Al-Gofainah area and a second was intercepted before it hit the building hosting the control centre for forces operating in Marib and Al-Baydah provinces. Airbus Defence and Space satellite imagery obtained by IHS Jane's showed two Patriot fire units, each with two launchers, deployed at the Safir airstrip in Marib province on October 1."
+				},
+				{
+					"header": "Talisman Sabre Exercise",
+					"text": "In July 2021, the US Army used a battery of Patriot missiles in the Exercise Talisman Saber in the Shoalwater Bay Training Area in Queensland, Australia. The US Army test fired Patriot PAC2 interceptor missiles and successfully intercepted target drones."
+				},
+				{
+					"header": "Service with Poland and Ukraine",
+					"text": "On 9 March 2022, the U.S. European Command announced,  in response to Russia's invasion of Ukraine, that it  would send two Patriot air defense systems to Poland to \"proactively counter any potential threat to U.S. and Allied forces and NATO territory\". Poland asked Germany to transfer the Patriots to Ukraine. Germany declined."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mobile surface-to-air missile/anti-ballistic missile system"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "Since 1981; initial operational capacity 1984."
+				},
+				{
+					"key": "Used by",
+					"value": "See operators"
+				},
+				{
+					"key": "Wars",
+					"value": "Gulf WarIraq War2014 Israel–Gaza conflictSyrian Civil WarYemeni Civil War (2015–present)Saudi Arabian-led intervention in YemenSaudi Arabian–Yemeni border conflict (2015–present)Russo-Ukrainian war2023 Israel–Hamas war"
+				},
+				{
+					"key": "Designer",
+					"value": "Raytheon, Hughes, and RCA"
+				},
+				{
+					"key": "Designed",
+					"value": "1969"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Raytheon, Lockheed Martin, and Boeing"
+				},
+				{
+					"key": "Unit cost",
+					"value": "Domestic cost: For a battery about US$1.09 billion (FY 2022) for a single PAC-3 MSE missile US$4 millionExport cost: For a battery about US$2.37 - 2.5 billion, for a single missile US$6-10 million (FY 2018)"
+				},
+				{
+					"key": "Produced",
+					"value": "1976"
+				},
+				{
+					"key": "No. built",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}1,106 launchers in U.S. (483 were in service in 2010)Over 172 launchers exportedOver 10,000 missiles manufactured"
+				},
+				{
+					"key": "Variants",
+					"value": "See § Variants"
+				},
+				{
+					"key": "Type",
+					"value": "Surface-to-air missile"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "Designer",
+					"value": "Raytheon"
+				},
+				{
+					"key": "Unit cost",
+					"value": "US$1 to 6 million"
+				},
+				{
+					"key": "No. built",
+					"value": "over 10,000"
+				},
+				{
+					"key": "Variants",
+					"value": "Standard, ASOJ/SOJC, PAC-2, PAC-2 GEM, GEM/C, GEM/T (or GEM+), PAC-3, PAC-3 MSE, PAAC-4 (SkyCeptor)"
+				},
+				{
+					"key": "Mass",
+					"value": "PAC-1/PAC-2: 914 kg (2,015 lb)PAC-3: 312 kg (688 lb)PAC-3 MSE: 373 kg (822 lb)"
+				},
+				{
+					"key": "Length",
+					"value": "PAC-1/PAC-2: 5,310 mm (17 ft 5 in)PAC-3: 5,200 mm (17 ft 1 in)PAC-3 MSE: 5,200 mm (17 ft 1 in)PAAC-4: 4,600 mm (15 ft 1 in)"
+				},
+				{
+					"key": "Diameter",
+					"value": "PAC-1/PAC-2: 410 mm (16 in)PAC-3: 255 mm (10.0 in)PAC-3 MSE: 300 mm (12 in)"
+				},
+				{
+					"key": "Wingspan",
+					"value": "PAC-1/PAC-2: 850 mm (2 ft 9 in)PAC-3: 510 mm (1 ft 8 in)PAC-3 MSE: 920 mm (3 ft 0 in)"
+				},
+				{
+					"key": "Warhead",
+					"value": "PAC-1/PAC-2: M248 Composition B HE blast/fragmentation with two layers of pre-formed fragments and Octol 75/25 HE blast/fragmentation"
+				},
+				{
+					"key": "Warhead weight",
+					"value": "PAC-1/PAC-2: 200 lb (90 kg)PAC-3: 160 lb (73 kg)"
+				},
+				{
+					"key": "Detonationmechanism",
+					"value": "Proximity fuse"
+				},
+				{
+					"key": "Propellant",
+					"value": "Solid-fuel rocket"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "PAC-1: 56 mi (90 km)[citation needed]PAC-2: 99 mi (160 km)PAC-3: 19 mi (30 km) against ballistic missilePAC-3 MSE: 37 mi (60 km) against ballistic missile"
+				},
+				{
+					"key": "Flight altitude",
+					"value": "79,500 feet (24,200 m)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "PAC-1: Mach 2.8PAC-2/PAC-3: Mach 4.1 (5000 km/h)"
+				},
+				{
+					"key": "Launchplatform",
+					"value": "Mobile trainable round semi-trailer"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Patriot_missile_launch_b.jpg/800px-Patriot_missile_launch_b.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Soldiers_from_the_31st_Air_Defense_Artillery_Brigade_at_work.jpg/800px-Soldiers_from_the_31st_Air_Defense_Artillery_Brigade_at_work.jpg",
+						"desc": "Soldiers from the 31st Air Defense Artillery Brigade conducting reload from a Guided Missile Transporter (GMT)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Operator_in_de_ICC_%28Information_Coordination_Central_center%29_van_een_Nederlandse_Patriot-batterij_bij_Brakstadt_in_Noorwegen_%282009_D040309-C1204%29.jpg/800px-Operator_in_de_ICC_%28Information_Coordination_Central_center%29_van_een_Nederlandse_Patriot-batterij_bij_Brakstadt_in_Noorwegen_%282009_D040309-C1204%29.jpg",
+						"desc": "An operator in the Information Coordination Central (ICC) monitors the actions of the battery via his display."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/JASDF_Patriot_RS%28RadarSet%29_tsuiki_20121028_113836.jpg/800px-JASDF_Patriot_RS%28RadarSet%29_tsuiki_20121028_113836.jpg",
+						"desc": "A detailed view of an AN/MPQ-53 Radar Set"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Raytheons_GaN-based_AESA_Radar_Prototype.jpg/800px-Raytheons_GaN-based_AESA_Radar_Prototype.jpg",
+						"desc": "An AN/MPQ-65A AESA radar set"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Communicatiesysteem-van-de-patriot.jpg/800px-Communicatiesysteem-van-de-patriot.jpg",
+						"desc": "Operator stations (pre-PDB 7)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/JASDF_Patriot_AMG%28AntennaMastGroup%29_ashiya_20161009_100600.jpg/800px-JASDF_Patriot_AMG%28AntennaMastGroup%29_ashiya_20161009_100600.jpg",
+						"desc": "OE-349/MRC Antenna Mast Group"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/JASDF_MIM-104_Patriot_PAC-2_Electric_Power_Plant%28Nissan_Diesel_Big_Thumb%2C_49-0182%29_left_rear_view_at_Kasuga_Air_Base_November_25%2C_2017.jpg/800px-JASDF_MIM-104_Patriot_PAC-2_Electric_Power_Plant%28Nissan_Diesel_Big_Thumb%2C_49-0182%29_left_rear_view_at_Kasuga_Air_Base_November_25%2C_2017.jpg",
+						"desc": "EPP-III Electric Power Plant vehicle of JSDF"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ken_H._MIM-104_Patriot%28PAC-2_%26_PAC-3%29_%285092719479%29.jpg/800px-Ken_H._MIM-104_Patriot%28PAC-2_%26_PAC-3%29_%285092719479%29.jpg",
+						"desc": "M901 (PAC-2) and M902 (PAC-3) Launching Stations"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Maintenance_check_on_a_Patriot_missile.jpg/800px-Maintenance_check_on_a_Patriot_missile.jpg",
+						"desc": "A PAC-3 missile launcher, note the four missiles in each canister"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/JASDF_MIM-104_Patriot_PAC-3_Missile%28dummy_model%29_left_side_view_at_Hamamatsu_Air_Base_October_20%2C_2019.jpg/800px-JASDF_MIM-104_Patriot_PAC-3_Missile%28dummy_model%29_left_side_view_at_Hamamatsu_Air_Base_October_20%2C_2019.jpg",
+						"desc": "PAC-3 dummy missile on display at the Hamamatsu Air Base"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/JASDF_MIM-104_Patriot_PAC-3_Missile%28dummy_model%29_side_thruster_at_Hamamatsu_Air_Base_October_20%2C_2019.jpg/800px-JASDF_MIM-104_Patriot_PAC-3_Missile%28dummy_model%29_side_thruster_at_Hamamatsu_Air_Base_October_20%2C_2019.jpg",
+						"desc": "Attitude Control Motors"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/MEADS_Launch_WSMR_2734-1.jpg/800px-MEADS_Launch_WSMR_2734-1.jpg",
+						"desc": "Patriot PAC-3 MSE missile starts from MEADS launcher"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Patriot_PAC-3_MSE_SIAF-2022.jpg/800px-Patriot_PAC-3_MSE_SIAF-2022.jpg",
+						"desc": "M903 LS with 2 PAC-3 and 4 PAC-3 MSE missile containers"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Yahalom-MIM-104D-Patriot--Independence-Day-2017-Tel-Nof-IZE-026.jpg/800px-Yahalom-MIM-104D-Patriot--Independence-Day-2017-Tel-Nof-IZE-026.jpg",
+						"desc": "An Israeli Patriot launcher on display for Yom Ha'atzmaut 2017"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Japan_Air_Self-Defense_Force_MIM-104_Patriot_launcher.jpg/800px-Japan_Air_Self-Defense_Force_MIM-104_Patriot_launcher.jpg",
+						"desc": "Japan Air Self-Defense Force Patriot PAC-2 launcher"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Patriot_missile_battery_Romania_2.jpg/800px-Patriot_missile_battery_Romania_2.jpg",
+						"desc": "Romanian PAC-2 and PAC-3 MSE launchers"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/800px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg",
+						"desc": "US Army's battery of Patriot PAC-2 and PAC-3 launchers, Operation Active Fence"
+					}
+				]
+			}
+		}
+	]
+}
