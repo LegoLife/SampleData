@@ -2,58 +2,6 @@
 	"count": 15,
 	"data": [
 		{
-			"name": "Cardom",
-			"data": [
-				{
-					"header": "Overview",
-					"text": "The system uses a new Computerized Integrated Navigation and Self Positioning and Aiming systems. Its modern Target Acquisition Devices together with a specially designed Recoiling Mortar System, attenuates the firing loads and enables mounting the systems on wheeled and tracked AFV's, or even soft-skinned vehicles such as trucks. The CARDOM Aiming mechanisms are linked to state-of-the-art command, control and communication systems, to achieve quick response automatic laying mode. The IDF delivered Cardom system takes target acquisition data, that provides range, bearing, position and other data from an observation point and transmits it directly to the Cardom system. Using electrical servo motors the mortar barrel is then set at the exact traverse and elevation angles ready for firing."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Recoil mortar system"
-				},
-				{
-					"key": "In service",
-					"value": "2003-present"
-				},
-				{
-					"key": "Used by",
-					"value": "US army, IDF, NATO forces and more"
-				},
-				{
-					"key": "Wars",
-					"value": "List of Conflicts War in Afghanistan (2001–2021)  Iraq War Syrian civil war 2020 Nagorno-Karabakh conflict"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Soltam Systems"
-				},
-				{
-					"key": "Caliber",
-					"value": "81 mm or 120 mm"
-				},
-				{
-					"key": "Rate of fire",
-					"value": "16 rounds per min, 4 rpm sustained"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stryker_fie_120.jpg/800px-Stryker_fie_120.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Keshet-120-mortar001.jpg/800px-Keshet-120-mortar001.jpg",
-						"desc": "IDF \"Keshet\" 120mm mortar."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Illuminationflare.jpg/800px-Illuminationflare.jpg",
-						"desc": "Cardom on a US  M1129 Mortar Carrier in operation in Iraq"
-					}
-				]
-			}
-		},
-		{
 			"name": "M119_howitzer",
 			"data": [],
 			"infobox": [
@@ -154,6 +102,261 @@
 						"desc": "Soldiers with the 3rd Battalion, 7th Field Artillery Regiment, 25th Infantry Division (Light) position an M119A1 howitzer near Forward Operating Base Cobra, Afghanistan, 23 October 2004."
 					}
 				]
+			}
+		},
+		{
+			"name": "M992_Field_Artillery_Ammunition_Supply_Vehicle",
+			"data": [
+				{
+					"header": "External links",
+					"text": " Media related to M992 Field Artillery Ammunition Support Vehicle at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Ammunition resupply vehicle"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1982–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See users"
+				},
+				{
+					"key": "Designer",
+					"value": "BMY Combat Systems"
+				},
+				{
+					"key": "Designed",
+					"value": "1979–1982"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "BAE Systems Inc."
+				},
+				{
+					"key": "Variants",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}M992M992A1M992A2M992A3M1050"
+				},
+				{
+					"key": "Mass",
+					"value": "28.8 short tons (26.1 t)"
+				},
+				{
+					"key": "Length",
+					"value": "21 ft 8 in (6.6 m)"
+				},
+				{
+					"key": "Width",
+					"value": "10 ft 4 in (3.15 m)"
+				},
+				{
+					"key": "Height",
+					"value": "10 ft 9 in (3.28 m)"
+				},
+				{
+					"key": "Crew",
+					"value": "4"
+				},
+				{
+					"key": "Armor",
+					"value": "5083 aluminium alloy"
+				},
+				{
+					"key": "Mainarmament",
+					"value": ".50 BMG (12.7 mm) M2 HB MG"
+				},
+				{
+					"key": "Engine",
+					"value": "Detroit Diesel 8V-71T LHR, 9.3 litre, 8 cylinder, turbocharged, 2 stroke diesel440 hp (330 kW) at 2,350 rpm"
+				},
+				{
+					"key": "Payload capacity",
+					"value": "95 x 155 mm projectiles, charges and fuzes"
+				},
+				{
+					"key": "Drive",
+					"value": "Tracked"
+				},
+				{
+					"key": "Transmission",
+					"value": "Allison Transmission XTG-411-4 crossdrive, 4 forward, 2 reverse"
+				},
+				{
+					"key": "Suspension",
+					"value": "Torsion bar"
+				},
+				{
+					"key": "Fuel capacity",
+					"value": "135 US gal (511 L)"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "220 mi (354 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "40 mph (64 km/h)"
+				},
+				{
+					"key": "References",
+					"value": "Janes"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/M992A2_FAASV.jpg/800px-M992A2_FAASV.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Loader_M-992.jpg/800px-Loader_M-992.jpg",
+						"desc": "Inside the M992 as viewed from the rear as well as its loader"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/M109A7_-_200916-A-BT735-939.jpg/800px-M109A7_-_200916-A-BT735-939.jpg",
+						"desc": "M992A3 Field Artillery Ammunition Support Vehicle"
+					}
+				]
+			}
+		},
+		{
+			"name": "Cardom",
+			"data": [
+				{
+					"header": "Overview",
+					"text": "The system uses a new Computerized Integrated Navigation and Self Positioning and Aiming systems. Its modern Target Acquisition Devices together with a specially designed Recoiling Mortar System, attenuates the firing loads and enables mounting the systems on wheeled and tracked AFV's, or even soft-skinned vehicles such as trucks. The CARDOM Aiming mechanisms are linked to state-of-the-art command, control and communication systems, to achieve quick response automatic laying mode. The IDF delivered Cardom system takes target acquisition data, that provides range, bearing, position and other data from an observation point and transmits it directly to the Cardom system. Using electrical servo motors the mortar barrel is then set at the exact traverse and elevation angles ready for firing."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Recoil mortar system"
+				},
+				{
+					"key": "In service",
+					"value": "2003-present"
+				},
+				{
+					"key": "Used by",
+					"value": "US army, IDF, NATO forces and more"
+				},
+				{
+					"key": "Wars",
+					"value": "List of Conflicts War in Afghanistan (2001–2021)  Iraq War Syrian civil war 2020 Nagorno-Karabakh conflict"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Soltam Systems"
+				},
+				{
+					"key": "Caliber",
+					"value": "81 mm or 120 mm"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "16 rounds per min, 4 rpm sustained"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Stryker_fie_120.jpg/800px-Stryker_fie_120.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Keshet-120-mortar001.jpg/800px-Keshet-120-mortar001.jpg",
+						"desc": "IDF \"Keshet\" 120mm mortar."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Illuminationflare.jpg/800px-Illuminationflare.jpg",
+						"desc": "Cardom on a US  M1129 Mortar Carrier in operation in Iraq"
+					}
+				]
+			}
+		},
+		{
+			"name": "M224_mortar",
+			"data": [
+				{
+					"header": "Description",
+					"text": "The M224 system is composed of these parts:"
+				},
+				{
+					"header": "History",
+					"text": "The M224 LWCMS (Lightweight Company Mortar System) replaced the older (WWII-era) 60 mm M2 mortar and the inaccurate M19 Mortar and began fielding as prototypes in the mid-1970s during the Vietnam War. The M2s and M19s had an effective range of only 2,000 m (2,187 yd). While the M224s were designed to fire all types of the older ammunition, their primary rounds are of the newer, longer-range type that range out to 3,489 m (3,816 yd)."
+				},
+				{
+					"header": "Ammunition",
+					"text": "The M224 Mortar can fire the following principal classifications of training and service ammunition:"
+				},
+				{
+					"header": "Fuzes",
+					"text": "The M224 rounds have three fuze types: The Multioption Fuze (M734), the Point-Detonating Fuze (M525), and Timer fuze. The M734 is used for the M720 HE round and can be set to function as proximity burst, near-surface burst, impact burst, or delay burst."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mortar"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1978–present"
+				},
+				{
+					"key": "Used by",
+					"value": "United StatesIraqUkraine"
+				},
+				{
+					"key": "Wars",
+					"value": "Vietnam War (prototype model)Gulf WarWar in AfghanistanIraq WarWar in IraqRusso-Ukrainian War"
+				},
+				{
+					"key": "Unit cost",
+					"value": "$10,658"
+				},
+				{
+					"key": "Variants",
+					"value": "M224M224A1"
+				},
+				{
+					"key": "Mass",
+					"value": "21.1 kilograms (47 lb)"
+				},
+				{
+					"key": "Barrel length",
+					"value": "1 meter (3.3 feet)"
+				},
+				{
+					"key": "Crew",
+					"value": "3"
+				},
+				{
+					"key": "Caliber",
+					"value": "60 mm (2.4 in)"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "up to 20 rpm sustained, 30 rpm in exceptional circumstances and for short periods"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "HE: 70–3,490 m(76–3,816 yds)"
+				},
+				{
+					"key": "Feed system",
+					"value": "manual"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/60mm_mortar_round_being_launch_%28crop%29.jpg/800px-60mm_mortar_round_being_launch_%28crop%29.jpg",
+				"other": []
 			}
 		},
 		{
@@ -312,209 +515,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/USMC-110818-M-KU932-174.jpg/800px-USMC-110818-M-KU932-174.jpg",
 						"desc": "Round with the standard four C-charges"
-					}
-				]
-			}
-		},
-		{
-			"name": "M224_mortar",
-			"data": [
-				{
-					"header": "Description",
-					"text": "The M224 system is composed of these parts:"
-				},
-				{
-					"header": "History",
-					"text": "The M224 LWCMS (Lightweight Company Mortar System) replaced the older (WWII-era) 60 mm M2 mortar and the inaccurate M19 Mortar and began fielding as prototypes in the mid-1970s during the Vietnam War. The M2s and M19s had an effective range of only 2,000 m (2,187 yd). While the M224s were designed to fire all types of the older ammunition, their primary rounds are of the newer, longer-range type that range out to 3,489 m (3,816 yd)."
-				},
-				{
-					"header": "Ammunition",
-					"text": "The M224 Mortar can fire the following principal classifications of training and service ammunition:"
-				},
-				{
-					"header": "Fuzes",
-					"text": "The M224 rounds have three fuze types: The Multioption Fuze (M734), the Point-Detonating Fuze (M525), and Timer fuze. The M734 is used for the M720 HE round and can be set to function as proximity burst, near-surface burst, impact burst, or delay burst."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Mortar"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "1978–present"
-				},
-				{
-					"key": "Used by",
-					"value": "United StatesIraqUkraine"
-				},
-				{
-					"key": "Wars",
-					"value": "Vietnam War (prototype model)Gulf WarWar in AfghanistanIraq WarWar in IraqRusso-Ukrainian War"
-				},
-				{
-					"key": "Unit cost",
-					"value": "$10,658"
-				},
-				{
-					"key": "Variants",
-					"value": "M224M224A1"
-				},
-				{
-					"key": "Mass",
-					"value": "21.1 kilograms (47 lb)"
-				},
-				{
-					"key": "Barrel length",
-					"value": "1 meter (3.3 feet)"
-				},
-				{
-					"key": "Crew",
-					"value": "3"
-				},
-				{
-					"key": "Caliber",
-					"value": "60 mm (2.4 in)"
-				},
-				{
-					"key": "Rate of fire",
-					"value": "up to 20 rpm sustained, 30 rpm in exceptional circumstances and for short periods"
-				},
-				{
-					"key": "Effective firing range",
-					"value": "HE: 70–3,490 m(76–3,816 yds)"
-				},
-				{
-					"key": "Feed system",
-					"value": "manual"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/60mm_mortar_round_being_launch_%28crop%29.jpg/800px-60mm_mortar_round_being_launch_%28crop%29.jpg",
-				"other": []
-			}
-		},
-		{
-			"name": "M992_Field_Artillery_Ammunition_Supply_Vehicle",
-			"data": [
-				{
-					"header": "External links",
-					"text": " Media related to M992 Field Artillery Ammunition Support Vehicle at Wikimedia Commons"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Ammunition resupply vehicle"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "1982–present"
-				},
-				{
-					"key": "Used by",
-					"value": "See users"
-				},
-				{
-					"key": "Designer",
-					"value": "BMY Combat Systems"
-				},
-				{
-					"key": "Designed",
-					"value": "1979–1982"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "BAE Systems Inc."
-				},
-				{
-					"key": "Variants",
-					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}M992M992A1M992A2M992A3M1050"
-				},
-				{
-					"key": "Mass",
-					"value": "28.8 short tons (26.1 t)"
-				},
-				{
-					"key": "Length",
-					"value": "21 ft 8 in (6.6 m)"
-				},
-				{
-					"key": "Width",
-					"value": "10 ft 4 in (3.15 m)"
-				},
-				{
-					"key": "Height",
-					"value": "10 ft 9 in (3.28 m)"
-				},
-				{
-					"key": "Crew",
-					"value": "4"
-				},
-				{
-					"key": "Armor",
-					"value": "5083 aluminium alloy"
-				},
-				{
-					"key": "Mainarmament",
-					"value": ".50 BMG (12.7 mm) M2 HB MG"
-				},
-				{
-					"key": "Engine",
-					"value": "Detroit Diesel 8V-71T LHR, 9.3 litre, 8 cylinder, turbocharged, 2 stroke diesel440 hp (330 kW) at 2,350 rpm"
-				},
-				{
-					"key": "Payload capacity",
-					"value": "95 x 155 mm projectiles, charges and fuzes"
-				},
-				{
-					"key": "Drive",
-					"value": "Tracked"
-				},
-				{
-					"key": "Transmission",
-					"value": "Allison Transmission XTG-411-4 crossdrive, 4 forward, 2 reverse"
-				},
-				{
-					"key": "Suspension",
-					"value": "Torsion bar"
-				},
-				{
-					"key": "Fuel capacity",
-					"value": "135 US gal (511 L)"
-				},
-				{
-					"key": "Operationalrange",
-					"value": "220 mi (354 km)"
-				},
-				{
-					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
-					"value": "40 mph (64 km/h)"
-				},
-				{
-					"key": "References",
-					"value": "Janes"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/M992A2_FAASV.jpg/800px-M992A2_FAASV.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Loader_M-992.jpg/800px-Loader_M-992.jpg",
-						"desc": "Inside the M992 as viewed from the rear as well as its loader"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/M109A7_-_200916-A-BT735-939.jpg/800px-M109A7_-_200916-A-BT735-939.jpg",
-						"desc": "M992A3 Field Artillery Ammunition Support Vehicle"
 					}
 				]
 			}
@@ -1200,6 +1200,158 @@
 			}
 		},
 		{
+			"name": "M142_High_Mobility_Artillery_Rocket_System",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The requirement for HIMARS first came about in 1982, when the 9th Infantry Division (Motorized) saw the need to acquire a light multiple rocket launcher as a counterfire asset. The requirement failed to gather support from the Field Artillery School and languished for a number of years. The institutional bias at the time was oriented towards heavy forces. With the waning of the Cold War and the growing interest in low-intensity operations, both the Field Artillery School and Missile Command realized that the M270 MLRS was too heavy for rapid deployment and pushed for the funding of HIMARS. "
+				},
+				{
+					"header": "Design",
+					"text": "The HIMARS is similar in design to the M270 Multiple Launch Rocket System (MLRS), with the main exception being that it is a wheeled vehicle as opposed to a tracked vehicle. The HIMARS can carry the same type of pods as the M270, but carries one pod while the M270 carries two pods. The HIMARS windows are made of sheets of sapphire laminated with glass and polycarbonate."
+				},
+				{
+					"header": "MLRS",
+					"text": "MLRS is a series of 227 mm rockets."
+				},
+				{
+					"header": "GMLRS",
+					"text": "Guided Multiple Launch Rocket System (GMLRS) 227mm rockets have an extended range and add GPS-aided guidance to their Inertial Navigation System. GMLRS rockets were introduced in 2005 and the M30 and M31 rockets are, except for their warheads, identical. As of 1 December 2021[update] 50,000 GMLRS rockets have been produced, with yearly production now exceeding 9,000 rockets. Each rocket pod contains 6 identical rockets. Both Lockheed Martin and the U.S. Army report that the GMLRS has a maximum range of 70+ km (43+ mi).  According to a U.S. Department of Defense document the maximum demonstrated performance of a GMLRS is 84 km (52 mi), a figure also reported elsewhere. Another source reports a maximum range of about 90 km (56 mi). In 2009 Lockheed Martin announced that a GMLRS had been successfully test fired 92 km (57 mi)."
+				},
+				{
+					"header": "Related developments",
+					"text": "Lockheed Martin UK and INSYS had jointly developed a demonstrator rocket artillery system similar to HIMARS for the British Army's \"Lightweight Mobile Artillery Weapon System/Rocket\" (LIMAWS(R)) program. The system consisted of a single MLRS pod, mounted on a Supacat SPV600 chassis. The LIMAWS(R) program was canceled in September 2007."
+				},
+				{
+					"header": "Autonomous Multi-domain Launcher",
+					"text": "The Autonomous Multi-domain Launcher (AML) is unmanned variant of the HIMARS. The AML is equipped with remote controlled launcher and fire-control system that ensures compatibility with current munitions used onboard both M270 MLRS and HIMARS. The concept video shows the AML can carry two pods compared to one on HIMARS and is expected to be compatible with munitions from other services or in development."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Multiple rocket launcherTactical ballistic missile"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2010–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Operators"
+				},
+				{
+					"key": "Wars",
+					"value": ".mw-parser-output .treeview ul{padding:0;margin:0}.mw-parser-output .treeview li{padding:0;margin:0;list-style-type:none;list-style-image:none}.mw-parser-output .treeview li li{background:url(\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Treeview-grey-line.png\")no-repeat 0 -2981px;padding-left:21px;text-indent:0.3em}.mw-parser-output .treeview li li:last-child{background-position:0 -5971px}.mw-parser-output .treeview li.emptyline>ul>.mw-empty-elt:first-child+.emptyline,.mw-parser-output .treeview li.emptyline>ul>li:first-child{background-position:0 9px}War in AfghanistanSyrian Civil WarIraqi Civil WarRusso-Ukrainian WarInvasion of Ukraine"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Lockheed Martin Missiles and Fire Control"
+				},
+				{
+					"key": "Unit cost",
+					"value": "Domestic cost:$3.5 million per one launcher+carrier (FY 2014);$4 million (in 2021) per one launcher+carrier $168,000 per one M31 GMLRS (FY 2023)Export cost:$8 - 10 million per one launcher+carrier (FY 2022);$434,000 per one M31ER GMLRS (FY 2022)"
+				},
+				{
+					"key": "No. built",
+					"value": ">540"
+				},
+				{
+					"key": "Mass",
+					"value": "16,250 kg (35,800 lb)"
+				},
+				{
+					"key": "Length",
+					"value": "7 m (23 ft 0 in)"
+				},
+				{
+					"key": "Width",
+					"value": "2.4 m (7 ft 10 in)"
+				},
+				{
+					"key": "Height",
+					"value": "3.2 m (10 ft 6 in)"
+				},
+				{
+					"key": "Crew",
+					"value": "3"
+				},
+				{
+					"key": "Traverse",
+					"value": "360°"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "depends on armamentstarting from 9 km (5.6 mi) armed with MLRSup to 499 km (310 mi) (planned) armed with PrSM"
+				},
+				{
+					"key": "Armor",
+					"value": "light/medium"
+				},
+				{
+					"key": "Mainarmament",
+					"value": "6 × MLRS or1 × MGM-140 ATACMS or 2 x PrSM"
+				},
+				{
+					"key": "Engine",
+					"value": "Caterpillar 3116 ATAAC 6.6-liter diesel290 hp"
+				},
+				{
+					"key": "Power/weight",
+					"value": "17.8 hp/t (13.27 kW/t)"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "480 km (300 mi)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "85 km/h (53 mph)"
+				},
+				{
+					"key": "Accuracy",
+					"value": "very high e.g. at 186 miles range (300 km) within 3 feet (1 meter)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HIMARS_-_missile_launched.jpg/800px-HIMARS_-_missile_launched.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/HIMARS_Prototype.jpg/800px-HIMARS_Prototype.jpg",
+						"desc": "Proof-of-concept prototype of HIMARS at White Sands Missile Range, April 1991"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fire_support_training_140313-A-DM872-123.jpg/800px-Fire_support_training_140313-A-DM872-123.jpg",
+						"desc": "A HIMARS launcher with armored cab"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/118th_Airlift_Wing_C-130_unloads_Tennessee_National_Guard_equipment_at_Berry_Field_ANGB.jpg/800px-118th_Airlift_Wing_C-130_unloads_Tennessee_National_Guard_equipment_at_Berry_Field_ANGB.jpg",
+						"desc": "A HIMARS launcher being loaded into a C-130 Hercules aircraft in 2011"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/USMC-090301-M-0000S-006.jpg/800px-USMC-090301-M-0000S-006.jpg",
+						"desc": "Reloading a HIMARS with a pod of six rockets"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%281%29.jpg/800px-Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%281%29.jpg",
+						"desc": "A Ukrainian HIMARS in Zaporizhzhia Oblast, July 2022"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%283%29.jpg/800px-Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%283%29.jpg",
+						"desc": "A Ukrainian HIMARS in the Zaporizhya region, June 2022."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Romanian_HIMARS_loaded_into_an_RAF_A400M_airplane.jpg/800px-Romanian_HIMARS_loaded_into_an_RAF_A400M_airplane.jpg",
+						"desc": "Romanian HIMARS loaded into a Royal Air Force A400M Atlas"
+					}
+				]
+			}
+		},
+		{
 			"name": "M270_Multiple_Launch_Rocket_System",
 			"data": [
 				{
@@ -1396,37 +1548,65 @@
 			}
 		},
 		{
-			"name": "M142_High_Mobility_Artillery_Rocket_System",
+			"name": "Terminal_High_Altitude_Area_Defense",
 			"data": [
 				{
-					"header": "Development",
-					"text": "The requirement for HIMARS first came about in 1982, when the 9th Infantry Division (Motorized) saw the need to acquire a light multiple rocket launcher as a counterfire asset. The requirement failed to gather support from the Field Artillery School and languished for a number of years. The institutional bias at the time was oriented towards heavy forces. With the waning of the Cold War and the growing interest in low-intensity operations, both the Field Artillery School and Missile Command realized that the M270 MLRS was too heavy for rapid deployment and pushed for the funding of HIMARS. "
+					"header": "Engineering and manufacturing",
+					"text": "In June 2000, Lockheed won the Engineering and Manufacturing Development (EMD) contract to turn the design into a mobile tactical army fire unit. Flight tests of this system resumed with missile characterization and full system tests in 2006 at White Sands Missile Range, then moved to the Pacific Missile Range Facility. The Interceptor was led through development and initial production by Tory Bruno, who later became CEO of United Launch Alliance."
 				},
 				{
-					"header": "Design",
-					"text": "The HIMARS is similar in design to the M270 Multiple Launch Rocket System (MLRS), with the main exception being that it is a wheeled vehicle as opposed to a tracked vehicle. The HIMARS can carry the same type of pods as the M270, but carries one pod while the M270 carries two pods. The HIMARS windows are made of sheets of sapphire laminated with glass and polycarbonate."
+					"header": "THAAD-ER",
+					"text": "Lockheed is pushing for funding for the development of an extended-range (ER) version of the THAAD to counter maturing threats posed by hypersonic glide vehicles that adversaries may deploy, namely the Chinese WU-14, to penetrate the gap between low- and high-altitude missile defenses. The company performed static fire trials of a modified THAAD booster in 2006 and continued to fund the project until 2008. The current 14.5 in (37 cm)-diameter single-stage booster design would be expanded to a 21 in (53 cm) first stage for greater range with a second \"kick stage\" to close the distance to the target and provide improved velocity at burnout and more lateral movement during an engagement. Although the kill vehicle would not need redesign, the ground-based launcher would have only five missiles instead of eight. As of 2020, THAAD-ER is only an industry concept, but Lockheed believes that the Missile Defense Agency will show interest because of the weapons under development by potential adversaries. If funding for the THAAD-ER begins in 2020, a system could be produced by 2024 to provide an interim capability against a rudimentary hypersonic threat. The Pentagon is researching whether other technologies like directed energy weapons and railguns are better solutions for missile defense; these are expected to become available in the mid to late 2020s."
 				},
 				{
-					"header": "MLRS",
-					"text": "MLRS is a series of 227 mm rockets."
+					"header": "First units equipped (FUE)",
+					"text": "On 28 May 2008, the U.S. Army activated Alpha Battery, 4th Air Defense Artillery Regiment (A-4), 11th Air Defense Artillery Brigade at Fort Bliss, Texas. Battery A-4 is part of the 32nd Army Air & Missile Defense Command. At the time, the battery had 24 THAAD interceptors, three THAAD launchers based on the M1120 HEMTT Load Handling System, a THAAD Fire Control and a THAAD radar. Full fielding began in 2009. On 16 October 2009, the U.S. Army and the Missile Defense Agency activated the second Terminal High Altitude Area Defense Battery, Alpha Battery, 2nd Air Defense Artillery Regiment (A-2), at Fort Bliss."
 				},
 				{
-					"header": "GMLRS",
-					"text": "Guided Multiple Launch Rocket System (GMLRS) 227mm rockets have an extended range and add GPS-aided guidance to their Inertial Navigation System. GMLRS rockets were introduced in 2005 and the M30 and M31 rockets are, except for their warheads, identical. As of 1 December 2021[update] 50,000 GMLRS rockets have been produced, with yearly production now exceeding 9,000 rockets. Each rocket pod contains 6 identical rockets. Both Lockheed Martin and the U.S. Army report that the GMLRS has a maximum range of 70+ km (43+ mi).  According to a U.S. Department of Defense document the maximum demonstrated performance of a GMLRS is 84 km (52 mi), a figure also reported elsewhere. Another source reports a maximum range of about 90 km (56 mi). In 2009 Lockheed Martin announced that a GMLRS had been successfully test fired 92 km (57 mi)."
+					"header": "General missile defense plans",
+					"text": "In May 2017, the Pentagon proposed spending $7.9 billion in its FY 2018 budget on missile defense which includes THAAD interceptors and Patriot interceptors, along with $1.5 billion for Ground-based Midcourse Defense (GMD) against intercontinental ballistic missiles."
 				},
 				{
-					"header": "Related developments",
-					"text": "Lockheed Martin UK and INSYS had jointly developed a demonstrator rocket artillery system similar to HIMARS for the British Army's \"Lightweight Mobile Artillery Weapon System/Rocket\" (LIMAWS(R)) program. The system consisted of a single MLRS pod, mounted on a Supacat SPV600 chassis. The LIMAWS(R) program was canceled in September 2007."
+					"header": "Israel",
+					"text": "In March 2019, Bravo Battery, 2nd ADA Regiment (B-2 THAAD), 11th Air Defense Artillery Brigade was deployed at Nevatim Airbase during a joint US-Israeli drill, after which it was to be moved to an undisclosed location in the Negev desert in southern Israel. The X-Band radar system, which is part of the THAAD system, has been deployed at Nevatim since 2008."
 				},
 				{
-					"header": "Autonomous Multi-domain Launcher",
-					"text": "The Autonomous Multi-domain Launcher (AML) is unmanned variant of the HIMARS. The AML is equipped with remote controlled launcher and fire-control system that ensures compatibility with current munitions used onboard both M270 MLRS and HIMARS. The concept video shows the AML can carry two pods compared to one on HIMARS and is expected to be compatible with munitions from other services or in development."
+					"header": "Romania",
+					"text": "In 2019, while the Aegis Ashore at NSF Deveselu was being upgraded, B Battery, 62nd Air Defense Artillery Regiment (B-62 THAAD), was emplaced in NSF Deveselu, Romania during the interim."
+				},
+				{
+					"header": "Turkey",
+					"text": "According to U.S. officials the AN/TPY-2 radar was deployed at Turkey's Kürecik Air Force base. The radar was activated in January 2012."
+				},
+				{
+					"header": "United Arab Emirates",
+					"text": "The United Arab Emirates (UAE) signed a deal to purchase the missile defense system on 25 December 2011. The United Arab Emirates (UAE) graduated its first two THAAD unit classes at Fort Bliss in 2015 and 2016. Its first live-fire exercises with Patriot missiles took place in 2014."
+				},
+				{
+					"header": "Guam",
+					"text": "In April 2013, the United States declared that Alpha Battery, 4th Air Defense Artillery Regiment (A-4), would be deployed to Guam to defend against a possible North Korean IRBM attack targeting the island. In March 2014, Alpha Battery, 2nd ADA RGT (A-2), did a change of responsibility with A-4 and took over the Defense of Guam Mission. After a successful 12-month deployment by A-4, Delta 2 (D-2) took its place for a 12-month deployment.In 2018-2019 Echo Battery, 3rd ADA Regiment (E-3) deployed to Guam."
+				},
+				{
+					"header": "Europe and the Middle East",
+					"text": "By March 2016, Army Space and Missile Defense Command was considering THAAD deployments to Europe with EUCOM and the Middle East with CENTCOM."
+				},
+				{
+					"header": "Japan",
+					"text": "In November 2015, Japanese Defense Minister Gen Nakatani said he would consider the U.S. deploying the THAAD in Japan to counter the threat of North Korean ballistic missiles.  By October 2016, Japan was considering procuring either THAAD or Aegis Ashore to add a new missile defense layer. In May 2017 it was reported that Japan government officials now favor the Aegis Ashore system as it comes with a wider coverage area, which would mean fewer units needed to protect Japan, and it is also cheaper."
+				},
+				{
+					"header": "Oman",
+					"text": "On 27 May 2013, Oman announced a deal for the acquisition of the THAAD air defense system. However, a sale has not been announced."
+				},
+				{
+					"header": "Saudi Arabia",
+					"text": "On 6 October 2017, the US reached a deal to provide Saudi Arabia with THAAD in a deal worth $15 billion. Seven fire units each with a Raytheon AN/TPY-2 radar, two mobile tactical stations (with two spares for a total of 16), and six launchers (with two spares for a total of 44), 360 interceptor missiles."
 				}
 			],
 			"infobox": [
 				{
 					"key": "Type",
-					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Multiple rocket launcherTactical ballistic missile"
+					"value": "Mobile anti-ballistic missile system"
 				},
 				{
 					"key": "Place of origin",
@@ -1434,115 +1614,95 @@
 				},
 				{
 					"key": "In service",
-					"value": "2010–present"
+					"value": "2008–present"
 				},
 				{
 					"key": "Used by",
-					"value": "See Operators"
+					"value": "United States Army"
 				},
 				{
-					"key": "Wars",
-					"value": ".mw-parser-output .treeview ul{padding:0;margin:0}.mw-parser-output .treeview li{padding:0;margin:0;list-style-type:none;list-style-image:none}.mw-parser-output .treeview li li{background:url(\"https://upload.wikimedia.org/wikipedia/commons/f/f2/Treeview-grey-line.png\")no-repeat 0 -2981px;padding-left:21px;text-indent:0.3em}.mw-parser-output .treeview li li:last-child{background-position:0 -5971px}.mw-parser-output .treeview li.emptyline>ul>.mw-empty-elt:first-child+.emptyline,.mw-parser-output .treeview li.emptyline>ul>li:first-child{background-position:0 9px}War in AfghanistanSyrian Civil WarIraqi Civil WarRusso-Ukrainian WarInvasion of Ukraine"
+					"key": "Designed",
+					"value": "1987"
 				},
 				{
 					"key": "Manufacturer",
-					"value": "Lockheed Martin Missiles and Fire Control"
+					"value": "Lockheed Martin"
 				},
 				{
-					"key": "Unit cost",
-					"value": "Domestic cost:$3.5 million per one launcher+carrier (FY 2014);$4 million (in 2021) per one launcher+carrier $168,000 per one M31 GMLRS (FY 2023)Export cost:$8 - 10 million per one launcher+carrier (FY 2022);$434,000 per one M31ER GMLRS (FY 2022)"
+					"key": "Produced",
+					"value": "2008–present"
 				},
 				{
 					"key": "No. built",
-					"value": ">540"
+					"value": "numerous"
 				},
 				{
 					"key": "Mass",
-					"value": "16,250 kg (35,800 lb)"
+					"value": "900 kg (2,000 lb)"
 				},
 				{
 					"key": "Length",
-					"value": "7 m (23 ft 0 in)"
+					"value": "6.17 m (20 ft 3 in)"
 				},
 				{
-					"key": "Width",
-					"value": "2.4 m (7 ft 10 in)"
-				},
-				{
-					"key": "Height",
-					"value": "3.2 m (10 ft 6 in)"
-				},
-				{
-					"key": "Crew",
-					"value": "3"
-				},
-				{
-					"key": "Traverse",
-					"value": "360°"
-				},
-				{
-					"key": "Effective firing range",
-					"value": "depends on armamentstarting from 9 km (5.6 mi) armed with MLRSup to 499 km (310 mi) (planned) armed with PrSM"
-				},
-				{
-					"key": "Armor",
-					"value": "light/medium"
-				},
-				{
-					"key": "Mainarmament",
-					"value": "6 × MLRS or1 × MGM-140 ATACMS or 2 x PrSM"
+					"key": "Diameter",
+					"value": "340 mm (13 in) (booster); 370 mm (15 in) (kill vehicle)"
 				},
 				{
 					"key": "Engine",
-					"value": "Caterpillar 3116 ATAAC 6.6-liter diesel290 hp"
+					"value": "Single-stage rocket"
 				},
 				{
-					"key": "Power/weight",
-					"value": "17.8 hp/t (13.27 kW/t)"
+					"key": "Propellant",
+					"value": "Pratt & Whitney solid-fueled rocket"
 				},
 				{
 					"key": "Operationalrange",
-					"value": "480 km (300 mi)"
+					"value": "200 km (120 mi; 110 nmi)"
+				},
+				{
+					"key": "Flight ceiling",
+					"value": "150 km (93 mi)"
 				},
 				{
 					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
-					"value": "85 km/h (53 mph)"
+					"value": "2,800 m/s (10,000 km/h; 6,300 mph; Mach 8.2)"
+				},
+				{
+					"key": "Guidancesystem",
+					"value": "Indium-antimonide imaging infra-red seeker head"
 				},
 				{
 					"key": "Accuracy",
-					"value": "very high e.g. at 186 miles range (300 km) within 3 feet (1 meter)"
+					"value": "0m (Hit to kill)"
+				},
+				{
+					"key": "Transport",
+					"value": "TEL"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/HIMARS_-_missile_launched.jpg/800px-HIMARS_-_missile_launched.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg/800px-The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
 				"other": [
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/HIMARS_Prototype.jpg/800px-HIMARS_Prototype.jpg",
-						"desc": "Proof-of-concept prototype of HIMARS at White Sands Missile Range, April 1991"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FBX_T.jpg/800px-FBX_T.jpg",
+						"desc": "The AN/TPY-2 radar"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Fire_support_training_140313-A-DM872-123.jpg/800px-Fire_support_training_140313-A-DM872-123.jpg",
-						"desc": "A HIMARS launcher with armored cab"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tems11.jpg/800px-Tems11.jpg",
+						"desc": "THAAD Energy Management Steering maneuver, used to burn excess propellant"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/118th_Airlift_Wing_C-130_unloads_Tennessee_National_Guard_equipment_at_Berry_Field_ANGB.jpg/800px-118th_Airlift_Wing_C-130_unloads_Tennessee_National_Guard_equipment_at_Berry_Field_ANGB.jpg",
-						"desc": "A HIMARS launcher being loaded into a C-130 Hercules aircraft in 2011"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg/800px-Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg",
+						"desc": "Two THAAD launchers shortly after being flown into South Korea in March 2017"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/USMC-090301-M-0000S-006.jpg/800px-USMC-090301-M-0000S-006.jpg",
-						"desc": "Reloading a HIMARS with a pod of six rockets"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg/800px-SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg",
+						"desc": "SM 3 Block IIA launched from the Aegis Ashore in Hawaii"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%281%29.jpg/800px-Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%281%29.jpg",
-						"desc": "A Ukrainian HIMARS in Zaporizhzhia Oblast, July 2022"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%283%29.jpg/800px-Ukrainian_HIMARS_in_Zaporizhya_oblast%2C_early_June_2022_%283%29.jpg",
-						"desc": "A Ukrainian HIMARS in the Zaporizhya region, June 2022."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Romanian_HIMARS_loaded_into_an_RAF_A400M_airplane.jpg/800px-Romanian_HIMARS_loaded_into_an_RAF_A400M_airplane.jpg",
-						"desc": "Romanian HIMARS loaded into a Royal Air Force A400M Atlas"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/THAAD_missile_launch_on_Wake_Island.jpg/800px-THAAD_missile_launch_on_Wake_Island.jpg",
+						"desc": "A THAAD interceptor is launched from a THAAD battery on Wake Island during Flight Test Operational (FTO)-02 Event 2a where two air-launched ballistic missile targets were successfully intercepted in November 2015."
 					}
 				]
 			}
@@ -1751,166 +1911,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dragoon_Ride_150326-A-WZ553-606.jpg/800px-Dragoon_Ride_150326-A-WZ553-606.jpg",
 						"desc": "U.S. Army 3rd Squadron, 2nd Cavalry Regiment soldiers in a Stryker"
-					}
-				]
-			}
-		},
-		{
-			"name": "Terminal_High_Altitude_Area_Defense",
-			"data": [
-				{
-					"header": "Engineering and manufacturing",
-					"text": "In June 2000, Lockheed won the Engineering and Manufacturing Development (EMD) contract to turn the design into a mobile tactical army fire unit. Flight tests of this system resumed with missile characterization and full system tests in 2006 at White Sands Missile Range, then moved to the Pacific Missile Range Facility. The Interceptor was led through development and initial production by Tory Bruno, who later became CEO of United Launch Alliance."
-				},
-				{
-					"header": "THAAD-ER",
-					"text": "Lockheed is pushing for funding for the development of an extended-range (ER) version of the THAAD to counter maturing threats posed by hypersonic glide vehicles that adversaries may deploy, namely the Chinese WU-14, to penetrate the gap between low- and high-altitude missile defenses. The company performed static fire trials of a modified THAAD booster in 2006 and continued to fund the project until 2008. The current 14.5 in (37 cm)-diameter single-stage booster design would be expanded to a 21 in (53 cm) first stage for greater range with a second \"kick stage\" to close the distance to the target and provide improved velocity at burnout and more lateral movement during an engagement. Although the kill vehicle would not need redesign, the ground-based launcher would have only five missiles instead of eight. As of 2020, THAAD-ER is only an industry concept, but Lockheed believes that the Missile Defense Agency will show interest because of the weapons under development by potential adversaries. If funding for the THAAD-ER begins in 2020, a system could be produced by 2024 to provide an interim capability against a rudimentary hypersonic threat. The Pentagon is researching whether other technologies like directed energy weapons and railguns are better solutions for missile defense; these are expected to become available in the mid to late 2020s."
-				},
-				{
-					"header": "First units equipped (FUE)",
-					"text": "On 28 May 2008, the U.S. Army activated Alpha Battery, 4th Air Defense Artillery Regiment (A-4), 11th Air Defense Artillery Brigade at Fort Bliss, Texas. Battery A-4 is part of the 32nd Army Air & Missile Defense Command. At the time, the battery had 24 THAAD interceptors, three THAAD launchers based on the M1120 HEMTT Load Handling System, a THAAD Fire Control and a THAAD radar. Full fielding began in 2009. On 16 October 2009, the U.S. Army and the Missile Defense Agency activated the second Terminal High Altitude Area Defense Battery, Alpha Battery, 2nd Air Defense Artillery Regiment (A-2), at Fort Bliss."
-				},
-				{
-					"header": "General missile defense plans",
-					"text": "In May 2017, the Pentagon proposed spending $7.9 billion in its FY 2018 budget on missile defense which includes THAAD interceptors and Patriot interceptors, along with $1.5 billion for Ground-based Midcourse Defense (GMD) against intercontinental ballistic missiles."
-				},
-				{
-					"header": "Israel",
-					"text": "In March 2019, Bravo Battery, 2nd ADA Regiment (B-2 THAAD), 11th Air Defense Artillery Brigade was deployed at Nevatim Airbase during a joint US-Israeli drill, after which it was to be moved to an undisclosed location in the Negev desert in southern Israel. The X-Band radar system, which is part of the THAAD system, has been deployed at Nevatim since 2008."
-				},
-				{
-					"header": "Romania",
-					"text": "In 2019, while the Aegis Ashore at NSF Deveselu was being upgraded, B Battery, 62nd Air Defense Artillery Regiment (B-62 THAAD), was emplaced in NSF Deveselu, Romania during the interim."
-				},
-				{
-					"header": "Turkey",
-					"text": "According to U.S. officials the AN/TPY-2 radar was deployed at Turkey's Kürecik Air Force base. The radar was activated in January 2012."
-				},
-				{
-					"header": "United Arab Emirates",
-					"text": "The United Arab Emirates (UAE) signed a deal to purchase the missile defense system on 25 December 2011. The United Arab Emirates (UAE) graduated its first two THAAD unit classes at Fort Bliss in 2015 and 2016. Its first live-fire exercises with Patriot missiles took place in 2014."
-				},
-				{
-					"header": "Guam",
-					"text": "In April 2013, the United States declared that Alpha Battery, 4th Air Defense Artillery Regiment (A-4), would be deployed to Guam to defend against a possible North Korean IRBM attack targeting the island. In March 2014, Alpha Battery, 2nd ADA RGT (A-2), did a change of responsibility with A-4 and took over the Defense of Guam Mission. After a successful 12-month deployment by A-4, Delta 2 (D-2) took its place for a 12-month deployment.In 2018-2019 Echo Battery, 3rd ADA Regiment (E-3) deployed to Guam."
-				},
-				{
-					"header": "Europe and the Middle East",
-					"text": "By March 2016, Army Space and Missile Defense Command was considering THAAD deployments to Europe with EUCOM and the Middle East with CENTCOM."
-				},
-				{
-					"header": "Japan",
-					"text": "In November 2015, Japanese Defense Minister Gen Nakatani said he would consider the U.S. deploying the THAAD in Japan to counter the threat of North Korean ballistic missiles.  By October 2016, Japan was considering procuring either THAAD or Aegis Ashore to add a new missile defense layer. In May 2017 it was reported that Japan government officials now favor the Aegis Ashore system as it comes with a wider coverage area, which would mean fewer units needed to protect Japan, and it is also cheaper."
-				},
-				{
-					"header": "Oman",
-					"text": "On 27 May 2013, Oman announced a deal for the acquisition of the THAAD air defense system. However, a sale has not been announced."
-				},
-				{
-					"header": "Saudi Arabia",
-					"text": "On 6 October 2017, the US reached a deal to provide Saudi Arabia with THAAD in a deal worth $15 billion. Seven fire units each with a Raytheon AN/TPY-2 radar, two mobile tactical stations (with two spares for a total of 16), and six launchers (with two spares for a total of 44), 360 interceptor missiles."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Mobile anti-ballistic missile system"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "2008–present"
-				},
-				{
-					"key": "Used by",
-					"value": "United States Army"
-				},
-				{
-					"key": "Designed",
-					"value": "1987"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Lockheed Martin"
-				},
-				{
-					"key": "Produced",
-					"value": "2008–present"
-				},
-				{
-					"key": "No. built",
-					"value": "numerous"
-				},
-				{
-					"key": "Mass",
-					"value": "900 kg (2,000 lb)"
-				},
-				{
-					"key": "Length",
-					"value": "6.17 m (20 ft 3 in)"
-				},
-				{
-					"key": "Diameter",
-					"value": "340 mm (13 in) (booster); 370 mm (15 in) (kill vehicle)"
-				},
-				{
-					"key": "Engine",
-					"value": "Single-stage rocket"
-				},
-				{
-					"key": "Propellant",
-					"value": "Pratt & Whitney solid-fueled rocket"
-				},
-				{
-					"key": "Operationalrange",
-					"value": "200 km (120 mi; 110 nmi)"
-				},
-				{
-					"key": "Flight ceiling",
-					"value": "150 km (93 mi)"
-				},
-				{
-					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
-					"value": "2,800 m/s (10,000 km/h; 6,300 mph; Mach 8.2)"
-				},
-				{
-					"key": "Guidancesystem",
-					"value": "Indium-antimonide imaging infra-red seeker head"
-				},
-				{
-					"key": "Accuracy",
-					"value": "0m (Hit to kill)"
-				},
-				{
-					"key": "Transport",
-					"value": "TEL"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg/800px-The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FBX_T.jpg/800px-FBX_T.jpg",
-						"desc": "The AN/TPY-2 radar"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tems11.jpg/800px-Tems11.jpg",
-						"desc": "THAAD Energy Management Steering maneuver, used to burn excess propellant"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg/800px-Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg",
-						"desc": "Two THAAD launchers shortly after being flown into South Korea in March 2017"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg/800px-SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg",
-						"desc": "SM 3 Block IIA launched from the Aegis Ashore in Hawaii"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/THAAD_missile_launch_on_Wake_Island.jpg/800px-THAAD_missile_launch_on_Wake_Island.jpg",
-						"desc": "A THAAD interceptor is launched from a THAAD battery on Wake Island during Flight Test Operational (FTO)-02 Event 2a where two air-launched ballistic missile targets were successfully intercepted in November 2015."
 					}
 				]
 			}

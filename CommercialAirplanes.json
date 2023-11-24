@@ -1118,6 +1118,262 @@
 			}
 		},
 		{
+			"name": "Embraer_E-Jet_family",
+			"data": [
+				{
+					"header": "Background",
+					"text": "During the 1990s, the Brazilian aerospace manufacturer Embraer had introduced the ERJ family, its first jet-powered regional jet. As demand for the ERJ series proved strong even early on, the company decided that it could not rely on one family of aircraft alone and examined its options for producing a complementary regional jet, including designs that would be larger and more advanced than its preceding aircraft."
+				},
+				{
+					"header": "Intro flight",
+					"text": "On 19 February 2002, the first prototype performed its maiden flight, marking the beginning of a multi-year flight test campaign involving a total of six prototypes. In May 2002, the aircraft was displayed to the public at the Regional Airline Association convention. During that same year, full-rate production of the E-Jet commenced; this activity was centred around a recently-completed factory built by Embraer at its São José dos Campos base."
+				},
+				{
+					"header": "Production",
+					"text": "In 2008, the 400th E-jet was delivered to Republic Airways in the United States. In September 2009, the 600th E-jet was delivered to LOT Polish Airlines.On 10 October 2012, Embraer delivered the 900th E-Jet to Kenya Airways, its 12th E-Jet. On 13 September 2013, the delivery of the 1,000th E-Jet, an E175 to Republic Airways for American Eagle, was marked by a ceremony held at the Embraer factory in São José dos Campos, with a special \"1,000th E-Jet\" decal above the cabin windows."
+				},
+				{
+					"header": "E170",
+					"text": "The E170 is the smallest aircraft in the E-Jet family and was the first to enter revenue service in March 2004. As of 2017, the E170 is out of production. The E170 typically seats around 72 passengers in a typical single class configuration, 66 in a dual class configuration, and up to 78 in a high-density configuration. The E170 directly competed with the Bombardier CRJ700 and loosely with the turboprop Bombardier Q400."
+				},
+				{
+					"header": "Freighter conversions",
+					"text": "On 7 March 2022, Embraer confirmed their intent to enter the cargo market, offering conversions of E190 and E195 aircraft to freighters. These will make their first flights in 2024."
+				},
+				{
+					"header": "Undeveloped variants",
+					"text": "Embraer considered producing an aircraft which was known as the E195X, a stretched version of the E195. It would have seated approximately 130 passengers. The E195X was apparently a response to an American Airlines request for an aircraft to replace its McDonnell Douglas MD-80s. Embraer abandoned plans for the 195X in May 2010, following concerns that its flight range would be too short."
+				},
+				{
+					"header": "Commercial names and official model designations",
+					"text": "The commercial names used for the E170 and E190 families differ from the official model designations, as used (for instance) with the Type-Certificates, and in national registries."
+				},
+				{
+					"header": "Orders and deliveries",
+					"text": "List of Embraer's E-Jet family deliveries and orders:"
+				},
+				{
+					"header": "Accidents and incidents",
+					"text": "The E-Jet has been involved in 21 incidents, including eight hull losses:"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Brazil"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Embraer"
+				},
+				{
+					"key": "First flight",
+					"value": "19 February 2002"
+				},
+				{
+					"key": "Introduction",
+					"value": "17 March 2004 with LOT Polish Airlines"
+				},
+				{
+					"key": "Status",
+					"value": "In service"
+				},
+				{
+					"key": "Primary users",
+					"value": "SkyWest AirlinesRepublic AirwaysEnvoy AirMesa Airlines"
+				},
+				{
+					"key": "Produced",
+					"value": "2001–present"
+				},
+				{
+					"key": "Number built",
+					"value": "1,671 as of 30 June 2023[update]"
+				},
+				{
+					"key": "Variants",
+					"value": "Embraer Lineage 1000"
+				},
+				{
+					"key": "Developed into",
+					"value": "Embraer E-Jet E2 family"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/N247JB_KJFK_%2837103752403%29.jpg/800px-N247JB_KJFK_%2837103752403%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Interior_of_an_Virgin_Australia_%28VH-ZPK%29_Embraer_190.jpg/800px-Interior_of_an_Virgin_Australia_%28VH-ZPK%29_Embraer_190.jpg",
+						"desc": "Four-abreast seating in a Virgin Australia E190"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wider%C3%B8e%2C_LN-WEA%2C_Embraer_E190-E2_%40_HEL.jpg/800px-Wider%C3%B8e%2C_LN-WEA%2C_Embraer_E190-E2_%40_HEL.jpg",
+						"desc": "An E190-E2 of Widerøe, its launch operator"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Embraer_190-100LR%2C_China_Southern_Airlines_JP7321016.jpg/800px-Embraer_190-100LR%2C_China_Southern_Airlines_JP7321016.jpg",
+						"desc": "The flight deck of a China Southern Airlines Embraer E-Jet series aircraft"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lot.embraer.e-170-100st.sp-ldd.arp.jpg/800px-Lot.embraer.e-170-100st.sp-ldd.arp.jpg",
+						"desc": "LOT Polish Airlines operated the first E-jet commercial flight on 17 March 2004 with an E170."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Embraer_ERJ-175LR_%28170-200LR%29_%E2%80%98N109SY%E2%80%99_United_Express_%2828845496911%29.jpg/800px-Embraer_ERJ-175LR_%28170-200LR%29_%E2%80%98N109SY%E2%80%99_United_Express_%2828845496911%29.jpg",
+						"desc": "An E175 operated by SkyWest Airlines for United Express, with the angled winglets of later models"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/JetBlue_Airways%2C_N355JB%2C_Embraer_ERJ-190AR_%2849593480742%29.jpg/800px-JetBlue_Airways%2C_N355JB%2C_Embraer_ERJ-190AR_%2849593480742%29.jpg",
+						"desc": "The E190 launch customer JetBlue took its first delivery in 2005."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Embraer_195_-_RIAT_2011_%286170184857%29.jpg/800px-Embraer_195_-_RIAT_2011_%286170184857%29.jpg",
+						"desc": "Flybe started E195 operations on 22 September 2006."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Embraer_190_%286237483432%29.jpg/800px-Embraer_190_%286237483432%29.jpg",
+						"desc": "E190 planform view"
+					}
+				]
+			}
+		},
+		{
+			"name": "Comac_C919",
+			"data": [
+				{
+					"header": "Naming",
+					"text": "In the model number, the C stands for \"Comac\" and \"China\". The C also forms an \"ABC\" parallel situation with Airbus and Boeing."
+				},
+				{
+					"header": "Preliminary design",
+					"text": "On 24 November 2011, Comac announced the completion of the joint definition phase, marking the end of the preliminary design phase for the C919, with estimated completion of the detailed design phase in 2012. Production of the first C919 prototype began on 9 December 2011. The C919's aerodynamics were designed with the help of the Tianhe-2 supercomputer. The annual production was targeted at 150 planes by 2020. Canada's Bombardier Aerospace started collaborating in March 2012 on supply chain services, electrical systems, human interface, cockpit, flight training, flight-test support, sales, and marketing."
+				},
+				{
+					"header": "Prototyping",
+					"text": "Its announced development budget was 58 billion yuan ($9.5 billion) but its actual cost was estimated at well over $20 billion. The first prototype was expected to complete final assembly in 2014 and perform its first flight in 2015; however, delivery was delayed again until 2018 due to technical difficulties and supply issues. At the November 2014 Zhuhai Airshow, it was announced that the first flight would be delayed to 2017. On 2 November 2015, Comac rolled out its first C919 aircraft."
+				},
+				{
+					"header": "2018",
+					"text": "The delay between first and subsequent flights underlined the program immaturity by maiden flight: flying early at low speed and altitude is possible but faster and higher is limited by aeroelastic flutter needing ground vibration testing and aircraft instrumentation which were not ready in May.Due to flight testing problems, the 2020 introduction previously scheduled was delayed to 2021, for China Eastern Airlines.In February 2018, the first prototype was flying more than once a week."
+				},
+				{
+					"header": "2019",
+					"text": "A fourth prototype conducted its maiden flight on 1 August 2019 from Shanghai Pudong International Airport.A fifth prototype conducted its first flight on 24 October 2019, also from Shanghai airport; the fifth prototype was expected to test for extreme weather conditions, the environmental control system, drainage systems and electrical supplies.Comac rescheduled its certification target from 2020 to 2021, with the first delivery the following year."
+				},
+				{
+					"header": "2021",
+					"text": "After completing cold-weather testing in China's Inner Mongolia, the C919 is slated to conduct flight tests in natural icing conditions from London International Airport in Ontario, Canada during March 2021. However, these tests may be delayed depending on the progression of the COVID-19 pandemic.[needs update]"
+				},
+				{
+					"header": "2022",
+					"text": "The C919 completed its first pre-delivery flight test at Shanghai Pudong International Airport. Comac reports that the aircraft (B-001J, MSN107) successfully completed a 3-hour test session on 14 May 2022. The aircraft bearing the livery of China Eastern Airlines, was set to be delivered in 2022. In May 2022, the heavily modified jet was listed for a price of 653 million yuan (US$101 million), almost matching the Airbus A320neo and the Boeing 737 MAX competitors, and twice the US$50 million price initially anticipated, albeit with composite wings."
+				},
+				{
+					"header": "Variants",
+					"text": "In September 2023, COMAC Chairman He Dongfeng revealed that shortened and extended variants of the C919 would be built, covering a range from 130 to 240 seats. At its maximum, it would fit nearly 50 more passengers than the current variant, which can seat 156-192 people."
+				},
+				{
+					"header": "Configuration and performance",
+					"text": "The dimensions of the C919 are quite similar to those of the Airbus A320; its fuselage is 3.96 metres (13.0 ft) wide and 4.166 metres (13.67 ft) high with a 12.915 square metres (139.02 sq ft) cross-section. This may allow for a common unit load device to be used for both aircraft. It has a 33.6 metres (110 ft) wingspan (35.4 metres (116 ft) with winglets). The aircraft's intended payload capacity will be 20.4 tonnes. The design calls for cruise at Mach 0.785 (450 kn; 834 km/h) with an operating ceiling of 12,200 metres (39,800 feet). There will be two variants: the standard version with a 4,075 km (2,200 nmi; 2,532 mi) range, and a 5,555 km (2,999 nmi; 3,452 mi) extended-range version.The C919 is a conservative design, deemed by analysts to be similar to the 30 year-old A320 and less efficient than the A320neo and 737 MAX."
+				},
+				{
+					"header": "Construction",
+					"text": "The center wing box, outer wing box, wing panels, flaps, and ailerons are planned to be built in Xi'an, China; the center fuselage sections are planned to be built in Hongdu, China. Aluminium-lithium alloys account for 8.8% of the structure and composite materials for 12%. The air frame will be made largely of aluminium alloy. Aircraft design and assembly is performed in Shanghai."
+				},
+				{
+					"header": "Wings",
+					"text": "The wing is of a supercritical design, increasing aerodynamic efficiency by 20% and reducing drag by 8% compared to a non-supercritical wing. The center wing box was originally intended to use carbon fibre composites. It was changed later to an aluminium design to reduce design complications."
+				},
+				{
+					"header": "ACAE CJ-1000A",
+					"text": "AVIC Commercial Aircraft Engine Co was tasked with developing an indigenous engine for the aircraft in 2009."
+				},
+				{
+					"header": "Market",
+					"text": "In 2012 the C919 order book stood at 380 units worth US$26 billion, and averaging $68.4 million. FlightGlobal's Ascend market values in 2013 were $49.2 million for the Airbus A320neo, 51% less than its $100.2 million list price and $51.4 million for the Boeing 737 MAX-8, 49% less than its $100.5 million list price."
+				},
+				{
+					"header": "Deliveries and orders",
+					"text": "At the November 2010 Zhuhai Airshow, Comac announced orders for 55 C919 aircraft from 6 airlines, with an additional 45 options. The purchasing airlines or lessors included China Eastern Airlines, Air China, Hainan Airlines, China Southern Airlines, CDB Leasing Company, and GE Capital Aviation Services. On 19 October 2011, Chinese ICBC Leasing ordered 45 C919s and agreed to be the launch customer. On 11 November 2014, Comac announced at the 2014 Zhuhai Airshow that China Merchants Bank's aircraft leasing division made a firm commitment for 30 C919s, and that total orders were now up to 450 aircraft."
+				},
+				{
+					"header": "Deliveries",
+					"text": "The first operational C919 airframe intended for commercial service was delivered to China Eastern Airlines on 9 December 2022."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "China"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Commercial Aircraft Corporation of China, Ltd."
+				},
+				{
+					"key": "Designer",
+					"value": "Wu Guanghui"
+				},
+				{
+					"key": "First flight",
+					"value": "May 5, 2017; 6 years ago (2017-05-05)    "
+				},
+				{
+					"key": "Introduction",
+					"value": "28 May 2023 with China Eastern Airlines"
+				},
+				{
+					"key": "Status",
+					"value": "2 in service"
+				},
+				{
+					"key": "Primary user",
+					"value": "China Eastern Airlines"
+				},
+				{
+					"key": "Produced",
+					"value": "2015–present"
+				},
+				{
+					"key": "Number built",
+					"value": "8[a] "
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/B-919A%40PEK_%2820221226151722%29.jpg/800px-B-919A%40PEK_%2820221226151722%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/COMAC_C919_%284339942885%29_extracted.jpg/800px-COMAC_C919_%284339942885%29_extracted.jpg",
+						"desc": "Model of the C919 from 2010."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Comac_C919_first_vr_test_at_Shanghai_Pudong.jpg/800px-Comac_C919_first_vr_test_at_Shanghai_Pudong.jpg",
+						"desc": "The first prototype ground tested"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/COMAC_B-001A_May_2017.jpg/800px-COMAC_B-001A_May_2017.jpg",
+						"desc": "The C919 during its maiden flight on 5 May 2017"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/COMAC_C919_-_Commercial_Aircraft_Corporation_Of_China_AN4748979.jpg/800px-COMAC_C919_-_Commercial_Aircraft_Corporation_Of_China_AN4748979.jpg",
+						"desc": "The second prototype first flight on 17 December 2017"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/CFM_LEAP-X_%28cropped%29.jpg/800px-CFM_LEAP-X_%28cropped%29.jpg",
+						"desc": "CFM International LEAP mockup"
+					}
+				]
+			}
+		},
+		{
 			"name": "Airbus_A220",
 			"data": [
 				{
@@ -1354,130 +1610,6 @@
 			}
 		},
 		{
-			"name": "Embraer_E-Jet_family",
-			"data": [
-				{
-					"header": "Background",
-					"text": "During the 1990s, the Brazilian aerospace manufacturer Embraer had introduced the ERJ family, its first jet-powered regional jet. As demand for the ERJ series proved strong even early on, the company decided that it could not rely on one family of aircraft alone and examined its options for producing a complementary regional jet, including designs that would be larger and more advanced than its preceding aircraft."
-				},
-				{
-					"header": "Intro flight",
-					"text": "On 19 February 2002, the first prototype performed its maiden flight, marking the beginning of a multi-year flight test campaign involving a total of six prototypes. In May 2002, the aircraft was displayed to the public at the Regional Airline Association convention. During that same year, full-rate production of the E-Jet commenced; this activity was centred around a recently-completed factory built by Embraer at its São José dos Campos base."
-				},
-				{
-					"header": "Production",
-					"text": "In 2008, the 400th E-jet was delivered to Republic Airways in the United States. In September 2009, the 600th E-jet was delivered to LOT Polish Airlines.On 10 October 2012, Embraer delivered the 900th E-Jet to Kenya Airways, its 12th E-Jet. On 13 September 2013, the delivery of the 1,000th E-Jet, an E175 to Republic Airways for American Eagle, was marked by a ceremony held at the Embraer factory in São José dos Campos, with a special \"1,000th E-Jet\" decal above the cabin windows."
-				},
-				{
-					"header": "E170",
-					"text": "The E170 is the smallest aircraft in the E-Jet family and was the first to enter revenue service in March 2004. As of 2017, the E170 is out of production. The E170 typically seats around 72 passengers in a typical single class configuration, 66 in a dual class configuration, and up to 78 in a high-density configuration. The E170 directly competed with the Bombardier CRJ700 and loosely with the turboprop Bombardier Q400."
-				},
-				{
-					"header": "Freighter conversions",
-					"text": "On 7 March 2022, Embraer confirmed their intent to enter the cargo market, offering conversions of E190 and E195 aircraft to freighters. These will make their first flights in 2024."
-				},
-				{
-					"header": "Undeveloped variants",
-					"text": "Embraer considered producing an aircraft which was known as the E195X, a stretched version of the E195. It would have seated approximately 130 passengers. The E195X was apparently a response to an American Airlines request for an aircraft to replace its McDonnell Douglas MD-80s. Embraer abandoned plans for the 195X in May 2010, following concerns that its flight range would be too short."
-				},
-				{
-					"header": "Commercial names and official model designations",
-					"text": "The commercial names used for the E170 and E190 families differ from the official model designations, as used (for instance) with the Type-Certificates, and in national registries."
-				},
-				{
-					"header": "Orders and deliveries",
-					"text": "List of Embraer's E-Jet family deliveries and orders:"
-				},
-				{
-					"header": "Accidents and incidents",
-					"text": "The E-Jet has been involved in 21 incidents, including eight hull losses:"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Brazil"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Embraer"
-				},
-				{
-					"key": "First flight",
-					"value": "19 February 2002"
-				},
-				{
-					"key": "Introduction",
-					"value": "17 March 2004 with LOT Polish Airlines"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "SkyWest AirlinesRepublic AirwaysEnvoy AirMesa Airlines"
-				},
-				{
-					"key": "Produced",
-					"value": "2001–present"
-				},
-				{
-					"key": "Number built",
-					"value": "1,671 as of 30 June 2023[update]"
-				},
-				{
-					"key": "Variants",
-					"value": "Embraer Lineage 1000"
-				},
-				{
-					"key": "Developed into",
-					"value": "Embraer E-Jet E2 family"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/N247JB_KJFK_%2837103752403%29.jpg/800px-N247JB_KJFK_%2837103752403%29.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Interior_of_an_Virgin_Australia_%28VH-ZPK%29_Embraer_190.jpg/800px-Interior_of_an_Virgin_Australia_%28VH-ZPK%29_Embraer_190.jpg",
-						"desc": "Four-abreast seating in a Virgin Australia E190"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wider%C3%B8e%2C_LN-WEA%2C_Embraer_E190-E2_%40_HEL.jpg/800px-Wider%C3%B8e%2C_LN-WEA%2C_Embraer_E190-E2_%40_HEL.jpg",
-						"desc": "An E190-E2 of Widerøe, its launch operator"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Embraer_190-100LR%2C_China_Southern_Airlines_JP7321016.jpg/800px-Embraer_190-100LR%2C_China_Southern_Airlines_JP7321016.jpg",
-						"desc": "The flight deck of a China Southern Airlines Embraer E-Jet series aircraft"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lot.embraer.e-170-100st.sp-ldd.arp.jpg/800px-Lot.embraer.e-170-100st.sp-ldd.arp.jpg",
-						"desc": "LOT Polish Airlines operated the first E-jet commercial flight on 17 March 2004 with an E170."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Embraer_ERJ-175LR_%28170-200LR%29_%E2%80%98N109SY%E2%80%99_United_Express_%2828845496911%29.jpg/800px-Embraer_ERJ-175LR_%28170-200LR%29_%E2%80%98N109SY%E2%80%99_United_Express_%2828845496911%29.jpg",
-						"desc": "An E175 operated by SkyWest Airlines for United Express, with the angled winglets of later models"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/JetBlue_Airways%2C_N355JB%2C_Embraer_ERJ-190AR_%2849593480742%29.jpg/800px-JetBlue_Airways%2C_N355JB%2C_Embraer_ERJ-190AR_%2849593480742%29.jpg",
-						"desc": "The E190 launch customer JetBlue took its first delivery in 2005."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Embraer_195_-_RIAT_2011_%286170184857%29.jpg/800px-Embraer_195_-_RIAT_2011_%286170184857%29.jpg",
-						"desc": "Flybe started E195 operations on 22 September 2006."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Embraer_190_%286237483432%29.jpg/800px-Embraer_190_%286237483432%29.jpg",
-						"desc": "E190 planform view"
-					}
-				]
-			}
-		},
-		{
 			"name": "Boeing_777",
 			"data": [
 				{
@@ -1657,138 +1789,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ice-Trent-800-Heat-Exchanger_inset.jpg/800px-Ice-Trent-800-Heat-Exchanger_inset.jpg",
 						"desc": "A laboratory replication of ice crystals clogging the fuel-oil heat exchanger on a Rolls-Royce Trent 800 engine, from the Air Accidents Investigation Branch (AAIB) report on the British Airways Flight 38 (BA38) and Delta Air Lines Flight 18 (DL18) incidents.[246][247]"
-					}
-				]
-			}
-		},
-		{
-			"name": "Comac_C919",
-			"data": [
-				{
-					"header": "Naming",
-					"text": "In the model number, the C stands for \"Comac\" and \"China\". The C also forms an \"ABC\" parallel situation with Airbus and Boeing."
-				},
-				{
-					"header": "Preliminary design",
-					"text": "On 24 November 2011, Comac announced the completion of the joint definition phase, marking the end of the preliminary design phase for the C919, with estimated completion of the detailed design phase in 2012. Production of the first C919 prototype began on 9 December 2011. The C919's aerodynamics were designed with the help of the Tianhe-2 supercomputer. The annual production was targeted at 150 planes by 2020. Canada's Bombardier Aerospace started collaborating in March 2012 on supply chain services, electrical systems, human interface, cockpit, flight training, flight-test support, sales, and marketing."
-				},
-				{
-					"header": "Prototyping",
-					"text": "Its announced development budget was 58 billion yuan ($9.5 billion) but its actual cost was estimated at well over $20 billion. The first prototype was expected to complete final assembly in 2014 and perform its first flight in 2015; however, delivery was delayed again until 2018 due to technical difficulties and supply issues. At the November 2014 Zhuhai Airshow, it was announced that the first flight would be delayed to 2017. On 2 November 2015, Comac rolled out its first C919 aircraft."
-				},
-				{
-					"header": "2018",
-					"text": "The delay between first and subsequent flights underlined the program immaturity by maiden flight: flying early at low speed and altitude is possible but faster and higher is limited by aeroelastic flutter needing ground vibration testing and aircraft instrumentation which were not ready in May.Due to flight testing problems, the 2020 introduction previously scheduled was delayed to 2021, for China Eastern Airlines.In February 2018, the first prototype was flying more than once a week."
-				},
-				{
-					"header": "2019",
-					"text": "A fourth prototype conducted its maiden flight on 1 August 2019 from Shanghai Pudong International Airport.A fifth prototype conducted its first flight on 24 October 2019, also from Shanghai airport; the fifth prototype was expected to test for extreme weather conditions, the environmental control system, drainage systems and electrical supplies.Comac rescheduled its certification target from 2020 to 2021, with the first delivery the following year."
-				},
-				{
-					"header": "2021",
-					"text": "After completing cold-weather testing in China's Inner Mongolia, the C919 is slated to conduct flight tests in natural icing conditions from London International Airport in Ontario, Canada during March 2021. However, these tests may be delayed depending on the progression of the COVID-19 pandemic.[needs update]"
-				},
-				{
-					"header": "2022",
-					"text": "The C919 completed its first pre-delivery flight test at Shanghai Pudong International Airport. Comac reports that the aircraft (B-001J, MSN107) successfully completed a 3-hour test session on 14 May 2022. The aircraft bearing the livery of China Eastern Airlines, was set to be delivered in 2022. In May 2022, the heavily modified jet was listed for a price of 653 million yuan (US$101 million), almost matching the Airbus A320neo and the Boeing 737 MAX competitors, and twice the US$50 million price initially anticipated, albeit with composite wings."
-				},
-				{
-					"header": "Variants",
-					"text": "In September 2023, COMAC Chairman He Dongfeng revealed that shortened and extended variants of the C919 would be built, covering a range from 130 to 240 seats. At its maximum, it would fit nearly 50 more passengers than the current variant, which can seat 156-192 people."
-				},
-				{
-					"header": "Configuration and performance",
-					"text": "The dimensions of the C919 are quite similar to those of the Airbus A320; its fuselage is 3.96 metres (13.0 ft) wide and 4.166 metres (13.67 ft) high with a 12.915 square metres (139.02 sq ft) cross-section. This may allow for a common unit load device to be used for both aircraft. It has a 33.6 metres (110 ft) wingspan (35.4 metres (116 ft) with winglets). The aircraft's intended payload capacity will be 20.4 tonnes. The design calls for cruise at Mach 0.785 (450 kn; 834 km/h) with an operating ceiling of 12,200 metres (39,800 feet). There will be two variants: the standard version with a 4,075 km (2,200 nmi; 2,532 mi) range, and a 5,555 km (2,999 nmi; 3,452 mi) extended-range version.The C919 is a conservative design, deemed by analysts to be similar to the 30 year-old A320 and less efficient than the A320neo and 737 MAX."
-				},
-				{
-					"header": "Construction",
-					"text": "The center wing box, outer wing box, wing panels, flaps, and ailerons are planned to be built in Xi'an, China; the center fuselage sections are planned to be built in Hongdu, China. Aluminium-lithium alloys account for 8.8% of the structure and composite materials for 12%. The air frame will be made largely of aluminium alloy. Aircraft design and assembly is performed in Shanghai."
-				},
-				{
-					"header": "Wings",
-					"text": "The wing is of a supercritical design, increasing aerodynamic efficiency by 20% and reducing drag by 8% compared to a non-supercritical wing. The center wing box was originally intended to use carbon fibre composites. It was changed later to an aluminium design to reduce design complications."
-				},
-				{
-					"header": "ACAE CJ-1000A",
-					"text": "AVIC Commercial Aircraft Engine Co was tasked with developing an indigenous engine for the aircraft in 2009."
-				},
-				{
-					"header": "Market",
-					"text": "In 2012 the C919 order book stood at 380 units worth US$26 billion, and averaging $68.4 million. FlightGlobal's Ascend market values in 2013 were $49.2 million for the Airbus A320neo, 51% less than its $100.2 million list price and $51.4 million for the Boeing 737 MAX-8, 49% less than its $100.5 million list price."
-				},
-				{
-					"header": "Deliveries and orders",
-					"text": "At the November 2010 Zhuhai Airshow, Comac announced orders for 55 C919 aircraft from 6 airlines, with an additional 45 options. The purchasing airlines or lessors included China Eastern Airlines, Air China, Hainan Airlines, China Southern Airlines, CDB Leasing Company, and GE Capital Aviation Services. On 19 October 2011, Chinese ICBC Leasing ordered 45 C919s and agreed to be the launch customer. On 11 November 2014, Comac announced at the 2014 Zhuhai Airshow that China Merchants Bank's aircraft leasing division made a firm commitment for 30 C919s, and that total orders were now up to 450 aircraft."
-				},
-				{
-					"header": "Deliveries",
-					"text": "The first operational C919 airframe intended for commercial service was delivered to China Eastern Airlines on 9 December 2022."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "China"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Commercial Aircraft Corporation of China, Ltd."
-				},
-				{
-					"key": "Designer",
-					"value": "Wu Guanghui"
-				},
-				{
-					"key": "First flight",
-					"value": "May 5, 2017; 6 years ago (2017-05-05)    "
-				},
-				{
-					"key": "Introduction",
-					"value": "28 May 2023 with China Eastern Airlines"
-				},
-				{
-					"key": "Status",
-					"value": "2 in service"
-				},
-				{
-					"key": "Primary user",
-					"value": "China Eastern Airlines"
-				},
-				{
-					"key": "Produced",
-					"value": "2015–present"
-				},
-				{
-					"key": "Number built",
-					"value": "8[a] "
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/B-919A%40PEK_%2820221226151722%29.jpg/800px-B-919A%40PEK_%2820221226151722%29.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/COMAC_C919_%284339942885%29_extracted.jpg/800px-COMAC_C919_%284339942885%29_extracted.jpg",
-						"desc": "Model of the C919 from 2010."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Comac_C919_first_vr_test_at_Shanghai_Pudong.jpg/800px-Comac_C919_first_vr_test_at_Shanghai_Pudong.jpg",
-						"desc": "The first prototype ground tested"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/COMAC_B-001A_May_2017.jpg/800px-COMAC_B-001A_May_2017.jpg",
-						"desc": "The C919 during its maiden flight on 5 May 2017"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/COMAC_C919_-_Commercial_Aircraft_Corporation_Of_China_AN4748979.jpg/800px-COMAC_C919_-_Commercial_Aircraft_Corporation_Of_China_AN4748979.jpg",
-						"desc": "The second prototype first flight on 17 December 2017"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/CFM_LEAP-X_%28cropped%29.jpg/800px-CFM_LEAP-X_%28cropped%29.jpg",
-						"desc": "CFM International LEAP mockup"
 					}
 				]
 			}
@@ -2138,6 +2138,141 @@
 			}
 		},
 		{
+			"name": "CRAIC_CR929",
+			"data": [
+				{
+					"header": "Development",
+					"text": "In June 2011, Comac was studying the 290-seat C929 and 390-seat C939 wide-body aircraft.In June 2012, after assessing demand, Russia and China were to set up a joint venture between UAC and Comac to develop a successor to the Il-96. Development was expected to take at least seven years and cost $7–12 billion, with a production target of several hundred aircraft. Russia would contribute its knowledge and China would provide the resources."
+				},
+				{
+					"header": "CRAIC joint venture",
+					"text": "The China-Russia Commercial Aircraft International Corporation Limited (CRAIC) 50-50 joint venture was launched on May 22, 2017 in Shanghai, targeting a 2025-2028 maiden flight and first delivery.It aims to take 10% of a market dominated by Boeing and Airbus of 9,100 widebodies over 20 years through 2035, with a plane 10-15% cheaper to run.Based in Shanghai where the assembly line will be located, CRAIC will oversee the program : technology development, manufacturing, marketing, sales, customer services, and program management.The fuselage will be composite material, total investment will be $13–20 billion."
+				},
+				{
+					"header": "Preliminary design",
+					"text": "Suppliers should be selected by 2018 to mid 2019.A request for proposal for the propulsion system, including the engine and nacelle, have been issued on 21 December 2017, to be answered by 30 May 2018.On May 15 at a Shanghai conference on aeroengines, the design grew to a 63.25 m (207.5 ft) length, 45 cm (18 in) shorter than the A330-900 but still with nine-abreast economy seating, requiring 78,000 lbf (347 kN) of thrust from each engine.GE produces the 76,100 lbf (339 kN) GEnx-1B76, and Rolls-Royce the 78,129 lbf (347.54 kN) Trent 1000 TEN.CRAIC received seven proposals by the 30 May deadline.The responding engine manufacturers appears to be Chinese AECC, General Electric, Rolls-Royce and Russian UEC, the three others were for related systems."
+				},
+				{
+					"header": "Prototyping",
+					"text": "By December 2018, Comac produced the first composite forward fuselage prototype, a 15 by 6 m (49 by 20 ft) structure, towards joint definition in the second half of 2019.By early 2019, Concept design was targeted for the end of 2019/early 2020, before the definition phase.Definition freeze was then aimed for the first half of 2022, first flight for 2025 and certification for 2027.By spring 2019, progress was slowed by multinational cooperation challenges and engine selection was expected for September or October.High-speed wind tunnel testing was completed by December 2019 at the Moscow Central Aerohydrodynamic Institute, using a 1:39 scale model of the fuselage and wing."
+				},
+				{
+					"header": "Tensions between Comac and UAC",
+					"text": "By July 2020, Irkut's chief disclosed that the first deliveries were expected to be delayed to 2028-2029, citing \"difficulties\" for the partners in working together."
+				},
+				{
+					"header": "Design",
+					"text": "Three variants are planned: the -500 will carry 250 passengers in three classes with a range of 14,000 km (7,560 nmi), the -600 will have 280 seats and a range of 12,000 km (6,480 nmi) and the -700 will carry 320 over 10,000 km (5,400 nmi).A two class layout of the -600 would seat 291 with 243 economy seats and 48 six-abreast business seats, which can be split in eight four-abreast first class seats and 30 business for a seating of 281 in three classes.With a nine-abreast all-economy, the -600 would accommodate 405 to 440 with a seat pitch of 32 and 30 in (81 and 76 cm), respectively."
+				},
+				{
+					"header": "Engines",
+					"text": "A competitive widebody would initially need Western powerplants and onboard systems.The aircraft would need a 77,000–88,000 lbf (340–390 kN) thrust turbofan.Initially, the engine is likely to be supplied by Rolls-Royce or General Electric, who already have products in this class.CRAIC expects a TSFC better by at least 10%."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Long-range wide-body airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "China"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Comac (formerly CRAIC)"
+				},
+				{
+					"key": "Status",
+					"value": "Prototype under construction"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paris_Air_Show_2017_COMAC_C929_right_front_cropped.png/800px-Paris_Air_Show_2017_COMAC_C929_right_front_cropped.png",
+				"other": []
+			}
+		},
+		{
+			"name": "Airbus_A318",
+			"data": [
+				{
+					"header": "Background",
+					"text": "The first member of the A320 aircraft family was the A320, which first flew on 22 February 1987 after the program was launched in March 1984. The family was soon extended to include the stretched A321 (first delivery 1994), the shortened A319 (first delivery 1996), and the further shortened A318 (first delivery 2003). The A320 family pioneered the use in commercial aircraft of digital fly-by-wire flight control systems, as well as side stick controls."
+				},
+				{
+					"header": "Design phase",
+					"text": "The internal corporate designation, A319M5, was used as early as March 1998, as an A319 derivative with fuselage shortening of 0.79 metres (2 ft 7 in) ahead of the wing and 1.6 m (5 ft 3 in) behind. The final proposal was for an aircraft seating 107 passengers in a two-class layout with a range of 3,350 kilometres (1,810 nmi; 2,080 mi). The aircraft's production took advantage of laser welding, eliminating the necessity for heavy rivets and bolts."
+				},
+				{
+					"header": "Further developments",
+					"text": "On 10 November 2005 Airbus announced the A318 Elite. The Airbus A318 Elite is aimed at the medium-range market for flights of up to 4,000-nautical-mile (7,400 km; 4,600 mi) range, with a choice of two cabin layouts seating up to 18 passengers, and powered by CFM engines. Comlux Aviation became the launch customer by ordering three A318 Elite aircraft."
+				},
+				{
+					"header": "Design",
+					"text": "The Airbus A318 is a small commercial, narrow-body (single-aisle) aircraft with a retractable tricycle landing gear and is powered by two wing pylon-mounted turbofan engines. Two suppliers provide turbofan engines for the A318, CFM International with the CFM56-5B engine and Pratt & Whitney with the PW6000 engine. It is a low-wing cantilever monoplane with a conventional tail unit having a single vertical stabilizer and rudder."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Multinational[a]"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Airbus"
+				},
+				{
+					"key": "First flight",
+					"value": "15 January 2002"
+				},
+				{
+					"key": "Introduction",
+					"value": "2003 with Frontier Airlines"
+				},
+				{
+					"key": "Status",
+					"value": "In limited service"
+				},
+				{
+					"key": "Primary users",
+					"value": "Air FranceTAROM"
+				},
+				{
+					"key": "Produced",
+					"value": "2001–2013"
+				},
+				{
+					"key": "Number built",
+					"value": "80"
+				},
+				{
+					"key": "Developed from",
+					"value": "Airbus A319"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Airfrance.a318-100.f-guga.arp.jpg/800px-Airfrance.a318-100.f-guga.arp.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/British_Airways_%28G-EUNA%29_Airbus_A318_at_London_City_Airport.jpg/800px-British_Airways_%28G-EUNA%29_Airbus_A318_at_London_City_Airport.jpg",
+						"desc": "British Airways Airbus A318, with doors L2 and R2 (overwing exits) plugged, at London City Airport."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Airbus_A318_of_British_Airways_at_J.F.K._International_Airport_New_York_%28USA%29.jpg/800px-Airbus_A318_of_British_Airways_at_J.F.K._International_Airport_New_York_%28USA%29.jpg",
+						"desc": "Two British Airways Boeing 747-400s (left) and one Airbus A318 (right) at New York–JFK"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Airbus_A318-111%2C_Frontier_Airlines_AN0478347.jpg/800px-Airbus_A318-111%2C_Frontier_Airlines_AN0478347.jpg",
+						"desc": "Frontier Airlines was the first A318 operator."
+					}
+				]
+			}
+		},
+		{
 			"name": "Tupolev_Tu-204",
 			"data": [
 				{
@@ -2294,29 +2429,29 @@
 			}
 		},
 		{
-			"name": "Airbus_A318",
+			"name": "Airbus_A310",
 			"data": [
 				{
-					"header": "Background",
-					"text": "The first member of the A320 aircraft family was the A320, which first flew on 22 February 1987 after the program was launched in March 1984. The family was soon extended to include the stretched A321 (first delivery 1994), the shortened A319 (first delivery 1996), and the further shortened A318 (first delivery 2003). The A320 family pioneered the use in commercial aircraft of digital fly-by-wire flight control systems, as well as side stick controls."
+					"header": "Entry into service",
+					"text": "The range of the A310 exceeds that of the A300 series, with the exception of the A300-600R, which in turn surpasses that of the A310-200.  The greater range of the A310 contributed to the airliner being used extensively by operators on transatlantic routes.  The A300 and A310 introduced the concept of commonality: A300-600 and A310 pilots can cross-qualify for the other aircraft with one day of training.[citation needed]"
 				},
 				{
-					"header": "Design phase",
-					"text": "The internal corporate designation, A319M5, was used as early as March 1998, as an A319 derivative with fuselage shortening of 0.79 metres (2 ft 7 in) ahead of the wing and 1.6 m (5 ft 3 in) behind. The final proposal was for an aircraft seating 107 passengers in a two-class layout with a range of 3,350 kilometres (1,810 nmi; 2,080 mi). The aircraft's production took advantage of laser welding, eliminating the necessity for heavy rivets and bolts."
+					"header": "Deliveries",
+					"text": "By the end of production, a total of 255 A310s had been ordered and delivered."
 				},
 				{
-					"header": "Further developments",
-					"text": "On 10 November 2005 Airbus announced the A318 Elite. The Airbus A318 Elite is aimed at the medium-range market for flights of up to 4,000-nautical-mile (7,400 km; 4,600 mi) range, with a choice of two cabin layouts seating up to 18 passengers, and powered by CFM engines. Comlux Aviation became the launch customer by ordering three A318 Elite aircraft."
+					"header": "Accidents and incidents",
+					"text": "As of September 2015 there have been 12 hull-loss accidents involving A310s with a total of 825 fatalities; and 9 hijackings with a total of five fatalities."
 				},
 				{
-					"header": "Design",
-					"text": "The Airbus A318 is a small commercial, narrow-body (single-aisle) aircraft with a retractable tricycle landing gear and is powered by two wing pylon-mounted turbofan engines. Two suppliers provide turbofan engines for the A318, CFM International with the CFM56-5B engine and Pratt & Whitney with the PW6000 engine. It is a low-wing cantilever monoplane with a conventional tail unit having a single vertical stabilizer and rudder."
+					"header": "In popular culture",
+					"text": "An Airbus A310-300 of the fictional Belarus Airways appeared in the 2013 movie World War Z. The plane was leased from HiFly, a Portuguese airline, with registration number CS-TEX."
 				}
 			],
 			"infobox": [
 				{
 					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
+					"value": "Wide-body aircraftType of aircraft"
 				},
 				{
 					"key": "National origin",
@@ -2328,11 +2463,11 @@
 				},
 				{
 					"key": "First flight",
-					"value": "15 January 2002"
+					"value": "3 April 1982; 41 years ago (1982-04-03)"
 				},
 				{
 					"key": "Introduction",
-					"value": "2003 with Frontier Airlines"
+					"value": "April 1983 with Swissair"
 				},
 				{
 					"key": "Status",
@@ -2340,92 +2475,77 @@
 				},
 				{
 					"key": "Primary users",
-					"value": "Air FranceTAROM"
+					"value": "Mahan AirULS Airlines CargoIran AirAriana Afghan Airlines"
 				},
 				{
 					"key": "Produced",
-					"value": "2001–2013"
+					"value": "1981–1998"
 				},
 				{
 					"key": "Number built",
-					"value": "80"
+					"value": "255"
 				},
 				{
 					"key": "Developed from",
-					"value": "Airbus A319"
+					"value": "Airbus A300"
+				},
+				{
+					"key": "Variants",
+					"value": "Airbus A310 MRTTAirbus CC-150 Polaris"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Airfrance.a318-100.f-guga.arp.jpg/800px-Airfrance.a318-100.f-guga.arp.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Air_Transat_A310_%28C-GTSF%29_%40_LHR%2C_Aug_2009.jpg/800px-Air_Transat_A310_%28C-GTSF%29_%40_LHR%2C_Aug_2009.jpg",
 				"other": [
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/British_Airways_%28G-EUNA%29_Airbus_A318_at_London_City_Airport.jpg/800px-British_Airways_%28G-EUNA%29_Airbus_A318_at_London_City_Airport.jpg",
-						"desc": "British Airways Airbus A318, with doors L2 and R2 (overwing exits) plugged, at London City Airport."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pan_Am_A300_and_A310.jpg/800px-Pan_Am_A300_and_A310.jpg",
+						"desc": "The A310 (background) is a shrunken version of the Airbus A300 (foreground)"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Airbus_A318_of_British_Airways_at_J.F.K._International_Airport_New_York_%28USA%29.jpg/800px-Airbus_A318_of_British_Airways_at_J.F.K._International_Airport_New_York_%28USA%29.jpg",
-						"desc": "Two British Airways Boeing 747-400s (left) and one Airbus A318 (right) at New York–JFK"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lufthansa_and_Swissair_A310-200.jpg/800px-Lufthansa_and_Swissair_A310-200.jpg",
+						"desc": "The A310-200 prototype, featuring the liveries of Swissair (left) and Lufthansa (right), the first customers.[14]"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Airbus_A318-111%2C_Frontier_Airlines_AN0478347.jpg/800px-Airbus_A318-111%2C_Frontier_Airlines_AN0478347.jpg",
-						"desc": "Frontier Airlines was the first A318 operator."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Interflug_Airbus_A310-300_Manteufel.jpg/800px-Interflug_Airbus_A310-300_Manteufel.jpg",
+						"desc": "In 1988, an A310 was delivered to Interflug: the first Airbus for an Eastern-bloc airline."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Biman_Airbus_A310_Lofting-1.jpg/800px-Biman_Airbus_A310_Lofting-1.jpg",
+						"desc": "The A310 has front and rear main doors, and a smaller emergency exit wing door over the wing."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Airbus_A310-304%2C_Lufthansa_AN0422291.jpg/800px-Airbus_A310-304%2C_Lufthansa_AN0422291.jpg",
+						"desc": "2-4-2 economy cabin"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Airbus_A310-304-MRTT%2C_Germany_-_Air_Force_AN1733919.jpg/800px-Airbus_A310-304-MRTT%2C_Germany_-_Air_Force_AN1733919.jpg",
+						"desc": "Two-crew cockpit"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FedEx_Airbus_A310-200_Monty.jpg/800px-FedEx_Airbus_A310-200_Monty.jpg",
+						"desc": "FedEx Express A310-200F without wingtip fences"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Airbus_A310-300_Air_Transat_%28TSC%29_C-GLAT_-_MSN_588_%289510329329%29.jpg/800px-Airbus_A310-300_Air_Transat_%28TSC%29_C-GLAT_-_MSN_588_%289510329329%29.jpg",
+						"desc": "Air Transat A310-300 with wingtip fences"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Airbus_A310-304%28MRTT%29%2C_Germany_-_Air_Force_JP7415094.jpg/800px-Airbus_A310-304%28MRTT%29%2C_Germany_-_Air_Force_JP7415094.jpg",
+						"desc": "Airbus A310 MRTT of the German Air Force"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/EP-MNV_%2815088634953%29.jpg/800px-EP-MNV_%2815088634953%29.jpg",
+						"desc": "Mahan Air A310-300"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RCAF_CC-150_Polaris_Davies.jpg/800px-RCAF_CC-150_Polaris_Davies.jpg",
+						"desc": "Royal Canadian Air Force CC-150 Polaris"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/China_Eastern_A310.jpg/800px-China_Eastern_A310.jpg",
+						"desc": "The first Airbus delivered in China was this A310, to China Eastern Airlines in 1985, retired in 2006 and displayed at the Beijing Civil Aviation Museum."
 					}
 				]
-			}
-		},
-		{
-			"name": "CRAIC_CR929",
-			"data": [
-				{
-					"header": "Development",
-					"text": "In June 2011, Comac was studying the 290-seat C929 and 390-seat C939 wide-body aircraft.In June 2012, after assessing demand, Russia and China were to set up a joint venture between UAC and Comac to develop a successor to the Il-96. Development was expected to take at least seven years and cost $7–12 billion, with a production target of several hundred aircraft. Russia would contribute its knowledge and China would provide the resources."
-				},
-				{
-					"header": "CRAIC joint venture",
-					"text": "The China-Russia Commercial Aircraft International Corporation Limited (CRAIC) 50-50 joint venture was launched on May 22, 2017 in Shanghai, targeting a 2025-2028 maiden flight and first delivery.It aims to take 10% of a market dominated by Boeing and Airbus of 9,100 widebodies over 20 years through 2035, with a plane 10-15% cheaper to run.Based in Shanghai where the assembly line will be located, CRAIC will oversee the program : technology development, manufacturing, marketing, sales, customer services, and program management.The fuselage will be composite material, total investment will be $13–20 billion."
-				},
-				{
-					"header": "Preliminary design",
-					"text": "Suppliers should be selected by 2018 to mid 2019.A request for proposal for the propulsion system, including the engine and nacelle, have been issued on 21 December 2017, to be answered by 30 May 2018.On May 15 at a Shanghai conference on aeroengines, the design grew to a 63.25 m (207.5 ft) length, 45 cm (18 in) shorter than the A330-900 but still with nine-abreast economy seating, requiring 78,000 lbf (347 kN) of thrust from each engine.GE produces the 76,100 lbf (339 kN) GEnx-1B76, and Rolls-Royce the 78,129 lbf (347.54 kN) Trent 1000 TEN.CRAIC received seven proposals by the 30 May deadline.The responding engine manufacturers appears to be Chinese AECC, General Electric, Rolls-Royce and Russian UEC, the three others were for related systems."
-				},
-				{
-					"header": "Prototyping",
-					"text": "By December 2018, Comac produced the first composite forward fuselage prototype, a 15 by 6 m (49 by 20 ft) structure, towards joint definition in the second half of 2019.By early 2019, Concept design was targeted for the end of 2019/early 2020, before the definition phase.Definition freeze was then aimed for the first half of 2022, first flight for 2025 and certification for 2027.By spring 2019, progress was slowed by multinational cooperation challenges and engine selection was expected for September or October.High-speed wind tunnel testing was completed by December 2019 at the Moscow Central Aerohydrodynamic Institute, using a 1:39 scale model of the fuselage and wing."
-				},
-				{
-					"header": "Tensions between Comac and UAC",
-					"text": "By July 2020, Irkut's chief disclosed that the first deliveries were expected to be delayed to 2028-2029, citing \"difficulties\" for the partners in working together."
-				},
-				{
-					"header": "Design",
-					"text": "Three variants are planned: the -500 will carry 250 passengers in three classes with a range of 14,000 km (7,560 nmi), the -600 will have 280 seats and a range of 12,000 km (6,480 nmi) and the -700 will carry 320 over 10,000 km (5,400 nmi).A two class layout of the -600 would seat 291 with 243 economy seats and 48 six-abreast business seats, which can be split in eight four-abreast first class seats and 30 business for a seating of 281 in three classes.With a nine-abreast all-economy, the -600 would accommodate 405 to 440 with a seat pitch of 32 and 30 in (81 and 76 cm), respectively."
-				},
-				{
-					"header": "Engines",
-					"text": "A competitive widebody would initially need Western powerplants and onboard systems.The aircraft would need a 77,000–88,000 lbf (340–390 kN) thrust turbofan.Initially, the engine is likely to be supplied by Rolls-Royce or General Electric, who already have products in this class.CRAIC expects a TSFC better by at least 10%."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Long-range wide-body airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "China"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Comac (formerly CRAIC)"
-				},
-				{
-					"key": "Status",
-					"value": "Prototype under construction"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Paris_Air_Show_2017_COMAC_C929_right_front_cropped.png/800px-Paris_Air_Show_2017_COMAC_C929_right_front_cropped.png",
-				"other": []
 			}
 		},
 		{
@@ -2560,126 +2680,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SSJ100_Three_views_drawing_%285476115362%29.jpg/800px-SSJ100_Three_views_drawing_%285476115362%29.jpg",
 						"desc": "Sukhoi Superjet 100 3-view drawing"
-					}
-				]
-			}
-		},
-		{
-			"name": "Airbus_A310",
-			"data": [
-				{
-					"header": "Entry into service",
-					"text": "The range of the A310 exceeds that of the A300 series, with the exception of the A300-600R, which in turn surpasses that of the A310-200.  The greater range of the A310 contributed to the airliner being used extensively by operators on transatlantic routes.  The A300 and A310 introduced the concept of commonality: A300-600 and A310 pilots can cross-qualify for the other aircraft with one day of training.[citation needed]"
-				},
-				{
-					"header": "Deliveries",
-					"text": "By the end of production, a total of 255 A310s had been ordered and delivered."
-				},
-				{
-					"header": "Accidents and incidents",
-					"text": "As of September 2015 there have been 12 hull-loss accidents involving A310s with a total of 825 fatalities; and 9 hijackings with a total of five fatalities."
-				},
-				{
-					"header": "In popular culture",
-					"text": "An Airbus A310-300 of the fictional Belarus Airways appeared in the 2013 movie World War Z. The plane was leased from HiFly, a Portuguese airline, with registration number CS-TEX."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Wide-body aircraftType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Multinational[a]"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Airbus"
-				},
-				{
-					"key": "First flight",
-					"value": "3 April 1982; 41 years ago (1982-04-03)"
-				},
-				{
-					"key": "Introduction",
-					"value": "April 1983 with Swissair"
-				},
-				{
-					"key": "Status",
-					"value": "In limited service"
-				},
-				{
-					"key": "Primary users",
-					"value": "Mahan AirULS Airlines CargoIran AirAriana Afghan Airlines"
-				},
-				{
-					"key": "Produced",
-					"value": "1981–1998"
-				},
-				{
-					"key": "Number built",
-					"value": "255"
-				},
-				{
-					"key": "Developed from",
-					"value": "Airbus A300"
-				},
-				{
-					"key": "Variants",
-					"value": "Airbus A310 MRTTAirbus CC-150 Polaris"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Air_Transat_A310_%28C-GTSF%29_%40_LHR%2C_Aug_2009.jpg/800px-Air_Transat_A310_%28C-GTSF%29_%40_LHR%2C_Aug_2009.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Pan_Am_A300_and_A310.jpg/800px-Pan_Am_A300_and_A310.jpg",
-						"desc": "The A310 (background) is a shrunken version of the Airbus A300 (foreground)"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lufthansa_and_Swissair_A310-200.jpg/800px-Lufthansa_and_Swissair_A310-200.jpg",
-						"desc": "The A310-200 prototype, featuring the liveries of Swissair (left) and Lufthansa (right), the first customers.[14]"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Interflug_Airbus_A310-300_Manteufel.jpg/800px-Interflug_Airbus_A310-300_Manteufel.jpg",
-						"desc": "In 1988, an A310 was delivered to Interflug: the first Airbus for an Eastern-bloc airline."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Biman_Airbus_A310_Lofting-1.jpg/800px-Biman_Airbus_A310_Lofting-1.jpg",
-						"desc": "The A310 has front and rear main doors, and a smaller emergency exit wing door over the wing."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Airbus_A310-304%2C_Lufthansa_AN0422291.jpg/800px-Airbus_A310-304%2C_Lufthansa_AN0422291.jpg",
-						"desc": "2-4-2 economy cabin"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Airbus_A310-304-MRTT%2C_Germany_-_Air_Force_AN1733919.jpg/800px-Airbus_A310-304-MRTT%2C_Germany_-_Air_Force_AN1733919.jpg",
-						"desc": "Two-crew cockpit"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/FedEx_Airbus_A310-200_Monty.jpg/800px-FedEx_Airbus_A310-200_Monty.jpg",
-						"desc": "FedEx Express A310-200F without wingtip fences"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Airbus_A310-300_Air_Transat_%28TSC%29_C-GLAT_-_MSN_588_%289510329329%29.jpg/800px-Airbus_A310-300_Air_Transat_%28TSC%29_C-GLAT_-_MSN_588_%289510329329%29.jpg",
-						"desc": "Air Transat A310-300 with wingtip fences"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Airbus_A310-304%28MRTT%29%2C_Germany_-_Air_Force_JP7415094.jpg/800px-Airbus_A310-304%28MRTT%29%2C_Germany_-_Air_Force_JP7415094.jpg",
-						"desc": "Airbus A310 MRTT of the German Air Force"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/EP-MNV_%2815088634953%29.jpg/800px-EP-MNV_%2815088634953%29.jpg",
-						"desc": "Mahan Air A310-300"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RCAF_CC-150_Polaris_Davies.jpg/800px-RCAF_CC-150_Polaris_Davies.jpg",
-						"desc": "Royal Canadian Air Force CC-150 Polaris"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/China_Eastern_A310.jpg/800px-China_Eastern_A310.jpg",
-						"desc": "The first Airbus delivered in China was this A310, to China Eastern Airlines in 1985, retired in 2006 and displayed at the Beijing Civil Aviation Museum."
 					}
 				]
 			}
@@ -2953,6 +2953,110 @@
 			}
 		},
 		{
+			"name": "Boeing_717",
+			"data": [
+				{
+					"header": "Background",
+					"text": "Douglas Aircraft launched the DC-9, a short-range companion to its larger four-engine DC-8, in 1963. The DC-9 was an all-new design, using two rear fuselage-mounted Pratt & Whitney JT8D turbofan engines; a small, efficient wing; and a T-tail. The DC-9's maiden flight was in 1965 and entered airline service later that year. When production ended in 1982, a total of 976 DC-9s had been produced."
+				},
+				{
+					"header": "MD-95",
+					"text": "The MD-95 traces its history back to 1983 when McDonnell Douglas outlined a study named the DC-9-90. During the early 1980s, as production of the DC-9 family moved away from the smaller Series 30 towards the larger Super 80 (later redesignated MD-80) variants, McDonnell Douglas proposed a smaller version of the DC-9 to fill the gap left by the DC-9-30. Dubbed the DC-9-90, it was revealed in February 1983 and was to be some 25 ft 4 in (7.72 m) shorter than the DC-9-81, giving it an overall length of 122 ft 6 in (37.34 m). The aircraft was proposed with a 17,000 lbf (76 kN) thrust version of the JT8D-200 series engine, although the CFM International CFM56-3 was also considered. Seating up to 117 passengers, the DC-9-90 was to be equipped with the DC-9's wing with 2 ft (0.61 m) tip extensions, rather than the more heavily modified increased area of the MD-80. The aircraft had a design range of 1,430 nmi (2,648 km; 1,646 mi), with an option to increase to 2,060 nmi (3,815 km; 2,371 mi), and a gross weight of 112,000 lb (51,000 kg)."
+				},
+				{
+					"header": "Engines",
+					"text": "As first proposed, the MD-95 was to be powered by a 16,500 lbf (73 kN) thrust derivative of the JT8D-200 series with the Rolls-Royce Tay 670 also considered as an alternative. This was confirmed in January 1992, when Rolls-Royce and McDonnell Douglas signed a memorandum of understanding concerning the Tay-powered MD-95. McDonnell Douglas said that the MD-95 project would cost only a minimal amount to develop, as it was a direct offshoot of the IAE-powered MD-90."
+				},
+				{
+					"header": "Rebranding and marketing",
+					"text": "After McDonnell Douglas was acquired by Boeing in August 1997, most industry observers expected that Boeing would cancel development of the MD-95. However, Boeing decided to go forward with the design under a new name, Boeing 717. While it appeared that Boeing had skipped the 717 model designation when the 720 and the 727 followed the 707, the 717 name was the company's model number for the C-135 Stratolifter military transport and KC-135 Stratotanker tanker aircraft. 717 had also been used to promote an early design of the 720 to airlines before it was modified to meet market demands. A Boeing historian notes that the Air Force tanker was designated \"717-100\" and the commercial airliner designated \"717-200\".  The lack of a widespread use of the 717 name left it available for rebranding the MD-95."
+				},
+				{
+					"header": "Assembly line and end of production",
+					"text": "In 2001, Boeing began implementing a moving assembly line for production of the 717 and 737. The moving line greatly reduced production time, which led to lower production costs. Following the slump in airline traffic caused by an economic downturn subsequent to the terrorist attacks on September 11, 2001, Boeing announced a review of the type's future. After much deliberation, it was decided to continue with production. Despite the lack of orders, Boeing had confidence in the 717's fundamental suitability to the 100-seat market, and in the long-term size of that market. After 19 worldwide 717 sales in 2000, and just 6 in 2001, Boeing took 32 orders for the 717 in 2002, despite the severe industry downturn. The 100th 717 was delivered to AirTran Airways on June 18, 2002."
+				},
+				{
+					"header": "Accidents and incidents",
+					"text": "As of June 2023[update], the Boeing 717 has been involved in six aviation accidents and incidents but with no hull-losses and no fatalities. The major incidents included one on-ground collision while taxiing, an emergency landing where the nose landing gear did not extend, and one attempted hijacking."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "McDonnell Douglas Boeing Commercial Airplanes"
+				},
+				{
+					"key": "First flight",
+					"value": "September 2, 1998"
+				},
+				{
+					"key": "Introduction",
+					"value": "October 12, 1999, with AirTran Airways"
+				},
+				{
+					"key": "Status",
+					"value": "In service"
+				},
+				{
+					"key": "Primary users",
+					"value": "Delta Air LinesHawaiian Airlines QantasLink AirTran Airways (historical)"
+				},
+				{
+					"key": "Produced",
+					"value": "1998–2006"
+				},
+				{
+					"key": "Number built",
+					"value": "156"
+				},
+				{
+					"key": "Developed from",
+					"value": "McDonnell Douglas MD-80"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Delta_Air_Lines_Boeing_717-2BD_N966AT.jpg/800px-Delta_Air_Lines_Boeing_717-2BD_N966AT.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vistas_%283563920446%29.jpg/800px-Vistas_%283563920446%29.jpg",
+						"desc": "The Boeing 717 was assembled at the company's facility in Long Beach, California."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AirTran_Airways_B717-2BD_%28N969AT%29_at_Baltimore%E2%80%93Washington_International_Airport.jpg/800px-AirTran_Airways_B717-2BD_%28N969AT%29_at_Baltimore%E2%80%93Washington_International_Airport.jpg",
+						"desc": "The first and last 717s were delivered to AirTran Airways."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/N489HA_%286786339482%29.jpg/800px-N489HA_%286786339482%29.jpg",
+						"desc": "Hawaiian Airlines operates a very-short-range inter-island network with the 717."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Cockpit_of_Boeing_717_%284044023759%29.jpg/800px-Cockpit_of_Boeing_717_%284044023759%29.jpg",
+						"desc": "Two-crew cockpit with six displays"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Inside_a_Boeing_717.jpg/800px-Inside_a_Boeing_717.jpg",
+						"desc": "The 717 retains the five-abreast seating from the DC-9."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Boeing_717-2BL%2C_Volotea_Airlines_JP7674151.jpg/800px-Boeing_717-2BL%2C_Volotea_Airlines_JP7674151.jpg",
+						"desc": "Volotea was the last European operator of the 717."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/B717_Orders_Deliveries.jpg/800px-B717_Orders_Deliveries.jpg",
+						"desc": ""
+					}
+				]
+			}
+		},
+		{
 			"name": "Airbus_A340",
 			"data": [
 				{
@@ -3077,110 +3181,6 @@
 			}
 		},
 		{
-			"name": "Boeing_717",
-			"data": [
-				{
-					"header": "Background",
-					"text": "Douglas Aircraft launched the DC-9, a short-range companion to its larger four-engine DC-8, in 1963. The DC-9 was an all-new design, using two rear fuselage-mounted Pratt & Whitney JT8D turbofan engines; a small, efficient wing; and a T-tail. The DC-9's maiden flight was in 1965 and entered airline service later that year. When production ended in 1982, a total of 976 DC-9s had been produced."
-				},
-				{
-					"header": "MD-95",
-					"text": "The MD-95 traces its history back to 1983 when McDonnell Douglas outlined a study named the DC-9-90. During the early 1980s, as production of the DC-9 family moved away from the smaller Series 30 towards the larger Super 80 (later redesignated MD-80) variants, McDonnell Douglas proposed a smaller version of the DC-9 to fill the gap left by the DC-9-30. Dubbed the DC-9-90, it was revealed in February 1983 and was to be some 25 ft 4 in (7.72 m) shorter than the DC-9-81, giving it an overall length of 122 ft 6 in (37.34 m). The aircraft was proposed with a 17,000 lbf (76 kN) thrust version of the JT8D-200 series engine, although the CFM International CFM56-3 was also considered. Seating up to 117 passengers, the DC-9-90 was to be equipped with the DC-9's wing with 2 ft (0.61 m) tip extensions, rather than the more heavily modified increased area of the MD-80. The aircraft had a design range of 1,430 nmi (2,648 km; 1,646 mi), with an option to increase to 2,060 nmi (3,815 km; 2,371 mi), and a gross weight of 112,000 lb (51,000 kg)."
-				},
-				{
-					"header": "Engines",
-					"text": "As first proposed, the MD-95 was to be powered by a 16,500 lbf (73 kN) thrust derivative of the JT8D-200 series with the Rolls-Royce Tay 670 also considered as an alternative. This was confirmed in January 1992, when Rolls-Royce and McDonnell Douglas signed a memorandum of understanding concerning the Tay-powered MD-95. McDonnell Douglas said that the MD-95 project would cost only a minimal amount to develop, as it was a direct offshoot of the IAE-powered MD-90."
-				},
-				{
-					"header": "Rebranding and marketing",
-					"text": "After McDonnell Douglas was acquired by Boeing in August 1997, most industry observers expected that Boeing would cancel development of the MD-95. However, Boeing decided to go forward with the design under a new name, Boeing 717. While it appeared that Boeing had skipped the 717 model designation when the 720 and the 727 followed the 707, the 717 name was the company's model number for the C-135 Stratolifter military transport and KC-135 Stratotanker tanker aircraft. 717 had also been used to promote an early design of the 720 to airlines before it was modified to meet market demands. A Boeing historian notes that the Air Force tanker was designated \"717-100\" and the commercial airliner designated \"717-200\".  The lack of a widespread use of the 717 name left it available for rebranding the MD-95."
-				},
-				{
-					"header": "Assembly line and end of production",
-					"text": "In 2001, Boeing began implementing a moving assembly line for production of the 717 and 737. The moving line greatly reduced production time, which led to lower production costs. Following the slump in airline traffic caused by an economic downturn subsequent to the terrorist attacks on September 11, 2001, Boeing announced a review of the type's future. After much deliberation, it was decided to continue with production. Despite the lack of orders, Boeing had confidence in the 717's fundamental suitability to the 100-seat market, and in the long-term size of that market. After 19 worldwide 717 sales in 2000, and just 6 in 2001, Boeing took 32 orders for the 717 in 2002, despite the severe industry downturn. The 100th 717 was delivered to AirTran Airways on June 18, 2002."
-				},
-				{
-					"header": "Accidents and incidents",
-					"text": "As of June 2023[update], the Boeing 717 has been involved in six aviation accidents and incidents but with no hull-losses and no fatalities. The major incidents included one on-ground collision while taxiing, an emergency landing where the nose landing gear did not extend, and one attempted hijacking."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "McDonnell Douglas Boeing Commercial Airplanes"
-				},
-				{
-					"key": "First flight",
-					"value": "September 2, 1998"
-				},
-				{
-					"key": "Introduction",
-					"value": "October 12, 1999, with AirTran Airways"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "Delta Air LinesHawaiian Airlines QantasLink AirTran Airways (historical)"
-				},
-				{
-					"key": "Produced",
-					"value": "1998–2006"
-				},
-				{
-					"key": "Number built",
-					"value": "156"
-				},
-				{
-					"key": "Developed from",
-					"value": "McDonnell Douglas MD-80"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Delta_Air_Lines_Boeing_717-2BD_N966AT.jpg/800px-Delta_Air_Lines_Boeing_717-2BD_N966AT.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vistas_%283563920446%29.jpg/800px-Vistas_%283563920446%29.jpg",
-						"desc": "The Boeing 717 was assembled at the company's facility in Long Beach, California."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/AirTran_Airways_B717-2BD_%28N969AT%29_at_Baltimore%E2%80%93Washington_International_Airport.jpg/800px-AirTran_Airways_B717-2BD_%28N969AT%29_at_Baltimore%E2%80%93Washington_International_Airport.jpg",
-						"desc": "The first and last 717s were delivered to AirTran Airways."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/N489HA_%286786339482%29.jpg/800px-N489HA_%286786339482%29.jpg",
-						"desc": "Hawaiian Airlines operates a very-short-range inter-island network with the 717."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Cockpit_of_Boeing_717_%284044023759%29.jpg/800px-Cockpit_of_Boeing_717_%284044023759%29.jpg",
-						"desc": "Two-crew cockpit with six displays"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Inside_a_Boeing_717.jpg/800px-Inside_a_Boeing_717.jpg",
-						"desc": "The 717 retains the five-abreast seating from the DC-9."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Boeing_717-2BL%2C_Volotea_Airlines_JP7674151.jpg/800px-Boeing_717-2BL%2C_Volotea_Airlines_JP7674151.jpg",
-						"desc": "Volotea was the last European operator of the 717."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/B717_Orders_Deliveries.jpg/800px-B717_Orders_Deliveries.jpg",
-						"desc": ""
-					}
-				]
-			}
-		},
-		{
 			"name": "Bombardier_CRJ200",
 			"data": [
 				{
@@ -3264,6 +3264,138 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Skywest_CRJ-200_N498CA_%288069499834%29_%282%29.jpg/800px-Skywest_CRJ-200_N498CA_%288069499834%29_%282%29.jpg",
 						"desc": "SkyWest Airlines is the largest CRJ200 operator."
+					}
+				]
+			}
+		},
+		{
+			"name": "Boeing_727",
+			"data": [
+				{
+					"header": "Variants",
+					"text": "Data from: Boeing Aircraft since 1916"
+				},
+				{
+					"header": "Private aircraft",
+					"text": "A number of 727s have been outfitted for use as private aircraft, especially since the early 1990s, when major airlines began to eliminate older 727-100 models from their fleet. Donald Trump traveled in a former American Airlines 727-100 with a dining room, a bedroom, and shower facilities known as Trump Force One before upgrading to a larger Boeing 757 in 2009; Peter Nygård acquired a 727-100 for private use in 2005. American financier Jeffrey Epstein owned a private 727 nicknamed the \"Lolita Express\". The Gettys bought N311AG from Revlon in 1986, and Gordon Getty acquired the aircraft in 2001."
+				},
+				{
+					"header": "Aircraft on display",
+					"text": "A comparatively large number of surviving retired 727s remain, largely as a result of donation by FedEx of 84 of them to various institutions. The vast majority of the aircraft was given to university aviation maintenance programs. All but five are located within the United States."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Boeing Commercial Airplanes"
+				},
+				{
+					"key": "First flight",
+					"value": "February 9, 1963"
+				},
+				{
+					"key": "Introduction",
+					"value": "February 1, 1964, with Eastern Air Lines"
+				},
+				{
+					"key": "Status",
+					"value": "In limited service for freighter and executive use[a]"
+				},
+				{
+					"key": "Primary users",
+					"value": "Líneas Aéreas SuramericanasKalitta Charters  Total Linhas Aereas"
+				},
+				{
+					"key": "Produced",
+					"value": "1962–1984"
+				},
+				{
+					"key": "Number built",
+					"value": "1,832"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B-727_Iberia_%28cropped%29.jpg/800px-B-727_Iberia_%28cropped%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Black_and_white_image_of_Boeing_727_production.jpg/800px-Black_and_white_image_of_Boeing_727_production.jpg",
+						"desc": "Production of the 727"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boeing_727_donation_22_%2819744962922%29.jpg/800px-Boeing_727_donation_22_%2819744962922%29.jpg",
+						"desc": "Three-crew cockpit"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/S-duct-Boeing-727.jpg/800px-S-duct-Boeing-727.jpg",
+						"desc": "Diagram of the 727 with engine 2 S-duct in red"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rwr727tail.jpg/800px-Rwr727tail.jpg",
+						"desc": "A Northwest Airlines 727 tail and rear airstairs"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN0923420.jpg/800px-Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN0923420.jpg",
+						"desc": "Six-abreast seating in an Iran Aseman Airlines Boeing 727"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Boeing_737-2B7-Adv%2C_Dasab_Airlines_AN0992824.jpg/800px-Boeing_737-2B7-Adv%2C_Dasab_Airlines_AN0992824.jpg",
+						"desc": "Stage 3 hush kit mixer for theJT8D-1 through -17 engines"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fedex_727-233%2C_N281FE.jpg/800px-Fedex_727-233%2C_N281FE.jpg",
+						"desc": "A FedEx Express 727-233 departs Portland International Airport"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/N294WA_B727-247_Delta_MIA_24APR00_%286065158881%29.jpg/800px-N294WA_B727-247_Delta_MIA_24APR00_%286065158881%29.jpg",
+						"desc": "Delta Air Lines retired its last 727 from scheduled service in April 2003"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/11gg_-_Northwest_Airlines_Boeing_727-251%3B_N203US%40FLL%3B30.01.1998_%288064695962%29.jpg/800px-11gg_-_Northwest_Airlines_Boeing_727-251%3B_N203US%40FLL%3B30.01.1998_%288064695962%29.jpg",
+						"desc": "Northwest Airlines retired its last 727 from charter service in June 2003"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lufthansa_Boeing_727-30C_Fitzgerald.jpg/800px-Lufthansa_Boeing_727-30C_Fitzgerald.jpg",
+						"desc": "The initial 727-100 (from Lufthansa here) is 133 ft (41 m) long."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boeing_C-22A_%28727-30%29%2C_USA_-_Air_Force_AN1131866.jpg/800px-Boeing_C-22A_%28727-30%29%2C_USA_-_Air_Force_AN1131866.jpg",
+						"desc": "The sole C-22A."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Boeing_727-22%28QF%29%2C_United_Parcel_Service_%28UPS%29_JP5926976.jpg/800px-Boeing_727-22%28QF%29%2C_United_Parcel_Service_%28UPS%29_JP5926976.jpg",
+						"desc": "A 727-100QF of UPS Airlines. The air intake for the #2 engine has a distinctive \"hump\" on converted aircraft."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Boeing_727-228-Adv%2C_Ariana_Afghan_Airlines_AN1450645.jpg/800px-Boeing_727-228-Adv%2C_Ariana_Afghan_Airlines_AN1450645.jpg",
+						"desc": "The 727-200 (here from Ariana Afghan Airlines) is 20 ft (6.1 m) longer."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Boeing_727_donation_26_%2819129624324%29.jpg/800px-Boeing_727_donation_26_%2819129624324%29.jpg",
+						"desc": "Freighter cargo hold"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HK-4637_%287198934904%29.jpg/800px-HK-4637_%287198934904%29.jpg",
+						"desc": "The \"Super 27\" re-engine has larger JT8D-200 side engines"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN1003609.jpg/800px-Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN1003609.jpg",
+						"desc": "Iran Aseman Airlines operated the last scheduled 727 passenger flight in 2019."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Boeing_727_Kalitta_%282819751774%29.jpg/800px-Boeing_727_Kalitta_%282819751774%29.jpg",
+						"desc": "Kalitta Charters is operating four 727 in its fleet."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/XT-BFA_B727_Burkina_Faso_%286328516101%29.jpg/800px-XT-BFA_B727_Burkina_Faso_%286328516101%29.jpg",
+						"desc": "Burkina Faso 727"
 					}
 				]
 			}
@@ -3493,138 +3625,6 @@
 			}
 		},
 		{
-			"name": "Boeing_727",
-			"data": [
-				{
-					"header": "Variants",
-					"text": "Data from: Boeing Aircraft since 1916"
-				},
-				{
-					"header": "Private aircraft",
-					"text": "A number of 727s have been outfitted for use as private aircraft, especially since the early 1990s, when major airlines began to eliminate older 727-100 models from their fleet. Donald Trump traveled in a former American Airlines 727-100 with a dining room, a bedroom, and shower facilities known as Trump Force One before upgrading to a larger Boeing 757 in 2009; Peter Nygård acquired a 727-100 for private use in 2005. American financier Jeffrey Epstein owned a private 727 nicknamed the \"Lolita Express\". The Gettys bought N311AG from Revlon in 1986, and Gordon Getty acquired the aircraft in 2001."
-				},
-				{
-					"header": "Aircraft on display",
-					"text": "A comparatively large number of surviving retired 727s remain, largely as a result of donation by FedEx of 84 of them to various institutions. The vast majority of the aircraft was given to university aviation maintenance programs. All but five are located within the United States."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Boeing Commercial Airplanes"
-				},
-				{
-					"key": "First flight",
-					"value": "February 9, 1963"
-				},
-				{
-					"key": "Introduction",
-					"value": "February 1, 1964, with Eastern Air Lines"
-				},
-				{
-					"key": "Status",
-					"value": "In limited service for freighter and executive use[a]"
-				},
-				{
-					"key": "Primary users",
-					"value": "Líneas Aéreas SuramericanasKalitta Charters  Total Linhas Aereas"
-				},
-				{
-					"key": "Produced",
-					"value": "1962–1984"
-				},
-				{
-					"key": "Number built",
-					"value": "1,832"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/B-727_Iberia_%28cropped%29.jpg/800px-B-727_Iberia_%28cropped%29.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Black_and_white_image_of_Boeing_727_production.jpg/800px-Black_and_white_image_of_Boeing_727_production.jpg",
-						"desc": "Production of the 727"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boeing_727_donation_22_%2819744962922%29.jpg/800px-Boeing_727_donation_22_%2819744962922%29.jpg",
-						"desc": "Three-crew cockpit"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/S-duct-Boeing-727.jpg/800px-S-duct-Boeing-727.jpg",
-						"desc": "Diagram of the 727 with engine 2 S-duct in red"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rwr727tail.jpg/800px-Rwr727tail.jpg",
-						"desc": "A Northwest Airlines 727 tail and rear airstairs"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN0923420.jpg/800px-Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN0923420.jpg",
-						"desc": "Six-abreast seating in an Iran Aseman Airlines Boeing 727"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Boeing_737-2B7-Adv%2C_Dasab_Airlines_AN0992824.jpg/800px-Boeing_737-2B7-Adv%2C_Dasab_Airlines_AN0992824.jpg",
-						"desc": "Stage 3 hush kit mixer for theJT8D-1 through -17 engines"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fedex_727-233%2C_N281FE.jpg/800px-Fedex_727-233%2C_N281FE.jpg",
-						"desc": "A FedEx Express 727-233 departs Portland International Airport"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/N294WA_B727-247_Delta_MIA_24APR00_%286065158881%29.jpg/800px-N294WA_B727-247_Delta_MIA_24APR00_%286065158881%29.jpg",
-						"desc": "Delta Air Lines retired its last 727 from scheduled service in April 2003"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/11gg_-_Northwest_Airlines_Boeing_727-251%3B_N203US%40FLL%3B30.01.1998_%288064695962%29.jpg/800px-11gg_-_Northwest_Airlines_Boeing_727-251%3B_N203US%40FLL%3B30.01.1998_%288064695962%29.jpg",
-						"desc": "Northwest Airlines retired its last 727 from charter service in June 2003"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lufthansa_Boeing_727-30C_Fitzgerald.jpg/800px-Lufthansa_Boeing_727-30C_Fitzgerald.jpg",
-						"desc": "The initial 727-100 (from Lufthansa here) is 133 ft (41 m) long."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boeing_C-22A_%28727-30%29%2C_USA_-_Air_Force_AN1131866.jpg/800px-Boeing_C-22A_%28727-30%29%2C_USA_-_Air_Force_AN1131866.jpg",
-						"desc": "The sole C-22A."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Boeing_727-22%28QF%29%2C_United_Parcel_Service_%28UPS%29_JP5926976.jpg/800px-Boeing_727-22%28QF%29%2C_United_Parcel_Service_%28UPS%29_JP5926976.jpg",
-						"desc": "A 727-100QF of UPS Airlines. The air intake for the #2 engine has a distinctive \"hump\" on converted aircraft."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Boeing_727-228-Adv%2C_Ariana_Afghan_Airlines_AN1450645.jpg/800px-Boeing_727-228-Adv%2C_Ariana_Afghan_Airlines_AN1450645.jpg",
-						"desc": "The 727-200 (here from Ariana Afghan Airlines) is 20 ft (6.1 m) longer."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Boeing_727_donation_26_%2819129624324%29.jpg/800px-Boeing_727_donation_26_%2819129624324%29.jpg",
-						"desc": "Freighter cargo hold"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/HK-4637_%287198934904%29.jpg/800px-HK-4637_%287198934904%29.jpg",
-						"desc": "The \"Super 27\" re-engine has larger JT8D-200 side engines"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN1003609.jpg/800px-Boeing_727-228-Adv%2C_Iran_Aseman_Airlines_AN1003609.jpg",
-						"desc": "Iran Aseman Airlines operated the last scheduled 727 passenger flight in 2019."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Boeing_727_Kalitta_%282819751774%29.jpg/800px-Boeing_727_Kalitta_%282819751774%29.jpg",
-						"desc": "Kalitta Charters is operating four 727 in its fleet."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/XT-BFA_B727_Burkina_Faso_%286328516101%29.jpg/800px-XT-BFA_B727_Burkina_Faso_%286328516101%29.jpg",
-						"desc": "Burkina Faso 727"
-					}
-				]
-			}
-		},
-		{
 			"name": "Douglas_DC-8",
 			"data": [
 				{
@@ -3841,114 +3841,6 @@
 			}
 		},
 		{
-			"name": "Embraer_ERJ_family",
-			"data": [
-				{
-					"header": "Background and early design",
-					"text": "The ERJ 145 was designed for a perceived new market for regional jet aircraft, where the increased speed, comfort and passenger appeal would outweigh the inherent fuel economy of the turboprop aircraft which were in service and in development."
-				},
-				{
-					"header": "Production in China",
-					"text": "During December 2002, Embraer entered a partnership with the Chinese aerospace manufacturer Harbin Aircraft Industry Group, resulting in the creation of Harbin Embraer Aircraft Industry, a joint venture company, to locally produce the ERJ 145 in Harbin for the Chinese market. The assembly line was sized to produce a maximum of 24 aircraft per year, assembling complete knock down kits prepared by Embraer at its facilities overseas. During February 2004, the first delivery of a Chinese-assembled ERJ 145 took place; two months later, China Southern took delivery for two of the locally-built ERJ145s."
-				},
-				{
-					"header": "Design",
-					"text": "The Embraer ERJ family is a series of twin-engine jet-powered regional jets. The ERJ family retains a relatively high level of commonality with the Embraer Legacy 600 business jet; the principal difference being the addition of winglets and additional fuel tanks as standard on the latter. The airframe is composed of stretched, machined and chemically milled aluminium, with CFRP for moving parts, GFRP for fairings and sidewalls, kevlar for leading edges and Nomex honeycomb-CFRP/GFRP sandwiches for floors."
-				},
-				{
-					"header": "Civilian operators",
-					"text": "As of November 2023, the civilian operators with ten or more ERJs are:"
-				},
-				{
-					"header": "Accidents",
-					"text": "The ERJ 135/140/145 has been involved in 26 aviation accidents and incidents, including 8 hull losses, which resulted in zero fatalities."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Regional jetType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Brazil"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Embraer"
-				},
-				{
-					"key": "First flight",
-					"value": "11 August 1995"
-				},
-				{
-					"key": "Introduction",
-					"value": "6 April 1997"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "CommuteAir.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Piedmont AirlinesAirlinkJSX"
-				},
-				{
-					"key": "Produced",
-					"value": "1992–2020 2003–2016 (China)"
-				},
-				{
-					"key": "Number built",
-					"value": "1,231"
-				},
-				{
-					"key": "Developed from",
-					"value": "Embraer EMB 120 Brasilia"
-				},
-				{
-					"key": "Variants",
-					"value": "Embraer E/P/R-99Embraer Legacy 600"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Embraer_EMB-145LR_%28ERJ-145LR%29%2C_American_Eagle_AN0969536.jpg/800px-Embraer_EMB-145LR_%28ERJ-145LR%29%2C_American_Eagle_AN0969536.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/EMB145Amazon.jpg/800px-EMB145Amazon.jpg",
-						"desc": "The original EMB-145 Amazon design with a straight wing and overwing engines"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/EMB145-underwing.jpg/800px-EMB145-underwing.jpg",
-						"desc": "Revised design with swept wing and underwing engines"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bmi_erj145_planform_arp.jpg/800px-Bmi_erj145_planform_arp.jpg",
-						"desc": "ERJ 145 planform view"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/American_Eagle_EMB-145LR_%28N627AE%29_%286983751319%29.jpg/800px-American_Eagle_EMB-145LR_%28N627AE%29_%286983751319%29.jpg",
-						"desc": "Three-abreast cabin"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Embraer_ERJ-135_%26_ERJ-145.jpg/800px-Embraer_ERJ-135_%26_ERJ-145.jpg",
-						"desc": "The ERJ 145 with the ERJ 135 at Farnborough in July 2000"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Embraer_135BJ_flight_deck.jpg/800px-Embraer_135BJ_flight_deck.jpg",
-						"desc": "The flight deck of an Embraer EMB-135BJ, 2008"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Embraer_ERJ-145LR%2C_United_Express_%28ExpressJet_Airlines%29_JP7008157.jpg/800px-Embraer_ERJ-145LR%2C_United_Express_%28ExpressJet_Airlines%29_JP7008157.jpg",
-						"desc": "ERJ 145 operated for United Express by ExpressJet Airlines at Querétaro, Mexico"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Embraer_ERJ-135BJ_Legacy_600%2C_London_Executive_Aviation_JP6974088.jpg/800px-Embraer_ERJ-135BJ_Legacy_600%2C_London_Executive_Aviation_JP6974088.jpg",
-						"desc": "The Legacy 600 business jet derivative adds a fuel tank fairing forward of the wing and winglets"
-					}
-				]
-			}
-		},
-		{
 			"name": "Boeing_757",
 			"data": [
 				{
@@ -4125,6 +4017,114 @@
 			}
 		},
 		{
+			"name": "Embraer_ERJ_family",
+			"data": [
+				{
+					"header": "Background and early design",
+					"text": "The ERJ 145 was designed for a perceived new market for regional jet aircraft, where the increased speed, comfort and passenger appeal would outweigh the inherent fuel economy of the turboprop aircraft which were in service and in development."
+				},
+				{
+					"header": "Production in China",
+					"text": "During December 2002, Embraer entered a partnership with the Chinese aerospace manufacturer Harbin Aircraft Industry Group, resulting in the creation of Harbin Embraer Aircraft Industry, a joint venture company, to locally produce the ERJ 145 in Harbin for the Chinese market. The assembly line was sized to produce a maximum of 24 aircraft per year, assembling complete knock down kits prepared by Embraer at its facilities overseas. During February 2004, the first delivery of a Chinese-assembled ERJ 145 took place; two months later, China Southern took delivery for two of the locally-built ERJ145s."
+				},
+				{
+					"header": "Design",
+					"text": "The Embraer ERJ family is a series of twin-engine jet-powered regional jets. The ERJ family retains a relatively high level of commonality with the Embraer Legacy 600 business jet; the principal difference being the addition of winglets and additional fuel tanks as standard on the latter. The airframe is composed of stretched, machined and chemically milled aluminium, with CFRP for moving parts, GFRP for fairings and sidewalls, kevlar for leading edges and Nomex honeycomb-CFRP/GFRP sandwiches for floors."
+				},
+				{
+					"header": "Civilian operators",
+					"text": "As of November 2023, the civilian operators with ten or more ERJs are:"
+				},
+				{
+					"header": "Accidents",
+					"text": "The ERJ 135/140/145 has been involved in 26 aviation accidents and incidents, including 8 hull losses, which resulted in zero fatalities."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Regional jetType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Brazil"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Embraer"
+				},
+				{
+					"key": "First flight",
+					"value": "11 August 1995"
+				},
+				{
+					"key": "Introduction",
+					"value": "6 April 1997"
+				},
+				{
+					"key": "Status",
+					"value": "In service"
+				},
+				{
+					"key": "Primary users",
+					"value": "CommuteAir.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Piedmont AirlinesAirlinkJSX"
+				},
+				{
+					"key": "Produced",
+					"value": "1992–2020 2003–2016 (China)"
+				},
+				{
+					"key": "Number built",
+					"value": "1,231"
+				},
+				{
+					"key": "Developed from",
+					"value": "Embraer EMB 120 Brasilia"
+				},
+				{
+					"key": "Variants",
+					"value": "Embraer E/P/R-99Embraer Legacy 600"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Embraer_EMB-145LR_%28ERJ-145LR%29%2C_American_Eagle_AN0969536.jpg/800px-Embraer_EMB-145LR_%28ERJ-145LR%29%2C_American_Eagle_AN0969536.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/EMB145Amazon.jpg/800px-EMB145Amazon.jpg",
+						"desc": "The original EMB-145 Amazon design with a straight wing and overwing engines"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/EMB145-underwing.jpg/800px-EMB145-underwing.jpg",
+						"desc": "Revised design with swept wing and underwing engines"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bmi_erj145_planform_arp.jpg/800px-Bmi_erj145_planform_arp.jpg",
+						"desc": "ERJ 145 planform view"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/American_Eagle_EMB-145LR_%28N627AE%29_%286983751319%29.jpg/800px-American_Eagle_EMB-145LR_%28N627AE%29_%286983751319%29.jpg",
+						"desc": "Three-abreast cabin"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Embraer_ERJ-135_%26_ERJ-145.jpg/800px-Embraer_ERJ-135_%26_ERJ-145.jpg",
+						"desc": "The ERJ 145 with the ERJ 135 at Farnborough in July 2000"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Embraer_135BJ_flight_deck.jpg/800px-Embraer_135BJ_flight_deck.jpg",
+						"desc": "The flight deck of an Embraer EMB-135BJ, 2008"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Embraer_ERJ-145LR%2C_United_Express_%28ExpressJet_Airlines%29_JP7008157.jpg/800px-Embraer_ERJ-145LR%2C_United_Express_%28ExpressJet_Airlines%29_JP7008157.jpg",
+						"desc": "ERJ 145 operated for United Express by ExpressJet Airlines at Querétaro, Mexico"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Embraer_ERJ-135BJ_Legacy_600%2C_London_Executive_Aviation_JP6974088.jpg/800px-Embraer_ERJ-135BJ_Legacy_600%2C_London_Executive_Aviation_JP6974088.jpg",
+						"desc": "The Legacy 600 business jet derivative adds a fuel tank fairing forward of the wing and winglets"
+					}
+				]
+			}
+		},
+		{
 			"name": "Fokker_100",
 			"data": [
 				{
@@ -4212,6 +4212,86 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fokker_100_%28F-28-0100%29%2C_American_Airlines_AN0145805.jpg/800px-Fokker_100_%28F-28-0100%29%2C_American_Airlines_AN0145805.jpg",
 						"desc": "A former Fokker 100 of American Airlines."
+					}
+				]
+			}
+		},
+		{
+			"name": "Fokker_70",
+			"data": [
+				{
+					"header": "Development",
+					"text": "During November 1992, the Fokker company of the Netherlands commenced development of a new airliner intended to replace the aging Fokker F28 airliner with a more modern and fuel efficient aircraft. The specification for the Fokker 70 was shaped by requirements outlined by several airlines, which had determined that both the Fokker 50 and ATR 42 were too small, while the Boeing 737 and MD-80 were deemed to be too large. By aiming for this sector of the market, Fokker had opted to compete for the highly competitive top end of the regional airliner market."
+				},
+				{
+					"header": "Design",
+					"text": "The Fokker 70 is a narrow-body, twin-engined, medium-range regional airliner. It is powered by a pair of Rolls-Royce Tay 620 turbofan engines, positioned at either side of the aircraft and mounted on the rear fuselage; each engine is capable of providing up to 61.6 kN (13,849 lb) of thrust. The weight varies from 22,673 kilograms (49,985 lb) when empty to 41,730 kilograms (92,000 lb) at maximum takeoff weight (MTOW). The Fokker 70 is equipped with an airbrake fitted upon its tail section, in a somewhat similar arrangement to that found on the competing British Aerospace 146, which allows it to conform with the 5.5° glide slope to perform steep descents, as required at London City Airport. It is outfitted with a similar avionics suite to that of the Fokker 100."
+				},
+				{
+					"header": "Operational history",
+					"text": "The vast majority of Fokker 70s were delivered to various operators in the European market. One early customer for the Fokker 70 was the Dutch flag carrier KLM, who opted to replace its remaining Fokker F28s with the type. The company's regional airline subsidiary KLM Cityhopper operated the Fokker 70 for numerous years; on 28 October 2017, the final flight of a KLM Fokker 70 was conducted. The Italian flag carrier Alitalia at one point had 15 Fokker 70s on order via leasing agreements for its subsidiary Avianova; on 20 December 1995, the first example was put into revenue service. However, its operations of the type would be relatively brief; by February 1997, the company had decided to return its fleet. On 30 October 1995, the French flag carrier Air France introduced its first Fokker 70, typically using it as a replacement for its ATR 42s."
+				},
+				{
+					"header": "Current operators",
+					"text": "As of October 2022, 37 aircraft remain in service with seven airlines and two governments:"
+				},
+				{
+					"header": "External links",
+					"text": " Media related to Fokker 70 at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Regional jetType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Netherlands"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Fokker"
+				},
+				{
+					"key": "First flight",
+					"value": "4 April 1993"
+				},
+				{
+					"key": "Introduction",
+					"value": "October 1994 with Ford Motor Company (private)  1995 with Sempati Air (commercial)"
+				},
+				{
+					"key": "Status",
+					"value": "In service"
+				},
+				{
+					"key": "Primary users",
+					"value": "Alliance AirlinesAir Niugini  KLM Cityhopper (Former)  Austrian Airlines (Former)"
+				},
+				{
+					"key": "Produced",
+					"value": "1992-1997"
+				},
+				{
+					"key": "Number built",
+					"value": "47 (+1 prototype)"
+				},
+				{
+					"key": "Developed from",
+					"value": "Fokker 100"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PH-JCT_Fokker_70_KLM_cityhopper.JPG/800px-PH-JCT_Fokker_70_KLM_cityhopper.JPG",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/VH-QQX_Fokker_70_Alliance_Airlines_%288085348276%29.jpg/800px-VH-QQX_Fokker_70_Alliance_Airlines_%288085348276%29.jpg",
+						"desc": "Alliance Airlines F70 from below"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fokker5.jpg/800px-Fokker5.jpg",
+						"desc": "Cabin of a former Austrian Airlines F70"
 					}
 				]
 			}
@@ -4412,86 +4492,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/American_Airlines_C.R._Smith_Museum_May_2019_21_%28Wurlitzer_electronic_piano%29.jpg/800px-American_Airlines_C.R._Smith_Museum_May_2019_21_%28Wurlitzer_electronic_piano%29.jpg",
 						"desc": "American Airlines 747 Wurlitzer electronic piano, 1971"
-					}
-				]
-			}
-		},
-		{
-			"name": "Fokker_70",
-			"data": [
-				{
-					"header": "Development",
-					"text": "During November 1992, the Fokker company of the Netherlands commenced development of a new airliner intended to replace the aging Fokker F28 airliner with a more modern and fuel efficient aircraft. The specification for the Fokker 70 was shaped by requirements outlined by several airlines, which had determined that both the Fokker 50 and ATR 42 were too small, while the Boeing 737 and MD-80 were deemed to be too large. By aiming for this sector of the market, Fokker had opted to compete for the highly competitive top end of the regional airliner market."
-				},
-				{
-					"header": "Design",
-					"text": "The Fokker 70 is a narrow-body, twin-engined, medium-range regional airliner. It is powered by a pair of Rolls-Royce Tay 620 turbofan engines, positioned at either side of the aircraft and mounted on the rear fuselage; each engine is capable of providing up to 61.6 kN (13,849 lb) of thrust. The weight varies from 22,673 kilograms (49,985 lb) when empty to 41,730 kilograms (92,000 lb) at maximum takeoff weight (MTOW). The Fokker 70 is equipped with an airbrake fitted upon its tail section, in a somewhat similar arrangement to that found on the competing British Aerospace 146, which allows it to conform with the 5.5° glide slope to perform steep descents, as required at London City Airport. It is outfitted with a similar avionics suite to that of the Fokker 100."
-				},
-				{
-					"header": "Operational history",
-					"text": "The vast majority of Fokker 70s were delivered to various operators in the European market. One early customer for the Fokker 70 was the Dutch flag carrier KLM, who opted to replace its remaining Fokker F28s with the type. The company's regional airline subsidiary KLM Cityhopper operated the Fokker 70 for numerous years; on 28 October 2017, the final flight of a KLM Fokker 70 was conducted. The Italian flag carrier Alitalia at one point had 15 Fokker 70s on order via leasing agreements for its subsidiary Avianova; on 20 December 1995, the first example was put into revenue service. However, its operations of the type would be relatively brief; by February 1997, the company had decided to return its fleet. On 30 October 1995, the French flag carrier Air France introduced its first Fokker 70, typically using it as a replacement for its ATR 42s."
-				},
-				{
-					"header": "Current operators",
-					"text": "As of October 2022, 37 aircraft remain in service with seven airlines and two governments:"
-				},
-				{
-					"header": "External links",
-					"text": " Media related to Fokker 70 at Wikimedia Commons"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Regional jetType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Netherlands"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Fokker"
-				},
-				{
-					"key": "First flight",
-					"value": "4 April 1993"
-				},
-				{
-					"key": "Introduction",
-					"value": "October 1994 with Ford Motor Company (private)  1995 with Sempati Air (commercial)"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "Alliance AirlinesAir Niugini  KLM Cityhopper (Former)  Austrian Airlines (Former)"
-				},
-				{
-					"key": "Produced",
-					"value": "1992-1997"
-				},
-				{
-					"key": "Number built",
-					"value": "47 (+1 prototype)"
-				},
-				{
-					"key": "Developed from",
-					"value": "Fokker 100"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/PH-JCT_Fokker_70_KLM_cityhopper.JPG/800px-PH-JCT_Fokker_70_KLM_cityhopper.JPG",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/VH-QQX_Fokker_70_Alliance_Airlines_%288085348276%29.jpg/800px-VH-QQX_Fokker_70_Alliance_Airlines_%288085348276%29.jpg",
-						"desc": "Alliance Airlines F70 from below"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fokker5.jpg/800px-Fokker5.jpg",
-						"desc": "Cabin of a former Austrian Airlines F70"
 					}
 				]
 			}
@@ -5045,6 +5045,94 @@
 			}
 		},
 		{
+			"name": "Tupolev_Tu-134",
+			"data": [
+				{
+					"header": "Current civil operators",
+					"text": "As of 2022, just two Tupolev Tu-134s remain in civil passenger airline service worldwide:"
+				},
+				{
+					"header": "Current military operators",
+					"text": "The following states still operate the Tu-134 for military and other government purposes:[citation needed]"
+				},
+				{
+					"header": "See also",
+					"text": "Aircraft of comparable role, configuration, and era"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "AirlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Soviet Union"
+				},
+				{
+					"key": "Design group",
+					"value": "Tupolev"
+				},
+				{
+					"key": "Built by",
+					"value": "Kharkov Aviation Production Association"
+				},
+				{
+					"key": "First flight",
+					"value": "29 July 1963"
+				},
+				{
+					"key": "Introduction",
+					"value": "9 September 1970 "
+				},
+				{
+					"key": "Status",
+					"value": "In limited use"
+				},
+				{
+					"key": "Primary users",
+					"value": "Aeroflot (historical)Soviet Air Force (historical)Air KoryoALROSA (historical)"
+				},
+				{
+					"key": "Produced",
+					"value": "1966–1989"
+				},
+				{
+					"key": "Number built",
+					"value": "854 (852 + 2 prototypes)"
+				},
+				{
+					"key": "Developed from",
+					"value": "Tupolev Tu-124"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tretyakovo_Tupolev_Tu-134.jpg/800px-Tretyakovo_Tupolev_Tu-134.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tu-134UBL_cockpit.jpg/800px-Tu-134UBL_cockpit.jpg",
+						"desc": "Tu-134UBL cockpit"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aeroflot-Nord_Tupolev_Tu-134_nose_view_Mishin.jpg/800px-Aeroflot-Nord_Tupolev_Tu-134_nose_view_Mishin.jpg",
+						"desc": "Looking through the nose of an Aeroflot-Nord Tu-134 (2009)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tu-134UBL.jpg/800px-Tu-134UBL.jpg",
+						"desc": "Tu-134UBL \"Volga\" from 1449th Airbase in Tambov city"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hungarian_Govt_Tupolev_Tu-134_1978_Sipila.jpg/800px-Hungarian_Govt_Tupolev_Tu-134_1978_Sipila.jpg",
+						"desc": "Tu-134A of the Hungarian People's Republic at Helsinki Vantaa Airport in 1978."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TUPOLEV_TU134_P814_AT_HAMHUNG_SONDOK_AIRFIELD_DPR_KOREA_OCT_2012_%288796843545%29.jpg/800px-TUPOLEV_TU134_P814_AT_HAMHUNG_SONDOK_AIRFIELD_DPR_KOREA_OCT_2012_%288796843545%29.jpg",
+						"desc": "Air Koryo Tupolev Tu-134"
+					}
+				]
+			}
+		},
+		{
 			"name": "McDonnell_Douglas_DC-10",
 			"data": [
 				{
@@ -5141,89 +5229,89 @@
 			}
 		},
 		{
-			"name": "Tupolev_Tu-134",
+			"name": "Yakovlev_Yak-40",
 			"data": [
 				{
-					"header": "Current civil operators",
-					"text": "As of 2022, just two Tupolev Tu-134s remain in civil passenger airline service worldwide:"
+					"header": "Development",
+					"text": "By the early 1960s, Soviet international and internal trunk routes were served by Aeroflot, the state airline, using jet or turboprop powered airliners, but their local services, many of which operated from grass airfields, were served by obsolete piston-engine aircraft such as the Ilyushin Il-12, Il-14 and Lisunov Li-2. Aeroflot wanted to replace these elderly airliners with a turbine-powered aircraft, with the Yakovlev design bureau being assigned to design it. High speed was not required, but it would have to be able to operate safely and reliably out of poorly equipped airports with short (less than 700 m or 2,300 ft) unpaved runways in poor weather."
 				},
 				{
-					"header": "Current military operators",
-					"text": "The following states still operate the Tu-134 for military and other government purposes:[citation needed]"
-				},
-				{
-					"header": "See also",
-					"text": "Aircraft of comparable role, configuration, and era"
+					"header": "Operational history",
+					"text": "The first of five prototypes made its maiden flight on 21 October 1966, with production being launched at the Saratov Aviation Plant in 1967 and Soviet type certification granted in 1968. The type carried out its first passenger service for Aeroflot on 30 September 1968. In the 1972 version, a tailspin was removed. In 1974, new version was introduced, with non-stop flight distance increased. Also, the forward door on the right side of the fuselage changed its place – it was located together with the sixth window.[citation needed]"
 				}
 			],
 			"infobox": [
 				{
 					"key": "Role",
-					"value": "AirlinerType of aircraft"
+					"value": "Regional jet/ VIP transportType of aircraft"
 				},
 				{
 					"key": "National origin",
 					"value": "Soviet Union"
 				},
 				{
-					"key": "Design group",
-					"value": "Tupolev"
-				},
-				{
-					"key": "Built by",
-					"value": "Kharkov Aviation Production Association"
+					"key": "Manufacturer",
+					"value": "Yakovlev"
 				},
 				{
 					"key": "First flight",
-					"value": "29 July 1963"
+					"value": "October 21, 1966"
 				},
 				{
 					"key": "Introduction",
-					"value": "9 September 1970 "
+					"value": "September 1968 (Aeroflot)"
 				},
 				{
 					"key": "Status",
-					"value": "In limited use"
+					"value": "In service"
 				},
 				{
 					"key": "Primary users",
-					"value": "Aeroflot (historical)Soviet Air Force (historical)Air KoryoALROSA (historical)"
+					"value": "Motor Sich AirlinesVologda Aviation Enterprise Aeroflot (former)"
 				},
 				{
 					"key": "Produced",
-					"value": "1966–1989"
+					"value": "1967–1981"
 				},
 				{
 					"key": "Number built",
-					"value": "854 (852 + 2 prototypes)"
+					"value": "1,011 (according to some sources, 1,013)[which?]"
 				},
 				{
-					"key": "Developed from",
-					"value": "Tupolev Tu-124"
+					"key": "Developed into",
+					"value": "Yakovlev Yak-42"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tretyakovo_Tupolev_Tu-134.jpg/800px-Tretyakovo_Tupolev_Tu-134.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg/800px-Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg",
 				"other": [
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Tu-134UBL_cockpit.jpg/800px-Tu-134UBL_cockpit.jpg",
-						"desc": "Tu-134UBL cockpit"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg",
+						"desc": "Bucket thrust reverser on the center engine"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aeroflot-Nord_Tupolev_Tu-134_nose_view_Mishin.jpg/800px-Aeroflot-Nord_Tupolev_Tu-134_nose_view_Mishin.jpg",
-						"desc": "Looking through the nose of an Aeroflot-Nord Tu-134 (2009)"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg",
+						"desc": "Cockpit of a Yak-40"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tu-134UBL.jpg/800px-Tu-134UBL.jpg",
-						"desc": "Tu-134UBL \"Volga\" from 1449th Airbase in Tambov city"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yak-40_RA-87500_%2815627516007%29.jpg/800px-Yak-40_RA-87500_%2815627516007%29.jpg",
+						"desc": "Rear view of the aircraft, showing the rear integrated airstairs"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hungarian_Govt_Tupolev_Tu-134_1978_Sipila.jpg/800px-Hungarian_Govt_Tupolev_Tu-134_1978_Sipila.jpg",
-						"desc": "Tu-134A of the Hungarian People's Republic at Helsinki Vantaa Airport in 1978."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eesti_Lennundusmuuseum._JAK-40_salong.jpg/800px-Eesti_Lennundusmuuseum._JAK-40_salong.jpg",
+						"desc": "Interior photosphere of the VIP variant of the Yak-40, located at the Estonian Aviation Museum.(view as a 360° interactive panorama)"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/TUPOLEV_TU134_P814_AT_HAMHUNG_SONDOK_AIRFIELD_DPR_KOREA_OCT_2012_%288796843545%29.jpg/800px-TUPOLEV_TU134_P814_AT_HAMHUNG_SONDOK_AIRFIELD_DPR_KOREA_OCT_2012_%288796843545%29.jpg",
-						"desc": "Air Koryo Tupolev Tu-134"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg/800px-Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg",
+						"desc": "YK-40 business aircraft interior"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yakovlev_Yak-40_HA-LRA_cabin.jpg/800px-Yakovlev_Yak-40_HA-LRA_cabin.jpg",
+						"desc": "Three-abreast seating configuration of the Yak-40"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RA-88296_Yak40_Severstal_%286679463821%29.jpg/800px-RA-88296_Yak40_Severstal_%286679463821%29.jpg",
+						"desc": "Yak-40 during takeoff"
 					}
 				]
 			}
@@ -5577,94 +5665,6 @@
 			}
 		},
 		{
-			"name": "Yakovlev_Yak-40",
-			"data": [
-				{
-					"header": "Development",
-					"text": "By the early 1960s, Soviet international and internal trunk routes were served by Aeroflot, the state airline, using jet or turboprop powered airliners, but their local services, many of which operated from grass airfields, were served by obsolete piston-engine aircraft such as the Ilyushin Il-12, Il-14 and Lisunov Li-2. Aeroflot wanted to replace these elderly airliners with a turbine-powered aircraft, with the Yakovlev design bureau being assigned to design it. High speed was not required, but it would have to be able to operate safely and reliably out of poorly equipped airports with short (less than 700 m or 2,300 ft) unpaved runways in poor weather."
-				},
-				{
-					"header": "Operational history",
-					"text": "The first of five prototypes made its maiden flight on 21 October 1966, with production being launched at the Saratov Aviation Plant in 1967 and Soviet type certification granted in 1968. The type carried out its first passenger service for Aeroflot on 30 September 1968. In the 1972 version, a tailspin was removed. In 1974, new version was introduced, with non-stop flight distance increased. Also, the forward door on the right side of the fuselage changed its place – it was located together with the sixth window.[citation needed]"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Regional jet/ VIP transportType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Soviet Union"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Yakovlev"
-				},
-				{
-					"key": "First flight",
-					"value": "October 21, 1966"
-				},
-				{
-					"key": "Introduction",
-					"value": "September 1968 (Aeroflot)"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "Motor Sich AirlinesVologda Aviation Enterprise Aeroflot (former)"
-				},
-				{
-					"key": "Produced",
-					"value": "1967–1981"
-				},
-				{
-					"key": "Number built",
-					"value": "1,011 (according to some sources, 1,013)[which?]"
-				},
-				{
-					"key": "Developed into",
-					"value": "Yakovlev Yak-42"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg/800px-Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg",
-						"desc": "Bucket thrust reverser on the center engine"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg",
-						"desc": "Cockpit of a Yak-40"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yak-40_RA-87500_%2815627516007%29.jpg/800px-Yak-40_RA-87500_%2815627516007%29.jpg",
-						"desc": "Rear view of the aircraft, showing the rear integrated airstairs"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eesti_Lennundusmuuseum._JAK-40_salong.jpg/800px-Eesti_Lennundusmuuseum._JAK-40_salong.jpg",
-						"desc": "Interior photosphere of the VIP variant of the Yak-40, located at the Estonian Aviation Museum.(view as a 360° interactive panorama)"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg/800px-Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg",
-						"desc": "YK-40 business aircraft interior"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yakovlev_Yak-40_HA-LRA_cabin.jpg/800px-Yakovlev_Yak-40_HA-LRA_cabin.jpg",
-						"desc": "Three-abreast seating configuration of the Yak-40"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RA-88296_Yak40_Severstal_%286679463821%29.jpg/800px-RA-88296_Yak40_Severstal_%286679463821%29.jpg",
-						"desc": "Yak-40 during takeoff"
-					}
-				]
-			}
-		},
-		{
 			"name": "McDonnell_Douglas_MD-90",
 			"data": [
 				{
@@ -5868,70 +5868,6 @@
 			}
 		},
 		{
-			"name": "Tupolev_Tu-334",
-			"data": [
-				{
-					"header": "Specifications (Tu-334-100)",
-					"text": "Data from Jane's All The World's Aircraft 2003–2004"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Russia"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "United Aircraft Corporation"
-				},
-				{
-					"key": "First flight",
-					"value": "8 February 1999"
-				},
-				{
-					"key": "Status",
-					"value": "Cancelled"
-				},
-				{
-					"key": "Produced",
-					"value": "1999–2009"
-				},
-				{
-					"key": "Number built",
-					"value": "2"
-				},
-				{
-					"key": "Developed from",
-					"value": "Tupolev Tu-204"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-008.jpg/800px-%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-008.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-005.jpg/800px-%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-005.jpg",
-						"desc": "A Tu-334 at the 2007 MAKS Airshow, Moscow"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-007.jpg/800px-%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-007.jpg",
-						"desc": "A Tu-334 performing at MAKS 2007"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tupolev_Tu_334_at_MAKS_2007.jpg/800px-Tupolev_Tu_334_at_MAKS_2007.jpg",
-						"desc": "A Tu-334 at the 2007 MAKS Airshow, Moscow"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cabin_of_Tupolev_Tu-334_%282%29.jpg/800px-Cabin_of_Tupolev_Tu-334_%282%29.jpg",
-						"desc": "Tu-334 cabin."
-					}
-				]
-			}
-		},
-		{
 			"name": "VFW-Fokker_614",
 			"data": [],
 			"infobox": [
@@ -5998,6 +5934,265 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/ATTAS_DM_1.jpg/800px-ATTAS_DM_1.jpg",
 						"desc": "Displayed at Flugwerft Schleißheim"
+					}
+				]
+			}
+		},
+		{
+			"name": "Tupolev_Tu-110",
+			"data": [
+				{
+					"header": "Specifications (Tu-110 1st prototype)",
+					"text": "Data from The Osprey Encyclopaedia of Russian Aircraft 1875– 1995"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "USSR"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Tupolev"
+				},
+				{
+					"key": "Designer",
+					"value": "Dmitriy S. Markov"
+				},
+				{
+					"key": "First flight",
+					"value": "11 March 1957"
+				},
+				{
+					"key": "Status",
+					"value": "Never entered service"
+				},
+				{
+					"key": "Number built",
+					"value": "4"
+				},
+				{
+					"key": "Developed from",
+					"value": "Tupolev Tu-104"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/1958_CPA_2193.jpg/800px-1958_CPA_2193.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "Tupolev_Tu-334",
+			"data": [
+				{
+					"header": "Specifications (Tu-334-100)",
+					"text": "Data from Jane's All The World's Aircraft 2003–2004"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Russia"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "United Aircraft Corporation"
+				},
+				{
+					"key": "First flight",
+					"value": "8 February 1999"
+				},
+				{
+					"key": "Status",
+					"value": "Cancelled"
+				},
+				{
+					"key": "Produced",
+					"value": "1999–2009"
+				},
+				{
+					"key": "Number built",
+					"value": "2"
+				},
+				{
+					"key": "Developed from",
+					"value": "Tupolev Tu-204"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-008.jpg/800px-%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-008.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-005.jpg/800px-%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-005.jpg",
+						"desc": "A Tu-334 at the 2007 MAKS Airshow, Moscow"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-007.jpg/800px-%D0%9C%D0%90%D0%9A%D0%A1-2007-%D0%97%D0%92%D0%93-007.jpg",
+						"desc": "A Tu-334 performing at MAKS 2007"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tupolev_Tu_334_at_MAKS_2007.jpg/800px-Tupolev_Tu_334_at_MAKS_2007.jpg",
+						"desc": "A Tu-334 at the 2007 MAKS Airshow, Moscow"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Cabin_of_Tupolev_Tu-334_%282%29.jpg/800px-Cabin_of_Tupolev_Tu-334_%282%29.jpg",
+						"desc": "Tu-334 cabin."
+					}
+				]
+			}
+		},
+		{
+			"name": "Tupolev_Tu-124",
+			"data": [
+				{
+					"header": "Operational history",
+					"text": "Aeroflot was impressed with the flight performance of the Tu-124 and used it on domestic routes from the end of 1962."
+				},
+				{
+					"header": "Competition within the COMECON",
+					"text": "The German Democratic Republic attempted to compete within the COMECON trade bloc with its own four-engined design called the Baade 152. The design was unsuccessful, leading Interflug to buy a rear-engined development of the Tu-124, the Tupolev Tu-134.[citation needed]"
+				},
+				{
+					"header": "Accidents and incidents",
+					"text": "A total of fifteen Tu-124s were written off in crashes during the type's operational career; another two aircraft of Iraqi Airways were destroyed on the ground during the Gulf War."
+				},
+				{
+					"header": "Specifications (Tu-124V)",
+					"text": "Data from Soviet Transport Aircraft since 1945"
+				},
+				{
+					"header": "External links",
+					"text": " Media related to Tupolev Tu-124 at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Short-range airlinerType of aircraft"
+				},
+				{
+					"key": "Design group",
+					"value": "Tupolev"
+				},
+				{
+					"key": "Built by",
+					"value": "Kharkiv State Aircraft Manufacturing Company"
+				},
+				{
+					"key": "First flight",
+					"value": "29 March 1960"
+				},
+				{
+					"key": "Introduction",
+					"value": "2 October 1962"
+				},
+				{
+					"key": "Retired",
+					"value": "1980 (Aeroflot), 1990 (Iraqi Airways), 1992 (military service)"
+				},
+				{
+					"key": "Status",
+					"value": "Retired"
+				},
+				{
+					"key": "Primary users",
+					"value": "AeroflotČSAInterflug"
+				},
+				{
+					"key": "Produced",
+					"value": "1960–1965"
+				},
+				{
+					"key": "Number built",
+					"value": "164"
+				},
+				{
+					"key": "Developed from",
+					"value": "Tupolev Tu-104"
+				},
+				{
+					"key": "Variants",
+					"value": "Tupolev Tu-134"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Aeroflot_Tupolev_Tu-124_at_Arlanda%2C_April_1966.jpg/800px-Aeroflot_Tupolev_Tu-124_at_Arlanda%2C_April_1966.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tupolev_Tu-124Sh%2C_Aeroflot_AN1917576.jpg/800px-Tupolev_Tu-124Sh%2C_Aeroflot_AN1917576.jpg",
+						"desc": "Tupolev Tu-124Sh cockpit"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tupolev_Tu-124_CCCP-45072_SU_LEB_19.06.65_edited-3.jpg/800px-Tupolev_Tu-124_CCCP-45072_SU_LEB_19.06.65_edited-3.jpg",
+						"desc": "Aeroflot Tupolev Tu-124V in 1965"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CSA_Tupolev_Tu-124_Soderstrom-3.jpg/800px-CSA_Tupolev_Tu-124_Soderstrom-3.jpg",
+						"desc": "ČSA Tu 124"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tu124_PLAAF.jpg/800px-Tu124_PLAAF.jpg",
+						"desc": "Tupolev Tu-124V at China Aviation Museum, Beijing"
+					}
+				]
+			}
+		},
+		{
+			"name": "Shanghai_Y-10",
+			"data": [
+				{
+					"header": "History",
+					"text": "Development work, given code name 708, began in Shanghai in August, 1970 for Civil Aviation Administration of China (CAAC).  The plane was intended to serve as a demonstrator and help the Chinese industry obtain experience in large aircraft design and flight testing.  The Y-10 development costs totalled 537.7 million yuan. The Chinese government prided itself on the program, citing a Reuters report which said, \"After developing this kind of highly complex technology, one could no longer regard China as a backward country.\" The project was heavily tainted by politics from the beginning because it was spearheaded by Wang Hongwen, one of the Gang of Four. The guiding philosophy during the 1980s the political-economic reforms and opening up which emphasizes importing technology from the west and exporting low-end goods diverted resources from domestic high-tech manufacturing and R&D.  The strategic vision of an independently developed large transport plane had long been voiced by Mao Zedong and, in 2006, a similar project with updated design goals made its way into the Eleventh Five-Year Plan, periodic strategic socio-economical development plans drawn up by the Chinese government."
+				},
+				{
+					"header": "Specifications (Y-10)",
+					"text": "Data from Chinese Aircraft:China's aviation industry since 1951"
+				},
+				{
+					"header": "Further reading",
+					"text": "Taylor, W. R. (Ed.).  Jane's All the World's Aircraft, 1980–81.  (London: Jane's Publishing Company), pp. 40 ff."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Shanghai Aircraft Manufacturing Factory"
+				},
+				{
+					"key": "Designer",
+					"value": "Shanghai Aircraft Research Institute"
+				},
+				{
+					"key": "First flight",
+					"value": "26 September 1980"
+				},
+				{
+					"key": "Number built",
+					"value": "3"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Y-10-6.jpg/800px-Y-10-6.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shanghai_Y-10_model.jpg/800px-Shanghai_Y-10_model.jpg",
+						"desc": "Model"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Y-10-7.jpg/800px-Y-10-7.jpg",
+						"desc": "Commemorative plaque"
 					}
 				]
 			}
@@ -6231,201 +6426,6 @@
 			}
 		},
 		{
-			"name": "Tupolev_Tu-110",
-			"data": [
-				{
-					"header": "Specifications (Tu-110 1st prototype)",
-					"text": "Data from The Osprey Encyclopaedia of Russian Aircraft 1875– 1995"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Jet airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "USSR"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Tupolev"
-				},
-				{
-					"key": "Designer",
-					"value": "Dmitriy S. Markov"
-				},
-				{
-					"key": "First flight",
-					"value": "11 March 1957"
-				},
-				{
-					"key": "Status",
-					"value": "Never entered service"
-				},
-				{
-					"key": "Number built",
-					"value": "4"
-				},
-				{
-					"key": "Developed from",
-					"value": "Tupolev Tu-104"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/1958_CPA_2193.jpg/800px-1958_CPA_2193.jpg",
-				"other": []
-			}
-		},
-		{
-			"name": "Tupolev_Tu-124",
-			"data": [
-				{
-					"header": "Operational history",
-					"text": "Aeroflot was impressed with the flight performance of the Tu-124 and used it on domestic routes from the end of 1962."
-				},
-				{
-					"header": "Competition within the COMECON",
-					"text": "The German Democratic Republic attempted to compete within the COMECON trade bloc with its own four-engined design called the Baade 152. The design was unsuccessful, leading Interflug to buy a rear-engined development of the Tu-124, the Tupolev Tu-134.[citation needed]"
-				},
-				{
-					"header": "Accidents and incidents",
-					"text": "A total of fifteen Tu-124s were written off in crashes during the type's operational career; another two aircraft of Iraqi Airways were destroyed on the ground during the Gulf War."
-				},
-				{
-					"header": "Specifications (Tu-124V)",
-					"text": "Data from Soviet Transport Aircraft since 1945"
-				},
-				{
-					"header": "External links",
-					"text": " Media related to Tupolev Tu-124 at Wikimedia Commons"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Short-range airlinerType of aircraft"
-				},
-				{
-					"key": "Design group",
-					"value": "Tupolev"
-				},
-				{
-					"key": "Built by",
-					"value": "Kharkiv State Aircraft Manufacturing Company"
-				},
-				{
-					"key": "First flight",
-					"value": "29 March 1960"
-				},
-				{
-					"key": "Introduction",
-					"value": "2 October 1962"
-				},
-				{
-					"key": "Retired",
-					"value": "1980 (Aeroflot), 1990 (Iraqi Airways), 1992 (military service)"
-				},
-				{
-					"key": "Status",
-					"value": "Retired"
-				},
-				{
-					"key": "Primary users",
-					"value": "AeroflotČSAInterflug"
-				},
-				{
-					"key": "Produced",
-					"value": "1960–1965"
-				},
-				{
-					"key": "Number built",
-					"value": "164"
-				},
-				{
-					"key": "Developed from",
-					"value": "Tupolev Tu-104"
-				},
-				{
-					"key": "Variants",
-					"value": "Tupolev Tu-134"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Aeroflot_Tupolev_Tu-124_at_Arlanda%2C_April_1966.jpg/800px-Aeroflot_Tupolev_Tu-124_at_Arlanda%2C_April_1966.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Tupolev_Tu-124Sh%2C_Aeroflot_AN1917576.jpg/800px-Tupolev_Tu-124Sh%2C_Aeroflot_AN1917576.jpg",
-						"desc": "Tupolev Tu-124Sh cockpit"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tupolev_Tu-124_CCCP-45072_SU_LEB_19.06.65_edited-3.jpg/800px-Tupolev_Tu-124_CCCP-45072_SU_LEB_19.06.65_edited-3.jpg",
-						"desc": "Aeroflot Tupolev Tu-124V in 1965"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/CSA_Tupolev_Tu-124_Soderstrom-3.jpg/800px-CSA_Tupolev_Tu-124_Soderstrom-3.jpg",
-						"desc": "ČSA Tu 124"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tu124_PLAAF.jpg/800px-Tu124_PLAAF.jpg",
-						"desc": "Tupolev Tu-124V at China Aviation Museum, Beijing"
-					}
-				]
-			}
-		},
-		{
-			"name": "Shanghai_Y-10",
-			"data": [
-				{
-					"header": "History",
-					"text": "Development work, given code name 708, began in Shanghai in August, 1970 for Civil Aviation Administration of China (CAAC).  The plane was intended to serve as a demonstrator and help the Chinese industry obtain experience in large aircraft design and flight testing.  The Y-10 development costs totalled 537.7 million yuan. The Chinese government prided itself on the program, citing a Reuters report which said, \"After developing this kind of highly complex technology, one could no longer regard China as a backward country.\" The project was heavily tainted by politics from the beginning because it was spearheaded by Wang Hongwen, one of the Gang of Four. The guiding philosophy during the 1980s the political-economic reforms and opening up which emphasizes importing technology from the west and exporting low-end goods diverted resources from domestic high-tech manufacturing and R&D.  The strategic vision of an independently developed large transport plane had long been voiced by Mao Zedong and, in 2006, a similar project with updated design goals made its way into the Eleventh Five-Year Plan, periodic strategic socio-economical development plans drawn up by the Chinese government."
-				},
-				{
-					"header": "Specifications (Y-10)",
-					"text": "Data from Chinese Aircraft:China's aviation industry since 1951"
-				},
-				{
-					"header": "Further reading",
-					"text": "Taylor, W. R. (Ed.).  Jane's All the World's Aircraft, 1980–81.  (London: Jane's Publishing Company), pp. 40 ff."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Shanghai Aircraft Manufacturing Factory"
-				},
-				{
-					"key": "Designer",
-					"value": "Shanghai Aircraft Research Institute"
-				},
-				{
-					"key": "First flight",
-					"value": "26 September 1980"
-				},
-				{
-					"key": "Number built",
-					"value": "3"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Y-10-6.jpg/800px-Y-10-6.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shanghai_Y-10_model.jpg/800px-Shanghai_Y-10_model.jpg",
-						"desc": "Model"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Y-10-7.jpg/800px-Y-10-7.jpg",
-						"desc": "Commemorative plaque"
-					}
-				]
-			}
-		},
-		{
 			"name": "Tupolev_Tu-144",
 			"data": [
 				{
@@ -6594,6 +6594,258 @@
 			}
 		},
 		{
+			"name": "Ilyushin_Il-86",
+			"data": [
+				{
+					"header": "Background",
+					"text": "In the mid-1960s, the United States and Western Europe planned airliners seating twice the then-maximum of some 200 passengers. They were known as airbuses at the time. The Soviet leadership wanted to match them with an aerobus (Russian: аэробус). Alongside the propaganda motive, the USSR genuinely needed an aerobus. Aeroflot expected over 100 million passengers a year within a decade (the 100th million annual passenger was indeed carried on 29 December 1976.)"
+				},
+				{
+					"header": "Conceptual development",
+					"text": "Ilyushin began work on the aerobus in late 1969, initially by assessing the development potential of existing aircraft. An enlarged Il-62 (the Il-62-250) would have had a 30-tonne payload, 259 seats and a 6.8 metre/22 ft longer fuselage: a virtual analogue of the Douglas DC-8 \"Super Sixty\" series. Other proposed Il-62 modifications involved double-deck and \"two fuselages side-by-side\" developments. There was also a project to \"civilianise\" the Il-76."
+				},
+				{
+					"header": "Manufacture",
+					"text": "Production of the Il-86 began in late 1976 and continued until 1991. There was no prototype. The first two machines were handmade by Ilyushin at the bureau's own Moscow facility in 1976 and 1977. One was used for flight testing and the other for static ground testing."
+				},
+				{
+					"header": "Configuration and wing",
+					"text": "All-metal low-wing land monoplane with four wing-mounted low-bypass turbofan engines."
+				},
+				{
+					"header": "Fuselage",
+					"text": "Circular-section structure of frames and stringers with a continuous main deck and lower decks fore and aft of the centre section. Rectangular windows in most interframe bays, eight ICAO Type 1a passenger doors on the main deck and three more on the lower deck portside; two freight hold doors and a galley supply door on the lower deck starboard. The main deck houses the flightdeck, two wardrobes, eight toilets, two pantries and a three-section passenger cabin. The lower deck houses three entry vestibules/luggage stores with hydraulic boarding stairs to ground level and fixed stairs to the main deck, a midships galley linked with the main deck by an electric lift, two freight holds (fore and aft of the passenger facilities), an avionics bay and two technical bays. The entire accommodation is pressurised and air-conditioned with \"earphones for music or on-board cinema.\""
+				},
+				{
+					"header": "Empennage",
+					"text": "Cantilevered trapezoid planform swept-back surfaces. Two-segment elevators and rudder. Tailplane area 96.5 m2 (1,039 sq ft); incidence adjustable between 2° and 12° by electric motors commanded by yoke trim thumbwheels and console trim wheels. Fin area 56.06 m2 (603.4 sq ft). Landing gear of near-conventional layout, with a twin-wheeled nose leg and three four-wheel bogie main gear legs (centreline and two outers). Track is .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}9.9 m (32 ft 5+3⁄4 in)."
+				},
+				{
+					"header": "Powerplant",
+					"text": "Four Kuznetsov NK-86 two-spool with five-stage LP compressors, six-stage HP compressors, annular combustor cans, single-stage HP turbine and two-stage LP turbine turbofan engines power the Il-86. The cascade thrust reversers are canted 15° in respect to the horizontal axis. Pneumatic starters start the engines (airborne relights use the windmill effect). The forward-facing ejectors blow away detritus during taxi. International Standard Atmosphere hourly fuel consumption per engine is 7.7 t (16,975 lb) at maximum continuous rated thrust, 6 t/13,230 lb at nominal maximum thrust, 5.1 t (11,243 lb) at 85% thrust, 4.2 t/9260 lb at 70%, 3.6 t (7,937 lb) at 60%, 2.45 t (5,400 lb) at 40% and 1 t (2,205 lb) at idle. Overall hourly fuel consumption at long-range cruise and 190 t (419,000 lb) is 9.75 t (21,495 lb) reducing to 7.79 t (17,174 lb) at 140 t (308,650 lb). Outboard engine pylons on the latter two-thirds of all Il-86s are marginally extended to cut drag."
+				},
+				{
+					"header": "Controls",
+					"text": "Hydraulically driven. An SAU-1T-2 automatic flight control system offers assisted manual or automatic flight, with no manual option. Four independent hydraulic systems power all flight controls and the built-in airstairs. Fluid is to the NGZh, rather than AMG, formula."
+				},
+				{
+					"header": "Avionics",
+					"text": "Pizhma-1 navigational system with OMEGA inputs. GPS transceivers and a TCAS fitted retroactively during the 1990s. Pizhma-1 can be used throughout the flight from departure terminal area to landing and taxi to stand. Pizhma-1 has full-time roll and yaw dampers."
+				},
+				{
+					"header": "Service life",
+					"text": "The expected service life of an Il-86 is twenty years (up to 25) or 10,000 landings (from 20,000 up to 35,000 hours) prior to major servicing."
+				},
+				{
+					"header": "Operational history",
+					"text": "An inaugural service from Moscow to Tashkent was flown on December 26, 1980, but services-proper commenced after February 1, 1981. Aeroflot first operated the Il-86 on peak domestic routes. Foreign services began in June 1981 to Eastern Europe. Services to larger West European cities began with the winter timetable starting in October that year. Charter flights to European points followed, with services on high-density medium/long-range routes within the Soviet Union coming last."
+				},
+				{
+					"header": "Long-range operations",
+					"text": "Although the Il-86 was a medium-range airliner, from 1982 Aeroflot put it into scheduled service from Moscow to Havana via Shannon and Gander, \"perhaps with limited payload or with additional tankerage.\" Other scheduled long-range services flown by the type were to Buenos Aires, Montevideo and Lima, Rio de Janeiro and São Paulo, all via Sal, Cape Verde."
+				},
+				{
+					"header": "Unused facilities",
+					"text": "The Il-86's \"luggage at hand\" carry-on luggage facility was rarely used. Vul'fov, A, notes: \"Thank God no civil servant got it into his head to refuse the parallel opportunity offered to passengers of electing to drop their luggage when checking-in at airports. Otherwise, the loading of luggage into the aircraft by passengers would have turned into a proper nightmare lasting hours.\""
+				},
+				{
+					"header": "Undeveloped Variants",
+					"text": "Only the base version of the Il-86 and a small batch of military derivatives entered service. Further versions were mooted but none entered service. Freight or combined passenger-freight versions are not known to have been proposed."
+				},
+				{
+					"header": "Proposed long-range version",
+					"text": "On June 26, 1972, a long-range version of the Il-86, the Il-86D (for Russian: \"дальний\"; transliterated: \"dal’niy\"; meaning \"long-range\"), was ordered into development by the Soviet cabinet. Design was completed in June 1976. The Il-86D would have had a marginally extended wing span, carried additional fuel, and had a range of some 8,500 km (4,600 nmi). Later announcements stated that a version of the Il-86D with Lotarev D-18 engines had entered development in March 1975. This version would have had a 147,500 kg (325,000 lb) empty weight, a 300,000 kg/660,000 lb maximum take-off weight, a fuel capacity of some 150,000 kg (330,000 lb), a wing area of 325 m2 (5,300 ft2), and a range of 10,200 km (5,500 nmi). It evolved into the Il-96."
+				},
+				{
+					"header": "Proposed high-capacity version",
+					"text": "A \"minimum-change\" development of the Il-86, stated to have been designated Il-86V, was test-flown on 1 June 1982 and was ready for service by 27 April 1985. It was said to have 450 seats, with the underfloor vestibules fitted with seats and possible changes to main-deck seating. The version is not known to have entered passenger service but may have been used by the military."
+				},
+				{
+					"header": "Proposed re-engined versions",
+					"text": "In the 1980s, there were moves to fit the Il-86 with RB211-22 engines. Designated Il-86V (second use of this designation), this would have had a range of over 9,000 km (4,860 nmi) and/or increased payload. Another 450-seater Il-86V powered by RB211-524G engines was also projected. Amid the disintegration of the Soviet economy, these versions did not progress."
+				},
+				{
+					"header": "Civil",
+					"text": "As of 28 May 2011, no civilian Il-86s remained in service."
+				},
+				{
+					"header": "Military",
+					"text": "As of 21 March 2010, four Il-86VKPs (Il-80s; Il-87s) remained in service:"
+				},
+				{
+					"header": "Accidents and incidents",
+					"text": "As of August 2013, the Il-86 is known to have been involved in at least 10 incidents, including 4 hull losses with a total of 23 fatalities unrelated to passengers. During its passenger-carrying operations the Il-86 has not been involved in any fatal accident."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Wide-body airlinerType of aircraft"
+				},
+				{
+					"key": "Design group",
+					"value": "Ilyushin"
+				},
+				{
+					"key": "Built by",
+					"value": "Voronezh Aircraft Production Association"
+				},
+				{
+					"key": "First flight",
+					"value": "December 22, 1976"
+				},
+				{
+					"key": "Introduction",
+					"value": "December 26, 1980"
+				},
+				{
+					"key": "Status",
+					"value": "In limited service[a]"
+				},
+				{
+					"key": "Primary users",
+					"value": "Aeroflot (Former)Siberia Airlines (Former)Kras Air (Former)Donavia (Former)"
+				},
+				{
+					"key": "Produced",
+					"value": "1976–1991"
+				},
+				{
+					"key": "Number built",
+					"value": "106"
+				},
+				{
+					"key": "Developed into",
+					"value": "Ilyushin Il-96"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Aeroflot_Ilyushin_Il-86.jpg/800px-Aeroflot_Ilyushin_Il-86.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Aeroflot-Don_Ilyushin_Il-86_passenger_cabin_Kustov.jpg/800px-Aeroflot-Don_Ilyushin_Il-86_passenger_cabin_Kustov.jpg",
+						"desc": "Passenger cabin of an Il-86 showing the absence of overhead stowage bins in the centre row. The Il-86's sister model (Ilyushin Il-96) also has no overhead storage bins in the center row."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pulkovo_Ilyushin_Il-86.jpg/800px-Pulkovo_Ilyushin_Il-86.jpg",
+						"desc": "An Il-86 at Pulkovo Airport, Saint Petersburg"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aeroflot_Ilyushin_Il-86_Shannon_Airport_Gupta.jpg/800px-Aeroflot_Ilyushin_Il-86_Shannon_Airport_Gupta.jpg",
+						"desc": "An Aeroflot Il-86 at Shannon Airport in 1992."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Il-86_Soviet_stamp.jpg/800px-Il-86_Soviet_stamp.jpg",
+						"desc": "Il-86 Soviet postage stamp, 1979"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Siberia_Airlines_Ilyushin_Il-86_Milinkovic.jpg/800px-Siberia_Airlines_Ilyushin_Il-86_Milinkovic.jpg",
+						"desc": "A Siberia Airlines Il-86 takes off from Tivat Airport (2007)."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Airborne_command_and_control_aircraft_IL-86VKP_%282%29.jpg/800px-Airborne_command_and_control_aircraft_IL-86VKP_%282%29.jpg",
+						"desc": "Il-86VKP in August 2012"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/China_Xinjiang_Airlines_Ilyushin_Il-86_Spijkers.jpg/800px-China_Xinjiang_Airlines_Ilyushin_Il-86_Spijkers.jpg",
+						"desc": "China Xinjiang Airlines Il-86 in 1997."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Il-86.jpg/800px-Il-86.jpg",
+						"desc": "An Il-86 of Aeroflot"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%98%D0%BB-86_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE.jpg/800px-%D0%98%D0%BB-86_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE.jpg",
+						"desc": "An Il-86 of S7 Airlines"
+					}
+				]
+			}
+		},
+		{
+			"name": "Dassault_Mercure",
+			"data": [
+				{
+					"header": "Engineering",
+					"text": "During the mid-1960s, Marcel Dassault, the founder and owner of French aircraft company Dassault Aviation, as well as other parties such as the French Directorate General for Civil Aviation (DGAC), examined the civil aviation market and noticed that there was no existing aircraft that was intended specifically to serve low-distance air routes. Thus, it was found that there could be a prospective market for such an airliner, if it were to be developed. The DGAC was keen to promote a French equivalent to the popular American Boeing 737, and suggested the development of a 140-seat airliner to Dassault."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "France"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Dassault Aviation"
+				},
+				{
+					"key": "First flight",
+					"value": "28 May 1971"
+				},
+				{
+					"key": "Introduction",
+					"value": "4 June 1974 with Air Inter"
+				},
+				{
+					"key": "Retired",
+					"value": "29 April 1995"
+				},
+				{
+					"key": "Status",
+					"value": "Retired"
+				},
+				{
+					"key": "Primary user",
+					"value": "Air Inter"
+				},
+				{
+					"key": "Produced",
+					"value": "1971–1975"
+				},
+				{
+					"key": "Number built",
+					"value": "12"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Air_Inter_Dassault_Mercure_100_on_short_finals_at_Marseille.jpg/800px-Air_Inter_Dassault_Mercure_100_on_short_finals_at_Marseille.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dassault_Mercure_100%2C_Air_Inter_AN0525559.jpg/800px-Dassault_Mercure_100%2C_Air_Inter_AN0525559.jpg",
+						"desc": "Six-abreast cabin"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/R%C3%A9acteurs_de_mercure_%282890623814%29.jpg/800px-R%C3%A9acteurs_de_mercure_%282890623814%29.jpg",
+						"desc": "A Pratt & Whitney JT8D nacelle"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CFM56-2_-_Mus%C3%A9e_Safran_%28cropped%29.jpg/800px-CFM56-2_-_Mus%C3%A9e_Safran_%28cropped%29.jpg",
+						"desc": "The CFM56 proposed for the Mercure 200-1/2"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dassault_Mercure_100%2C_Air_Inter_AN0525558.jpg/800px-Dassault_Mercure_100%2C_Air_Inter_AN0525558.jpg",
+						"desc": "flight deck"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%C3%89corch%C3%A9_prod_mercure_dassault.jpg/800px-%C3%89corch%C3%A9_prod_mercure_dassault.jpg",
+						"desc": "Diagram of partners involved at the beginning in the project, for the first prototype. During production, Fiat reduced its involvement."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/F-BTTI_Dassault_Mercure_Air_Inter_Calvi_08-92_%2822386843477%29.jpg/800px-F-BTTI_Dassault_Mercure_Air_Inter_Calvi_08-92_%2822386843477%29.jpg",
+						"desc": "Air Inter, its only operator, used it from 1974 to 1995"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dassault_Mercure_Le_Bourget_FRA_001.jpg/800px-Dassault_Mercure_Le_Bourget_FRA_001.jpg",
+						"desc": "On display at the Musée de l’air et de l’espace at Paris–Le Bourget Airport"
+					}
+				]
+			}
+		},
+		{
 			"name": "Sud_Aviation_Caravelle",
 			"data": [
 				{
@@ -6698,90 +6950,6 @@
 			}
 		},
 		{
-			"name": "Dassault_Mercure",
-			"data": [
-				{
-					"header": "Engineering",
-					"text": "During the mid-1960s, Marcel Dassault, the founder and owner of French aircraft company Dassault Aviation, as well as other parties such as the French Directorate General for Civil Aviation (DGAC), examined the civil aviation market and noticed that there was no existing aircraft that was intended specifically to serve low-distance air routes. Thus, it was found that there could be a prospective market for such an airliner, if it were to be developed. The DGAC was keen to promote a French equivalent to the popular American Boeing 737, and suggested the development of a 140-seat airliner to Dassault."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "France"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Dassault Aviation"
-				},
-				{
-					"key": "First flight",
-					"value": "28 May 1971"
-				},
-				{
-					"key": "Introduction",
-					"value": "4 June 1974 with Air Inter"
-				},
-				{
-					"key": "Retired",
-					"value": "29 April 1995"
-				},
-				{
-					"key": "Status",
-					"value": "Retired"
-				},
-				{
-					"key": "Primary user",
-					"value": "Air Inter"
-				},
-				{
-					"key": "Produced",
-					"value": "1971–1975"
-				},
-				{
-					"key": "Number built",
-					"value": "12"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Air_Inter_Dassault_Mercure_100_on_short_finals_at_Marseille.jpg/800px-Air_Inter_Dassault_Mercure_100_on_short_finals_at_Marseille.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Dassault_Mercure_100%2C_Air_Inter_AN0525559.jpg/800px-Dassault_Mercure_100%2C_Air_Inter_AN0525559.jpg",
-						"desc": "Six-abreast cabin"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/R%C3%A9acteurs_de_mercure_%282890623814%29.jpg/800px-R%C3%A9acteurs_de_mercure_%282890623814%29.jpg",
-						"desc": "A Pratt & Whitney JT8D nacelle"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CFM56-2_-_Mus%C3%A9e_Safran_%28cropped%29.jpg/800px-CFM56-2_-_Mus%C3%A9e_Safran_%28cropped%29.jpg",
-						"desc": "The CFM56 proposed for the Mercure 200-1/2"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dassault_Mercure_100%2C_Air_Inter_AN0525558.jpg/800px-Dassault_Mercure_100%2C_Air_Inter_AN0525558.jpg",
-						"desc": "flight deck"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/%C3%89corch%C3%A9_prod_mercure_dassault.jpg/800px-%C3%89corch%C3%A9_prod_mercure_dassault.jpg",
-						"desc": "Diagram of partners involved at the beginning in the project, for the first prototype. During production, Fiat reduced its involvement."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/F-BTTI_Dassault_Mercure_Air_Inter_Calvi_08-92_%2822386843477%29.jpg/800px-F-BTTI_Dassault_Mercure_Air_Inter_Calvi_08-92_%2822386843477%29.jpg",
-						"desc": "Air Inter, its only operator, used it from 1974 to 1995"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dassault_Mercure_Le_Bourget_FRA_001.jpg/800px-Dassault_Mercure_Le_Bourget_FRA_001.jpg",
-						"desc": "On display at the Musée de l’air et de l’espace at Paris–Le Bourget Airport"
-					}
-				]
-			}
-		},
-		{
 			"name": "Convair_880",
 			"data": [],
 			"infobox": [
@@ -6860,6 +7028,90 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Convair_880_N801TW.jpg/800px-Convair_880_N801TW.jpg",
 						"desc": "The 880 was powered by four underwing General Electric CJ-805 turbojets."
+					}
+				]
+			}
+		},
+		{
+			"name": "Convair_990_Coronado",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "American Airlines asked Convair to design an aircraft for coast-to-coast flights, able to fly nonstop from New York City to Los Angeles against the wind. They wanted a larger passenger capacity than the 880, which was the smallest of the first-generation U.S. jet airliners. It was known as the Convair 600 and was redesignated the Convair 990 in the month of its first flight. The 990 began flight testing on January 24, 1961."
+				},
+				{
+					"header": "Operational history",
+					"text": "The 990 did not meet the specifications promised, and American Airlines reduced its order as a result. The 990A was developed by adding fairings to the engine nacelles, among other changes. Despite the modifications from the basic 880 and those in response to drag problems in testing, the aircraft never lived up to its promise of coast-to-coast nonstop capability from JFK to LAX. American Airlines' timetables show little or no difference in scheduled time between 707 and 990A flights.[original research?] AA began to dispose of its 990As in 1967.[citation needed]"
+				},
+				{
+					"header": "Specifications (Convair 990A)",
+					"text": "Data from Jane's All the World's Aircraft 1965-66"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Convair"
+				},
+				{
+					"key": "First flight",
+					"value": "January 24, 1961"
+				},
+				{
+					"key": "Introduction",
+					"value": "1962"
+				},
+				{
+					"key": "Retired",
+					"value": "September 1987 (1994 with NASA)"
+				},
+				{
+					"key": "Status",
+					"value": "Retired"
+				},
+				{
+					"key": "Primary users",
+					"value": "American AirlinesSpantaxSwissair"
+				},
+				{
+					"key": "Produced",
+					"value": "1961–1963"
+				},
+				{
+					"key": "Number built",
+					"value": "37"
+				},
+				{
+					"key": "Developed from",
+					"value": "Convair 880"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Swissair_Convair_990_in_flight.jpg/800px-Swissair_Convair_990_in_flight.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg/800px-Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg",
+						"desc": "Swissair 990A Coronado \"St Gallen\" at Manchester Airport in 1964"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Interior_of_Convair_990_operated_by_Swissair.jpg/800px-Interior_of_Convair_990_operated_by_Swissair.jpg",
+						"desc": "Interior of a Convair 990 operated by Swissair now on public display in the Swiss Museum of Transport, the Verkehrshaus der Schweiz in Luzern"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Convair_990_on_ramp_EC92-05275-30.jpg/800px-Convair_990_on_ramp_EC92-05275-30.jpg",
+						"desc": "NASA Convair 990. This aircraft has been retired, and is now on display at the entrance to the Mojave Spaceport."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif/lossy-page1-800px-Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif.jpg",
+						"desc": "A Convair 990 (right, with distinctive anti-shock bodies) and a competing Douglas DC-8 (left, engine cowlings open)"
 					}
 				]
 			}
@@ -7132,258 +7384,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tristar_Incident_LBA.jpg/800px-Tristar_Incident_LBA.jpg",
 						"desc": "A British Airtours TriStar overran the runway at Leeds Bradford International Airport in 1985."
-					}
-				]
-			}
-		},
-		{
-			"name": "Convair_990_Coronado",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "American Airlines asked Convair to design an aircraft for coast-to-coast flights, able to fly nonstop from New York City to Los Angeles against the wind. They wanted a larger passenger capacity than the 880, which was the smallest of the first-generation U.S. jet airliners. It was known as the Convair 600 and was redesignated the Convair 990 in the month of its first flight. The 990 began flight testing on January 24, 1961."
-				},
-				{
-					"header": "Operational history",
-					"text": "The 990 did not meet the specifications promised, and American Airlines reduced its order as a result. The 990A was developed by adding fairings to the engine nacelles, among other changes. Despite the modifications from the basic 880 and those in response to drag problems in testing, the aircraft never lived up to its promise of coast-to-coast nonstop capability from JFK to LAX. American Airlines' timetables show little or no difference in scheduled time between 707 and 990A flights.[original research?] AA began to dispose of its 990As in 1967.[citation needed]"
-				},
-				{
-					"header": "Specifications (Convair 990A)",
-					"text": "Data from Jane's All the World's Aircraft 1965-66"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Convair"
-				},
-				{
-					"key": "First flight",
-					"value": "January 24, 1961"
-				},
-				{
-					"key": "Introduction",
-					"value": "1962"
-				},
-				{
-					"key": "Retired",
-					"value": "September 1987 (1994 with NASA)"
-				},
-				{
-					"key": "Status",
-					"value": "Retired"
-				},
-				{
-					"key": "Primary users",
-					"value": "American AirlinesSpantaxSwissair"
-				},
-				{
-					"key": "Produced",
-					"value": "1961–1963"
-				},
-				{
-					"key": "Number built",
-					"value": "37"
-				},
-				{
-					"key": "Developed from",
-					"value": "Convair 880"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Swissair_Convair_990_in_flight.jpg/800px-Swissair_Convair_990_in_flight.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg/800px-Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg",
-						"desc": "Swissair 990A Coronado \"St Gallen\" at Manchester Airport in 1964"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Interior_of_Convair_990_operated_by_Swissair.jpg/800px-Interior_of_Convair_990_operated_by_Swissair.jpg",
-						"desc": "Interior of a Convair 990 operated by Swissair now on public display in the Swiss Museum of Transport, the Verkehrshaus der Schweiz in Luzern"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Convair_990_on_ramp_EC92-05275-30.jpg/800px-Convair_990_on_ramp_EC92-05275-30.jpg",
-						"desc": "NASA Convair 990. This aircraft has been retired, and is now on display at the entrance to the Mojave Spaceport."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif/lossy-page1-800px-Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif.jpg",
-						"desc": "A Convair 990 (right, with distinctive anti-shock bodies) and a competing Douglas DC-8 (left, engine cowlings open)"
-					}
-				]
-			}
-		},
-		{
-			"name": "Ilyushin_Il-86",
-			"data": [
-				{
-					"header": "Background",
-					"text": "In the mid-1960s, the United States and Western Europe planned airliners seating twice the then-maximum of some 200 passengers. They were known as airbuses at the time. The Soviet leadership wanted to match them with an aerobus (Russian: аэробус). Alongside the propaganda motive, the USSR genuinely needed an aerobus. Aeroflot expected over 100 million passengers a year within a decade (the 100th million annual passenger was indeed carried on 29 December 1976.)"
-				},
-				{
-					"header": "Conceptual development",
-					"text": "Ilyushin began work on the aerobus in late 1969, initially by assessing the development potential of existing aircraft. An enlarged Il-62 (the Il-62-250) would have had a 30-tonne payload, 259 seats and a 6.8 metre/22 ft longer fuselage: a virtual analogue of the Douglas DC-8 \"Super Sixty\" series. Other proposed Il-62 modifications involved double-deck and \"two fuselages side-by-side\" developments. There was also a project to \"civilianise\" the Il-76."
-				},
-				{
-					"header": "Manufacture",
-					"text": "Production of the Il-86 began in late 1976 and continued until 1991. There was no prototype. The first two machines were handmade by Ilyushin at the bureau's own Moscow facility in 1976 and 1977. One was used for flight testing and the other for static ground testing."
-				},
-				{
-					"header": "Configuration and wing",
-					"text": "All-metal low-wing land monoplane with four wing-mounted low-bypass turbofan engines."
-				},
-				{
-					"header": "Fuselage",
-					"text": "Circular-section structure of frames and stringers with a continuous main deck and lower decks fore and aft of the centre section. Rectangular windows in most interframe bays, eight ICAO Type 1a passenger doors on the main deck and three more on the lower deck portside; two freight hold doors and a galley supply door on the lower deck starboard. The main deck houses the flightdeck, two wardrobes, eight toilets, two pantries and a three-section passenger cabin. The lower deck houses three entry vestibules/luggage stores with hydraulic boarding stairs to ground level and fixed stairs to the main deck, a midships galley linked with the main deck by an electric lift, two freight holds (fore and aft of the passenger facilities), an avionics bay and two technical bays. The entire accommodation is pressurised and air-conditioned with \"earphones for music or on-board cinema.\""
-				},
-				{
-					"header": "Empennage",
-					"text": "Cantilevered trapezoid planform swept-back surfaces. Two-segment elevators and rudder. Tailplane area 96.5 m2 (1,039 sq ft); incidence adjustable between 2° and 12° by electric motors commanded by yoke trim thumbwheels and console trim wheels. Fin area 56.06 m2 (603.4 sq ft). Landing gear of near-conventional layout, with a twin-wheeled nose leg and three four-wheel bogie main gear legs (centreline and two outers). Track is .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}9.9 m (32 ft 5+3⁄4 in)."
-				},
-				{
-					"header": "Powerplant",
-					"text": "Four Kuznetsov NK-86 two-spool with five-stage LP compressors, six-stage HP compressors, annular combustor cans, single-stage HP turbine and two-stage LP turbine turbofan engines power the Il-86. The cascade thrust reversers are canted 15° in respect to the horizontal axis. Pneumatic starters start the engines (airborne relights use the windmill effect). The forward-facing ejectors blow away detritus during taxi. International Standard Atmosphere hourly fuel consumption per engine is 7.7 t (16,975 lb) at maximum continuous rated thrust, 6 t/13,230 lb at nominal maximum thrust, 5.1 t (11,243 lb) at 85% thrust, 4.2 t/9260 lb at 70%, 3.6 t (7,937 lb) at 60%, 2.45 t (5,400 lb) at 40% and 1 t (2,205 lb) at idle. Overall hourly fuel consumption at long-range cruise and 190 t (419,000 lb) is 9.75 t (21,495 lb) reducing to 7.79 t (17,174 lb) at 140 t (308,650 lb). Outboard engine pylons on the latter two-thirds of all Il-86s are marginally extended to cut drag."
-				},
-				{
-					"header": "Controls",
-					"text": "Hydraulically driven. An SAU-1T-2 automatic flight control system offers assisted manual or automatic flight, with no manual option. Four independent hydraulic systems power all flight controls and the built-in airstairs. Fluid is to the NGZh, rather than AMG, formula."
-				},
-				{
-					"header": "Avionics",
-					"text": "Pizhma-1 navigational system with OMEGA inputs. GPS transceivers and a TCAS fitted retroactively during the 1990s. Pizhma-1 can be used throughout the flight from departure terminal area to landing and taxi to stand. Pizhma-1 has full-time roll and yaw dampers."
-				},
-				{
-					"header": "Service life",
-					"text": "The expected service life of an Il-86 is twenty years (up to 25) or 10,000 landings (from 20,000 up to 35,000 hours) prior to major servicing."
-				},
-				{
-					"header": "Operational history",
-					"text": "An inaugural service from Moscow to Tashkent was flown on December 26, 1980, but services-proper commenced after February 1, 1981. Aeroflot first operated the Il-86 on peak domestic routes. Foreign services began in June 1981 to Eastern Europe. Services to larger West European cities began with the winter timetable starting in October that year. Charter flights to European points followed, with services on high-density medium/long-range routes within the Soviet Union coming last."
-				},
-				{
-					"header": "Long-range operations",
-					"text": "Although the Il-86 was a medium-range airliner, from 1982 Aeroflot put it into scheduled service from Moscow to Havana via Shannon and Gander, \"perhaps with limited payload or with additional tankerage.\" Other scheduled long-range services flown by the type were to Buenos Aires, Montevideo and Lima, Rio de Janeiro and São Paulo, all via Sal, Cape Verde."
-				},
-				{
-					"header": "Unused facilities",
-					"text": "The Il-86's \"luggage at hand\" carry-on luggage facility was rarely used. Vul'fov, A, notes: \"Thank God no civil servant got it into his head to refuse the parallel opportunity offered to passengers of electing to drop their luggage when checking-in at airports. Otherwise, the loading of luggage into the aircraft by passengers would have turned into a proper nightmare lasting hours.\""
-				},
-				{
-					"header": "Undeveloped Variants",
-					"text": "Only the base version of the Il-86 and a small batch of military derivatives entered service. Further versions were mooted but none entered service. Freight or combined passenger-freight versions are not known to have been proposed."
-				},
-				{
-					"header": "Proposed long-range version",
-					"text": "On June 26, 1972, a long-range version of the Il-86, the Il-86D (for Russian: \"дальний\"; transliterated: \"dal’niy\"; meaning \"long-range\"), was ordered into development by the Soviet cabinet. Design was completed in June 1976. The Il-86D would have had a marginally extended wing span, carried additional fuel, and had a range of some 8,500 km (4,600 nmi). Later announcements stated that a version of the Il-86D with Lotarev D-18 engines had entered development in March 1975. This version would have had a 147,500 kg (325,000 lb) empty weight, a 300,000 kg/660,000 lb maximum take-off weight, a fuel capacity of some 150,000 kg (330,000 lb), a wing area of 325 m2 (5,300 ft2), and a range of 10,200 km (5,500 nmi). It evolved into the Il-96."
-				},
-				{
-					"header": "Proposed high-capacity version",
-					"text": "A \"minimum-change\" development of the Il-86, stated to have been designated Il-86V, was test-flown on 1 June 1982 and was ready for service by 27 April 1985. It was said to have 450 seats, with the underfloor vestibules fitted with seats and possible changes to main-deck seating. The version is not known to have entered passenger service but may have been used by the military."
-				},
-				{
-					"header": "Proposed re-engined versions",
-					"text": "In the 1980s, there were moves to fit the Il-86 with RB211-22 engines. Designated Il-86V (second use of this designation), this would have had a range of over 9,000 km (4,860 nmi) and/or increased payload. Another 450-seater Il-86V powered by RB211-524G engines was also projected. Amid the disintegration of the Soviet economy, these versions did not progress."
-				},
-				{
-					"header": "Civil",
-					"text": "As of 28 May 2011, no civilian Il-86s remained in service."
-				},
-				{
-					"header": "Military",
-					"text": "As of 21 March 2010, four Il-86VKPs (Il-80s; Il-87s) remained in service:"
-				},
-				{
-					"header": "Accidents and incidents",
-					"text": "As of August 2013, the Il-86 is known to have been involved in at least 10 incidents, including 4 hull losses with a total of 23 fatalities unrelated to passengers. During its passenger-carrying operations the Il-86 has not been involved in any fatal accident."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Wide-body airlinerType of aircraft"
-				},
-				{
-					"key": "Design group",
-					"value": "Ilyushin"
-				},
-				{
-					"key": "Built by",
-					"value": "Voronezh Aircraft Production Association"
-				},
-				{
-					"key": "First flight",
-					"value": "December 22, 1976"
-				},
-				{
-					"key": "Introduction",
-					"value": "December 26, 1980"
-				},
-				{
-					"key": "Status",
-					"value": "In limited service[a]"
-				},
-				{
-					"key": "Primary users",
-					"value": "Aeroflot (Former)Siberia Airlines (Former)Kras Air (Former)Donavia (Former)"
-				},
-				{
-					"key": "Produced",
-					"value": "1976–1991"
-				},
-				{
-					"key": "Number built",
-					"value": "106"
-				},
-				{
-					"key": "Developed into",
-					"value": "Ilyushin Il-96"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Aeroflot_Ilyushin_Il-86.jpg/800px-Aeroflot_Ilyushin_Il-86.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Aeroflot-Don_Ilyushin_Il-86_passenger_cabin_Kustov.jpg/800px-Aeroflot-Don_Ilyushin_Il-86_passenger_cabin_Kustov.jpg",
-						"desc": "Passenger cabin of an Il-86 showing the absence of overhead stowage bins in the centre row. The Il-86's sister model (Ilyushin Il-96) also has no overhead storage bins in the center row."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pulkovo_Ilyushin_Il-86.jpg/800px-Pulkovo_Ilyushin_Il-86.jpg",
-						"desc": "An Il-86 at Pulkovo Airport, Saint Petersburg"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Aeroflot_Ilyushin_Il-86_Shannon_Airport_Gupta.jpg/800px-Aeroflot_Ilyushin_Il-86_Shannon_Airport_Gupta.jpg",
-						"desc": "An Aeroflot Il-86 at Shannon Airport in 1992."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Il-86_Soviet_stamp.jpg/800px-Il-86_Soviet_stamp.jpg",
-						"desc": "Il-86 Soviet postage stamp, 1979"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Siberia_Airlines_Ilyushin_Il-86_Milinkovic.jpg/800px-Siberia_Airlines_Ilyushin_Il-86_Milinkovic.jpg",
-						"desc": "A Siberia Airlines Il-86 takes off from Tivat Airport (2007)."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Airborne_command_and_control_aircraft_IL-86VKP_%282%29.jpg/800px-Airborne_command_and_control_aircraft_IL-86VKP_%282%29.jpg",
-						"desc": "Il-86VKP in August 2012"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/China_Xinjiang_Airlines_Ilyushin_Il-86_Spijkers.jpg/800px-China_Xinjiang_Airlines_Ilyushin_Il-86_Spijkers.jpg",
-						"desc": "China Xinjiang Airlines Il-86 in 1997."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Il-86.jpg/800px-Il-86.jpg",
-						"desc": "An Il-86 of Aeroflot"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/%D0%98%D0%BB-86_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE.jpg/800px-%D0%98%D0%BB-86_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE.jpg",
-						"desc": "An Il-86 of S7 Airlines"
 					}
 				]
 			}
