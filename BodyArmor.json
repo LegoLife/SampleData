@@ -2,66 +2,6 @@
 	"count": 5,
 	"data": [
 		{
-			"name": "Integrated_Head_Protection_System",
-			"data": [
-				{
-					"header": "Design",
-					"text": "The IHPS, combined with Military Combat Eye Protection (MCEP), completes the head protection portion of the Soldier Protection System. The IHPS is claimed to be 5% lighter than previous helmets, while offering improved blunt force impact, passive hearing and ballistic protection. An optional 2 lb/.9 kg applique armor plate is available for further improved ballistic protection."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Combat helmet"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "2019–present"
-				},
-				{
-					"key": "Used by",
-					"value": "U.S. Army"
-				},
-				{
-					"key": "Wars",
-					"value": "Global War on TerrorismWar in AfghanistanOperation Resolute SupportOperation Inherent Resolve"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Avon Protection | Ceradyne 3M"
-				},
-				{
-					"key": "Produced",
-					"value": "2019–present"
-				},
-				{
-					"key": "Weight",
-					"value": "Size Medium: approx. 3 lbs/1.36 kg"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IHPS_helmet.jpg/800px-IHPS_helmet.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/U.S._Troops_observe_protests_in_Green_Zone.jpg/800px-U.S._Troops_observe_protests_in_Green_Zone.jpg",
-						"desc": "U.S. Army's 25th Infantry Division soldiers wearing the IHPS during the 2019–20 attack on the U.S. embassy in Baghdad."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2000x1333_q95_%282%29.jpg/800px-2000x1333_q95_%282%29.jpg",
-						"desc": "A U.S. Army paratrooper of the 82nd Airborne Division deployed in Afghanistan in 2019 wearing the IHPS with a communications headset."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IHPS_boltless.jpg/800px-IHPS_boltless.jpg",
-						"desc": "The boltless chinstrap attachment on the IHPS helmet."
-					}
-				]
-			}
-		},
-		{
 			"name": "Enhanced_Combat_Helmet_(United_States)",
 			"data": [
 				{
@@ -117,6 +57,66 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg/800px-180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg",
 						"desc": "U.S. Marine wearing an ECH in 2018"
+					}
+				]
+			}
+		},
+		{
+			"name": "Integrated_Head_Protection_System",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The IHPS, combined with Military Combat Eye Protection (MCEP), completes the head protection portion of the Soldier Protection System. The IHPS is claimed to be 5% lighter than previous helmets, while offering improved blunt force impact, passive hearing and ballistic protection. An optional 2 lb/.9 kg applique armor plate is available for further improved ballistic protection."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Combat helmet"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2019–present"
+				},
+				{
+					"key": "Used by",
+					"value": "U.S. Army"
+				},
+				{
+					"key": "Wars",
+					"value": "Global War on TerrorismWar in AfghanistanOperation Resolute SupportOperation Inherent Resolve"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Avon Protection | Ceradyne 3M"
+				},
+				{
+					"key": "Produced",
+					"value": "2019–present"
+				},
+				{
+					"key": "Weight",
+					"value": "Size Medium: approx. 3 lbs/1.36 kg"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/IHPS_helmet.jpg/800px-IHPS_helmet.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/U.S._Troops_observe_protests_in_Green_Zone.jpg/800px-U.S._Troops_observe_protests_in_Green_Zone.jpg",
+						"desc": "U.S. Army's 25th Infantry Division soldiers wearing the IHPS during the 2019–20 attack on the U.S. embassy in Baghdad."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/2000x1333_q95_%282%29.jpg/800px-2000x1333_q95_%282%29.jpg",
+						"desc": "A U.S. Army paratrooper of the 82nd Airborne Division deployed in Afghanistan in 2019 wearing the IHPS with a communications headset."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IHPS_boltless.jpg/800px-IHPS_boltless.jpg",
+						"desc": "The boltless chinstrap attachment on the IHPS helmet."
 					}
 				]
 			}
