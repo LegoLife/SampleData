@@ -1,5 +1,5 @@
 {
-	"count": 16,
+	"count": 15,
 	"data": [
 		{
 			"name": "Cardom",
@@ -154,89 +154,6 @@
 						"desc": "Soldiers with the 3rd Battalion, 7th Field Artillery Regiment, 25th Infantry Division (Light) position an M119A1 howitzer near Forward Operating Base Cobra, Afghanistan, 23 October 2004."
 					}
 				]
-			}
-		},
-		{
-			"name": "M224_mortar",
-			"data": [
-				{
-					"header": "Description",
-					"text": "The M224 system is composed of these parts:"
-				},
-				{
-					"header": "History",
-					"text": "The M224 LWCMS (Lightweight Company Mortar System) replaced the older (WWII-era) 60 mm M2 mortar and the inaccurate M19 Mortar and began fielding as prototypes in the mid-1970s during the Vietnam War. The M2s and M19s had an effective range of only 2,000 m (2,187 yd). While the M224s were designed to fire all types of the older ammunition, their primary rounds are of the newer, longer-range type that range out to 3,489 m (3,816 yd)."
-				},
-				{
-					"header": "Ammunition",
-					"text": "The M224 Mortar can fire the following principal classifications of training and service ammunition:"
-				},
-				{
-					"header": "Fuzes",
-					"text": "The M224 rounds have three fuze types: The Multioption Fuze (M734), the Point-Detonating Fuze (M525), and Timer fuze. The M734 is used for the M720 HE round and can be set to function as proximity burst, near-surface burst, impact burst, or delay burst."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Mortar"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "1978–present"
-				},
-				{
-					"key": "Used by",
-					"value": "United StatesIraqUkraine"
-				},
-				{
-					"key": "Wars",
-					"value": "Vietnam War (prototype model)Gulf WarWar in AfghanistanIraq WarWar in IraqRusso-Ukrainian War"
-				},
-				{
-					"key": "Unit cost",
-					"value": "$10,658"
-				},
-				{
-					"key": "Variants",
-					"value": "M224M224A1"
-				},
-				{
-					"key": "Mass",
-					"value": "21.1 kilograms (47 lb)"
-				},
-				{
-					"key": "Barrel length",
-					"value": "1 meter (3.3 feet)"
-				},
-				{
-					"key": "Crew",
-					"value": "3"
-				},
-				{
-					"key": "Caliber",
-					"value": "60 mm (2.4 in)"
-				},
-				{
-					"key": "Rate of fire",
-					"value": "up to 20 rpm sustained, 30 rpm in exceptional circumstances and for short periods"
-				},
-				{
-					"key": "Effective firing range",
-					"value": "HE: 70–3,490 m(76–3,816 yds)"
-				},
-				{
-					"key": "Feed system",
-					"value": "manual"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/60mm_mortar_round_being_launch_%28crop%29.jpg/800px-60mm_mortar_round_being_launch_%28crop%29.jpg",
-				"other": []
 			}
 		},
 		{
@@ -397,6 +314,89 @@
 						"desc": "Round with the standard four C-charges"
 					}
 				]
+			}
+		},
+		{
+			"name": "M224_mortar",
+			"data": [
+				{
+					"header": "Description",
+					"text": "The M224 system is composed of these parts:"
+				},
+				{
+					"header": "History",
+					"text": "The M224 LWCMS (Lightweight Company Mortar System) replaced the older (WWII-era) 60 mm M2 mortar and the inaccurate M19 Mortar and began fielding as prototypes in the mid-1970s during the Vietnam War. The M2s and M19s had an effective range of only 2,000 m (2,187 yd). While the M224s were designed to fire all types of the older ammunition, their primary rounds are of the newer, longer-range type that range out to 3,489 m (3,816 yd)."
+				},
+				{
+					"header": "Ammunition",
+					"text": "The M224 Mortar can fire the following principal classifications of training and service ammunition:"
+				},
+				{
+					"header": "Fuzes",
+					"text": "The M224 rounds have three fuze types: The Multioption Fuze (M734), the Point-Detonating Fuze (M525), and Timer fuze. The M734 is used for the M720 HE round and can be set to function as proximity burst, near-surface burst, impact burst, or delay burst."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mortar"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1978–present"
+				},
+				{
+					"key": "Used by",
+					"value": "United StatesIraqUkraine"
+				},
+				{
+					"key": "Wars",
+					"value": "Vietnam War (prototype model)Gulf WarWar in AfghanistanIraq WarWar in IraqRusso-Ukrainian War"
+				},
+				{
+					"key": "Unit cost",
+					"value": "$10,658"
+				},
+				{
+					"key": "Variants",
+					"value": "M224M224A1"
+				},
+				{
+					"key": "Mass",
+					"value": "21.1 kilograms (47 lb)"
+				},
+				{
+					"key": "Barrel length",
+					"value": "1 meter (3.3 feet)"
+				},
+				{
+					"key": "Crew",
+					"value": "3"
+				},
+				{
+					"key": "Caliber",
+					"value": "60 mm (2.4 in)"
+				},
+				{
+					"key": "Rate of fire",
+					"value": "up to 20 rpm sustained, 30 rpm in exceptional circumstances and for short periods"
+				},
+				{
+					"key": "Effective firing range",
+					"value": "HE: 70–3,490 m(76–3,816 yds)"
+				},
+				{
+					"key": "Feed system",
+					"value": "manual"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/60mm_mortar_round_being_launch_%28crop%29.jpg/800px-60mm_mortar_round_being_launch_%28crop%29.jpg",
+				"other": []
 			}
 		},
 		{
@@ -657,222 +657,6 @@
 		},
 		{
 			"name": "M109_howitzer",
-			"data": [
-				{
-					"header": "Design",
-					"text": "The M109 was developed by the Ground System Division of United Defense LP, now BAE Systems Land and Armaments."
-				},
-				{
-					"header": "Hypervelocity Projectile (HVP)",
-					"text": "In January 2016, the U.S. Army test-fired hypervelocity projectiles originally designed for use by U.S. Navy electromagnetic railguns. They found that they significantly increased the gun's range. The Army is looking into using the M109 Paladin firing the HVP for ballistic missile defense, as traditional missile interceptors are expensive, and gun-based missile defense used for point defense would use artillery at a much lower cost per round.  "
-				},
-				{
-					"header": "M109",
-					"text": "First produced in 1963. It had a 155 mm M126 Cannon in an M127 Mount, and carried 28 rounds of 155 mm ammunition. It was also armed with a .50cal M2HB machine gun with 500 rounds of ammunition. Easily identified by its short barrel and a double baffle muzzle brake with a large fume extractor just behind it. Maximum range of 14,600 meters."
-				},
-				{
-					"header": "M109G",
-					"text": "Germanized M109 in 1965 with new tracks, fire control system, muzzle brake, breach, and Thyssen L/20 155 mm gun to extend range to 18.5 km."
-				},
-				{
-					"header": "M109A2",
-					"text": "Incorporated 27 Reliability, Availability, and Maintainability (RAM) mid-life improvements. Most notably, the long barreled 155 mm M185 Cannon in the new M178 gun mount, ballistic protection for the panoramic telescope, counterbalanced travel lock, and the ability to mount the M140 bore sight alignment device. Stowage of 155mm rounds increased from 28 to 36 rounds; .50cal ammunition remained at 500 rounds. During M109A2 production, a slightly simplified version was also produced for export. This had minor internal changes and deleted the hull flotation feature. These were designated M109A1B."
-				},
-				{
-					"header": "K55",
-					"text": "K55 is a South Korean license produced variant of the M109A2. In the 1960s, the South Korean Army received M107 and M110 from the United States. However, the number of these self-propelled guns was insufficient to counter rapidly-growing North Korean artillery capabilities. In the 1970s, South Korea began mass-producing towed howitzers locally, but intelligence reports of North Korean 170 mm self-propelled artillery forced South Korea to look for a new self-propelled artillery system."
-				},
-				{
-					"header": "M109A3 and M109A3B",
-					"text": "M109A1s and M109A1Bs rebuilt to M109A2 standard respectively. Some A3s feature three contact arm assemblies[further explanation needed], while all A2s have five."
-				},
-				{
-					"header": "M109A3G",
-					"text": "The M109G fitted with FH70 L/39 155 mm gun and other minor upgrades. Produced between 1986 and 1990."
-				},
-				{
-					"header": "M109A4",
-					"text": "M109A2s and M109A3s improved with Nuclear, Biological, and Chemical / Reliability, Availability, and Maintainability (NBC/RAM) improvements, including air purifiers, heaters, and Mission Oriented Protective Posture (MOPP) (protective) gear."
-				},
-				{
-					"header": "M109A5+",
-					"text": "Various manufacturers have upgraded the fire control and other components of the M109A5. BAE Systems in York, PA recently delivered 12 M109A5+ vehicles to Chile and 40 M109A5+ vehicles for Brazil."
-				},
-				{
-					"header": "M109 \"KAWEST WE\"",
-					"text": "Improvement of the Swiss Kawest variant, 133 in total were brought up to this standard:"
-				},
-				{
-					"header": "M109L52",
-					"text": "Jointly developed by the Dutch firm RDM and the German firm Rheinmetall, the M109L52 was first revealed in 2002. The main improvement was replacing the M126 series gun with the longer 52-caliber cannon from the PzH 2000, thus the MTLS ammunition of the PzH 2000 can be used. Improvements to the loading system were also made, resulting in an increased rate of fire from 3 rds/min to 9–10 rds/min, able to be sustained for up to 2 minutes. A total of 35 rounds can be carried."
-				},
-				{
-					"header": "K55A1",
-					"text": "The K55A1 is a South Korean overhaul and modernization of the K55, augmenting the proven systems of the K9 Thunder and the K9A1. The development took three years between 2007 and 2010. The upgrade started in 2010. In November 2010, in the wake of the North Korean artillery attack, the South Korean government authorized a massive increase in military spending. South Korea allocated 11.5 billion KRW on K55A1 upgrades for FY2011, more than a 1500% increase from 700 million KRW for FY2010. The upgrade was performed by Samsung Techwin, and the first vehicle was fielded by the South Korean Army in early 2011."
-				},
-				{
-					"header": "K66",
-					"text": "The K66 was a planned ammunition support vehicle for the K55. As a follow-up to the K55 program, Samsung Aerospace Industries prepared for licensing a local variant of the M992, featuring such modifications as NBC protection and an increase of ammunition storage capacity to 110 rounds, 116 packs of powders, and 132 primers."
-				},
-				{
-					"header": "K77 FDCV (Fire Direction Center Vehicle)",
-					"text": "The K77 FDCV is a command & control post vehicle variant based on the K55 platform."
-				},
-				{
-					"header": "K56 ARV (Ammunition Resupply Vehicle)",
-					"text": "The K56 ARV is an ammunition resupply vehicle based on the K55 platform. Unlike the K10 ARV, the K56 can resupply both the K55A1 and the K9 Thunder. It has a 45.7% (4,197 out of 9,191 total parts) compatibility with the K55A1."
-				},
-				{
-					"header": "Training systems",
-					"text": "The US Army uses the Fire Support Combined Arms Tactical Trainer (FSCATT) in two versions, for initial and sustainment training of the M109A6 and M109A5. The system uses an actual surplus turret and a simulated ammunition system."
-				},
-				{
-					"header": "Successors",
-					"text": "The U.S. Army sought to replace the M109 with the XM2001 Crusader, initially part of the Armored Systems Modernization program. The program was canceled in 2002 amid criticism that the program was not in line with the Army's long-term plans for lighter armored brigades. Funding was redirected to the Future Combat Systems Manned Ground Vehicles program, which produced the 18-ton XM1203 Non-Line-of-Sight Cannon as the program's lead effort. The Pentagon terminated the MGV program in 2009 due to concerns over its affordability. The U.S. Army's M1299 howitzer was planned to be completed in 2021 and will undergo operational assessment in 2023."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Self-propelled artillery"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "M109: 1963–presentM109A1: 1970–presentM109A2: 1979–presentM109A6: 1994–presentM109A7: 2015–present"
-				},
-				{
-					"key": "Used by",
-					"value": "See Operators"
-				},
-				{
-					"key": "Wars",
-					"value": "Vietnam War  Cambodian Civil War  Yom Kippur War  Iran–Iraq War   1982 Lebanon war  Western Sahara War  Persian Gulf War  Iraq WarGaza War  2014 Israel–Gaza conflict  War in Iraq (2013-2017) Yemeni Civil War (2015–present),  Saudi Arabian-led intervention in Yemen  Syrian Civil War  Russian invasion of Ukraine  2023 Israel–Hamas war"
-				},
-				{
-					"key": "Designed",
-					"value": "1952–1962"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "CadillacGeneral MotorsChryslerBMY Harsco, formerly Bowen & McLaughlin York (1974–1994)United Defense (1994–2005)BAE Systems Inc. (2005–present) Samsung (1985–2015) Hanwha (2015–present)"
-				},
-				{
-					"key": "Mass",
-					"value": "27.5 tonsM109A7: 84,000 lb (38.1 t)"
-				},
-				{
-					"key": "Length",
-					"value": "30 ft (9.1 m)"
-				},
-				{
-					"key": "Width",
-					"value": "10 ft 4 in (3.15 m)"
-				},
-				{
-					"key": "Height",
-					"value": "10 ft 8 in (3.25 m)"
-				},
-				{
-					"key": "Crew",
-					"value": "6 (commander, driver, gunner, 3 loaders)M109A6–A7: 4 (commander, driver, gunner, loader)"
-				},
-				{
-					"key": "Shell",
-					"value": "separate loading, bagged charge"
-				},
-				{
-					"key": "Breech",
-					"value": "interrupted screw"
-				},
-				{
-					"key": "Traverse",
-					"value": "360°"
-				},
-				{
-					"key": "Rate of fire",
-					"value": "Maximum: 4 rpm/3 min.Sustained: 1 rpm"
-				},
-				{
-					"key": "Effective firing range",
-					"value": "M109A1–A4:18.1 km (11.2 mi) (M107, HE)23.5 km (14.6 mi) (M549A1, RAP/HE)M109A5–A7:HE: 21 km (13 mi)RAP: 30 km (19 mi)  Excalibur: 40 km (25 mi)"
-				},
-				{
-					"key": "Armor",
-					"value": "Aluminum alloy"
-				},
-				{
-					"key": "Mainarmament",
-					"value": "M109: M126 155 mm 23 caliber, 28 roundsM109A1–A4: Watervliet Arsenal M185 155 mm 39 caliber, 28 rounds (A1) or 36 rounds (A2–A4)M109A5–A7: M284 155 mm 39 caliber"
-				},
-				{
-					"key": "Secondaryarmament",
-					"value": ".50 caliber (12.7 mm) M2 machine gun"
-				},
-				{
-					"key": "Engine",
-					"value": "M109: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 345 hp @ 2.300 rpm, 14.5 hp/tM109A1–A4: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 405 hp @ 2.300 rpm, 16.9 hp/tM109A5–A6: Detroit Diesel 8V71T 8-cylinder water-cooled supercharged diesel engine 440 hpM109A7: V903 675 hp"
-				},
-				{
-					"key": "Transmission",
-					"value": "Allison Transmission XTG-411-2A, 4 forward, 2 reverseM109A6: Allison Transmission XTG-411-4M109A7: HMPT-800"
-				},
-				{
-					"key": "Suspension",
-					"value": "torsion bar"
-				},
-				{
-					"key": "Ground clearance",
-					"value": "M109A7:longitudinal slope: 60 %lateral slope: 40 %trench: 72 in (1.8 m)fording: 42 in (1.07 m)"
-				},
-				{
-					"key": "Operationalrange",
-					"value": "216 mi (350 km)M109A7: 186 mi (300 km)"
-				},
-				{
-					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
-					"value": "35 mph (56 km/h)M109A7: 38 mph (61 km/h)"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/M109A6_Paladin_blast_in_2007.jpg/800px-M109A6_Paladin_blast_in_2007.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dutch_M109_155_mm_Self-propelled_Howitzer_Right_Side.jpg/800px-Dutch_M109_155_mm_Self-propelled_Howitzer_Right_Side.jpg",
-						"desc": "Early M109 howitzer of the Royal Netherlands Army."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/United_States_Army_M109A1_self-propelled_howitzer_in_Germany_during_exercise_REFORGER_%2782.jpg/800px-United_States_Army_M109A1_self-propelled_howitzer_in_Germany_during_exercise_REFORGER_%2782.jpg",
-						"desc": "United States Army M109A1 howitzer in 1982."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UA_72nd_bde_M109A3GN_04.jpg/800px-UA_72nd_bde_M109A3GN_04.jpg",
-						"desc": "Ukraine's 72nd Mechanized Brigade operating an M109A3GN during the Russian invasion of Ukraine"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/M-109A6_Paladin_firing.jpg/800px-M-109A6_Paladin_firing.jpg",
-						"desc": "A M109A6 \"Paladin\" firing at night"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fallujah11092004-11-09.jpg/800px-Fallujah11092004-11-09.jpg",
-						"desc": "An M109A6 firing a shell during combat operations in Fallujah, Iraq"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/XM1113_in_flight.jpg/800px-XM1113_in_flight.jpg",
-						"desc": "A XM1113 extended range artillery round, shown here at a range demonstration, uses a rocket-assist motor"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/M109A7_-_200916-A-BT735-939.jpg/800px-M109A7_-_200916-A-BT735-939.jpg",
-						"desc": "A M992A3 Field Artillery Ammunition Support Vehicle (M992A3 FAASV)"
-					}
-				]
-			}
-		},
-		{
-			"name": "M109A7",
 			"data": [
 				{
 					"header": "Design",
@@ -1764,166 +1548,6 @@
 			}
 		},
 		{
-			"name": "Terminal_High_Altitude_Area_Defense",
-			"data": [
-				{
-					"header": "Engineering and manufacturing",
-					"text": "In June 2000, Lockheed won the Engineering and Manufacturing Development (EMD) contract to turn the design into a mobile tactical army fire unit. Flight tests of this system resumed with missile characterization and full system tests in 2006 at White Sands Missile Range, then moved to the Pacific Missile Range Facility. The Interceptor was led through development and initial production by Tory Bruno, who later became CEO of United Launch Alliance."
-				},
-				{
-					"header": "THAAD-ER",
-					"text": "Lockheed is pushing for funding for the development of an extended-range (ER) version of the THAAD to counter maturing threats posed by hypersonic glide vehicles that adversaries may deploy, namely the Chinese WU-14, to penetrate the gap between low- and high-altitude missile defenses. The company performed static fire trials of a modified THAAD booster in 2006 and continued to fund the project until 2008. The current 14.5 in (37 cm)-diameter single-stage booster design would be expanded to a 21 in (53 cm) first stage for greater range with a second \"kick stage\" to close the distance to the target and provide improved velocity at burnout and more lateral movement during an engagement. Although the kill vehicle would not need redesign, the ground-based launcher would have only five missiles instead of eight. As of 2020, THAAD-ER is only an industry concept, but Lockheed believes that the Missile Defense Agency will show interest because of the weapons under development by potential adversaries. If funding for the THAAD-ER begins in 2020, a system could be produced by 2024 to provide an interim capability against a rudimentary hypersonic threat. The Pentagon is researching whether other technologies like directed energy weapons and railguns are better solutions for missile defense; these are expected to become available in the mid to late 2020s."
-				},
-				{
-					"header": "First units equipped (FUE)",
-					"text": "On 28 May 2008, the U.S. Army activated Alpha Battery, 4th Air Defense Artillery Regiment (A-4), 11th Air Defense Artillery Brigade at Fort Bliss, Texas. Battery A-4 is part of the 32nd Army Air & Missile Defense Command. At the time, the battery had 24 THAAD interceptors, three THAAD launchers based on the M1120 HEMTT Load Handling System, a THAAD Fire Control and a THAAD radar. Full fielding began in 2009. On 16 October 2009, the U.S. Army and the Missile Defense Agency activated the second Terminal High Altitude Area Defense Battery, Alpha Battery, 2nd Air Defense Artillery Regiment (A-2), at Fort Bliss."
-				},
-				{
-					"header": "General missile defense plans",
-					"text": "In May 2017, the Pentagon proposed spending $7.9 billion in its FY 2018 budget on missile defense which includes THAAD interceptors and Patriot interceptors, along with $1.5 billion for Ground-based Midcourse Defense (GMD) against intercontinental ballistic missiles."
-				},
-				{
-					"header": "Israel",
-					"text": "In March 2019, Bravo Battery, 2nd ADA Regiment (B-2 THAAD), 11th Air Defense Artillery Brigade was deployed at Nevatim Airbase during a joint US-Israeli drill, after which it was to be moved to an undisclosed location in the Negev desert in southern Israel. The X-Band radar system, which is part of the THAAD system, has been deployed at Nevatim since 2008."
-				},
-				{
-					"header": "Romania",
-					"text": "In 2019, while the Aegis Ashore at NSF Deveselu was being upgraded, B Battery, 62nd Air Defense Artillery Regiment (B-62 THAAD), was emplaced in NSF Deveselu, Romania during the interim."
-				},
-				{
-					"header": "Turkey",
-					"text": "According to U.S. officials the AN/TPY-2 radar was deployed at Turkey's Kürecik Air Force base. The radar was activated in January 2012."
-				},
-				{
-					"header": "United Arab Emirates",
-					"text": "The United Arab Emirates (UAE) signed a deal to purchase the missile defense system on 25 December 2011. The United Arab Emirates (UAE) graduated its first two THAAD unit classes at Fort Bliss in 2015 and 2016. Its first live-fire exercises with Patriot missiles took place in 2014."
-				},
-				{
-					"header": "Guam",
-					"text": "In April 2013, the United States declared that Alpha Battery, 4th Air Defense Artillery Regiment (A-4), would be deployed to Guam to defend against a possible North Korean IRBM attack targeting the island. In March 2014, Alpha Battery, 2nd ADA RGT (A-2), did a change of responsibility with A-4 and took over the Defense of Guam Mission. After a successful 12-month deployment by A-4, Delta 2 (D-2) took its place for a 12-month deployment.In 2018-2019 Echo Battery, 3rd ADA Regiment (E-3) deployed to Guam."
-				},
-				{
-					"header": "Europe and the Middle East",
-					"text": "By March 2016, Army Space and Missile Defense Command was considering THAAD deployments to Europe with EUCOM and the Middle East with CENTCOM."
-				},
-				{
-					"header": "Japan",
-					"text": "In November 2015, Japanese Defense Minister Gen Nakatani said he would consider the U.S. deploying the THAAD in Japan to counter the threat of North Korean ballistic missiles.  By October 2016, Japan was considering procuring either THAAD or Aegis Ashore to add a new missile defense layer. In May 2017 it was reported that Japan government officials now favor the Aegis Ashore system as it comes with a wider coverage area, which would mean fewer units needed to protect Japan, and it is also cheaper."
-				},
-				{
-					"header": "Oman",
-					"text": "On 27 May 2013, Oman announced a deal for the acquisition of the THAAD air defense system. However, a sale has not been announced."
-				},
-				{
-					"header": "Saudi Arabia",
-					"text": "On 6 October 2017, the US reached a deal to provide Saudi Arabia with THAAD in a deal worth $15 billion. Seven fire units each with a Raytheon AN/TPY-2 radar, two mobile tactical stations (with two spares for a total of 16), and six launchers (with two spares for a total of 44), 360 interceptor missiles."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Mobile anti-ballistic missile system"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "2008–present"
-				},
-				{
-					"key": "Used by",
-					"value": "United States Army"
-				},
-				{
-					"key": "Designed",
-					"value": "1987"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Lockheed Martin"
-				},
-				{
-					"key": "Produced",
-					"value": "2008–present"
-				},
-				{
-					"key": "No. built",
-					"value": "numerous"
-				},
-				{
-					"key": "Mass",
-					"value": "900 kg (2,000 lb)"
-				},
-				{
-					"key": "Length",
-					"value": "6.17 m (20 ft 3 in)"
-				},
-				{
-					"key": "Diameter",
-					"value": "340 mm (13 in) (booster); 370 mm (15 in) (kill vehicle)"
-				},
-				{
-					"key": "Engine",
-					"value": "Single-stage rocket"
-				},
-				{
-					"key": "Propellant",
-					"value": "Pratt & Whitney solid-fueled rocket"
-				},
-				{
-					"key": "Operationalrange",
-					"value": "200 km (120 mi; 110 nmi)"
-				},
-				{
-					"key": "Flight ceiling",
-					"value": "150 km (93 mi)"
-				},
-				{
-					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
-					"value": "2,800 m/s (10,000 km/h; 6,300 mph; Mach 8.2)"
-				},
-				{
-					"key": "Guidancesystem",
-					"value": "Indium-antimonide imaging infra-red seeker head"
-				},
-				{
-					"key": "Accuracy",
-					"value": "0m (Hit to kill)"
-				},
-				{
-					"key": "Transport",
-					"value": "TEL"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg/800px-The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FBX_T.jpg/800px-FBX_T.jpg",
-						"desc": "The AN/TPY-2 radar"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tems11.jpg/800px-Tems11.jpg",
-						"desc": "THAAD Energy Management Steering maneuver, used to burn excess propellant"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg/800px-Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg",
-						"desc": "Two THAAD launchers shortly after being flown into South Korea in March 2017"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg/800px-SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg",
-						"desc": "SM 3 Block IIA launched from the Aegis Ashore in Hawaii"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/THAAD_missile_launch_on_Wake_Island.jpg/800px-THAAD_missile_launch_on_Wake_Island.jpg",
-						"desc": "A THAAD interceptor is launched from a THAAD battery on Wake Island during Flight Test Operational (FTO)-02 Event 2a where two air-launched ballistic missile targets were successfully intercepted in November 2015."
-					}
-				]
-			}
-		},
-		{
 			"name": "Stryker_M-SHORAD",
 			"data": [
 				{
@@ -2127,6 +1751,166 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dragoon_Ride_150326-A-WZ553-606.jpg/800px-Dragoon_Ride_150326-A-WZ553-606.jpg",
 						"desc": "U.S. Army 3rd Squadron, 2nd Cavalry Regiment soldiers in a Stryker"
+					}
+				]
+			}
+		},
+		{
+			"name": "Terminal_High_Altitude_Area_Defense",
+			"data": [
+				{
+					"header": "Engineering and manufacturing",
+					"text": "In June 2000, Lockheed won the Engineering and Manufacturing Development (EMD) contract to turn the design into a mobile tactical army fire unit. Flight tests of this system resumed with missile characterization and full system tests in 2006 at White Sands Missile Range, then moved to the Pacific Missile Range Facility. The Interceptor was led through development and initial production by Tory Bruno, who later became CEO of United Launch Alliance."
+				},
+				{
+					"header": "THAAD-ER",
+					"text": "Lockheed is pushing for funding for the development of an extended-range (ER) version of the THAAD to counter maturing threats posed by hypersonic glide vehicles that adversaries may deploy, namely the Chinese WU-14, to penetrate the gap between low- and high-altitude missile defenses. The company performed static fire trials of a modified THAAD booster in 2006 and continued to fund the project until 2008. The current 14.5 in (37 cm)-diameter single-stage booster design would be expanded to a 21 in (53 cm) first stage for greater range with a second \"kick stage\" to close the distance to the target and provide improved velocity at burnout and more lateral movement during an engagement. Although the kill vehicle would not need redesign, the ground-based launcher would have only five missiles instead of eight. As of 2020, THAAD-ER is only an industry concept, but Lockheed believes that the Missile Defense Agency will show interest because of the weapons under development by potential adversaries. If funding for the THAAD-ER begins in 2020, a system could be produced by 2024 to provide an interim capability against a rudimentary hypersonic threat. The Pentagon is researching whether other technologies like directed energy weapons and railguns are better solutions for missile defense; these are expected to become available in the mid to late 2020s."
+				},
+				{
+					"header": "First units equipped (FUE)",
+					"text": "On 28 May 2008, the U.S. Army activated Alpha Battery, 4th Air Defense Artillery Regiment (A-4), 11th Air Defense Artillery Brigade at Fort Bliss, Texas. Battery A-4 is part of the 32nd Army Air & Missile Defense Command. At the time, the battery had 24 THAAD interceptors, three THAAD launchers based on the M1120 HEMTT Load Handling System, a THAAD Fire Control and a THAAD radar. Full fielding began in 2009. On 16 October 2009, the U.S. Army and the Missile Defense Agency activated the second Terminal High Altitude Area Defense Battery, Alpha Battery, 2nd Air Defense Artillery Regiment (A-2), at Fort Bliss."
+				},
+				{
+					"header": "General missile defense plans",
+					"text": "In May 2017, the Pentagon proposed spending $7.9 billion in its FY 2018 budget on missile defense which includes THAAD interceptors and Patriot interceptors, along with $1.5 billion for Ground-based Midcourse Defense (GMD) against intercontinental ballistic missiles."
+				},
+				{
+					"header": "Israel",
+					"text": "In March 2019, Bravo Battery, 2nd ADA Regiment (B-2 THAAD), 11th Air Defense Artillery Brigade was deployed at Nevatim Airbase during a joint US-Israeli drill, after which it was to be moved to an undisclosed location in the Negev desert in southern Israel. The X-Band radar system, which is part of the THAAD system, has been deployed at Nevatim since 2008."
+				},
+				{
+					"header": "Romania",
+					"text": "In 2019, while the Aegis Ashore at NSF Deveselu was being upgraded, B Battery, 62nd Air Defense Artillery Regiment (B-62 THAAD), was emplaced in NSF Deveselu, Romania during the interim."
+				},
+				{
+					"header": "Turkey",
+					"text": "According to U.S. officials the AN/TPY-2 radar was deployed at Turkey's Kürecik Air Force base. The radar was activated in January 2012."
+				},
+				{
+					"header": "United Arab Emirates",
+					"text": "The United Arab Emirates (UAE) signed a deal to purchase the missile defense system on 25 December 2011. The United Arab Emirates (UAE) graduated its first two THAAD unit classes at Fort Bliss in 2015 and 2016. Its first live-fire exercises with Patriot missiles took place in 2014."
+				},
+				{
+					"header": "Guam",
+					"text": "In April 2013, the United States declared that Alpha Battery, 4th Air Defense Artillery Regiment (A-4), would be deployed to Guam to defend against a possible North Korean IRBM attack targeting the island. In March 2014, Alpha Battery, 2nd ADA RGT (A-2), did a change of responsibility with A-4 and took over the Defense of Guam Mission. After a successful 12-month deployment by A-4, Delta 2 (D-2) took its place for a 12-month deployment.In 2018-2019 Echo Battery, 3rd ADA Regiment (E-3) deployed to Guam."
+				},
+				{
+					"header": "Europe and the Middle East",
+					"text": "By March 2016, Army Space and Missile Defense Command was considering THAAD deployments to Europe with EUCOM and the Middle East with CENTCOM."
+				},
+				{
+					"header": "Japan",
+					"text": "In November 2015, Japanese Defense Minister Gen Nakatani said he would consider the U.S. deploying the THAAD in Japan to counter the threat of North Korean ballistic missiles.  By October 2016, Japan was considering procuring either THAAD or Aegis Ashore to add a new missile defense layer. In May 2017 it was reported that Japan government officials now favor the Aegis Ashore system as it comes with a wider coverage area, which would mean fewer units needed to protect Japan, and it is also cheaper."
+				},
+				{
+					"header": "Oman",
+					"text": "On 27 May 2013, Oman announced a deal for the acquisition of the THAAD air defense system. However, a sale has not been announced."
+				},
+				{
+					"header": "Saudi Arabia",
+					"text": "On 6 October 2017, the US reached a deal to provide Saudi Arabia with THAAD in a deal worth $15 billion. Seven fire units each with a Raytheon AN/TPY-2 radar, two mobile tactical stations (with two spares for a total of 16), and six launchers (with two spares for a total of 44), 360 interceptor missiles."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Mobile anti-ballistic missile system"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2008–present"
+				},
+				{
+					"key": "Used by",
+					"value": "United States Army"
+				},
+				{
+					"key": "Designed",
+					"value": "1987"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Lockheed Martin"
+				},
+				{
+					"key": "Produced",
+					"value": "2008–present"
+				},
+				{
+					"key": "No. built",
+					"value": "numerous"
+				},
+				{
+					"key": "Mass",
+					"value": "900 kg (2,000 lb)"
+				},
+				{
+					"key": "Length",
+					"value": "6.17 m (20 ft 3 in)"
+				},
+				{
+					"key": "Diameter",
+					"value": "340 mm (13 in) (booster); 370 mm (15 in) (kill vehicle)"
+				},
+				{
+					"key": "Engine",
+					"value": "Single-stage rocket"
+				},
+				{
+					"key": "Propellant",
+					"value": "Pratt & Whitney solid-fueled rocket"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "200 km (120 mi; 110 nmi)"
+				},
+				{
+					"key": "Flight ceiling",
+					"value": "150 km (93 mi)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "2,800 m/s (10,000 km/h; 6,300 mph; Mach 8.2)"
+				},
+				{
+					"key": "Guidancesystem",
+					"value": "Indium-antimonide imaging infra-red seeker head"
+				},
+				{
+					"key": "Accuracy",
+					"value": "0m (Hit to kill)"
+				},
+				{
+					"key": "Transport",
+					"value": "TEL"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg/800px-The_first_of_two_Terminal_High_Altitude_Area_Defense_%28THAAD%29_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FBX_T.jpg/800px-FBX_T.jpg",
+						"desc": "The AN/TPY-2 radar"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tems11.jpg/800px-Tems11.jpg",
+						"desc": "THAAD Energy Management Steering maneuver, used to burn excess propellant"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg/800px-Two_THAAD_launchers_arriving_in_South_Korea_in_March_2017.jpg",
+						"desc": "Two THAAD launchers shortly after being flown into South Korea in March 2017"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg/800px-SM_3_Block_IIA_launched_from_the_Aegis_Ashore_Missile_Defense_Test_Complex_at_Hawaii.jpg",
+						"desc": "SM 3 Block IIA launched from the Aegis Ashore in Hawaii"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/THAAD_missile_launch_on_Wake_Island.jpg/800px-THAAD_missile_launch_on_Wake_Island.jpg",
+						"desc": "A THAAD interceptor is launched from a THAAD battery on Wake Island during Flight Test Operational (FTO)-02 Event 2a where two air-launched ballistic missile targets were successfully intercepted in November 2015."
 					}
 				]
 			}

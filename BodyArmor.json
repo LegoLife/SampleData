@@ -2,66 +2,6 @@
 	"count": 5,
 	"data": [
 		{
-			"name": "Enhanced_Combat_Helmet_(United_States)",
-			"data": [
-				{
-					"header": "Design",
-					"text": "The ECH's profile is very similar to the Advanced Combat Helmet (ACH) but is thicker; they can be differentiated from the ACH by the different chinstrap. The ECH helmet's shell is made of an ultra-high-molecular-weight polyethylene (UHMWPE) material. The helmet provides 35% better protection against small-arms fire and fragmentation than the ACH, and it protects against certain rifle projectiles. The helmet is of the \"tactical cut\" type and thus offers less coverage but does enable better mobility. The helmet is compatible with camouflage fabric helmet covers. The helmet has been shown nearly impenetrable to fragments fired by test guns. In a v50 test, guns were unable to attain the velocity required to get 50% of the fragments through a helmet. The helmet's design allows for the addition of devices such as communications and night-vision equipment."
-				},
-				{
-					"header": "Development",
-					"text": "In an effort led by the U.S. Army Research Laboratory (ARL), ECH development began in 2007 under the Army Manufacturing Technology (ManTech) Program. In July 2009, more than $8 million was awarded to four vendors for five helmet designs. Mine Safety Appliances was awarded $4.7 million, Gentex Corporation was awarded $1.8 million, BAE Systems Aerospace & Defense Group was awarded $764,000, and 3M subsidiary Ceradyne was awarded $729,000. Testing in September revealed that each helmet failed in ballistic and/or blunt force tests. In February 2010, the Navy joined the program and issued their own requirements. Marine Corps officials suggested design improvements such as better materials to industry and testing resumed in June 2010. Three vendors were to be downselected, and the remaining two would be tested in November. If the program proceeded as planned the Army would acquire 200,000, the Marine Corps would acquire 38,500, and the Navy would acquire 6,700."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Combat helmet"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "In service",
-					"value": "2012–present"
-				},
-				{
-					"key": "Used by",
-					"value": "See Users"
-				},
-				{
-					"key": "Designed",
-					"value": "2007"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Ceradyne and Gentex"
-				},
-				{
-					"key": "Produced",
-					"value": "March 2012 – present"
-				},
-				{
-					"key": "Mass",
-					"value": "3.3 lb/1.5kg"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ECH_high_cut_2.png/800px-ECH_high_cut_2.png",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PEO_Soldier_Enhanced_Combat_Helmet_profile.jpg/800px-PEO_Soldier_Enhanced_Combat_Helmet_profile.jpg",
-						"desc": "An early ECH prototype; the production model uses a slightly different chinstrap."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg/800px-180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg",
-						"desc": "U.S. Marine wearing an ECH in 2018"
-					}
-				]
-			}
-		},
-		{
 			"name": "Integrated_Head_Protection_System",
 			"data": [
 				{
@@ -117,6 +57,66 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/IHPS_boltless.jpg/800px-IHPS_boltless.jpg",
 						"desc": "The boltless chinstrap attachment on the IHPS helmet."
+					}
+				]
+			}
+		},
+		{
+			"name": "Enhanced_Combat_Helmet_(United_States)",
+			"data": [
+				{
+					"header": "Design",
+					"text": "The ECH's profile is very similar to the Advanced Combat Helmet (ACH) but is thicker; they can be differentiated from the ACH by the different chinstrap. The ECH helmet's shell is made of an ultra-high-molecular-weight polyethylene (UHMWPE) material. The helmet provides 35% better protection against small-arms fire and fragmentation than the ACH, and it protects against certain rifle projectiles. The helmet is of the \"tactical cut\" type and thus offers less coverage but does enable better mobility. The helmet is compatible with camouflage fabric helmet covers. The helmet has been shown nearly impenetrable to fragments fired by test guns. In a v50 test, guns were unable to attain the velocity required to get 50% of the fragments through a helmet. The helmet's design allows for the addition of devices such as communications and night-vision equipment."
+				},
+				{
+					"header": "Development",
+					"text": "In an effort led by the U.S. Army Research Laboratory (ARL), ECH development began in 2007 under the Army Manufacturing Technology (ManTech) Program. In July 2009, more than $8 million was awarded to four vendors for five helmet designs. Mine Safety Appliances was awarded $4.7 million, Gentex Corporation was awarded $1.8 million, BAE Systems Aerospace & Defense Group was awarded $764,000, and 3M subsidiary Ceradyne was awarded $729,000. Testing in September revealed that each helmet failed in ballistic and/or blunt force tests. In February 2010, the Navy joined the program and issued their own requirements. Marine Corps officials suggested design improvements such as better materials to industry and testing resumed in June 2010. Three vendors were to be downselected, and the remaining two would be tested in November. If the program proceeded as planned the Army would acquire 200,000, the Marine Corps would acquire 38,500, and the Navy would acquire 6,700."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Combat helmet"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "2012–present"
+				},
+				{
+					"key": "Used by",
+					"value": "See Users"
+				},
+				{
+					"key": "Designed",
+					"value": "2007"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Ceradyne and Gentex"
+				},
+				{
+					"key": "Produced",
+					"value": "March 2012 – present"
+				},
+				{
+					"key": "Mass",
+					"value": "3.3 lb/1.5kg"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/ECH_high_cut_2.png/800px-ECH_high_cut_2.png",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/PEO_Soldier_Enhanced_Combat_Helmet_profile.jpg/800px-PEO_Soldier_Enhanced_Combat_Helmet_profile.jpg",
+						"desc": "An early ECH prototype; the production model uses a slightly different chinstrap."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg/800px-180317-M-RT059-0172_-_LCpl_Jacob_Godwin%2C_USMC.jpg",
+						"desc": "U.S. Marine wearing an ECH in 2018"
 					}
 				]
 			}
