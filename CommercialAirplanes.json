@@ -1,6 +1,102 @@
 {
-	"count": 63,
+	"count": 64,
 	"data": [
+		{
+			"name": "Comac_ARJ21",
+			"data": [
+				{
+					"header": "Key flight tests and CAAC certification",
+					"text": "AC104 returned to China on April 28, 2014, after completing natural-icing tests in North America. This was the first time a turbofan-powered regional jet independently developed by China had flown abroad to carry out flight tests in special weather conditions. At the same time, other flight-test aircraft covered more than 30,000 km across Asia, America, Europe, and the Pacific and Atlantic oceans. Natural-icing tests are required for airworthiness certification, and conducting these tests outside China showed it was feasible to do certification tests for civil aircraft in other countries."
+				},
+				{
+					"header": "Introduction",
+					"text": "On 29 November 2015, COMAC delivered the first ARJ21-700 to Chengdu Airlines.  The first commercial flight took off from Chengdu Shuangliu Airport on June 28, 2016, landing in Shanghai two hours later, one day after its commercial flight was approved by the CAAC. During the summer schedule period of 2016, i.e. until October 29, 2016, the ARJ21-700 was scheduled to operate three weekly rotations between Chengdu and Shanghai Hongqiao. 85 flight segments were operated by ARJ21 (81 by B-3321, four by B-3322)."
+				},
+				{
+					"header": "Further developments",
+					"text": "In June 2018 an ARJ21-700+ was proposed for 2021 with weight and drag reductions. Subsequently, a -900 stretch version was designed to accommodate 115 all-economy seats, similar to the Bombardier CRJ900, Embraer E175-E2 or Mitsubishi MRJ90.Structurally conservative and designed for hot and high operations, the ARJ21's 25 t (55,000 lb) empty weight is higher than initially targeted in 2002, and also higher than competing aircraft. In 2018 an executive version was in final assembly and a cargo variant was proposed. "
+				},
+				{
+					"header": "Freighter conversion program",
+					"text": "The ARJ21 Passenger to Freighter (P2F) conversion program began in May 2020; the type certification and testing program was completed in December 2022 and the type certified by the CAAC on 1 January, 2023. "
+				},
+				{
+					"header": "Production",
+					"text": "In early July 2017, the CAAC certified the ARJ21 for mass production.  On 6 March 2020, the first ARJ21 assembled at the second production line in Pudong, took its first production test flight. The second production line, with a production capacity of up to 30 jets a year, is located at the same facility that assembles the C919."
+				},
+				{
+					"header": "Design",
+					"text": "Several Western sources claim the ARJ21 closely resembles either the McDonnell Douglas MD-80 or the MD-90, which were produced under licence in China.  Comac states that the ARJ21 is a completely indigenous design.  The ARJ21's development did depend heavily on foreign suppliers, including engines and avionics from the United States. The ARJ21 has a new supercritical wing designed by Ukraine's Antonov Design Bureau with a sweepback of 25 degrees and winglets. Some of China's supercomputers have been used to design parts for the ARJ21."
+				},
+				{
+					"header": "Manufacturers",
+					"text": "Members of the ACAC consortium, which was formed to develop the aircraft, will manufacture major components of the aircraft:"
+				},
+				{
+					"header": "Orders and deliveries",
+					"text": "As of 31 August 2018, Comac had 221 outstanding orders, after 23 deliveries to launch operator Chengdu Airlines who put it in service on 28 June 2016."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Regional jetType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Comac"
+				},
+				{
+					"key": "Design group",
+					"value": "AVIC I Commercial Aircraft Company (ACAC)"
+				},
+				{
+					"key": "First flight",
+					"value": "November 28, 2008; 14 years ago (2008-11-28)"
+				},
+				{
+					"key": "Introduction",
+					"value": "28 June 2016 with Chengdu Airlines"
+				},
+				{
+					"key": "Status",
+					"value": "In production, in service"
+				},
+				{
+					"key": "Primary user",
+					"value": "Chengdu Airlines"
+				},
+				{
+					"key": "Produced",
+					"value": "2007–present"
+				},
+				{
+					"key": "Number built",
+					"value": "At least 114 (as of 31 July 2023)"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chengdu_Airlines_COMAC_ARJ21-700_Xiangfeng.jpg/800px-Chengdu_Airlines_COMAC_ARJ21-700_Xiangfeng.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/B-3328%40SHA_%2820191112105701%29.jpg/800px-B-3328%40SHA_%2820191112105701%29.jpg",
+						"desc": "Chengdu Airlines' ARJ21 at Shanghai Hongqiao International Airport in 2019"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/B-605U%40PEK_%2820200628125533%29.jpg/800px-B-605U%40PEK_%2820200628125533%29.jpg",
+						"desc": "The first ARJ21 for Air China was delivered on 28 June 2020"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20231118_Comac_ARJ21-700_of_China_Southern_Airlines_%28B-653Z%29_at_CGO_02.jpg/800px-20231118_Comac_ARJ21-700_of_China_Southern_Airlines_%28B-653Z%29_at_CGO_02.jpg",
+						"desc": "China Southern Airlines' ARJ21"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/B-123A%40PEK_%2820210201163927%29.jpg/800px-B-123A%40PEK_%2820210201163927%29.jpg",
+						"desc": "OTT Airlines' ARJ21"
+					}
+				]
+			}
+		},
 		{
 			"name": "Antonov_An-148",
 			"data": [
@@ -102,102 +198,6 @@
 			}
 		},
 		{
-			"name": "Comac_ARJ21",
-			"data": [
-				{
-					"header": "Key flight tests and CAAC certification",
-					"text": "AC104 returned to China on April 28, 2014, after completing natural-icing tests in North America. This was the first time a turbofan-powered regional jet independently developed by China had flown abroad to carry out flight tests in special weather conditions. At the same time, other flight-test aircraft covered more than 30,000 km across Asia, America, Europe, and the Pacific and Atlantic oceans. Natural-icing tests are required for airworthiness certification, and conducting these tests outside China showed it was feasible to do certification tests for civil aircraft in other countries."
-				},
-				{
-					"header": "Introduction",
-					"text": "On 29 November 2015, COMAC delivered the first ARJ21-700 to Chengdu Airlines.  The first commercial flight took off from Chengdu Shuangliu Airport on June 28, 2016, landing in Shanghai two hours later, one day after its commercial flight was approved by the CAAC. During the summer schedule period of 2016, i.e. until October 29, 2016, the ARJ21-700 was scheduled to operate three weekly rotations between Chengdu and Shanghai Hongqiao. 85 flight segments were operated by ARJ21 (81 by B-3321, four by B-3322)."
-				},
-				{
-					"header": "Further developments",
-					"text": "In June 2018 an ARJ21-700+ was proposed for 2021 with weight and drag reductions. Subsequently, a -900 stretch version was designed to accommodate 115 all-economy seats, similar to the Bombardier CRJ900, Embraer E175-E2 or Mitsubishi MRJ90.Structurally conservative and designed for hot and high operations, the ARJ21's 25 t (55,000 lb) empty weight is higher than initially targeted in 2002, and also higher than competing aircraft. In 2018 an executive version was in final assembly and a cargo variant was proposed. "
-				},
-				{
-					"header": "Freighter conversion program",
-					"text": "The ARJ21 Passenger to Freighter (P2F) conversion program began in May 2020; the type certification and testing program was completed in December 2022 and the type certified by the CAAC on 1 January, 2023. "
-				},
-				{
-					"header": "Production",
-					"text": "In early July 2017, the CAAC certified the ARJ21 for mass production.  On 6 March 2020, the first ARJ21 assembled at the second production line in Pudong, took its first production test flight. The second production line, with a production capacity of up to 30 jets a year, is located at the same facility that assembles the C919."
-				},
-				{
-					"header": "Design",
-					"text": "Several Western sources claim the ARJ21 closely resembles either the McDonnell Douglas MD-80 or the MD-90, which were produced under licence in China.  Comac states that the ARJ21 is a completely indigenous design.  The ARJ21's development did depend heavily on foreign suppliers, including engines and avionics from the United States. The ARJ21 has a new supercritical wing designed by Ukraine's Antonov Design Bureau with a sweepback of 25 degrees and winglets. Some of China's supercomputers have been used to design parts for the ARJ21."
-				},
-				{
-					"header": "Manufacturers",
-					"text": "Members of the ACAC consortium, which was formed to develop the aircraft, will manufacture major components of the aircraft:"
-				},
-				{
-					"header": "Orders and deliveries",
-					"text": "As of 31 August 2018, Comac had 221 outstanding orders, after 23 deliveries to launch operator Chengdu Airlines who put it in service on 28 June 2016."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Regional jetType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Comac"
-				},
-				{
-					"key": "Design group",
-					"value": "AVIC I Commercial Aircraft Company (ACAC)"
-				},
-				{
-					"key": "First flight",
-					"value": "November 28, 2008; 14 years ago (2008-11-28)"
-				},
-				{
-					"key": "Introduction",
-					"value": "28 June 2016 with Chengdu Airlines"
-				},
-				{
-					"key": "Status",
-					"value": "In production, in service"
-				},
-				{
-					"key": "Primary user",
-					"value": "Chengdu Airlines"
-				},
-				{
-					"key": "Produced",
-					"value": "2007–present"
-				},
-				{
-					"key": "Number built",
-					"value": "At least 114 (as of 31 July 2023)"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chengdu_Airlines_COMAC_ARJ21-700_Xiangfeng.jpg/800px-Chengdu_Airlines_COMAC_ARJ21-700_Xiangfeng.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/B-3328%40SHA_%2820191112105701%29.jpg/800px-B-3328%40SHA_%2820191112105701%29.jpg",
-						"desc": "Chengdu Airlines' ARJ21 at Shanghai Hongqiao International Airport in 2019"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/B-605U%40PEK_%2820200628125533%29.jpg/800px-B-605U%40PEK_%2820200628125533%29.jpg",
-						"desc": "The first ARJ21 for Air China was delivered on 28 June 2020"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20231118_Comac_ARJ21-700_of_China_Southern_Airlines_%28B-653Z%29_at_CGO_02.jpg/800px-20231118_Comac_ARJ21-700_of_China_Southern_Airlines_%28B-653Z%29_at_CGO_02.jpg",
-						"desc": "China Southern Airlines' ARJ21"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/B-123A%40PEK_%2820210201163927%29.jpg/800px-B-123A%40PEK_%2820210201163927%29.jpg",
-						"desc": "OTT Airlines' ARJ21"
-					}
-				]
-			}
-		},
-		{
 			"name": "Airbus_A320_family",
 			"data": [
 				{
@@ -288,7 +288,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jetstar_Airbus_A320_in_flight_%286768081241%29_crop.jpg/800px-Jetstar_Airbus_A320_in_flight_%286768081241%29_crop.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Logo_Airbus_A320.svg/800px-Logo_Airbus_A320.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Joint_European_Transport_JET2.jpg/800px-Joint_European_Transport_JET2.jpg",
@@ -468,7 +468,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg/800px-Turkish_Airlines%2C_Airbus_A330-300_TC-JNL_NRT_%2823708073592%29.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Logo_Airbus_A330.svg/800px-Logo_Airbus_A330.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HL7552_Airbus_A330-223_Korean_Air%2C_CS-TQM_Airbus_A340-313X_Strategic_Airlines_%28HiFly%29_and_VH-ZPL_%27Samba_Blue%27_Embraer_190-100IGW_Virgin_Blue_%28Virgin_Australia%29_%286600549415%29.jpg/800px-thumbnail.jpg",
@@ -844,7 +844,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/EGLF_-_Airbus_A350-941_-_F-WZNW.jpg/800px-EGLF_-_Airbus_A350-941_-_F-WZNW.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_Airbus_A350.svg/800px-Logo_Airbus_A350.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Initial_Airbus_A350_concept.jpg/800px-Initial_Airbus_A350_concept.jpg",
@@ -1496,7 +1496,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/YL-CSD_Bombardier_BD-500-1A100_CS300_BCS3_Airbus_A220-300_A223_c_n_55006_-_BTI_%2831100301167%29.jpg/800px-YL-CSD_Bombardier_BD-500-1A100_CS300_BCS3_Airbus_A220-300_A223_c_n_55006_-_BTI_%2831100301167%29.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Airbus_A220.svg/800px-Logo_Airbus_A220.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Bombardier_BRJ-X.jpg/800px-Bombardier_BRJ-X.jpg",
@@ -2030,27 +2030,47 @@
 			}
 		},
 		{
-			"name": "McDonnell_Douglas_MD-11",
+			"name": "Boeing_787_Dreamliner",
 			"data": [
 				{
-					"header": "Origins",
-					"text": "Although the MD-11 program was launched in 1986, McDonnell Douglas had started to search for a DC-10 derivative as early as 1976. Two versions were considered then: a DC-10-10 with a fuselage stretch of 40 feet (12 m) and a DC-10-30 stretched by 30 feet (9.1 m). The latter version would have been capable of transporting up to 340 passengers in a multi-class configuration, or 277 passengers and their luggage over 5,300 nautical miles (9,800 km). At the same time, the manufacturer was seeking to reduce wing and engine drag on the trijet. Another version of the aircraft was also envisaged, the \"DC-10 global\", aimed to counter the risks of loss of orders for the DC-10-30 that the Boeing 747SP and its range were causing. The DC-10 global would have incorporated more fuel tanks."
+					"header": "Background",
+					"text": "During the late 1990s, Boeing considered replacement aircraft programs due to slowing sales of the 767 and 747-400. Two new aircraft were proposed. The 747X would have lengthened the 747-400 and improved efficiency, and the Sonic Cruiser would have achieved 15% higher speeds (approximately Mach 0.98) while burning fuel at the same rate as the 767. Market interest for the 747X was tepid; however, several major American airlines, including Continental Airlines, showed initial enthusiasm for the Sonic Cruiser, although concerns about the operating cost were also expressed. The global airline market was disrupted by the 9/11 attacks and increased petroleum prices, making airlines more interested in efficiency than speed. The worst-affected airlines, those in the United States, had been considered the most likely customers of the Sonic Cruiser; thus the Sonic Cruiser was officially canceled on December 20, 2002. On January 29, 2003, Boeing announced an alternative product, the 7E7, using Sonic Cruiser technology in a more conventional configuration. The emphasis on a smaller midsize twinjet rather than a large 747-size aircraft represented a shift from the hub-and-spoke theory toward the point-to-point theory, in response to analysis of focus groups."
 				},
 				{
-					"header": "Launch and costs",
-					"text": "On December 30, 1986, McDonnell Douglas launched the MD-11 with commitments for 52 firm orders and 40 options in three different versions (passenger, combi and freighter) from ten airlines (Alitalia, British Caledonian, Dragonair, Federal Express, Finnair, Korean Air, Scandinavian Airlines, Swissair, Thai Airways International, and VARIG) and two leasing companies (Guinness Peat Aviation and Mitsui). Orders from Dragonair, Scandinavian and UTA, an undisclosed customer, were canceled by 1988."
+					"header": "Manufacturing and suppliers",
+					"text": "On December 16, 2003, Boeing announced that the 787 would be assembled in its factory in Everett, Washington. Instead of conventionally building the aircraft from the ground up, the final assembly employed 800 to 1,200 people to join completed subassemblies and integrate systems. Boeing assigned global subcontractors to do more assembly work, delivering completed subassemblies to Boeing for final assembly. This approach was intended to result in a leaner, simpler assembly line and lower inventory, with pre-installed systems reducing final assembly time by three-quarters to three days. Subcontractors had early difficulties procuring needed parts and finishing subassemblies on schedule, leaving remaining assembly work for Boeing to complete as \"traveled work.\" In 2010, Boeing considered in-house construction of the 787-9 tail; the tail of the 787-8 is made by Alenia. The 787 was unprofitable for some subcontractors; Alenia's parent company, Finmeccanica, had a total loss of €750 million on the project."
 				},
 				{
-					"header": "Proposed tanker version",
-					"text": "After McDonnell Douglas did the KDC-10 conversion for the Royal Netherlands Air Force in 1992, they proposed a tanker/transport version of the MD-11CF which had the in-house designation KMD-11. McDD offered either conversion of second-hand aircraft (KMD-11) or new built aircraft (KC-10B), the proposed KMD-11 offered 35,000 lbs more cargo capacity and 8,400 lbs more transferable fuel than the KC-10A. It was offered to the RNAF and Royal Saudi Air Force (RSAF) in the 1990s and the Royal Australian Air Force (RAAF) in the early 2000s."
+					"header": "Pre-flight ground testing",
+					"text": "As Boeing worked with its suppliers toward production, the design proceeded through a series of test goals. On August 23, 2007, a crash test involving a vertical drop of a partial composite fuselage section from about 15 ft (4.6 m) onto a 1 in (25 mm)-thick steel plate occurred in Mesa, Arizona; the results matched predictions, allowing modeling of various crash scenarios using computational analysis instead of further physical tests. While critics had expressed concerns that a composite fuselage could shatter and burn with toxic fumes during crash landings, test data indicated no greater toxicity than conventional metal airframes. The crash test was the third in a series of demonstrations conducted to match FAA requirements, including additional certification criteria due to the wide-scale use of composite materials. The 787 meets the FAA's requirement that passengers have at least as good a chance of surviving a crash landing as they would with current metal airliners."
 				},
 				{
-					"header": "Accidents and incidents",
-					"text": "As of June 2017, the MD-11 has been involved in 30 aviation incidents, including nine hull-loss accidents with 244 fatalities."
+					"header": "Production rate",
+					"text": "By 2014, Boeing planned to improve financial return by reorganizing the production line, renegotiating contracts with suppliers and labor unions, and increasing the 787 production rate, stepwise, to 12 airplanes per month by the end of 2016 and 14 airplanes per month by the end of the decade.By April 2015, the production rate was 10 per month;"
 				},
 				{
-					"header": "Safety problems",
-					"text": "The MD-11 had problems with its flight control systems that have resulted in multiple accidents and incidents since the aircraft's introduction. The initial design of the slat/flap lever in the cockpit left it prone to being accidentally dislodged by a crew in flight. The defect has been corrected since 1992. In the early 2000s, Boeing improved the flight control software at the urging of the FAA to reduce the possibility of violent unintentional pitch movements."
+					"header": "Flight systems",
+					"text": "Among 787 flight systems, a key change from traditional airliners is the electrical architecture. The architecture is bleedless and replaces bleed air with electrically powered compressors and four of six hydraulic power sources with electrically driven pumps while eliminating pneumatics and hydraulics from some subsystems, e.g. engine starters and brakes. Boeing says that this system extracts 35% less power from the engines, allowing increased thrust and improved fuel efficiency. Spoiler electromechanical actuators (SEMAs) control two of the seven spoiler pairs on each wing surface, providing roll control, air and ground speed brake, and droop capabilities similar to those provided by the hydraulic actuators used on the remaining spoiler surfaces. The SEMAs are controlled by electronic motor control units (EMCUs)."
+				},
+				{
+					"header": "Engines",
+					"text": "The 787 is powered by two engines, which use all-electrical bleedless systems taken from the Sonic Cruiser, eliminating the superheated air conduits normally used for aircraft power, de-icing, and other functions. As part of its \"Quiet Technology Demonstrator 2\" project, Boeing adopted several engine noise-reducing technologies for the 787. These include an air inlet containing sound-absorbing materials and exhaust duct cover with a chevron-toothed pattern on the rim for a quieter mixing of exhaust and outside air. Boeing expects these developments to make the 787 significantly quieter both inside and out.  The noise-reducing measures prevent sounds above 85 decibels from leaving airport boundaries."
+				},
+				{
+					"header": "Operational history",
+					"text": "On December 6, 2011, test aircraft ZA006 (sixth 787), powered by General Electric GEnx engines, flew 10,710 nmi (19,830 km; 12,320 mi) non-stop from Boeing Field eastward to Shahjalal International Airport in Dhaka, Bangladesh, setting a new world distance record for aircraft in the 787's weight class, which is between 440,000 and 550,000 lb (200,000 and 250,000 kg). This flight surpassed the previous record of 9,127 nautical miles (16,903 km; 10,503 mi), set in 2002 by an Airbus A330. The Dreamliner then continued eastbound from Dhaka to return to Boeing Field, setting a world-circling speed record of 42 hours, 27 minutes. In December 2011, Boeing started a six-month promotion 787 world tour, visiting various cities in China, Africa, the Middle East, Europe, United States, and others. In April 2012, an ANA 787 made a delivery flight from Boeing Field to Haneda Airport partially using biofuel from cooking oil."
+				},
+				{
+					"header": "787-9",
+					"text": "Keeping the same wingspan as the 787-8, the 787-9 is a lengthened and strengthened variant with a 20 feet (6.1 m) longer fuselage and a 54,500 pounds (24,700 kg) higher maximum take-off weight (MTOW), seating 259 passengers in a typical three-class arrangement over a 7,635 nautical miles (8,786 mi; 14,140 km) range. It features active boundary-layer control on the tail surfaces, reducing drag. It is targeted to replace the Boeing 767-300ER and Airbus A330-300. It competes with the Airbus A330-900."
+				},
+				{
+					"header": "Freighter version",
+					"text": "Although with no set date, Boeing expects to build a 787 freighter version, possibly in the 2018–2023 timeframe. The freighter version would incorporate a large main deck cargo door, at the rear end of the fuselage and would carry palletized/containerized freight.[citation needed]"
+				},
+				{
+					"header": "Operational problems",
+					"text": "A Japan Airlines (JAL) 787 experienced a fuel leak on January 8, 2013, and its flight from Boston was canceled.  On January 9, United Airlines reported a problem in one of its six 787s with the wiring near the main batteries. Soon, the U.S. National Transportation Safety Board opened a safety probe. Fuel leaks also occurred on January 11, 2013 and on January 13, 2013, at Narita International Airport outside Tokyo. The aircraft reportedly was the same one that had a fuel leak on January 8. Japan's transport ministry also launched an investigation."
 				}
 			],
 			"infobox": [
@@ -2064,75 +2084,151 @@
 				},
 				{
 					"key": "Manufacturer",
-					"value": "McDonnell Douglas (1988–97) Boeing Commercial Airplanes (1997–2000)"
+					"value": "Boeing Commercial Airplanes"
 				},
 				{
 					"key": "First flight",
-					"value": "January 10, 1990"
+					"value": "December 15, 2009"
 				},
 				{
 					"key": "Introduction",
-					"value": "December 20, 1990 with Finnair"
+					"value": "October 26, 2011, with All Nippon Airways"
 				},
 				{
 					"key": "Status",
-					"value": "In cargo service[a]"
+					"value": "In service"
 				},
 				{
 					"key": "Primary users",
-					"value": "FedEx ExpressUPS Airlines Western Global Airlines Lufthansa Cargo (historical)"
+					"value": "All Nippon AirwaysUnited Airlines Japan Airlines American Airlines"
 				},
 				{
 					"key": "Produced",
-					"value": "1988–2000"
+					"value": "2007–present"
 				},
 				{
 					"key": "Number built",
-					"value": "200"
-				},
-				{
-					"key": "Developed from",
-					"value": "McDonnell Douglas DC-10"
+					"value": "1,093 as of October 2023[update]"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/800px-Searchtool.svg.png",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg/800px-Boeing_787_N1015B_ANA_Airlines_%2827611880663%29_%28cropped%29.jpg",
 				"other": [
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MD11_AND_DC10_varig_comparison.jpg/800px-MD11_AND_DC10_varig_comparison.jpg",
-						"desc": "The MD-11 on the left is 202 ft (61.6 m) long and has winglets and a smaller tailplane while the DC-10 on the right is 181.6 ft (55.35 m) long."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/All_Nippon_Airways_Boeing_787-9_%28JA830A%29_at_Tokyo_Haneda_Airport.jpg/800px-All_Nippon_Airways_Boeing_787-9_%28JA830A%29_at_Tokyo_Haneda_Airport.jpg",
+						"desc": "All Nippon Airways launched the 787 program with an order for 50 aircraft in 2004."
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/McDonnell_Douglas_MD-11%2C_KLM_Royal_Dutch_Airlines_JP6102340.jpg/800px-McDonnell_Douglas_MD-11%2C_KLM_Royal_Dutch_Airlines_JP6102340.jpg",
-						"desc": "Nine-abreast economy class"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boeing_787_Section_41_final_assembly.jpg/800px-Boeing_787_Section_41_final_assembly.jpg",
+						"desc": "Assembly of \"Section 41\", the nose section of the Boeing 787"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/D-ALCL_%283119122609%29.jpg/800px-D-ALCL_%283119122609%29.jpg",
-						"desc": "The MD-11 has a center engine at the base of the vertical stabilizer, like the DC-10. Additionally, the nacelle has a bulge at the front, similar to the DC-10-40 variant."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Boeing_787_Roll-out.jpg/800px-Boeing_787_Roll-out.jpg",
+						"desc": "The first public appearance of the 787 on July 8, 2007"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Finnair_McDonnell_Douglas_MD-11_%28OH-LGB%29_landing_at_Helsinki-Vantaa_Airport.jpg/800px-Finnair_McDonnell_Douglas_MD-11_%28OH-LGB%29_landing_at_Helsinki-Vantaa_Airport.jpg",
-						"desc": "The first MD-11 was delivered to Finnair on December 7, 1990, and made its first revenue on December 20, 1990."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Boeing_787_first_flight_taxi_turn.jpg/800px-Boeing_787_first_flight_taxi_turn.jpg",
+						"desc": "The prototype Boeing 787 underwent taxi tests at Paine Field in November and December 2009."
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cockpit_of_McDonnell_Douglas_MD-11_%285306565461%29.jpg/800px-Cockpit_of_McDonnell_Douglas_MD-11_%285306565461%29.jpg",
-						"desc": "Two-crew glass cockpit"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Boeing_787_first_flight.jpg/800px-Boeing_787_first_flight.jpg",
+						"desc": "The first 787 taking off on its maiden flight in December 2009"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/McDonnell_Douglas_MD-11%2C_American_Airlines_AN0195051.jpg/800px-McDonnell_Douglas_MD-11%2C_American_Airlines_AN0195051.jpg",
-						"desc": "American Airlines received 19 passenger MD-11s."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B787-1659.jpg/800px-B787-1659.jpg",
+						"desc": "A 787 at the 2010 Farnborough Airshow"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/PH-MCT_Martinair_Cargo_%283247988286%29.jpg/800px-PH-MCT_Martinair_Cargo_%283247988286%29.jpg",
-						"desc": "Martinair MD-11CF front section with forward cargo door and windows"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Boeing_787_Dreamliner_arrival_Airventure_2011.jpg/800px-Boeing_787_Dreamliner_arrival_Airventure_2011.jpg",
+						"desc": "The 787-8 received FAA and EASA certification on August 21, 2011."
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VP-BDR_MD11F_AFL_loading_%284473477269%29_%282%29.jpg/800px-VP-BDR_MD11F_AFL_loading_%284473477269%29_%282%29.jpg",
-						"desc": "Aeroflot MD-11F cargo door loading"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/All_Nippon_Airways%2C_Boeing_787-8%2C_JA823A_%2814305502433%29.jpg/800px-All_Nippon_Airways%2C_Boeing_787-8%2C_JA823A_%2814305502433%29.jpg",
+						"desc": "All Nippon Airways flew the first commercial 787 flight on October 26, 2011."
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fedex-md11-N525FE-051109-21-16.jpg/800px-Fedex-md11-N525FE-051109-21-16.jpg",
-						"desc": "MD-11 operated by FedEx Express"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Norwegian_Boeing_787-9_%28EI-LNI%29_above_clouds.jpg/800px-Norwegian_Boeing_787-9_%28EI-LNI%29_above_clouds.jpg",
+						"desc": "A defunct subsidiary of Norwegian Air Shuttle, Norwegian Long Haul operated the 787 as a long-haul low-cost carrier."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jetstar_Airways_%28VH-VKG%29_Boeing_787-8_Dreamliner_at_Sydney_Airport_%281%29.jpg/800px-Jetstar_Airways_%28VH-VKG%29_Boeing_787-8_Dreamliner_at_Sydney_Airport_%281%29.jpg",
+						"desc": "A Jetstar 787-8 with a Qantas A330-200 in the background, 2018"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/N1015X_Air_Tahiti_Nui_Boeing_787-9_Dreamliner_33.jpg/800px-N1015X_Air_Tahiti_Nui_Boeing_787-9_Dreamliner_33.jpg",
+						"desc": "Planform view of a 787-9 showing its 9.6 wing aspect ratio and 32° wing sweep"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Vietnam_Airlines_787-10_VN-A879_F2F.jpg/800px-Vietnam_Airlines_787-10_VN-A879_F2F.jpg",
+						"desc": "Front view of a Vietnam Airlines 787-10, the fuselage is 19 ft (5.8 m) wide and .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}19+1⁄2 ft (5.94 m) high while the fan has a 9.3 ft (2.8 m) diameter"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Boeing_787-8_N787BA_cockpit_%28cropped%29.jpg/800px-Boeing_787-8_N787BA_cockpit_%28cropped%29.jpg",
+						"desc": "The Boeing 787 flight deck has fly-by-wire controls"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/787fuselage.jpg/800px-787fuselage.jpg",
+						"desc": "Disassembled composite fuselage section of the Boeing 787"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/SIA_787-10_regional_economy_%2840354390274%29.jpg/800px-SIA_787-10_regional_economy_%2840354390274%29.jpg",
+						"desc": "Most airlines have a nine-abreast (3–3–3) economy class, although some select an eight-abreast lower density"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Business_class_of_Qatar_Airways%27_25th_Boeing_787-8.jpg/800px-Business_class_of_Qatar_Airways%27_25th_Boeing_787-8.jpg",
+						"desc": "Qatar Airways 787-8 business class cabin in 1–2–1 layout"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/United_Airlines_Boeing_787_Breidenstein-1.jpg/800px-United_Airlines_Boeing_787_Breidenstein-1.jpg",
+						"desc": "United Airlines was the North American launch customer for all three 787 variants."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/N26902_-_Boeing_787-8_Dreamliner_-_United_Airlines.jpg/800px-N26902_-_Boeing_787-8_Dreamliner_-_United_Airlines.jpg",
+						"desc": "The initial 787-8 is the shortest variant at 186 ft (56.7 m)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Air_New_Zealand_Boeing_787-9_Dreamliner_landing_at_Perth_Airport.jpg/800px-Air_New_Zealand_Boeing_787-9_Dreamliner_landing_at_Perth_Airport.jpg",
+						"desc": "The longer 787-9 (206 ft; 63 m) was introduced by Air New Zealand on August 9, 2014"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Boeing_787-10_rollout_%2832305466134%29.jpg/800px-Boeing_787-10_rollout_%2832305466134%29.jpg",
+						"desc": "Rollout of 787-10 on February 17, 2017. The −10 is the longest 787 variant at 224 ft (68 m)."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Singapore_Airlines_787-10_final_assembly_%2841008876271%29.jpg/800px-Singapore_Airlines_787-10_final_assembly_%2841008876271%29.jpg",
+						"desc": "Final assembly of the 787-10 is only in Charleston, South Carolina"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Boeing787-10%289V-SCK%29.jpg/800px-Boeing787-10%289V-SCK%29.jpg",
+						"desc": "The 787-10 began commercial service on April 3, 2018, with Singapore Airlines"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lufthansa_Technik_VIP_%26_Executive_Jet_Solutions_%284340689370%29.jpg/800px-Lufthansa_Technik_VIP_%26_Executive_Jet_Solutions_%284340689370%29.jpg",
+						"desc": "Lufthansa Technik model of 787 VIP interior"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dreamliner_rendering_787-3.jpg/800px-Dreamliner_rendering_787-3.jpg",
+						"desc": "The 787-3 would feature a reduced wingspan with wingtip devices"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Japan_Airlines%2C_JA838J%2C_Boeing_787-8_Dreamliner_%2829904520725%29.jpg/800px-Japan_Airlines%2C_JA838J%2C_Boeing_787-8_Dreamliner_%2829904520725%29.jpg",
+						"desc": "Japan Airlines 787-8 applying reverse thrust on a wet runway"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/B-1168%40PEK_%2820190529145346%29.jpg/800px-B-1168%40PEK_%2820190529145346%29.jpg",
+						"desc": "The 787th Boeing 787, operated by China Southern Airlines, with special markings."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/ANA_787s_grounded_at_HND.jpg/800px-ANA_787s_grounded_at_HND.jpg",
+						"desc": "Three 787s of All Nippon Airways sit grounded at Tokyo Haneda International Airport in late January 2013."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boeing_Dreamliner_battery_original_and_damaged.jpg/800px-Boeing_Dreamliner_battery_original_and_damaged.jpg",
+						"desc": "Japan Airlines 787 battery comparison; Left: typical original battery. Right: damaged battery."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FLIGHT_OF_DREAMS4.jpg/800px-FLIGHT_OF_DREAMS4.jpg",
+						"desc": "N787BA, the first prototype aircraft, on display in the \"Flight of Dreams\" building at Chubu Centrair Airport, Nagoya"
 					}
 				]
 			}
@@ -2255,7 +2351,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Airfrance.a318-100.f-guga.arp.jpg/800px-Airfrance.a318-100.f-guga.arp.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Airbus_A318.svg/800px-Logo_Airbus_A318.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/British_Airways_%28G-EUNA%29_Airbus_A318_at_London_City_Airport.jpg/800px-British_Airways_%28G-EUNA%29_Airbus_A318_at_London_City_Airport.jpg",
@@ -3123,7 +3219,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/F-GLZJ_Airbus_A340_Air_France_%28cropped%29.jpg/800px-F-GLZJ_Airbus_A340_Air_France_%28cropped%29.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_Airbus_A340.svg/800px-Logo_Airbus_A340.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HL7552_Airbus_A330-223_Korean_Air%2C_CS-TQM_Airbus_A340-313X_Strategic_Airlines_%28HiFly%29_and_VH-ZPL_%27Samba_Blue%27_Embraer_190-100IGW_Virgin_Blue_%28Virgin_Australia%29_%286600549415%29.jpg/800px-thumbnail.jpg",
@@ -4017,6 +4113,98 @@
 			}
 		},
 		{
+			"name": "Fokker_100",
+			"data": [
+				{
+					"header": "Potential revival",
+					"text": "Discussions regarding the potential for either portions or the entirety of Fokker being purchased by Bombardier Inc. are known to have taken place, but talks ultimately fell through without a deal being reached. Dutch firm Stork B.V. has since acquired the maintenance business for the type and has since been providing services to existing operators, having adopted the name Fokker Aviation. Like any number of regional airliner designs, the Fokker 70/100 was being increasingly squeezed from below by stretched versions of the Bombardier and Embraer regional jets; this intense competitive pressure had also been responsible for killing off plans for the Fairchild Dornier 728 family, along with an unnamed design being considered by ATR. At one point, a proposal was made for a stretched version of the Fokker 100, known as the Fokker 130, however this was never built."
+				},
+				{
+					"header": "Airlines",
+					"text": "As of August 2019, 126 aircraft were still in operational use with airlines.[needs update] Many of them are used in Australia by Alliance Airlines and QantasLink in support of the mining industry, with low use rates for an airline, around 1,200 hours per year."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Regional jetType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Netherlands"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Fokker"
+				},
+				{
+					"key": "First flight",
+					"value": "30 November 1986"
+				},
+				{
+					"key": "Introduction",
+					"value": "3 April 1988 with Swissair"
+				},
+				{
+					"key": "Status",
+					"value": "In service"
+				},
+				{
+					"key": "Primary users",
+					"value": "Alliance AirlinesNetwork Aviation Iran Aseman Airlines"
+				},
+				{
+					"key": "Produced",
+					"value": "1986–1997"
+				},
+				{
+					"key": "Number built",
+					"value": "283"
+				},
+				{
+					"key": "Developed from",
+					"value": "Fokker F28 Fellowship"
+				},
+				{
+					"key": "Variants",
+					"value": "Fokker 70"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fokker_100_%28KLM%29_PH-OFN_%2810676665315%29.jpg/800px-Fokker_100_%28KLM%29_PH-OFN_%2810676665315%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alliance_Airlines_Fokker_100_Bundaberg_Vabre-2.jpg/800px-Alliance_Airlines_Fokker_100_Bundaberg_Vabre-2.jpg",
+						"desc": "The Fokker 100 is based on the previous F28 with new Rolls-Royce Tay turbofans and a wider wing"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PH-MKH_Fokker_100%28prototype%29_Fokker_FAB_SEP88_%2813753505603%29.jpg/800px-PH-MKH_Fokker_100%28prototype%29_Fokker_FAB_SEP88_%2813753505603%29.jpg",
+						"desc": "The Fokker 100 prototype, from below"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Overdracht_1e_Fokker-100_aan_Swissair_violist_Jaap_van_Zweden_op_de_trap_van_de%2C_Bestanddeelnr_934-1989.jpg/800px-Overdracht_1e_Fokker-100_aan_Swissair_violist_Jaap_van_Zweden_op_de_trap_van_de%2C_Bestanddeelnr_934-1989.jpg",
+						"desc": "The first delivery, to Swissair, on 29 February 1988"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fokker6.jpg/800px-Fokker6.jpg",
+						"desc": "The five-abreast cabin seating, used by Austrian Airlines"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Greenland_Express_Fokker_F100_at_Lviv_International_Airport_%28original%29.jpg/800px-Greenland_Express_Fokker_F100_at_Lviv_International_Airport_%28original%29.jpg",
+						"desc": "A Greenland Express Fokker 100 at Lviv International Airport"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/QantasLink_Fokker_100_VH-NHC_Perth_2019_%2801%29.jpg/800px-QantasLink_Fokker_100_VH-NHC_Perth_2019_%2801%29.jpg",
+						"desc": "A still operated QantasLink Fokker 100."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fokker_100_%28F-28-0100%29%2C_American_Airlines_AN0145805.jpg/800px-Fokker_100_%28F-28-0100%29%2C_American_Airlines_AN0145805.jpg",
+						"desc": "A former Fokker 100 of American Airlines."
+					}
+				]
+			}
+		},
+		{
 			"name": "Embraer_ERJ_family",
 			"data": [
 				{
@@ -4200,98 +4388,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Fokker5.jpg/800px-Fokker5.jpg",
 						"desc": "Cabin of a former Austrian Airlines F70"
-					}
-				]
-			}
-		},
-		{
-			"name": "Fokker_100",
-			"data": [
-				{
-					"header": "Potential revival",
-					"text": "Discussions regarding the potential for either portions or the entirety of Fokker being purchased by Bombardier Inc. are known to have taken place, but talks ultimately fell through without a deal being reached. Dutch firm Stork B.V. has since acquired the maintenance business for the type and has since been providing services to existing operators, having adopted the name Fokker Aviation. Like any number of regional airliner designs, the Fokker 70/100 was being increasingly squeezed from below by stretched versions of the Bombardier and Embraer regional jets; this intense competitive pressure had also been responsible for killing off plans for the Fairchild Dornier 728 family, along with an unnamed design being considered by ATR. At one point, a proposal was made for a stretched version of the Fokker 100, known as the Fokker 130, however this was never built."
-				},
-				{
-					"header": "Airlines",
-					"text": "As of August 2019, 126 aircraft were still in operational use with airlines.[needs update] Many of them are used in Australia by Alliance Airlines and QantasLink in support of the mining industry, with low use rates for an airline, around 1,200 hours per year."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Regional jetType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Netherlands"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Fokker"
-				},
-				{
-					"key": "First flight",
-					"value": "30 November 1986"
-				},
-				{
-					"key": "Introduction",
-					"value": "3 April 1988 with Swissair"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "Alliance AirlinesNetwork Aviation Iran Aseman Airlines"
-				},
-				{
-					"key": "Produced",
-					"value": "1986–1997"
-				},
-				{
-					"key": "Number built",
-					"value": "283"
-				},
-				{
-					"key": "Developed from",
-					"value": "Fokker F28 Fellowship"
-				},
-				{
-					"key": "Variants",
-					"value": "Fokker 70"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fokker_100_%28KLM%29_PH-OFN_%2810676665315%29.jpg/800px-Fokker_100_%28KLM%29_PH-OFN_%2810676665315%29.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Alliance_Airlines_Fokker_100_Bundaberg_Vabre-2.jpg/800px-Alliance_Airlines_Fokker_100_Bundaberg_Vabre-2.jpg",
-						"desc": "The Fokker 100 is based on the previous F28 with new Rolls-Royce Tay turbofans and a wider wing"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/PH-MKH_Fokker_100%28prototype%29_Fokker_FAB_SEP88_%2813753505603%29.jpg/800px-PH-MKH_Fokker_100%28prototype%29_Fokker_FAB_SEP88_%2813753505603%29.jpg",
-						"desc": "The Fokker 100 prototype, from below"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Overdracht_1e_Fokker-100_aan_Swissair_violist_Jaap_van_Zweden_op_de_trap_van_de%2C_Bestanddeelnr_934-1989.jpg/800px-Overdracht_1e_Fokker-100_aan_Swissair_violist_Jaap_van_Zweden_op_de_trap_van_de%2C_Bestanddeelnr_934-1989.jpg",
-						"desc": "The first delivery, to Swissair, on 29 February 1988"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fokker6.jpg/800px-Fokker6.jpg",
-						"desc": "The five-abreast cabin seating, used by Austrian Airlines"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Greenland_Express_Fokker_F100_at_Lviv_International_Airport_%28original%29.jpg/800px-Greenland_Express_Fokker_F100_at_Lviv_International_Airport_%28original%29.jpg",
-						"desc": "A Greenland Express Fokker 100 at Lviv International Airport"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/QantasLink_Fokker_100_VH-NHC_Perth_2019_%2801%29.jpg/800px-QantasLink_Fokker_100_VH-NHC_Perth_2019_%2801%29.jpg",
-						"desc": "A still operated QantasLink Fokker 100."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fokker_100_%28F-28-0100%29%2C_American_Airlines_AN0145805.jpg/800px-Fokker_100_%28F-28-0100%29%2C_American_Airlines_AN0145805.jpg",
-						"desc": "A former Fokker 100 of American Airlines."
 					}
 				]
 			}
@@ -4603,7 +4699,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg/800px-A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Logo_Airbus_A380.svg/800px-Logo_Airbus_A380.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/A380_transport_Port_de_Bordeaux.jpg/800px-A380_transport_Port_de_Bordeaux.jpg",
@@ -5133,94 +5229,6 @@
 			}
 		},
 		{
-			"name": "Yakovlev_Yak-40",
-			"data": [
-				{
-					"header": "Development",
-					"text": "By the early 1960s, Soviet international and internal trunk routes were served by Aeroflot, the state airline, using jet or turboprop powered airliners, but their local services, many of which operated from grass airfields, were served by obsolete piston-engine aircraft such as the Ilyushin Il-12, Il-14 and Lisunov Li-2. Aeroflot wanted to replace these elderly airliners with a turbine-powered aircraft, with the Yakovlev design bureau being assigned to design it. High speed was not required, but it would have to be able to operate safely and reliably out of poorly equipped airports with short (less than 700 m or 2,300 ft) unpaved runways in poor weather."
-				},
-				{
-					"header": "Operational history",
-					"text": "The first of five prototypes made its maiden flight on 21 October 1966, with production being launched at the Saratov Aviation Plant in 1967 and Soviet type certification granted in 1968. The type carried out its first passenger service for Aeroflot on 30 September 1968. In the 1972 version, a tailspin was removed. In 1974, new version was introduced, with non-stop flight distance increased. Also, the forward door on the right side of the fuselage changed its place – it was located together with the sixth window.[citation needed]"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Regional jet/ VIP transportType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "Soviet Union"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Yakovlev"
-				},
-				{
-					"key": "First flight",
-					"value": "October 21, 1966"
-				},
-				{
-					"key": "Introduction",
-					"value": "September 1968 (Aeroflot)"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "Motor Sich AirlinesVologda Aviation Enterprise Aeroflot (former)"
-				},
-				{
-					"key": "Produced",
-					"value": "1967–1981"
-				},
-				{
-					"key": "Number built",
-					"value": "1,011 (according to some sources, 1,013)[which?]"
-				},
-				{
-					"key": "Developed into",
-					"value": "Yakovlev Yak-42"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg/800px-Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg",
-						"desc": "Bucket thrust reverser on the center engine"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg",
-						"desc": "Cockpit of a Yak-40"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yak-40_RA-87500_%2815627516007%29.jpg/800px-Yak-40_RA-87500_%2815627516007%29.jpg",
-						"desc": "Rear view of the aircraft, showing the rear integrated airstairs"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eesti_Lennundusmuuseum._JAK-40_salong.jpg/800px-Eesti_Lennundusmuuseum._JAK-40_salong.jpg",
-						"desc": "Interior photosphere of the VIP variant of the Yak-40, located at the Estonian Aviation Museum.(view as a 360° interactive panorama)"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg/800px-Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg",
-						"desc": "YK-40 business aircraft interior"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yakovlev_Yak-40_HA-LRA_cabin.jpg/800px-Yakovlev_Yak-40_HA-LRA_cabin.jpg",
-						"desc": "Three-abreast seating configuration of the Yak-40"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RA-88296_Yak40_Severstal_%286679463821%29.jpg/800px-RA-88296_Yak40_Severstal_%286679463821%29.jpg",
-						"desc": "Yak-40 during takeoff"
-					}
-				]
-			}
-		},
-		{
 			"name": "McDonnell_Douglas_DC-10",
 			"data": [
 				{
@@ -5312,6 +5320,202 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cockpit_of_McDonnell_Douglas_MD-11_%285306565461%29.jpg/800px-Cockpit_of_McDonnell_Douglas_MD-11_%285306565461%29.jpg",
 						"desc": "The MD-10 has an MD-11-inspired two-crew glass cockpit."
+					}
+				]
+			}
+		},
+		{
+			"name": "McDonnell_Douglas_MD-11",
+			"data": [
+				{
+					"header": "Origins",
+					"text": "Although the MD-11 program was launched in 1986, McDonnell Douglas had started to search for a DC-10 derivative as early as 1976. Two versions were considered then: a DC-10-10 with a fuselage stretch of 40 feet (12 m) and a DC-10-30 stretched by 30 feet (9.1 m). The latter version would have been capable of transporting up to 340 passengers in a multi-class configuration, or 277 passengers and their luggage over 5,300 nautical miles (9,800 km). At the same time, the manufacturer was seeking to reduce wing and engine drag on the trijet. Another version of the aircraft was also envisaged, the \"DC-10 global\", aimed to counter the risks of loss of orders for the DC-10-30 that the Boeing 747SP and its range were causing. The DC-10 global would have incorporated more fuel tanks."
+				},
+				{
+					"header": "Launch and costs",
+					"text": "On December 30, 1986, McDonnell Douglas launched the MD-11 with commitments for 52 firm orders and 40 options in three different versions (passenger, combi and freighter) from ten airlines (Alitalia, British Caledonian, Dragonair, Federal Express, Finnair, Korean Air, Scandinavian Airlines, Swissair, Thai Airways International, and VARIG) and two leasing companies (Guinness Peat Aviation and Mitsui). Orders from Dragonair, Scandinavian and UTA, an undisclosed customer, were canceled by 1988."
+				},
+				{
+					"header": "Proposed tanker version",
+					"text": "After McDonnell Douglas did the KDC-10 conversion for the Royal Netherlands Air Force in 1992, they proposed a tanker/transport version of the MD-11CF which had the in-house designation KMD-11. McDD offered either conversion of second-hand aircraft (KMD-11) or new built aircraft (KC-10B), the proposed KMD-11 offered 35,000 lbs more cargo capacity and 8,400 lbs more transferable fuel than the KC-10A. It was offered to the RNAF and Royal Saudi Air Force (RSAF) in the 1990s and the Royal Australian Air Force (RAAF) in the early 2000s."
+				},
+				{
+					"header": "Accidents and incidents",
+					"text": "As of June 2017, the MD-11 has been involved in 30 aviation incidents, including nine hull-loss accidents with 244 fatalities."
+				},
+				{
+					"header": "Safety problems",
+					"text": "The MD-11 had problems with its flight control systems that have resulted in multiple accidents and incidents since the aircraft's introduction. The initial design of the slat/flap lever in the cockpit left it prone to being accidentally dislodged by a crew in flight. The defect has been corrected since 1992. In the early 2000s, Boeing improved the flight control software at the urging of the FAA to reduce the possibility of violent unintentional pitch movements."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Wide-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "McDonnell Douglas (1988–97) Boeing Commercial Airplanes (1997–2000)"
+				},
+				{
+					"key": "First flight",
+					"value": "January 10, 1990"
+				},
+				{
+					"key": "Introduction",
+					"value": "December 20, 1990 with Finnair"
+				},
+				{
+					"key": "Status",
+					"value": "In cargo service[a]"
+				},
+				{
+					"key": "Primary users",
+					"value": "FedEx ExpressUPS Airlines Western Global Airlines Lufthansa Cargo (historical)"
+				},
+				{
+					"key": "Produced",
+					"value": "1988–2000"
+				},
+				{
+					"key": "Number built",
+					"value": "200"
+				},
+				{
+					"key": "Developed from",
+					"value": "McDonnell Douglas DC-10"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/KLM_McDonnell_Douglas_MD-11_PH-KCK_Ingrid_Bergman.jpg/800px-KLM_McDonnell_Douglas_MD-11_PH-KCK_Ingrid_Bergman.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/MD11_AND_DC10_varig_comparison.jpg/800px-MD11_AND_DC10_varig_comparison.jpg",
+						"desc": "The MD-11 on the left is 202 ft (61.6 m) long and has winglets and a smaller tailplane while the DC-10 on the right is 181.6 ft (55.35 m) long."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/McDonnell_Douglas_MD-11%2C_KLM_Royal_Dutch_Airlines_JP6102340.jpg/800px-McDonnell_Douglas_MD-11%2C_KLM_Royal_Dutch_Airlines_JP6102340.jpg",
+						"desc": "Nine-abreast economy class"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/D-ALCL_%283119122609%29.jpg/800px-D-ALCL_%283119122609%29.jpg",
+						"desc": "The MD-11 has a center engine at the base of the vertical stabilizer, like the DC-10. Additionally, the nacelle has a bulge at the front, similar to the DC-10-40 variant."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Finnair_McDonnell_Douglas_MD-11_%28OH-LGB%29_landing_at_Helsinki-Vantaa_Airport.jpg/800px-Finnair_McDonnell_Douglas_MD-11_%28OH-LGB%29_landing_at_Helsinki-Vantaa_Airport.jpg",
+						"desc": "The first MD-11 was delivered to Finnair on December 7, 1990, and made its first revenue on December 20, 1990."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Cockpit_of_McDonnell_Douglas_MD-11_%285306565461%29.jpg/800px-Cockpit_of_McDonnell_Douglas_MD-11_%285306565461%29.jpg",
+						"desc": "Two-crew glass cockpit"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/McDonnell_Douglas_MD-11%2C_American_Airlines_AN0195051.jpg/800px-McDonnell_Douglas_MD-11%2C_American_Airlines_AN0195051.jpg",
+						"desc": "American Airlines received 19 passenger MD-11s."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/PH-MCT_Martinair_Cargo_%283247988286%29.jpg/800px-PH-MCT_Martinair_Cargo_%283247988286%29.jpg",
+						"desc": "Martinair MD-11CF front section with forward cargo door and windows"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VP-BDR_MD11F_AFL_loading_%284473477269%29_%282%29.jpg/800px-VP-BDR_MD11F_AFL_loading_%284473477269%29_%282%29.jpg",
+						"desc": "Aeroflot MD-11F cargo door loading"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fedex-md11-N525FE-051109-21-16.jpg/800px-Fedex-md11-N525FE-051109-21-16.jpg",
+						"desc": "MD-11 operated by FedEx Express"
+					}
+				]
+			}
+		},
+		{
+			"name": "Yakovlev_Yak-40",
+			"data": [
+				{
+					"header": "Development",
+					"text": "By the early 1960s, Soviet international and internal trunk routes were served by Aeroflot, the state airline, using jet or turboprop powered airliners, but their local services, many of which operated from grass airfields, were served by obsolete piston-engine aircraft such as the Ilyushin Il-12, Il-14 and Lisunov Li-2. Aeroflot wanted to replace these elderly airliners with a turbine-powered aircraft, with the Yakovlev design bureau being assigned to design it. High speed was not required, but it would have to be able to operate safely and reliably out of poorly equipped airports with short (less than 700 m or 2,300 ft) unpaved runways in poor weather."
+				},
+				{
+					"header": "Operational history",
+					"text": "The first of five prototypes made its maiden flight on 21 October 1966, with production being launched at the Saratov Aviation Plant in 1967 and Soviet type certification granted in 1968. The type carried out its first passenger service for Aeroflot on 30 September 1968. In the 1972 version, a tailspin was removed. In 1974, new version was introduced, with non-stop flight distance increased. Also, the forward door on the right side of the fuselage changed its place – it was located together with the sixth window.[citation needed]"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Regional jet/ VIP transportType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "Soviet Union"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Yakovlev"
+				},
+				{
+					"key": "First flight",
+					"value": "October 21, 1966"
+				},
+				{
+					"key": "Introduction",
+					"value": "September 1968 (Aeroflot)"
+				},
+				{
+					"key": "Status",
+					"value": "In service"
+				},
+				{
+					"key": "Primary users",
+					"value": "Motor Sich AirlinesVologda Aviation Enterprise Aeroflot (former)"
+				},
+				{
+					"key": "Produced",
+					"value": "1967–1981"
+				},
+				{
+					"key": "Number built",
+					"value": "1,011 (according to some sources, 1,013)[which?]"
+				},
+				{
+					"key": "Developed into",
+					"value": "Yakovlev Yak-42"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg/800px-Yakovlev_Yak-40%2C_Centr_Ug_JP7586206.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9840259%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%92%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%BE_RP6897.jpg",
+						"desc": "Bucket thrust reverser on the center engine"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg/800px-%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%AF%D0%BA-40_9721354%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP3113.jpg",
+						"desc": "Cockpit of a Yak-40"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yak-40_RA-87500_%2815627516007%29.jpg/800px-Yak-40_RA-87500_%2815627516007%29.jpg",
+						"desc": "Rear view of the aircraft, showing the rear integrated airstairs"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eesti_Lennundusmuuseum._JAK-40_salong.jpg/800px-Eesti_Lennundusmuuseum._JAK-40_salong.jpg",
+						"desc": "Interior photosphere of the VIP variant of the Yak-40, located at the Estonian Aviation Museum.(view as a 360° interactive panorama)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg/800px-Yakovlev_Yak-40_%28RA-87226_%28cn_9841459%29_Tulpar_Air%29.jpg",
+						"desc": "YK-40 business aircraft interior"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yakovlev_Yak-40_HA-LRA_cabin.jpg/800px-Yakovlev_Yak-40_HA-LRA_cabin.jpg",
+						"desc": "Three-abreast seating configuration of the Yak-40"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/RA-88296_Yak40_Severstal_%286679463821%29.jpg/800px-RA-88296_Yak40_Severstal_%286679463821%29.jpg",
+						"desc": "Yak-40 during takeoff"
 					}
 				]
 			}
@@ -5988,58 +6192,6 @@
 			}
 		},
 		{
-			"name": "Shanghai_Y-10",
-			"data": [
-				{
-					"header": "History",
-					"text": "Development work, given code name 708, began in Shanghai in August, 1970 for Civil Aviation Administration of China (CAAC).  The plane was intended to serve as a demonstrator and help the Chinese industry obtain experience in large aircraft design and flight testing.  The Y-10 development costs totalled 537.7 million yuan. The Chinese government prided itself on the program, citing a Reuters report which said, \"After developing this kind of highly complex technology, one could no longer regard China as a backward country.\" The project was heavily tainted by politics from the beginning because it was spearheaded by Wang Hongwen, one of the Gang of Four. The guiding philosophy during the 1980s the political-economic reforms and opening up which emphasizes importing technology from the west and exporting low-end goods diverted resources from domestic high-tech manufacturing and R&D.  The strategic vision of an independently developed large transport plane had long been voiced by Mao Zedong and, in 2006, a similar project with updated design goals made its way into the Eleventh Five-Year Plan, periodic strategic socio-economical development plans drawn up by the Chinese government."
-				},
-				{
-					"header": "Specifications (Y-10)",
-					"text": "Data from Chinese Aircraft:China's aviation industry since 1951"
-				},
-				{
-					"header": "Further reading",
-					"text": "Taylor, W. R. (Ed.).  Jane's All the World's Aircraft, 1980–81.  (London: Jane's Publishing Company), pp. 40 ff."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Shanghai Aircraft Manufacturing Factory"
-				},
-				{
-					"key": "Designer",
-					"value": "Shanghai Aircraft Research Institute"
-				},
-				{
-					"key": "First flight",
-					"value": "26 September 1980"
-				},
-				{
-					"key": "Number built",
-					"value": "3"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Y-10-6.jpg/800px-Y-10-6.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shanghai_Y-10_model.jpg/800px-Shanghai_Y-10_model.jpg",
-						"desc": "Model"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Y-10-7.jpg/800px-Y-10-7.jpg",
-						"desc": "Commemorative plaque"
-					}
-				]
-			}
-		},
-		{
 			"name": "Tupolev_Tu-104",
 			"data": [
 				{
@@ -6131,6 +6283,58 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Soviet_Union_1969_CPA_3832_stamp_%28Airplane_Tupolev_Tu-104%2C_1955._Pegasus%29.jpg/800px-The_Soviet_Union_1969_CPA_3832_stamp_%28Airplane_Tupolev_Tu-104%2C_1955._Pegasus%29.jpg",
 						"desc": "Tu-104 on 1969 Soviet stamp"
+					}
+				]
+			}
+		},
+		{
+			"name": "Shanghai_Y-10",
+			"data": [
+				{
+					"header": "History",
+					"text": "Development work, given code name 708, began in Shanghai in August, 1970 for Civil Aviation Administration of China (CAAC).  The plane was intended to serve as a demonstrator and help the Chinese industry obtain experience in large aircraft design and flight testing.  The Y-10 development costs totalled 537.7 million yuan. The Chinese government prided itself on the program, citing a Reuters report which said, \"After developing this kind of highly complex technology, one could no longer regard China as a backward country.\" The project was heavily tainted by politics from the beginning because it was spearheaded by Wang Hongwen, one of the Gang of Four. The guiding philosophy during the 1980s the political-economic reforms and opening up which emphasizes importing technology from the west and exporting low-end goods diverted resources from domestic high-tech manufacturing and R&D.  The strategic vision of an independently developed large transport plane had long been voiced by Mao Zedong and, in 2006, a similar project with updated design goals made its way into the Eleventh Five-Year Plan, periodic strategic socio-economical development plans drawn up by the Chinese government."
+				},
+				{
+					"header": "Specifications (Y-10)",
+					"text": "Data from Chinese Aircraft:China's aviation industry since 1951"
+				},
+				{
+					"header": "Further reading",
+					"text": "Taylor, W. R. (Ed.).  Jane's All the World's Aircraft, 1980–81.  (London: Jane's Publishing Company), pp. 40 ff."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Shanghai Aircraft Manufacturing Factory"
+				},
+				{
+					"key": "Designer",
+					"value": "Shanghai Aircraft Research Institute"
+				},
+				{
+					"key": "First flight",
+					"value": "26 September 1980"
+				},
+				{
+					"key": "Number built",
+					"value": "3"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Y-10-6.jpg/800px-Y-10-6.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Shanghai_Y-10_model.jpg/800px-Shanghai_Y-10_model.jpg",
+						"desc": "Model"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Y-10-7.jpg/800px-Y-10-7.jpg",
+						"desc": "Commemorative plaque"
 					}
 				]
 			}
@@ -6431,6 +6635,90 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Le_Bourget_1973_en.jpg/800px-Le_Bourget_1973_en.jpg",
 						"desc": "Flight profile of Tu-144 and Mirage IIIR"
+					}
+				]
+			}
+		},
+		{
+			"name": "Convair_990_Coronado",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "American Airlines asked Convair to design an aircraft for coast-to-coast flights, able to fly nonstop from New York City to Los Angeles against the wind. They wanted a larger passenger capacity than the 880, which was the smallest of the first-generation U.S. jet airliners. It was known as the Convair 600 and was redesignated the Convair 990 in the month of its first flight. The 990 began flight testing on January 24, 1961."
+				},
+				{
+					"header": "Operational history",
+					"text": "The 990 did not meet the specifications promised, and American Airlines reduced its order as a result. The 990A was developed by adding fairings to the engine nacelles, among other changes. Despite the modifications from the basic 880 and those in response to drag problems in testing, the aircraft never lived up to its promise of coast-to-coast nonstop capability from JFK to LAX. American Airlines' timetables show little or no difference in scheduled time between 707 and 990A flights.[original research?] AA began to dispose of its 990As in 1967.[citation needed]"
+				},
+				{
+					"header": "Specifications (Convair 990A)",
+					"text": "Data from Jane's All the World's Aircraft 1965-66"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Narrow-body jet airlinerType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Convair"
+				},
+				{
+					"key": "First flight",
+					"value": "January 24, 1961"
+				},
+				{
+					"key": "Introduction",
+					"value": "1962"
+				},
+				{
+					"key": "Retired",
+					"value": "September 1987 (1994 with NASA)"
+				},
+				{
+					"key": "Status",
+					"value": "Retired"
+				},
+				{
+					"key": "Primary users",
+					"value": "American AirlinesSpantaxSwissair"
+				},
+				{
+					"key": "Produced",
+					"value": "1961–1963"
+				},
+				{
+					"key": "Number built",
+					"value": "37"
+				},
+				{
+					"key": "Developed from",
+					"value": "Convair 880"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Swissair_Convair_990_in_flight.jpg/800px-Swissair_Convair_990_in_flight.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg/800px-Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg",
+						"desc": "Swissair 990A Coronado \"St Gallen\" at Manchester Airport in 1964"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Interior_of_Convair_990_operated_by_Swissair.jpg/800px-Interior_of_Convair_990_operated_by_Swissair.jpg",
+						"desc": "Interior of a Convair 990 operated by Swissair now on public display in the Swiss Museum of Transport, the Verkehrshaus der Schweiz in Luzern"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Convair_990_on_ramp_EC92-05275-30.jpg/800px-Convair_990_on_ramp_EC92-05275-30.jpg",
+						"desc": "NASA Convair 990. This aircraft has been retired, and is now on display at the entrance to the Mojave Spaceport."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif/lossy-page1-800px-Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif.jpg",
+						"desc": "A Convair 990 (right, with distinctive anti-shock bodies) and a competing Douglas DC-8 (left, engine cowlings open)"
 					}
 				]
 			}
@@ -6792,90 +7080,6 @@
 			}
 		},
 		{
-			"name": "Convair_990_Coronado",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "American Airlines asked Convair to design an aircraft for coast-to-coast flights, able to fly nonstop from New York City to Los Angeles against the wind. They wanted a larger passenger capacity than the 880, which was the smallest of the first-generation U.S. jet airliners. It was known as the Convair 600 and was redesignated the Convair 990 in the month of its first flight. The 990 began flight testing on January 24, 1961."
-				},
-				{
-					"header": "Operational history",
-					"text": "The 990 did not meet the specifications promised, and American Airlines reduced its order as a result. The 990A was developed by adding fairings to the engine nacelles, among other changes. Despite the modifications from the basic 880 and those in response to drag problems in testing, the aircraft never lived up to its promise of coast-to-coast nonstop capability from JFK to LAX. American Airlines' timetables show little or no difference in scheduled time between 707 and 990A flights.[original research?] AA began to dispose of its 990As in 1967.[citation needed]"
-				},
-				{
-					"header": "Specifications (Convair 990A)",
-					"text": "Data from Jane's All the World's Aircraft 1965-66"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Narrow-body jet airlinerType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Convair"
-				},
-				{
-					"key": "First flight",
-					"value": "January 24, 1961"
-				},
-				{
-					"key": "Introduction",
-					"value": "1962"
-				},
-				{
-					"key": "Retired",
-					"value": "September 1987 (1994 with NASA)"
-				},
-				{
-					"key": "Status",
-					"value": "Retired"
-				},
-				{
-					"key": "Primary users",
-					"value": "American AirlinesSpantaxSwissair"
-				},
-				{
-					"key": "Produced",
-					"value": "1961–1963"
-				},
-				{
-					"key": "Number built",
-					"value": "37"
-				},
-				{
-					"key": "Developed from",
-					"value": "Convair 880"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Swissair_Convair_990_in_flight.jpg/800px-Swissair_Convair_990_in_flight.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg/800px-Convair_990A_HB-ICC_Swissair_Ringway_07.64_edited-3.jpg",
-						"desc": "Swissair 990A Coronado \"St Gallen\" at Manchester Airport in 1964"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Interior_of_Convair_990_operated_by_Swissair.jpg/800px-Interior_of_Convair_990_operated_by_Swissair.jpg",
-						"desc": "Interior of a Convair 990 operated by Swissair now on public display in the Swiss Museum of Transport, the Verkehrshaus der Schweiz in Luzern"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Convair_990_on_ramp_EC92-05275-30.jpg/800px-Convair_990_on_ramp_EC92-05275-30.jpg",
-						"desc": "NASA Convair 990. This aircraft has been retired, and is now on display at the entrance to the Mojave Spaceport."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif/lossy-page1-800px-Swissair_Douglas_DC-8_and_Convair_CV-990_at_Z%C3%BCrich_from_above.tif.jpg",
-						"desc": "A Convair 990 (right, with distinctive anti-shock bodies) and a competing Douglas DC-8 (left, engine cowlings open)"
-					}
-				]
-			}
-		},
-		{
 			"name": "Hawker_Siddeley_Trident",
 			"data": [
 				{
@@ -7148,58 +7352,6 @@
 			}
 		},
 		{
-			"name": "Baade_152",
-			"data": [
-				{
-					"header": "Background",
-					"text": "Following the end of the Second World War in Europe, Germany was divided into West Germany and East Germany. In the East, the Soviet Union became politically dominant over the region; Soviet officials sought to obtain all possible aerospace-related material in East Germany, the engineers and scientists associated with such projects were deported to the Soviet Union. During October 1946, it was announced that all East German aerospace-related projects would be transferred to the Soviet Union, while material that could not be transferred was deliberately destroyed. Following the formation of German Democratic Republic during 1949, many of the deported German scientists were allowed to return to East Germany and to practice their professions once more."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "AirlinerType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "VEB Flugzeugwerke Dresden"
-				},
-				{
-					"key": "First flight",
-					"value": "4 December 1958"
-				},
-				{
-					"key": "Retired",
-					"value": "1961"
-				},
-				{
-					"key": "Status",
-					"value": "Development terminated, never entered service"
-				},
-				{
-					"key": "Primary user",
-					"value": "Deutsche Lufthansa (Intended)"
-				},
-				{
-					"key": "Number built",
-					"value": "2 flight prototypes + 1 completed that never flew. Several abandoned while under construction."
-				},
-				{
-					"key": "Developed from",
-					"value": "OKB-1 150"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bundesarchiv_Bild_183-54953-0004%2C_Flugzeugwerk_Dresden%2C_Flugzeug_152.jpg/800px-Bundesarchiv_Bild_183-54953-0004%2C_Flugzeugwerk_Dresden%2C_Flugzeug_152.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Deutsche-lufthansa-152.jpg/800px-Deutsche-lufthansa-152.jpg",
-						"desc": "Toy of the 152 in the livery of the East German Deutsche Lufthansa"
-					}
-				]
-			}
-		},
-		{
 			"name": "Boeing_720",
 			"data": [
 				{
@@ -7359,6 +7511,58 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Avro_Canada_C102_Jetliner_model.jpg/800px-Avro_Canada_C102_Jetliner_model.jpg",
 						"desc": "Model of the C102"
+					}
+				]
+			}
+		},
+		{
+			"name": "Baade_152",
+			"data": [
+				{
+					"header": "Background",
+					"text": "Following the end of the Second World War in Europe, Germany was divided into West Germany and East Germany. In the East, the Soviet Union became politically dominant over the region; Soviet officials sought to obtain all possible aerospace-related material in East Germany, the engineers and scientists associated with such projects were deported to the Soviet Union. During October 1946, it was announced that all East German aerospace-related projects would be transferred to the Soviet Union, while material that could not be transferred was deliberately destroyed. Following the formation of German Democratic Republic during 1949, many of the deported German scientists were allowed to return to East Germany and to practice their professions once more."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "AirlinerType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "VEB Flugzeugwerke Dresden"
+				},
+				{
+					"key": "First flight",
+					"value": "4 December 1958"
+				},
+				{
+					"key": "Retired",
+					"value": "1961"
+				},
+				{
+					"key": "Status",
+					"value": "Development terminated, never entered service"
+				},
+				{
+					"key": "Primary user",
+					"value": "Deutsche Lufthansa (Intended)"
+				},
+				{
+					"key": "Number built",
+					"value": "2 flight prototypes + 1 completed that never flew. Several abandoned while under construction."
+				},
+				{
+					"key": "Developed from",
+					"value": "OKB-1 150"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Bundesarchiv_Bild_183-54953-0004%2C_Flugzeugwerk_Dresden%2C_Flugzeug_152.jpg/800px-Bundesarchiv_Bild_183-54953-0004%2C_Flugzeugwerk_Dresden%2C_Flugzeug_152.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Deutsche-lufthansa-152.jpg/800px-Deutsche-lufthansa-152.jpg",
+						"desc": "Toy of the 152 in the livery of the East German Deutsche Lufthansa"
 					}
 				]
 			}

@@ -1,5 +1,5 @@
 {
-	"count": 136,
+	"count": 142,
 	"data": [
 		{
 			"name": "Nano_Hummingbird",
@@ -65,58 +65,6 @@
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Nonlethal_weaponized_RQ-151_Pointer_in_flight.jpg/800px-Nonlethal_weaponized_RQ-151_Pointer_in_flight.jpg",
 				"other": []
-			}
-		},
-		{
-			"name": "AeroVironment_RQ-20_Puma",
-			"data": [
-				{
-					"header": "Configuration",
-					"text": "Each military RQ-20A system has three air vehicles and two ground stations. The Puma AE can operate under extreme weather conditions including temperatures ranging from −20 to 120 °F (−29 to 49 °C), wind speeds up to 25 knots (29 mph; 46 km/h), and an inch of rain per hour (2.54 cm/h). It had a reported top speed of 45 miles per hour, a range of 10+ miles and an endurance time of more than 2 hours. The drone carries an array of sensors, including a times-fifty optical zoom, to live-stream video back to its ground station."
-				},
-				{
-					"header": "History",
-					"text": "In 2008 it was selected for the United States Special Operations Command. In March 2012 the United States Army ordered the Puma All Environment (AE) and designated it the RQ-20A. In April, the United States Marine Corps and United States Air Force placed a similar order for the RQ-20A."
-				},
-				{
-					"header": "Specifications",
-					"text": "Data from  Puma AE data sheet"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Remote controlled UASType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "AeroVironment"
-				},
-				{
-					"key": "First flight",
-					"value": "2007"
-				},
-				{
-					"key": "Introduction",
-					"value": "2008"
-				},
-				{
-					"key": "Primary users",
-					"value": "United States ArmyUnited States Marine CorpsUnited States Air Force"
-				},
-				{
-					"key": "Number built",
-					"value": "+ 1,000"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/U_S_Marine_Corps_RQ-20_Puma_4-M-DE476-005_JPEG.jpg/800px-U_S_Marine_Corps_RQ-20_Puma_4-M-DE476-005_JPEG.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paratroopers_launch_packable_drone_DVIDS615590.jpg/800px-Paratroopers_launch_packable_drone_DVIDS615590.jpg",
-						"desc": "A U.S. soldier launches a RQ-20 by hand"
-					}
-				]
 			}
 		},
 		{
@@ -268,6 +216,58 @@
 			}
 		},
 		{
+			"name": "AeroVironment_RQ-20_Puma",
+			"data": [
+				{
+					"header": "Configuration",
+					"text": "Each military RQ-20A system has three air vehicles and two ground stations. The Puma AE can operate under extreme weather conditions including temperatures ranging from −20 to 120 °F (−29 to 49 °C), wind speeds up to 25 knots (29 mph; 46 km/h), and an inch of rain per hour (2.54 cm/h). It had a reported top speed of 45 miles per hour, a range of 10+ miles and an endurance time of more than 2 hours. The drone carries an array of sensors, including a times-fifty optical zoom, to live-stream video back to its ground station."
+				},
+				{
+					"header": "History",
+					"text": "In 2008 it was selected for the United States Special Operations Command. In March 2012 the United States Army ordered the Puma All Environment (AE) and designated it the RQ-20A. In April, the United States Marine Corps and United States Air Force placed a similar order for the RQ-20A."
+				},
+				{
+					"header": "Specifications",
+					"text": "Data from  Puma AE data sheet"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Remote controlled UASType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "AeroVironment"
+				},
+				{
+					"key": "First flight",
+					"value": "2007"
+				},
+				{
+					"key": "Introduction",
+					"value": "2008"
+				},
+				{
+					"key": "Primary users",
+					"value": "United States ArmyUnited States Marine CorpsUnited States Air Force"
+				},
+				{
+					"key": "Number built",
+					"value": "+ 1,000"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/U_S_Marine_Corps_RQ-20_Puma_4-M-DE476-005_JPEG.jpg/800px-U_S_Marine_Corps_RQ-20_Puma_4-M-DE476-005_JPEG.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Paratroopers_launch_packable_drone_DVIDS615590.jpg/800px-Paratroopers_launch_packable_drone_DVIDS615590.jpg",
+						"desc": "A U.S. soldier launches a RQ-20 by hand"
+					}
+				]
+			}
+		},
+		{
 			"name": "American_Dynamics_AD-150",
 			"data": [
 				{
@@ -291,6 +291,37 @@
 			],
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mockup_of_American_Dynamics_AD-150_tiltfan_UAV.jpg/800px-Mockup_of_American_Dynamics_AD-150_tiltfan_UAV.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "Alliant_RQ-6_Outrider",
+			"data": [
+				{
+					"header": "Specifications",
+					"text": "Data from GlobalSecurity.org, UAV Annual Report FY 1996"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Remote controlled UAVType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Alliant Techsystems"
+				},
+				{
+					"key": "Primary users",
+					"value": "United States Marine CorpsUnited States Army, United States Navy"
+				},
+				{
+					"key": "Produced",
+					"value": "1996–1999"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alliant_RQ-6A_%288-22-2022%29.jpg/800px-Alliant_RQ-6A_%288-22-2022%29.jpg",
 				"other": []
 			}
 		},
@@ -357,38 +388,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/The_Albatross_UAV.jpg/800px-The_Albatross_UAV.jpg",
-				"other": []
-			}
-		},
-		{
-			"name": "Alliant_RQ-6_Outrider",
-			"data": [
-				{
-					"header": "Specifications",
-					"text": "Data from GlobalSecurity.org, UAV Annual Report FY 1996"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Remote controlled UAVType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Alliant Techsystems"
-				},
-				{
-					"key": "Primary users",
-					"value": "United States Marine CorpsUnited States Army, United States Navy"
-				},
-				{
-					"key": "Produced",
-					"value": "1996–1999"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Alliant_RQ-6A_%288-22-2022%29.jpg/800px-Alliant_RQ-6A_%288-22-2022%29.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Applied_Aeronautics.png/800px-Applied_Aeronautics.png",
 				"other": []
 			}
 		},
@@ -833,6 +833,37 @@
 			}
 		},
 		{
+			"name": "BAE_Systems_SkyEye",
+			"data": [
+				{
+					"header": "References",
+					"text": "This article contains material that originally came from the web article Unmanned Aerial Vehicles by Greg Goebel, which exists in the Public Domain."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Reconnaissance UAVType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States, United Kingdom"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Developmental Sciences Inc, BAE Systems, McDonnell Douglas"
+				},
+				{
+					"key": "First flight",
+					"value": "1973"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SkyEye_drone.png/800px-SkyEye_drone.png",
+				"other": []
+			}
+		},
+		{
 			"name": "BAE_Systems_Silver_Fox",
 			"data": [
 				{
@@ -870,37 +901,6 @@
 						"desc": "St. Inigoes, Md – A Silver Fox UAV and its operator's station on display at the 2005 Naval UAV Air Demo held at the Webster Field Annex of Naval Air Station Patuxent River."
 					}
 				]
-			}
-		},
-		{
-			"name": "BAE_Systems_SkyEye",
-			"data": [
-				{
-					"header": "References",
-					"text": "This article contains material that originally came from the web article Unmanned Aerial Vehicles by Greg Goebel, which exists in the Public Domain."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Reconnaissance UAVType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States, United Kingdom"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Developmental Sciences Inc, BAE Systems, McDonnell Douglas"
-				},
-				{
-					"key": "First flight",
-					"value": "1973"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SkyEye_drone.png/800px-SkyEye_drone.png",
-				"other": []
 			}
 		},
 		{
@@ -1160,134 +1160,6 @@
 			}
 		},
 		{
-			"name": "Northrop_Grumman_RQ-4_Global_Hawk",
-			"data": [
-				{
-					"header": "Cost increases and procurement",
-					"text": "Development cost overruns placed the Global Hawk at risk of cancellation. In mid-2006, per-unit costs were 25% over baseline estimates, caused by both the need to correct design deficiencies as well as to increase its capabilities. This caused concern over a possible congressional termination of the program if its national security benefits could not be justified. However, in June 2006, the program was restructured. Completion of an operational assessment report by the USAF was delayed from 2005 to 2007 due to manufacturing and development delays. The operational assessment report was released in March 2007 and production of the 54 air vehicles planned was extended by two years to 2015."
-				},
-				{
-					"header": "Universal Payload Adapter and new payloads",
-					"text": "In January 2014, President Obama signed a budget that included a $10 million (~$11.4 million in 2021) study on adapting the U-2's superior sensors for the RQ-4. In April 2015, Northrop Grumman reportedly installed the U-2's Optical Bar Camera (OBC) and Senior Year Electro-Optical Reconnaissance System (SYERS-2B/C) sensors onto the RQ-4 using a Universal Payload Adapter (UPA). Successful testing indicated that all RQ-4s could be similarly retrofitted."
-				},
-				{
-					"header": "Range Hawk",
-					"text": "Although the Global Hawk is being retired from combat use, the Department of Defense's Test Resource Management Center (TRMC) is acquiring them to support the SkyRange program to test hypersonic missiles by 2024. Tests are currently monitored by ships, but it can take a ship 21 days to be positioned and outfitted for use, limiting flights to about a dozen airborne demonstrations a year. By using unmanned aircraft to track hypersonic systems, faster availability and deployment could support a test rate of up to one per week. To perform this new mission, the Global Hawk is retrofitted into the Range Hawk, which involves configuring it to look up rather than down by repositioning onboard avionics and installing new sensors and instrumentation suites to track an overhead hypersonic vehicle. The program will use four Block 20 and 20 Block 30 airframes retired from USAF service."
-				},
-				{
-					"header": "Overview",
-					"text": "The Global Hawk UAV system comprises the RQ-4 air vehicle, which is outfitted with various equipment such as sensor packages and communication systems; and a ground element consisting of a Launch and Recovery Element (LRE), and a Mission Control Element (MCE) with ground communications equipment. Each RQ-4 air vehicle is powered by an Allison Rolls-Royce AE3007H turbofan engine with 7,050 lbf (31.4 kN) thrust, and carries a payload of 2,000 pounds (910 kilograms). The fuselage uses aluminum, semi-monocoque construction with a V-tail; the wings are made of composite materials."
-				},
-				{
-					"header": "System and ground facilities",
-					"text": "Raytheon's Integrated Sensor Suite (ISS) consists of the following sensors:"
-				},
-				{
-					"header": "Visible light/infrared",
-					"text": "The visible and infrared imagers share the same gimballed sensor package, and use common optics, providing a telescopic close-up capability. It can be optionally fitted with an auxiliary SIGINT package.[citation needed]"
-				},
-				{
-					"header": "Records",
-					"text": "On 24 April 2001, a Global Hawk flew non-stop from Edwards AFB to RAAF Base Edinburgh in Australia, making history by being the first pilotless aircraft to cross the Pacific Ocean. The flight took 22 hours, and set a world record for absolute distance flown by a UAV, 13,219.86 kilometers (8,214.44 mi)."
-				},
-				{
-					"header": "South Korea",
-					"text": "In 2011, South Korea's Defense Acquisition Program Administration (DAPA) expressed interest in acquiring at least four RQ-4Bs to increase intelligence capabilities following the exchange of the Wartime Operational Control from the U.S. to the Republic of Korea. Officials debated on the topic of the Global Hawks and domestic UAV programs. In September 2011, the US and South Korea discussed aircraft deployments near its land border to view North Korea and the North Korea–China border."
-				},
-				{
-					"header": "Japan",
-					"text": "On 24 August 2013, Japan announced that the Japan Air Self-Defense Force planned to operate one Global Hawk jointly with the U.S. by 2015.[citation needed] On 21 November 2014, the Japanese Ministry of Defense officially decided to procure the Global Hawk instead of the General Atomics Guardian ER; Japan has also been interested in the purchase of three aircraft. The first Japanese Global Hawk landed at Misawa Air Base on 12 March 2022."
-				},
-				{
-					"header": "Potential operators",
-					"text": "Australia considered the purchase of a number of Global Hawks for maritime and land surveillance. The Global Hawk was to be assessed against the General Atomics MQ-9 Mariner in trials in 2007. The Global Hawk aircraft would have operated in conjunction with crewed Boeing P-8 Poseidon aircraft, as a replacement of aging Lockheed AP-3C Orion aircraft. In the end, the Australian government decided not to proceed and canceled the order. In 2012, a procurement effort for seven UAVs by 2019 was initiated. In May 2013 the Australian government confirmed its interest in acquiring the MQ-4C Triton maritime surveillance variant."
-				},
-				{
-					"header": "Specifications (RQ-4B Block 30/40)",
-					"text": "Data from Northrop Grumman USAF"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Unmanned surveillance and reconnaissance aerial vehicleType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Northrop Grumman"
-				},
-				{
-					"key": "First flight",
-					"value": "28 February 1998"
-				},
-				{
-					"key": "Introduction",
-					"value": "November 2001"
-				},
-				{
-					"key": "Status",
-					"value": "In service"
-				},
-				{
-					"key": "Primary users",
-					"value": "United States Air ForceNASA NATO"
-				},
-				{
-					"key": "Produced",
-					"value": "1998–present"
-				},
-				{
-					"key": "Number built",
-					"value": "42 RQ-4Bs as of FY2013"
-				},
-				{
-					"key": "Developed into",
-					"value": "Northrop Grumman MQ-4C Triton"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/800px-Searchtool.svg.png",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MQ-4C_Triton_flight_testing.jpg/800px-MQ-4C_Triton_flight_testing.jpg",
-						"desc": "The prototype MQ-4C on its first flight"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/RQ-4_Global_Hawk.jpg/800px-RQ-4_Global_Hawk.jpg",
-						"desc": "A maintenance crew preparing a Global Hawk at Beale Air Force Base"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Luftwaffe_99-01_RQ-4B_EuroHawk_ILA_2012_1.jpg/800px-Luftwaffe_99-01_RQ-4B_EuroHawk_ILA_2012_1.jpg",
-						"desc": "EuroHawk at the ILA 2012"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Global_Hawk.jpg/800px-Global_Hawk.jpg",
-						"desc": "The Global Hawk has a high wing aspect ratio for efficiency, a single Rolls-Royce AE 3007 turbofan on top with the exhaust between its V-tail, and a front bulge housing its satellite antenna."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RQ-4_Global_Hawk_photo_of_wildfires_in_Northern_California_-_080805-N-0000X-001.jpg/800px-RQ-4_Global_Hawk_photo_of_wildfires_in_Northern_California_-_080805-N-0000X-001.jpg",
-						"desc": "A photograph taken by US Navy Global Hawk with an aerial view of wildfires in Northern California, 2008"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NASA_Dryden_Global_Hawk.jpg/800px-NASA_Dryden_Global_Hawk.jpg",
-						"desc": "A Global Hawk at NASA's Dryden Flight Research Center"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/16_19_133_global_hawk.jpg/800px-16_19_133_global_hawk.jpg",
-						"desc": "RQ-4A on display at the Museum of Aviation, Robins AFB"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Global_Hawk%2C_NASA%27s_New_Remote-Controlled_Plane_-_October_2009.jpg/800px-Global_Hawk%2C_NASA%27s_New_Remote-Controlled_Plane_-_October_2009.jpg",
-						"desc": "A NASA Global Hawk in flight"
-					}
-				]
-			}
-		},
-		{
 			"name": "Boeing_A160_Hummingbird",
 			"data": [
 				{
@@ -1331,6 +1203,62 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rotor_uav-051121-vcv-01adj-8.jpg/800px-Rotor_uav-051121-vcv-01adj-8.jpg",
 						"desc": "The A160 during ground runs at the Southern California Logistics Airport at Victorville, California"
+					}
+				]
+			}
+		},
+		{
+			"name": "Boeing_Phantom_Eye",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The Phantom Eye was an evolution from Boeing's earlier success with the piston-powered Boeing Condor that set several records for altitude and endurance in the late 1980s. Boeing also studied a larger HALE UAV that can fly for over 10 days and carry payloads of 2,000 pounds (900 kg) or more; the company also worked on the Phantom Ray UAV as a flying testbed for advanced technologies."
+				},
+				{
+					"header": "Museum display",
+					"text": "On 17 August 2016, the Air Force transferred the disassembled Phantom Eye demonstrator for reassembly and refurbishment to be put on display at the Air Force Flight Test Museum.  Boeing had been in talks with military and commercial organizations in hopes of returning the aircraft to service after flight trials had concluded in September 2014 after conducting nine sorties, but did not have success.  The company had hoped to construct a 40% larger version that could stay airborne for 10 days with a 1,000 lb (450 kg) payload or 7 days with a 2,000 lb payload, but the retirement of the prototype leaves that prospect unclear."
+				},
+				{
+					"header": "Design",
+					"text": "The Phantom Eye demonstrator had a 150-foot (46 meter) wingspan. Boeing stated that it could fly for up to four days at a time at altitudes of up to 65,000 feet. Boeing also stated that the Phantom Eye demonstrator was able to carry a 450-pound payload and have a cruising speed of 150 knots. The Phantom Eye carries no armament and is for \"persistent intelligence and surveillance\"."
+				},
+				{
+					"header": "Propulsion",
+					"text": "Each of the two propulsion systems consisted of modified Ford 2.3 liter engines, reduction gearbox, and 4-blade propeller. The engines were originally designed for use with some models of the petrol-burning Ford Fusion car. To be able to run in the oxygen starved atmosphere at 65,000 ft, the engines featured a multiple turbocharger system that compresses that available low density air and reduces the radiated infrared heat signature to increase its stealth properties. The engines, which provided 150 horsepower at sea level, were tuned so as to be able to run on hydrogen. Boeing's marketing department stated that this will make the aircraft economical and \"green\" to run, as the only by-product would be water."
+				},
+				{
+					"header": "Other functions",
+					"text": "Although the primary role of the Phantom Eye was airborne surveillance, Boeing pitched it as a communications relay for the U.S. Navy.  It would have a role in the Navy without taking up space on an aircraft carrier with long-range reconnaissance still provided by the MQ-4C Triton.  A pair of Phantom Eyes, one relieving the other after days of constant flight, could provide the Navy with continuous long range communications."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "High Altitude, Long Endurance Unmanned aerial vehicleType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Boeing"
+				},
+				{
+					"key": "First flight",
+					"value": "June 1, 2012"
+				},
+				{
+					"key": "Status",
+					"value": "Museum piece"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Boeing%27s_Phantom_Eye_lift_off.jpg/800px-Boeing%27s_Phantom_Eye_lift_off.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Photos_of_NASA_employees_moving_the_disassembled_Phantom_Eye_during_a_transfer_from_the_NASA_Armstrong_Flight_Research_Center_%2829396074502%29.jpg/800px-Photos_of_NASA_employees_moving_the_disassembled_Phantom_Eye_during_a_transfer_from_the_NASA_Armstrong_Flight_Research_Center_%2829396074502%29.jpg",
+						"desc": "NASA employees moving the disassembled Phantom Eye across Rogers Dry Lake"
 					}
 				]
 			}
@@ -1512,6 +1440,62 @@
 			}
 		},
 		{
+			"name": "Boeing_X-48",
+			"data": [
+				{
+					"header": "Background",
+					"text": "Boeing had in the past studied a blended wing body design, but found that passengers did not like the theater-like configuration of the mock-up; the design was dropped for passenger airliners, but retained for military aircraft such as aerial refueling tankers.[N 1]"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Experimental unmanned aerial vehicleType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Boeing"
+				},
+				{
+					"key": "First flight",
+					"value": "July 20, 2007"
+				},
+				{
+					"key": "Status",
+					"value": "Retired"
+				},
+				{
+					"key": "Produced",
+					"value": "2"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/X-48B_from_above.jpg/800px-X-48B_from_above.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Edw-2006-X48-061028-01-8.jpg/800px-Edw-2006-X48-061028-01-8.jpg",
+						"desc": "X-48B on static display at the 2006 Edwards Airshow"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/NASA-Boeing_X-48C_before_first_flight_%28cropped%29.jpg/800px-NASA-Boeing_X-48C_before_first_flight_%28cropped%29.jpg",
+						"desc": "The X-48C featuring two engines and inboard vertical stabilizers"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/First_X-48B_flight.jpg/800px-First_X-48B_flight.jpg",
+						"desc": "X-48B on its first flight"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/X-48B_seen_from_left_down.jpg/800px-X-48B_seen_from_left_down.jpg",
+						"desc": "X-48B at first flight as seen from below"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/X-48C_Prototype.jpg/800px-X-48C_Prototype.jpg",
+						"desc": "A three percent scale model of the X-48C in NASA Langley's 12 ft (3.7 m) Low-Speed Tunnel"
+					}
+				]
+			}
+		},
+		{
 			"name": "Boeing_X-50",
 			"data": [
 				{
@@ -1560,6 +1544,82 @@
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/en/8/8d/Boeing_X-50A.jpg",
 				"other": []
+			}
+		},
+		{
+			"name": "Boeing_Insitu_ScanEagle",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "ScanEagle is a descendant of another Insitu UAV, the Insitu SeaScan, which was conceived of as a remote sensor for collecting weather data as well as helping commercial fishermen locate and track schools of tuna. ScanEagle emerged as the result of a strategic alliance between Boeing and Insitu. The resulting technology has been successful as a portable Unmanned Aerial System (UAS) for autonomous surveillance in the battlefield, and has been deployed since August 2004 in the Iraq War."
+				},
+				{
+					"header": "Specifications",
+					"text": "Data from Insitu, USAF, 3W engines"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Unmanned aerial vehicleType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Insitu"
+				},
+				{
+					"key": "First flight",
+					"value": "20 June 2002"
+				},
+				{
+					"key": "Introduction",
+					"value": "2005 (U.S. Navy)"
+				},
+				{
+					"key": "Primary users",
+					"value": "United States NavyUnited States Marine Corps Royal Australian Navy See Operators section for others"
+				},
+				{
+					"key": "Produced",
+					"value": "2002–present"
+				},
+				{
+					"key": "Developed from",
+					"value": "Insitu SeaScan"
+				},
+				{
+					"key": "Developed into",
+					"value": "Boeing Insitu RQ-21 Blackjack"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/US_Navy_1005268-N-RC844-159_A_Scan_Eagle_Unmanned_Aerial_Vehicle_%28UAV%29.jpg/800px-US_Navy_1005268-N-RC844-159_A_Scan_Eagle_Unmanned_Aerial_Vehicle_%28UAV%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MK_V_SOC_launching_ScanEagle.jpg/800px-MK_V_SOC_launching_ScanEagle.jpg",
+						"desc": "Sea-borne launch from a Mark V Special Operations Craft"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ScanEagle_UAV_catapult_launcher_2005-04-16.jpg/800px-ScanEagle_UAV_catapult_launcher_2005-04-16.jpg",
+						"desc": "A ScanEagle in its catapult launcher"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ScanEagle_recovery_on_USS_Oscar_Austin.jpg/800px-ScanEagle_recovery_on_USS_Oscar_Austin.jpg",
+						"desc": "A ScanEagle is recovered at sea aboard the guided-missile destroyer USS Oscar Austin (DDG-79)."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NOAAS_Oscar_Dyson_%28R_224%29_ScanEagle_launch.jpg/800px-NOAAS_Oscar_Dyson_%28R_224%29_ScanEagle_launch.jpg",
+						"desc": "A ScanEagle is launched from NOAAS Oscar Dyson (R 224) in Puget Sound in mid-October 2008."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/ScanEagle_control_vehicle.jpg/800px-ScanEagle_control_vehicle.jpg",
+						"desc": "Royal Malaysian Navy's ScanEagle control vehicle in LIMA 2023"
+					}
+				]
 			}
 		},
 		{
@@ -1866,213 +1926,297 @@
 			}
 		},
 		{
-			"name": "Culver_TDC",
+			"name": "United_Kingdom",
 			"data": [
 				{
-					"header": "Design and development",
-					"text": "The aircraft designer Al Mooney developed an improved version of the Culver Dart, to provide improved performance with a smaller engine. Originally designated the Culver Model L, the prototype first flew on 2 December 1939. The aircraft was named the Culver Cadet.  Although similar to the previous Dart, the Cadet had a semi-monocoque fuselage instead of welded-steel-tube, and a retractable tailwheel undercarriage. The first variant (the Cadet LCA) was powered by a 75 hp (56 kW) Continental A75-8 four-cylinder horizontally-opposed piston engine."
+					"header": "Topography",
+					"text": "England accounts for 53 per cent of the UK, covering 50,350 square miles (130,395 km2). Most of the country consists of lowland terrain, with upland and mountainous terrain northwest of the Tees–Exe line which roughly divides the UK into lowland and upland areas. Lowland areas include Cornwall, the New Forest, the South Downs and the Norfolk Broads. Upland areas include the Lake District, the Pennines, the Yorkshire Dales, Exmoor, and Dartmoor. The main rivers and estuaries are the Thames, Severn, and the Humber. England's highest mountain is Scafell Pike, at 978 metres (3,209 ft) in the Lake District; its largest island is the Isle of Wight."
 				},
 				{
-					"header": "Operational history",
-					"text": "In 1940, the Cadet LCA was selected by the United States Army Air Corps as being suitable for use as a radio-controlled target. The first aircraft was designated the Culver A-8 (later the XPQ-8) and was based on the Cadet LFA, but had fixed tricycle landing gear. After successful tests, a production order for 200 was placed, and designated the PQ-8. Later, another 200 were ordered with a more powerful engine as the PQ-8A. In late 1941, the United States Navy acquired a PQ-8A for evaluation, and then ordered 200 in 1941 as the TDC-2. An enlarged and improved version was later built as the Culver PQ-14."
+					"header": "Constitutional arrangement",
+					"text": "The UK does not have a codified constitution and constitutional matters are not among the powers devolved to Scotland, Wales or Northern Ireland. Under the doctrine of parliamentary sovereignty, the UK Parliament could, in theory, therefore, abolish the Scottish Parliament, Senedd or Northern Ireland Assembly. In practice, it would be politically difficult for the UK Parliament to abolish devolution to the Scottish Parliament and the Senedd, because these institutions were created by referendum decisions. The political constraints placed upon the UK Parliament's power to interfere with devolution in Northern Ireland are greater still, because devolution in Northern Ireland rests upon an international agreement with the Government of Ireland. The UK Parliament restricts the three devolved parliaments' legislative competence in economic areas through an act passed in 2020."
 				}
 			],
 			"infobox": [
 				{
-					"key": "Role",
-					"value": "Two-seat light monoplaneType of aircraft"
+					"key": "Capitaland largest city",
+					"value": "London.mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}51°30′N 0°7′W﻿ / ﻿51.500°N 0.117°W﻿ / 51.500; -0.117"
 				},
 				{
-					"key": "National origin",
-					"value": "United States"
+					"key": "Official language .mw-parser-output .nobold{font-weight:normal}and national language",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}English (de facto)"
 				},
 				{
-					"key": "Manufacturer",
-					"value": "Culver Aircraft Company"
+					"key": "Regional and minority languages[b]",
+					"value": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\" · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" (\";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:\")\";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter(listitem)\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" (\"counter(listitem)\"\\a0 \"}ScotsUlster ScotsWelshCornishScottish GaelicIrishBritish Sign Language"
 				},
 				{
-					"key": "Designer",
-					"value": "Albert Mooney"
+					"key": "Ethnic groups  (2011)",
+					"value": "87.1% White[c][d]7.0% Asian3.0% Black2.0% Mixed0.9% other"
 				},
 				{
-					"key": "First flight",
-					"value": "1939"
+					"key": "Demonym(s)",
+					"value": "BritishBritonBrit (colloquial)"
 				},
 				{
-					"key": "Number built",
-					"value": "600+"
+					"key": "Constituent countries",
+					"value": "EnglandScotlandWalesNorthern Ireland"
 				},
 				{
-					"key": "Variants",
-					"value": "Culver PQ-14 Cadet"
+					"key": "Government",
+					"value": "Unitary[e] parliamentary constitutional monarchy"
+				},
+				{
+					"key": "• Monarch ",
+					"value": "Charles III"
+				},
+				{
+					"key": "• Prime Minister ",
+					"value": "Rishi Sunak"
+				},
+				{
+					"key": "Legislature",
+					"value": "Parliament"
+				},
+				{
+					"key": "• Upper house",
+					"value": "House of Lords"
+				},
+				{
+					"key": "• Lower house",
+					"value": "House of Commons"
+				},
+				{
+					"key": "• Laws in Wales Acts ",
+					"value": "1535 and 1542"
+				},
+				{
+					"key": "• Union of the Crowns ",
+					"value": "24 March 1603"
+				},
+				{
+					"key": "• Treaty of Union ",
+					"value": "22 July 1706"
+				},
+				{
+					"key": "• Acts of Union of England and Scotland ",
+					"value": "1 May 1707"
+				},
+				{
+					"key": "• Acts of Union of Great Britain and Ireland ",
+					"value": "1 January 1801"
+				},
+				{
+					"key": "• Irish Free State Constitution Act ",
+					"value": "5 December 1922"
+				},
+				{
+					"key": "• Total",
+					"value": "242,495 km2 (93,628 sq mi) (78th)"
+				},
+				{
+					"key": "• Water (%)",
+					"value": "1.51 (2015)"
+				},
+				{
+					"key": "• 2022 estimate",
+					"value": " 66,971,411 (22nd)"
+				},
+				{
+					"key": "• 2011 census",
+					"value": "63,182,178 (22nd)"
+				},
+				{
+					"key": "• Density",
+					"value": "270.7/km2 (701.1/sq mi) (50th)"
+				},
+				{
+					"key": "GDP (PPP)",
+					"value": "2023 estimate"
+				},
+				{
+					"key": "• Total",
+					"value": " $3.872 trillion (9th)"
+				},
+				{
+					"key": "• Per capita",
+					"value": " $56,836 (30th)"
+				},
+				{
+					"key": "GDP (nominal)",
+					"value": "2023 estimate"
+				},
+				{
+					"key": "• Total",
+					"value": " $3.332 trillion (6th)"
+				},
+				{
+					"key": "• Per capita",
+					"value": " $48,913 (23rd)"
+				},
+				{
+					"key": "Gini (2020)",
+					"value": " 35.5medium"
+				},
+				{
+					"key": "HDI (2021)",
+					"value": " 0.929very high · 18th"
+				},
+				{
+					"key": "Currency",
+					"value": "Pound sterling[f] (GBP)"
+				},
+				{
+					"key": "Time zone",
+					"value": "UTC+0 (Greenwich Mean Time, WET)"
+				},
+				{
+					"key": "• Summer (DST)",
+					"value": "UTC+1 (British Summer Time, WEST)"
+				},
+				{
+					"key": "Date format",
+					"value": "dd/mm/yyyyyyyy-mm-dd (AD)"
+				},
+				{
+					"key": "Driving side",
+					"value": "left[h]"
+				},
+				{
+					"key": "Calling code",
+					"value": "+44[i]"
+				},
+				{
+					"key": "ISO 3166 code",
+					"value": "GB"
+				},
+				{
+					"key": "Internet TLD",
+					"value": ".uk[j]"
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Culver_LCA_%28N281W%29.jpg/800px-Culver_LCA_%28N281W%29.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/800px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
 				"other": [
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CC-PDB_Culver_LFA_Cadet_%287322393750%29.jpg/800px-CC-PDB_Culver_LFA_Cadet_%287322393750%29.jpg",
-						"desc": "Culver LFA Cadet at Museo Nacional Aeronáutico y del Espacio, Chile"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bayeux_Tapestry_WillelmDux.jpg/800px-Bayeux_Tapestry_WillelmDux.jpg",
+						"desc": "The Bayeux Tapestry depicts the Battle of Hastings, 1066, and the events leading to it."
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-LARK_%2843059413910%29.jpg/800px-G-LARK_%2843059413910%29.jpg",
-						"desc": "Helton Lark"
-					}
-				]
-			}
-		},
-		{
-			"name": "Northrop_Grumman",
-			"data": [
-				{
-					"header": "Business sectors",
-					"text": "As of the end of 2022, Northrop Grumman organized its business around four main sectors, each of which comprises two or more business areas:"
-				},
-				{
-					"header": "Defense Systems",
-					"text": "The Defense Systems sector headquartered in McLean, Virginia (with a Herndon mailing address,) works on \"the entire life cycle of civil and defense platforms and capabilities through a range of services\". Vinnell, a Northrop Grumman subsidiary, provides training and communications for the military. In 2003, it landed a $48 million contract to train the Iraqi Army. In 2005 the company won a $2 billion contract with Virginia to overhaul most of the state's IT operations. Later that year, the United Kingdom paid $1.2 billion in a contract with the company to provide maintenance of its AWACS radar."
-				},
-				{
-					"header": "Space Systems",
-					"text": "On June 7, 2018, the acquisition of Orbital ATK was completed and the former company was absorbed in Northrop Grumman as a new business sector called Northrop Grumman Innovation Systems. With this acquisition, Northrop Grumman got more involved in the space industry, including the construction and launch of the Cygnus spacecraft. Until 2020 the firm was developing the OmegA space launch vehicle, intended to carry the U.S. government's national security satellites into space."
-				},
-				{
-					"header": "Affiliated companies and partners",
-					"text": "Remotec, a Tennessee-based subsidiary, is a manufacturer of remote control vehicles for explosive ordnance disposal and hazardous material handling. A UK-based subsidiary, Park Air Systems, provides VHF and UHF ground-to-air communications systems for the civil and defense markets. Northrop Grumman has also worked closely with Antenna Associates, Inc., a manufacturer of Identification friend or foe (IFF)/Secondary Surveillance Radar (SSR) antennas located in Massachusetts."
-				},
-				{
-					"header": "1990s",
-					"text": "In 1994, Northrop Aircraft bought Grumman Aerospace, which built the Apollo Lunar Module to create Northrop Grumman (NG) at a cost of $2.1 billion. The company purchased the remaining 51% interest in Vought Aircraft Company (Vought) in August 1994 for $130 million taking full control of the company after it had purchased an initial 49% interest in September 1992 for $45 million.[citation needed]"
-				},
-				{
-					"header": "2010s",
-					"text": "In November 2010, NASA selected Northrop Grumman for consideration of potential contract awards for heavy lift launch vehicle system concepts, and propulsion technologies."
-				},
-				{
-					"header": "2020s",
-					"text": "In June 2020, NASA granted a $935 million contract to Northrop Grumman for the Lunar Gateway Habitation and Logistics Outpost (HALO) module, based on its Cygnus cargo spacecraft. In July 2022, Northrop subcontracted Solstar to provide the wireless-enabling technology to enable a Wi-Fi access for employees and equipment in the module."
-				},
-				{
-					"header": "Corporate governance",
-					"text": "From 1990 to 2003, before the merger with Grumman in 1994, Kent Kresa was the CEO of the company, who led the serial-acquisition strategy with a total of 15 additional acquisitions from 1994 to 2003, including Litton, Logicon, Westinghouse's defense electronics business, Ryan Aeronautical and Newport News Shipbuilding, and TRW. He then retired in 2003 at age 65."
-				},
-				{
-					"header": "Board of directors",
-					"text": "As of July 22, 2022:"
-				},
-				{
-					"header": "Corporate headquarters",
-					"text": "Since 2011, Northrop Grumman's headquarters are in West Falls Church, Virginia (previously Jefferson), unincorporated Fairfax County, Virginia."
-				},
-				{
-					"header": "Accolades and criticism",
-					"text": "Northrop Grumman was named Forbes's Company of the Year in 2002. Forbes's announcement credited the company with \"master[ing] the art of innovation.\" As of 2019, the company is included on Forbes' list of \"America's Best Large Employers\"."
-				},
-				{
-					"header": "Environmental record",
-					"text": "In 2000, Northrop Grumman was designated a Primary Responsible Party under federal Superfund laws at 13 hazardous waste sites and under state Superfund laws at eight sites. The corporation has also been linked to 52 superfund toxic waste sites. Based on 2008 data, Northrop Grumman was the 62nd-largest corporate producer of air pollution in the United States, per the Political Economy Research Institute of the University of Massachusetts Amherst. Northrop Grumman facilities released more than 23,798 pounds of toxic chemicals into the air in that year."
-				},
-				{
-					"header": "Controversies",
-					"text": "In the late 1980s and early 1990s, Northrop was the target of several high-profile criminal and civil cases."
-				},
-				{
-					"header": "International Traffic in Arms Regulations (ITAR) violations",
-					"text": "U.S. State Department investigators found that Litton Industries, a subsidiary acquired by Northrop Grumman in 2000, had provided portions of source code used by guidance and navigation system interfaces aboard Air Force One to a company in Russia in 1998. Northrop Grumman agreed to pay a $15 million fine for 110 violations, occurring between September 1998 and November 1998, of the Arms Export Control Act and the International Traffic in Arms Regulations (ITAR)."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Public"
-				},
-				{
-					"key": "Traded as",
-					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}NYSE: NOCS&P 500 component"
-				},
-				{
-					"key": "Industry",
-					"value": "ArmsAerospace"
-				},
-				{
-					"key": "Predecessor",
-					"value": "Northrop Corporation (1939–1994)Grumman Corporation (1930–1994)"
-				},
-				{
-					"key": "Founded",
-					"value": "1994; 29 years ago (1994)"
-				},
-				{
-					"key": "Headquarters",
-					"value": "West Falls Church, Virginia, United States"
-				},
-				{
-					"key": "Area served",
-					"value": "Worldwide"
-				},
-				{
-					"key": "Key people",
-					"value": "Kathy J. Warden(President and CEO)"
-				},
-				{
-					"key": "Products",
-					"value": "Military aircraft & unmanned aerial vehiclesMilitary vesselsMissiles & missile defense systemsAutocannons, chain guns & munitionsSatellites & spaceInformation technologyElectronic sensors and systemsRocket launch systems"
-				},
-				{
-					"key": "Revenue",
-					"value": " US$36.60 billion (2022)"
-				},
-				{
-					"key": "Operating income",
-					"value": " US$3.60 billion (2022)"
-				},
-				{
-					"key": "Net income",
-					"value": " US$4.90 billion (2022)"
-				},
-				{
-					"key": "Total assets",
-					"value": " US$43.76 billion (2022)"
-				},
-				{
-					"key": "Total equity",
-					"value": " US$15.31 billion (2022)"
-				},
-				{
-					"key": "Number of employees",
-					"value": "c. 95,000 (2022)"
-				},
-				{
-					"key": "Website",
-					"value": "northropgrumman.com"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/800px-Increase2.svg.png",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/B-2_Spirit_-_060530-F-5040D-320.jpg/800px-B-2_Spirit_-_060530-F-5040D-320.jpg",
-						"desc": "Northrop Grumman developed and built the B-2 Spirit strategic bomber."
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Treaty_of_Union.jpg/800px-Treaty_of_Union.jpg",
+						"desc": "The Treaty of Union led to a united kingdom of all of Great Britain."
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Global_Hawk_1.jpg/800px-Global_Hawk_1.jpg",
-						"desc": "RQ-4 Global Hawk, a high-altitude, long-endurance surveillance platform"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/John_Wilson_Carmichael_-_The_opening_engagement_at_Trafalgar%3B_H.M.S._%27Royal_Sovereign%27_raking_the_stern_of_the_Spanish_flagship_%27Santa_Ana%27.jpg/800px-John_Wilson_Carmichael_-_The_opening_engagement_at_Trafalgar%3B_H.M.S._%27Royal_Sovereign%27_raking_the_stern_of_the_Spanish_flagship_%27Santa_Ana%27.jpg",
+						"desc": "The opening engagement at the Battle of Trafalgar, by J.W. Carmichael"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Northrup_Grumman_Mission_Systems_headquarters_in_Linthicum.jpg/800px-Northrup_Grumman_Mission_Systems_headquarters_in_Linthicum.jpg",
-						"desc": "Mission Systems headquarters facility in Linthicum, Maryland"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wreaths_Are_Laid_at_the_Cenotaph%2C_London_During_Remembrance_Sunday_Service_MOD_45152052.jpg/800px-Wreaths_Are_Laid_at_the_Cenotaph%2C_London_During_Remembrance_Sunday_Service_MOD_45152052.jpg",
+						"desc": "Wreaths being laid during the Remembrance Sunday service at the Cenotaph in Whitehall, London"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/P-61bs_on_assembly_line_-_Northrop_-_1944.jpg/800px-P-61bs_on_assembly_line_-_Northrop_-_1944.jpg",
-						"desc": "The assembly line for Northrop P-61 Black Widows at the Northrop plant in Hawthorne, California in World War II. Center wings and fuselages take shape on the left, with more nearly finished airplanes on the right.[32]"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Spitfire_and_Hurricane_in_the_Battle_of_Britain_Memorial_Flight.jpg/800px-Spitfire_and_Hurricane_in_the_Battle_of_Britain_Memorial_Flight.jpg",
+						"desc": "Spitfire and Hurricane as flown in the Battle of Britain during the Second World War"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LRSB_USA_Concept_drawing.jpg/800px-LRSB_USA_Concept_drawing.jpg",
-						"desc": "Northrop-Grumman DARPA Quiet Supersonic Platform (QSP) 2002 concept for a long-range supersonic cruise aircraft with a less intense sonic boom[50]"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/800px-British_Airways_Concorde_G-BOAC_03.jpg",
+						"desc": "Concorde was a supersonic airliner that reduced transatlantic flight time from 8 hours to 3.5 hours.[110]"
 					},
 					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/James_Webb_Space_Telescope_2009_top.jpg/800px-James_Webb_Space_Telescope_2009_top.jpg",
-						"desc": "Rendering of the $8.7B James Webb Space Telescope"
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Greenwich_and_Canary_Wharf_%281%29_-_2022-04-24.jpg/800px-Greenwich_and_Canary_Wharf_%281%29_-_2022-04-24.jpg",
+						"desc": "Canary Wharf, a symbol of the financial reforms initiated by Margaret Thatcher in the 1980s"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brexit_Campaigners_out_side_Parliament_November_2016.jpg/800px-Brexit_Campaigners_out_side_Parliament_November_2016.jpg",
+						"desc": "Pro-Brexit campaigners outside Parliament in London in November 2016, after the Brexit referendum"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/MODIS_-_Great_Britain_and_Northern_Ireland_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/800px-MODIS_-_Great_Britain_and_Northern_Ireland_-_2012-06-04_during_heat_wave_%28cropped%29.jpg",
+						"desc": "Satellite image of the United Kingdom (excluding Shetland)"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palace_of_Westminster%2C_London_-_Feb_2007.jpg/800px-Palace_of_Westminster%2C_London_-_Feb_2007.jpg",
+						"desc": "The Palace of Westminster in London is the seat of both houses of the Parliament of the United Kingdom."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/President_Biden_greets_Prime_Minister_Sunak_of_the_UK_at_the_sidelines_of_the_2022_G-20_Bali_Summit.jpg/800px-President_Biden_greets_Prime_Minister_Sunak_of_the_UK_at_the_sidelines_of_the_2022_G-20_Bali_Summit.jpg",
+						"desc": "UK Prime Minister Rishi Sunak greets US President Joe Biden at the 2022 G-20 Bali Summit."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Middlesex_Guildhall_%28cropped%29.jpg/800px-Middlesex_Guildhall_%28cropped%29.jpg",
+						"desc": "The Supreme Court is the final court of appeal for England, Wales, Northern Ireland and civil cases in Scotland."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/800px-Bank-of-England.jpg",
+						"desc": "The Bank of England is the central bank of the United Kingdom and the model on which most modern central banks have been based."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2019_Aston_Martin_DBS_Superleggera_Volante_5.2.jpg/800px-2019_Aston_Martin_DBS_Superleggera_Volante_5.2.jpg",
+						"desc": "Aston Martin manufacture vehicles in Gaydon, England."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cambridge_Science_Park_Napp.jpg/800px-Cambridge_Science_Park_Napp.jpg",
+						"desc": "Cambridge is the most intensive research cluster for science and technology in the world.[274]"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg/800px-An_LNER_Azuma_train_on_the_East_Coast_Railway_Line%2C_geograph_6275180_by_Walter_Baxter.jpg",
+						"desc": "A high-speed East Coast Main Line train in Northumberland"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Heathrow_Terminal_5C_Iwelumo-1.jpg/800px-Heathrow_Terminal_5C_Iwelumo-1.jpg",
+						"desc": "London has the busiest city airport system in the world."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ardrossan%27s_fan_club._-_panoramio.jpg/800px-Ardrossan%27s_fan_club._-_panoramio.jpg",
+						"desc": "Wind turbines overlooking Ardrossan in Scotland. The UK is one of the best sites in Europe for wind energy, and wind power production is its fastest-growing supply."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Bilingual_welcome_sign_Newry.jpg/800px-Bilingual_welcome_sign_Newry.jpg",
+						"desc": "Bilingual sign (Irish and English) in Newry, Northern Ireland"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Oxford_-_Radcliffe_Square_-_University_Church_of_St_Mary_the_Virgin%2C_Brasenose_College%2C_Radcliffe_Camera_1737-48_by_James_Gibbs%2C_Bodleian_Library_%26_All_Souls_College_04.jpg/800px-thumbnail.jpg",
+						"desc": "University of Oxford is widely regarded as one of the world's leading universities."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QEUH.jpg/800px-QEUH.jpg",
+						"desc": "NHS Scotland's Queen Elizabeth University Hospital in Glasgow, the largest hospital campus in Europe"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Title_page_William_Shakespeare%27s_First_Folio_1623.jpg/800px-Title_page_William_Shakespeare%27s_First_Folio_1623.jpg",
+						"desc": "William Shakespeare's First Folio from 1623; a copy is on display in the British Library."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Royal_Albert_Hall%2C_BBC_Proms_2017.jpg/800px-Royal_Albert_Hall%2C_BBC_Proms_2017.jpg",
+						"desc": "The Proms is a classical music festival held at the Royal Albert Hall which regularly plays music by Edward Elgar and Henry Wood."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Beatles_members_at_New_York_City_in_1964.jpg/800px-The_Beatles_members_at_New_York_City_in_1964.jpg",
+						"desc": "The Beatles are the most commercially successful and critically acclaimed band in popular music, selling over a billion records.[425][426][427]"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Morris_Evenlode_printed_textile.jpg/800px-Morris_Evenlode_printed_textile.jpg",
+						"desc": "William Morris textile design, 1883"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Angel_of_the_North_-_6150534524.jpg/800px-Angel_of_the_North_-_6150534524.jpg",
+						"desc": "The Angel of the North sculpture by Antony Gormley has become a symbol of northern England."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fish%2C_chips_and_mushy_peas.jpg/800px-Fish%2C_chips_and_mushy_peas.jpg",
+						"desc": "Fish and chips, a traditional British dish served with lemon, tartar sauce and mushy peas"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Media_City_Footbridge_and_BBC_Offices_%28geograph_2685261%29.jpg/800px-Media_City_Footbridge_and_BBC_Offices_%28geograph_2685261%29.jpg",
+						"desc": "MediaCityUK in Salford, Greater Manchester is one of the largest media production facilities in Europe."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Old_18th_tee_lr.jpg/800px-Old_18th_tee_lr.jpg",
+						"desc": "Golf originated from the Old Course at St Andrews in Scotland."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Queen_Elizabeth_II_Platinum_Jubilee_2022_-_Platinum_Pageant_%2852123378222%29.jpg/800px-Queen_Elizabeth_II_Platinum_Jubilee_2022_-_Platinum_Pageant_%2852123378222%29.jpg",
+						"desc": "Union Jack flags on The Mall, London"
 					}
 				]
 			}
@@ -2168,6 +2312,62 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Culver_PQ-14_.jpg/800px-Culver_PQ-14_.jpg",
 						"desc": "A PQ-14 under restoration at the Aviation Unmanned Vehicle Museum"
+					}
+				]
+			}
+		},
+		{
+			"name": "Culver_TDC",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The aircraft designer Al Mooney developed an improved version of the Culver Dart, to provide improved performance with a smaller engine. Originally designated the Culver Model L, the prototype first flew on 2 December 1939. The aircraft was named the Culver Cadet.  Although similar to the previous Dart, the Cadet had a semi-monocoque fuselage instead of welded-steel-tube, and a retractable tailwheel undercarriage. The first variant (the Cadet LCA) was powered by a 75 hp (56 kW) Continental A75-8 four-cylinder horizontally-opposed piston engine."
+				},
+				{
+					"header": "Operational history",
+					"text": "In 1940, the Cadet LCA was selected by the United States Army Air Corps as being suitable for use as a radio-controlled target. The first aircraft was designated the Culver A-8 (later the XPQ-8) and was based on the Cadet LFA, but had fixed tricycle landing gear. After successful tests, a production order for 200 was placed, and designated the PQ-8. Later, another 200 were ordered with a more powerful engine as the PQ-8A. In late 1941, the United States Navy acquired a PQ-8A for evaluation, and then ordered 200 in 1941 as the TDC-2. An enlarged and improved version was later built as the Culver PQ-14."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Two-seat light monoplaneType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Culver Aircraft Company"
+				},
+				{
+					"key": "Designer",
+					"value": "Albert Mooney"
+				},
+				{
+					"key": "First flight",
+					"value": "1939"
+				},
+				{
+					"key": "Number built",
+					"value": "600+"
+				},
+				{
+					"key": "Variants",
+					"value": "Culver PQ-14 Cadet"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Culver_LCA_%28N281W%29.jpg/800px-Culver_LCA_%28N281W%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CC-PDB_Culver_LFA_Cadet_%287322393750%29.jpg/800px-CC-PDB_Culver_LFA_Cadet_%287322393750%29.jpg",
+						"desc": "Culver LFA Cadet at Museo Nacional Aeronáutico y del Espacio, Chile"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/G-LARK_%2843059413910%29.jpg/800px-G-LARK_%2843059413910%29.jpg",
+						"desc": "Helton Lark"
 					}
 				]
 			}
@@ -2431,53 +2631,6 @@
 			}
 		},
 		{
-			"name": "Fairchild_BQ-3",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Development of the BQ-3 began in October, 1942, under a program for the development of \"aerial torpedoes\", later and more commonly referred to as \"assault drones\", that had been instigated in March of that year. Fairchild was awarded a contract for the construction of two XBQ-3 prototypes, based largely on the AT-21 Gunner advanced gunnery trainer already in United States Army Air Forces service."
-				},
-				{
-					"header": "Flight testing",
-					"text": "The first flight of the XBQ-3 took place in July 1944; later that month, one of the prototypes was severely damaged in a forced landing. Despite the accident, flight testing continued; however, the assault drone was determined to have no significant advantage over conventional bombers, and advances in the field of guided missiles were rapidly rendering the concept obsolete. As a result, the program was cancelled towards the end of 1944."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Flying bombType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Fairchild Aircraft"
-				},
-				{
-					"key": "First flight",
-					"value": "July 1944"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Army Air Forces"
-				},
-				{
-					"key": "Number built",
-					"value": "2"
-				},
-				{
-					"key": "Developed from",
-					"value": "AT-21 Gunner"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fairchild_XBQ-3.jpg/800px-Fairchild_XBQ-3.jpg",
-				"other": []
-			}
-		},
-		{
 			"name": "Facebook_Aquila",
 			"data": [
 				{
@@ -2525,6 +2678,53 @@
 			],
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Facebook_Aquila_drone_in_flight.jpg/800px-Facebook_Aquila_drone_in_flight.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "Fairchild_BQ-3",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Development of the BQ-3 began in October, 1942, under a program for the development of \"aerial torpedoes\", later and more commonly referred to as \"assault drones\", that had been instigated in March of that year. Fairchild was awarded a contract for the construction of two XBQ-3 prototypes, based largely on the AT-21 Gunner advanced gunnery trainer already in United States Army Air Forces service."
+				},
+				{
+					"header": "Flight testing",
+					"text": "The first flight of the XBQ-3 took place in July 1944; later that month, one of the prototypes was severely damaged in a forced landing. Despite the accident, flight testing continued; however, the assault drone was determined to have no significant advantage over conventional bombers, and advances in the field of guided missiles were rapidly rendering the concept obsolete. As a result, the program was cancelled towards the end of 1944."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Flying bombType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Fairchild Aircraft"
+				},
+				{
+					"key": "First flight",
+					"value": "July 1944"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Army Air Forces"
+				},
+				{
+					"key": "Number built",
+					"value": "2"
+				},
+				{
+					"key": "Developed from",
+					"value": "AT-21 Gunner"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Fairchild_XBQ-3.jpg/800px-Fairchild_XBQ-3.jpg",
 				"other": []
 			}
 		},
@@ -2872,7 +3072,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/DARPA_HQ_%2852368078715%29.jpg/800px-DARPA_HQ_%2852368078715%29.jpg",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/DARPA_Logo_2010.png/800px-DARPA_Logo_2010.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/DARPA_headquarters.jpg/800px-DARPA_headquarters.jpg",
@@ -3178,7 +3378,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/USNavyCommissionPennant.svg/800px-USNavyCommissionPennant.svg.png",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/800px-Emblem_of_the_United_States_Navy.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/USS_Constitution_vs_Guerriere.jpg/800px-USS_Constitution_vs_Guerriere.jpg",
@@ -3259,113 +3459,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/US_Navy_050112-N-5345W-074_Aviation_Ordnancemen_prepare_to_load_500-pound_laser_guided_bombs_%28GBU-12%29_onto_weapon_pylons_under_an_F-14B_Tomcat.jpg/800px-US_Navy_050112-N-5345W-074_Aviation_Ordnancemen_prepare_to_load_500-pound_laser_guided_bombs_%28GBU-12%29_onto_weapon_pylons_under_an_F-14B_Tomcat.jpg",
 						"desc": "Aviation Ordnancemen loading GBU-12 bombs in 2005"
-					}
-				]
-			}
-		},
-		{
-			"name": "Global_Observer",
-			"data": [
-				{
-					"header": "JCTD program",
-					"text": "The Global Observer Joint Capabilities Technology Demonstration (JCTD) program had the goal of helping solve the capability gap in persistent ISR and communications relay for the US military and homeland security.  The Global Observer JCTD demonstrated a new stratospheric, extreme endurance UAS that could be transitioned for post-JCTD development, extended user evaluation, and fielding.  The program was a joint effort with the U.S. Department of Defense, Department of Homeland Security, and AeroVironment that started in September 2007, to culminate in a Joint Operational Utility Assessment (JOUA) in 2011."
-				},
-				{
-					"header": "Mission possibilities",
-					"text": "High-altitude, long endurance unmanned aerial vehicles, such as Global Observer, may enable several capabilities that enable rapid and effective actions or countermeasures:"
-				},
-				{
-					"header": "History",
-					"text": "A Global Observer prototype, called \"Odyssey,\" flew in May 2005.  It had a 50 ft (15 m), one-third the size of the planned full-sized version, and ran solely on hydrogen fuel-cells powering electric motors that drove eight propellers, flying the aircraft for several hours.  The JCTD started in September 2007. In August 2010, Aerovironment announced that the full-sized Global Observer wing had passed wing load testing.  The 53 m (175 ft) all-composite wing, which comes in five sections and is designed to maximize wing strength while minimizing weight, had loads applied to it that approximated the maximum loads it is designed to withstand during normal flight, turbulence and maneuvers.  In its third year of testing, the demonstrator had also undergone ground and taxi tests as well as taken a \"short hop\" lifting off the ground briefly during taxiing."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Long-endurance surveillance UAVType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "AeroVironment"
-				},
-				{
-					"key": "First flight",
-					"value": "5 August 2010"
-				},
-				{
-					"key": "Number built",
-					"value": "2"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AeroVironment_Global_Observer.jpg/800px-AeroVironment_Global_Observer.jpg",
-				"other": []
-			}
-		},
-		{
-			"name": "Globe_KD2G_Firefly",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The KD2G was a mid-wing, twin-tailed aircraft of similar design to the KDG Snipe which Globe was already supplying to the Navy. A single McDonnell PJ42 pulsejet engine was mounted atop the rear of the fuselage. The fuselage was constructed of steel tubing with a duralumin monocoque covering; dural was also used for the flying surfaces. The KD2G was equipped with radio control with an effective range of 6,000 yards (5,500 m); it could be launched using a catapult, or launched aerially from JD-1 or F7F-2D aircraft. Recovery, if it survived its mission, was by a 32-foot (9.8 m) diameter parachute; the Firefly was designed to be able to float for up to 15 minutes in the event of a water landing."
-				},
-				{
-					"header": "Operational history",
-					"text": "First flying as the XKD2G-1 prototype during 1946, the KD2G-1 entered service with the United States Navy during 1947. The improved KD2G-2, powered by a Solar PJ32 pulsejet, began production in 1950; it was the first successful jet-powered target drone to be developed following the end of World War II. The KD2G remained in service through the mid-1950s, being replaced by the KD6G."
-				},
-				{
-					"header": "Specifications (KD2G-2)",
-					"text": "Data from Standard Aircraft Characteristics"
-				},
-				{
-					"header": "External links",
-					"text": " Media related to Globe KD2G Firefly at Wikimedia Commons"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Target droneType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Globe Aircraft Corporation"
-				},
-				{
-					"key": "First flight",
-					"value": "1946"
-				},
-				{
-					"key": "Retired",
-					"value": "~1954"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Navy"
-				},
-				{
-					"key": "Developed from",
-					"value": "Globe KDG Snipe"
-				},
-				{
-					"key": "Developed into",
-					"value": "Globe KD6G Firefly"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Globe_KD2G-1_Firefly.jpg/800px-Globe_KD2G-1_Firefly.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Globe_KD2G-2_hanging_from_Battleship_Memorial_Park_Aircraft_Pavilion.jpg/800px-Globe_KD2G-2_hanging_from_Battleship_Memorial_Park_Aircraft_Pavilion.jpg",
-						"desc": "A KD2G-2 hanging from the ceiling of the Aircraft Pavilion at Battleship Memorial Park in Mobile, Alabama"
 					}
 				]
 			}
@@ -3460,6 +3553,113 @@
 						"desc": "160th SOAR (A)'s Echo Company pose with their new MQ-1Cs"
 					}
 				]
+			}
+		},
+		{
+			"name": "Globe_KD2G_Firefly",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The KD2G was a mid-wing, twin-tailed aircraft of similar design to the KDG Snipe which Globe was already supplying to the Navy. A single McDonnell PJ42 pulsejet engine was mounted atop the rear of the fuselage. The fuselage was constructed of steel tubing with a duralumin monocoque covering; dural was also used for the flying surfaces. The KD2G was equipped with radio control with an effective range of 6,000 yards (5,500 m); it could be launched using a catapult, or launched aerially from JD-1 or F7F-2D aircraft. Recovery, if it survived its mission, was by a 32-foot (9.8 m) diameter parachute; the Firefly was designed to be able to float for up to 15 minutes in the event of a water landing."
+				},
+				{
+					"header": "Operational history",
+					"text": "First flying as the XKD2G-1 prototype during 1946, the KD2G-1 entered service with the United States Navy during 1947. The improved KD2G-2, powered by a Solar PJ32 pulsejet, began production in 1950; it was the first successful jet-powered target drone to be developed following the end of World War II. The KD2G remained in service through the mid-1950s, being replaced by the KD6G."
+				},
+				{
+					"header": "Specifications (KD2G-2)",
+					"text": "Data from Standard Aircraft Characteristics"
+				},
+				{
+					"header": "External links",
+					"text": " Media related to Globe KD2G Firefly at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Target droneType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Globe Aircraft Corporation"
+				},
+				{
+					"key": "First flight",
+					"value": "1946"
+				},
+				{
+					"key": "Retired",
+					"value": "~1954"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Navy"
+				},
+				{
+					"key": "Developed from",
+					"value": "Globe KDG Snipe"
+				},
+				{
+					"key": "Developed into",
+					"value": "Globe KD6G Firefly"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Globe_KD2G-1_Firefly.jpg/800px-Globe_KD2G-1_Firefly.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Globe_KD2G-2_hanging_from_Battleship_Memorial_Park_Aircraft_Pavilion.jpg/800px-Globe_KD2G-2_hanging_from_Battleship_Memorial_Park_Aircraft_Pavilion.jpg",
+						"desc": "A KD2G-2 hanging from the ceiling of the Aircraft Pavilion at Battleship Memorial Park in Mobile, Alabama"
+					}
+				]
+			}
+		},
+		{
+			"name": "Global_Observer",
+			"data": [
+				{
+					"header": "JCTD program",
+					"text": "The Global Observer Joint Capabilities Technology Demonstration (JCTD) program had the goal of helping solve the capability gap in persistent ISR and communications relay for the US military and homeland security.  The Global Observer JCTD demonstrated a new stratospheric, extreme endurance UAS that could be transitioned for post-JCTD development, extended user evaluation, and fielding.  The program was a joint effort with the U.S. Department of Defense, Department of Homeland Security, and AeroVironment that started in September 2007, to culminate in a Joint Operational Utility Assessment (JOUA) in 2011."
+				},
+				{
+					"header": "Mission possibilities",
+					"text": "High-altitude, long endurance unmanned aerial vehicles, such as Global Observer, may enable several capabilities that enable rapid and effective actions or countermeasures:"
+				},
+				{
+					"header": "History",
+					"text": "A Global Observer prototype, called \"Odyssey,\" flew in May 2005.  It had a 50 ft (15 m), one-third the size of the planned full-sized version, and ran solely on hydrogen fuel-cells powering electric motors that drove eight propellers, flying the aircraft for several hours.  The JCTD started in September 2007. In August 2010, Aerovironment announced that the full-sized Global Observer wing had passed wing load testing.  The 53 m (175 ft) all-composite wing, which comes in five sections and is designed to maximize wing strength while minimizing weight, had loads applied to it that approximated the maximum loads it is designed to withstand during normal flight, turbulence and maneuvers.  In its third year of testing, the demonstrator had also undergone ground and taxi tests as well as taken a \"short hop\" lifting off the ground briefly during taxiing."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Long-endurance surveillance UAVType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "AeroVironment"
+				},
+				{
+					"key": "First flight",
+					"value": "5 August 2010"
+				},
+				{
+					"key": "Number built",
+					"value": "2"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AeroVironment_Global_Observer.jpg/800px-AeroVironment_Global_Observer.jpg",
+				"other": []
 			}
 		},
 		{
@@ -3867,6 +4067,62 @@
 			}
 		},
 		{
+			"name": "Honeywell_RQ-16_T-Hawk",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The Micro Air Vehicle (MAV) program was launched by DARPA. Following a $40 million technology demonstration contract to Honeywell Defense and Space Electronic Systems in 2003, the MAV project was transferred to United States Army's Future Combat System (FCS) program to fulfill the need for Class I platoon-level drone. In May 2006, Honeywell was awarded a $61 million contract to develop an advanced MAV with extended endurance and heavy-fuel engine.    "
+				},
+				{
+					"header": "Design",
+					"text": "The gasoline engine powered RQ-16 is reported to weigh 8.4 kilograms (20 lb), have an endurance of around 40 minutes, 10,500-foot (3,200 m) ceiling and an operating radius of about 6 nautical miles (11 km). Forward speeds up to 70 knots (130 km/h) have been achieved, but the G-MAV is operationally restricted to 50 knots (93 km/h) by software. VTOL operation is subject to a maximum wind speed of 15 knots (28 km/h). Sensors include one forward and one downward looking daylight or IR cameras."
+				},
+				{
+					"header": "Civilian application at disaster site",
+					"text": "On Friday, April 15, 2011, a T-hawk drone was used to conduct surveillance of the damaged Fukushima Dai-Ichi nuclear power station.  This nuclear plant suffered severe damage as a result of a devastating earthquake and tsunami which struck the east coast of Japan one month earlier.  The damage resulted in several of the reactors at the facility undergoing partial meltdown, releasing radioactivity into the local area.  The radiation was thousands of times above the safe limit for exposure, making the area unsafe for human habitation.  The radiation was intense enough to make even short-term exposure hazardous, preventing people from going in to assess the damage.  The T-hawk drone took numerous photographs of the damaged reactor housings, turbine buildings, spent nuclear fuel rod containment pools, and associated facilities damaged by the earthquake, tsunami, and subsequent hydrogen gas explosions at the facility.  This allowed Tokyo Electric Power Co. (TEPCO) to better determine where the releases of radioactivity were coming from and how to best deal with them."
+				},
+				{
+					"header": "Specifications (approximate)",
+					"text": "Data from Honeywell T Hawk Described"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Surveillance UAVType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Honeywell"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Army"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MicroAirVehicle.jpg/800px-MicroAirVehicle.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Class1Soldiers2.jpg/800px-Class1Soldiers2.jpg",
+						"desc": "RQ-16 in use on the field"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/XM156_Class_I_UAV_backpack.jpg/800px-XM156_Class_I_UAV_backpack.jpg",
+						"desc": "Portable in two backpacks"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/T-Hawk_Remotely_Piloted_Air_System_in_Afghanistan_MOD_45156607.jpg/800px-T-Hawk_Remotely_Piloted_Air_System_in_Afghanistan_MOD_45156607.jpg",
+						"desc": "T-hawk of Britain's Talisman counter-IED force, 2012"
+					}
+				]
+			}
+		},
+		{
 			"name": "Gyrodyne_QH-50_DASH",
 			"data": [
 				{
@@ -3939,62 +4195,6 @@
 			}
 		},
 		{
-			"name": "Honeywell_RQ-16_T-Hawk",
-			"data": [
-				{
-					"header": "Development",
-					"text": "The Micro Air Vehicle (MAV) program was launched by DARPA. Following a $40 million technology demonstration contract to Honeywell Defense and Space Electronic Systems in 2003, the MAV project was transferred to United States Army's Future Combat System (FCS) program to fulfill the need for Class I platoon-level drone. In May 2006, Honeywell was awarded a $61 million contract to develop an advanced MAV with extended endurance and heavy-fuel engine.    "
-				},
-				{
-					"header": "Design",
-					"text": "The gasoline engine powered RQ-16 is reported to weigh 8.4 kilograms (20 lb), have an endurance of around 40 minutes, 10,500-foot (3,200 m) ceiling and an operating radius of about 6 nautical miles (11 km). Forward speeds up to 70 knots (130 km/h) have been achieved, but the G-MAV is operationally restricted to 50 knots (93 km/h) by software. VTOL operation is subject to a maximum wind speed of 15 knots (28 km/h). Sensors include one forward and one downward looking daylight or IR cameras."
-				},
-				{
-					"header": "Civilian application at disaster site",
-					"text": "On Friday, April 15, 2011, a T-hawk drone was used to conduct surveillance of the damaged Fukushima Dai-Ichi nuclear power station.  This nuclear plant suffered severe damage as a result of a devastating earthquake and tsunami which struck the east coast of Japan one month earlier.  The damage resulted in several of the reactors at the facility undergoing partial meltdown, releasing radioactivity into the local area.  The radiation was thousands of times above the safe limit for exposure, making the area unsafe for human habitation.  The radiation was intense enough to make even short-term exposure hazardous, preventing people from going in to assess the damage.  The T-hawk drone took numerous photographs of the damaged reactor housings, turbine buildings, spent nuclear fuel rod containment pools, and associated facilities damaged by the earthquake, tsunami, and subsequent hydrogen gas explosions at the facility.  This allowed Tokyo Electric Power Co. (TEPCO) to better determine where the releases of radioactivity were coming from and how to best deal with them."
-				},
-				{
-					"header": "Specifications (approximate)",
-					"text": "Data from Honeywell T Hawk Described"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Surveillance UAVType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Honeywell"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Army"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/MicroAirVehicle.jpg/800px-MicroAirVehicle.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Class1Soldiers2.jpg/800px-Class1Soldiers2.jpg",
-						"desc": "RQ-16 in use on the field"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/XM156_Class_I_UAV_backpack.jpg/800px-XM156_Class_I_UAV_backpack.jpg",
-						"desc": "Portable in two backpacks"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/T-Hawk_Remotely_Piloted_Air_System_in_Afghanistan_MOD_45156607.jpg/800px-T-Hawk_Remotely_Piloted_Air_System_in_Afghanistan_MOD_45156607.jpg",
-						"desc": "T-hawk of Britain's Talisman counter-IED force, 2012"
-					}
-				]
-			}
-		},
-		{
 			"name": "IAI_RQ-5_Hunter",
 			"data": [
 				{
@@ -4048,6 +4248,153 @@
 						"desc": ""
 					}
 				]
+			}
+		},
+		{
+			"name": "Interstate_TDR",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "In 1936, Lieutenant Commander Delmar S. Fahrney proposed that unpiloted, remotely controlled aircraft had potential for use by the United States Navy in combat operations. Due to the limitations of the technology of the time, development of the \"assault drone\" project was given a low priority, but by the early 1940s the development of the radar altimeter and television made the project more feasible, and following trials using converted manned aircraft, the first operational test of a drone against a naval target was conducted in April 1942. That same month, following trials of the Naval Aircraft Factory TDN assault drone, Interstate Aircraft received a contract from the Navy for two prototype and 100 production aircraft to a simplified and improved design, to be designated TDR-1."
+				},
+				{
+					"header": "External links",
+					"text": " Media related to Interstate TDR at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "assault droneType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Interstate Aircraft"
+				},
+				{
+					"key": "First flight",
+					"value": "1942"
+				},
+				{
+					"key": "Introduction",
+					"value": "September 1944"
+				},
+				{
+					"key": "Retired",
+					"value": "October 1944"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Navy"
+				},
+				{
+					"key": "Number built",
+					"value": "195"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Interstate_TDR-1.jpg/800px-Interstate_TDR-1.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Interstate_XBQ-4.jpg/800px-Interstate_XBQ-4.jpg",
+						"desc": "Interstate XBQ-4"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Interstate_XTD3R.jpg/800px-Interstate_XTD3R.jpg",
+						"desc": "Interstate XTD3R"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Interstate_TDR-1_on_display_at_Naval_Aviation_Museum.jpg/800px-Interstate_TDR-1_on_display_at_Naval_Aviation_Museum.jpg",
+						"desc": "Interstate TDR-1 on display at the National Naval Aviation Museum"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Interstate_TDR_parts_at_DeKalb.jpg%2C_Sep_2017.jpg/800px-Interstate_TDR_parts_at_DeKalb.jpg%2C_Sep_2017.jpg",
+						"desc": "Interstate TDR parts at DeKalb Airport, 2017"
+					}
+				]
+			}
+		},
+		{
+			"name": "Interstate_XBDR",
+			"data": [
+				{
+					"header": "Design",
+					"text": "Referred to at the time as an \"assault drone\", and the only aircraft ever designated in the 'BD' series, the XBDR-1 was designed by Interstate in response to a Navy requirement in late 1943 and early 1944. The aircraft featured a tailless design, and was essentially a flying wing with a small vertical stabiliser. The XBDR-1  was intended to be powered by two Westinghouse 19B axial-flow turbojet engines, which were to be buried in the wing near the wing roots. The planned warload was not detailed, however it was planned that the assault drone would be guided to its target via a television link."
+				},
+				{
+					"header": "External links",
+					"text": " Media related to Interstate XBDR at Wikimedia Commons"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Assault droneType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Interstate Aircraft"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Navy"
+				},
+				{
+					"key": "Number built",
+					"value": "0"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Interstate_XBDR-1_flying.png/800px-Interstate_XBDR-1_flying.png",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Interstate_XBDR-1_in_flight.jpg/800px-Interstate_XBDR-1_in_flight.jpg",
+						"desc": "Artist's concept of the Interstate XBDR-1 jet-powered assault drone in flight."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Interstate_XBDR-1.jpg/800px-Interstate_XBDR-1.jpg",
+						"desc": "1/17-scale wind tunnel model of the XBDR-1 with alternative intakes"
+					}
+				]
+			}
+		},
+		{
+			"name": "KQ-X",
+			"data": [
+				{
+					"header": "History",
+					"text": "Northrop Grumman retrofitted two of the HALE UAVs so that one aircraft can pump fuel into the other while in flight via a hose-and-drogue refueling system. Several aspects of the KQ-X program were considered revolutionary: not only would the aerial refueling be autonomous, but since Global Hawks are classified as HALE UAVs, the refueling tests would occur at an altitude higher than that typically performed using manned aircraft. The tests would also be the first time that HALE UAVs have been flown in formation."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Project for",
+					"value": "Autonomous aerial refueling"
+				},
+				{
+					"key": "Issued by",
+					"value": "DARPA"
+				},
+				{
+					"key": "Initiated",
+					"value": "July 1, 2010"
+				},
+				{
+					"key": "Concluded",
+					"value": "September 2012"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/940th_Wing_-_Northrop_Grumman_RQ-4B_Block_20_Global_Hawk_04-2015.jpg/800px-940th_Wing_-_Northrop_Grumman_RQ-4B_Block_20_Global_Hawk_04-2015.jpg",
+				"other": []
 			}
 		},
 		{
@@ -4239,122 +4586,6 @@
 			}
 		},
 		{
-			"name": "Interstate_XBDR",
-			"data": [
-				{
-					"header": "Design",
-					"text": "Referred to at the time as an \"assault drone\", and the only aircraft ever designated in the 'BD' series, the XBDR-1 was designed by Interstate in response to a Navy requirement in late 1943 and early 1944. The aircraft featured a tailless design, and was essentially a flying wing with a small vertical stabiliser. The XBDR-1  was intended to be powered by two Westinghouse 19B axial-flow turbojet engines, which were to be buried in the wing near the wing roots. The planned warload was not detailed, however it was planned that the assault drone would be guided to its target via a television link."
-				},
-				{
-					"header": "External links",
-					"text": " Media related to Interstate XBDR at Wikimedia Commons"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Assault droneType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Interstate Aircraft"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Navy"
-				},
-				{
-					"key": "Number built",
-					"value": "0"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Interstate_XBDR-1_flying.png/800px-Interstate_XBDR-1_flying.png",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Interstate_XBDR-1_in_flight.jpg/800px-Interstate_XBDR-1_in_flight.jpg",
-						"desc": "Artist's concept of the Interstate XBDR-1 jet-powered assault drone in flight."
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Interstate_XBDR-1.jpg/800px-Interstate_XBDR-1.jpg",
-						"desc": "1/17-scale wind tunnel model of the XBDR-1 with alternative intakes"
-					}
-				]
-			}
-		},
-		{
-			"name": "Interstate_TDR",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "In 1936, Lieutenant Commander Delmar S. Fahrney proposed that unpiloted, remotely controlled aircraft had potential for use by the United States Navy in combat operations. Due to the limitations of the technology of the time, development of the \"assault drone\" project was given a low priority, but by the early 1940s the development of the radar altimeter and television made the project more feasible, and following trials using converted manned aircraft, the first operational test of a drone against a naval target was conducted in April 1942. That same month, following trials of the Naval Aircraft Factory TDN assault drone, Interstate Aircraft received a contract from the Navy for two prototype and 100 production aircraft to a simplified and improved design, to be designated TDR-1."
-				},
-				{
-					"header": "External links",
-					"text": " Media related to Interstate TDR at Wikimedia Commons"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "assault droneType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Interstate Aircraft"
-				},
-				{
-					"key": "First flight",
-					"value": "1942"
-				},
-				{
-					"key": "Introduction",
-					"value": "September 1944"
-				},
-				{
-					"key": "Retired",
-					"value": "October 1944"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Navy"
-				},
-				{
-					"key": "Number built",
-					"value": "195"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Interstate_TDR-1.jpg/800px-Interstate_TDR-1.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Interstate_XBQ-4.jpg/800px-Interstate_XBQ-4.jpg",
-						"desc": "Interstate XBQ-4"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Interstate_XTD3R.jpg/800px-Interstate_XTD3R.jpg",
-						"desc": "Interstate XTD3R"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Interstate_TDR-1_on_display_at_Naval_Aviation_Museum.jpg/800px-Interstate_TDR-1_on_display_at_Naval_Aviation_Museum.jpg",
-						"desc": "Interstate TDR-1 on display at the National Naval Aviation Museum"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Interstate_TDR_parts_at_DeKalb.jpg%2C_Sep_2017.jpg/800px-Interstate_TDR_parts_at_DeKalb.jpg%2C_Sep_2017.jpg",
-						"desc": "Interstate TDR parts at DeKalb Airport, 2017"
-					}
-				]
-			}
-		},
-		{
 			"name": "Insitu_Aerosonde",
 			"data": [
 				{
@@ -4382,37 +4613,6 @@
 			],
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerosonde_Laima_bottom_view.jpg/800px-Aerosonde_Laima_bottom_view.jpg",
-				"other": []
-			}
-		},
-		{
-			"name": "KQ-X",
-			"data": [
-				{
-					"header": "History",
-					"text": "Northrop Grumman retrofitted two of the HALE UAVs so that one aircraft can pump fuel into the other while in flight via a hose-and-drogue refueling system. Several aspects of the KQ-X program were considered revolutionary: not only would the aerial refueling be autonomous, but since Global Hawks are classified as HALE UAVs, the refueling tests would occur at an altitude higher than that typically performed using manned aircraft. The tests would also be the first time that HALE UAVs have been flown in formation."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Project for",
-					"value": "Autonomous aerial refueling"
-				},
-				{
-					"key": "Issued by",
-					"value": "DARPA"
-				},
-				{
-					"key": "Initiated",
-					"value": "July 1, 2010"
-				},
-				{
-					"key": "Concluded",
-					"value": "September 2012"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/940th_Wing_-_Northrop_Grumman_RQ-4B_Block_20_Global_Hawk_04-2015.jpg/800px-940th_Wing_-_Northrop_Grumman_RQ-4B_Block_20_Global_Hawk_04-2015.jpg",
 				"other": []
 			}
 		},
@@ -4818,86 +5018,6 @@
 			}
 		},
 		{
-			"name": "MA-31",
-			"data": [
-				{
-					"header": "Kh-31 development",
-					"text": "The Kh-31 missile was developed by Zvezda-Strela in the Soviet Union starting in 1977 for service as a long-range anti-ship missile and anti-radiation missile, first being flown in 1982. Derived from the P-270 Moskit missile, the Kh-31 is conventional in shape, and has cruciform fins made from titanium, with a rocket-ramjet propulsion system providing thrust."
-				},
-				{
-					"header": "MA-31 history",
-					"text": "Following the cancellation of the AQM-127 SLAT target drone program, a requirement for a new high-speed target to replace the MQM-8 Vandal still existed. In an unusual turn of events, the U.S. Navy chose to acquire examples of the Kh-31 missile - the actual threat the drone was intended to simulate - as an interim solution pending the development of an all-new design. In 1995, a contract was awarded to McDonnell Douglas for evaluation of the Kh-31 in the Supersonic Sea-Skimming Target role."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Target drone"
-				},
-				{
-					"key": "Place of origin",
-					"value": "RussiaUnited States"
-				},
-				{
-					"key": "In service",
-					"value": "1996-2007"
-				},
-				{
-					"key": "Used by",
-					"value": "United States Navy"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Boeing, Zvezda-Strela"
-				},
-				{
-					"key": "No. built",
-					"value": "47"
-				},
-				{
-					"key": "Mass",
-					"value": "1,300 pounds (590 kg)"
-				},
-				{
-					"key": "Length",
-					"value": "15 ft (4.7 m)"
-				},
-				{
-					"key": "Diameter",
-					"value": "14.2 inches (360 mm)"
-				},
-				{
-					"key": "Wingspan",
-					"value": "3.8 ft (1.15 m)"
-				},
-				{
-					"key": "Engine",
-					"value": "Solid fuel rocket in initial stage, ramjet for rest of trajectory"
-				},
-				{
-					"key": "Operationalrange",
-					"value": "27 nmi (50 km; 31 mi)"
-				},
-				{
-					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
-					"value": "Mach 2.5 (3,060 km/h; 1,900 mph) sea level, Mach 3.1 (3,800 km/h; 2,360 mph) high altitude"
-				},
-				{
-					"key": "Launchplatform",
-					"value": "QF-4 Phantom II"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/F-4_launching_MA-31.jpg/800px-F-4_launching_MA-31.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/MA-31_stock.jpg/800px-MA-31_stock.jpg",
-						"desc": "Multiple MA-31 missiles including one being prepared for use"
-					}
-				]
-			}
-		},
-		{
 			"name": "Lockheed_MQM-105_Aquila",
 			"data": [
 				{
@@ -5038,6 +5158,86 @@
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/X23_PRIME.JPG/800px-X23_PRIME.JPG",
 				"other": []
+			}
+		},
+		{
+			"name": "MA-31",
+			"data": [
+				{
+					"header": "Kh-31 development",
+					"text": "The Kh-31 missile was developed by Zvezda-Strela in the Soviet Union starting in 1977 for service as a long-range anti-ship missile and anti-radiation missile, first being flown in 1982. Derived from the P-270 Moskit missile, the Kh-31 is conventional in shape, and has cruciform fins made from titanium, with a rocket-ramjet propulsion system providing thrust."
+				},
+				{
+					"header": "MA-31 history",
+					"text": "Following the cancellation of the AQM-127 SLAT target drone program, a requirement for a new high-speed target to replace the MQM-8 Vandal still existed. In an unusual turn of events, the U.S. Navy chose to acquire examples of the Kh-31 missile - the actual threat the drone was intended to simulate - as an interim solution pending the development of an all-new design. In 1995, a contract was awarded to McDonnell Douglas for evaluation of the Kh-31 in the Supersonic Sea-Skimming Target role."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Target drone"
+				},
+				{
+					"key": "Place of origin",
+					"value": "RussiaUnited States"
+				},
+				{
+					"key": "In service",
+					"value": "1996-2007"
+				},
+				{
+					"key": "Used by",
+					"value": "United States Navy"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Boeing, Zvezda-Strela"
+				},
+				{
+					"key": "No. built",
+					"value": "47"
+				},
+				{
+					"key": "Mass",
+					"value": "1,300 pounds (590 kg)"
+				},
+				{
+					"key": "Length",
+					"value": "15 ft (4.7 m)"
+				},
+				{
+					"key": "Diameter",
+					"value": "14.2 inches (360 mm)"
+				},
+				{
+					"key": "Wingspan",
+					"value": "3.8 ft (1.15 m)"
+				},
+				{
+					"key": "Engine",
+					"value": "Solid fuel rocket in initial stage, ramjet for rest of trajectory"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "27 nmi (50 km; 31 mi)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "Mach 2.5 (3,060 km/h; 1,900 mph) sea level, Mach 3.1 (3,800 km/h; 2,360 mph) high altitude"
+				},
+				{
+					"key": "Launchplatform",
+					"value": "QF-4 Phantom II"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/F-4_launching_MA-31.jpg/800px-F-4_launching_MA-31.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/MA-31_stock.jpg/800px-MA-31_stock.jpg",
+						"desc": "Multiple MA-31 missiles including one being prepared for use"
+					}
+				]
 			}
 		},
 		{
@@ -5184,58 +5384,6 @@
 			}
 		},
 		{
-			"name": "NASA_Centurion",
-			"data": [
-				{
-					"header": "Aircraft description",
-					"text": "The design of Centurion resulted in an aircraft that looked very much like the Pathfinder, but with a much longer wingspan of 206 feet (63 m). Although the Centurion shape resembled the Pathfinder, the structure was designed to be stronger and capable of carrying numerous payloads (up to 600 pounds (272.2 kg)) more efficiently. Its wing incorporated a redesigned high-altitude airfoil and the span was increased to 206 feet (63 m). The number of motors was increased to 14 and the number of underwing pods to carry batteries, flight control system components, ballast, and landing gear rose to four."
-				},
-				{
-					"header": "References",
-					"text": "This article contains material that originally came from the web article \"Unmanned Aerial Vehicles\" by Greg Goebel, which exists in the Public Domain. This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Remote controlled UAVType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "AeroVironment"
-				},
-				{
-					"key": "First flight",
-					"value": "November 10, 1998"
-				},
-				{
-					"key": "Primary user",
-					"value": "NASA ERAST Program"
-				},
-				{
-					"key": "Number built",
-					"value": "1"
-				},
-				{
-					"key": "Developed from",
-					"value": "NASA Pathfinder"
-				},
-				{
-					"key": "Developed into",
-					"value": "NASA Helios"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Centurion-EC98-44822-5.jpg/800px-Centurion-EC98-44822-5.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Centurionquarter-EC97-43931-26.jpg/800px-Centurionquarter-EC97-43931-26.jpg",
-						"desc": "Quarter scale model of Centurion"
-					}
-				]
-			}
-		},
-		{
 			"name": "McDonnell_ADM-20_Quail",
 			"data": [
 				{
@@ -5336,6 +5484,97 @@
 			}
 		},
 		{
+			"name": "NASA_Centurion",
+			"data": [
+				{
+					"header": "Aircraft description",
+					"text": "The design of Centurion resulted in an aircraft that looked very much like the Pathfinder, but with a much longer wingspan of 206 feet (63 m). Although the Centurion shape resembled the Pathfinder, the structure was designed to be stronger and capable of carrying numerous payloads (up to 600 pounds (272.2 kg)) more efficiently. Its wing incorporated a redesigned high-altitude airfoil and the span was increased to 206 feet (63 m). The number of motors was increased to 14 and the number of underwing pods to carry batteries, flight control system components, ballast, and landing gear rose to four."
+				},
+				{
+					"header": "References",
+					"text": "This article contains material that originally came from the web article \"Unmanned Aerial Vehicles\" by Greg Goebel, which exists in the Public Domain. This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Remote controlled UAVType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "AeroVironment"
+				},
+				{
+					"key": "First flight",
+					"value": "November 10, 1998"
+				},
+				{
+					"key": "Primary user",
+					"value": "NASA ERAST Program"
+				},
+				{
+					"key": "Number built",
+					"value": "1"
+				},
+				{
+					"key": "Developed from",
+					"value": "NASA Pathfinder"
+				},
+				{
+					"key": "Developed into",
+					"value": "NASA Helios"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Centurion-EC98-44822-5.jpg/800px-Centurion-EC98-44822-5.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Centurionquarter-EC97-43931-26.jpg/800px-Centurionquarter-EC97-43931-26.jpg",
+						"desc": "Quarter scale model of Centurion"
+					}
+				]
+			}
+		},
+		{
+			"name": "NASA_GL-10_Greased_Lightning",
+			"data": [
+				{
+					"header": "Development",
+					"text": "The wing has eight electric motor driven propellers while the horizontal stabilizer has two. In the future full-scale version, power will be generated by two 6 kW (8 hp) diesel engines which will charge lithium ion batteries. The propellers on the leading edge of the wing provide high speed flow, and thus lift, on the wing even in low forward velocity flight allowing pitch, roll, and yaw control authority during the critical transition phase from hover to forward flight."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Hybrid UAVType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "First flight",
+					"value": "19 August 2014 (tethered)"
+				},
+				{
+					"key": "Introduction",
+					"value": "2014"
+				},
+				{
+					"key": "Status",
+					"value": "In development"
+				},
+				{
+					"key": "Number built",
+					"value": "1"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gl10_test013_8-19-14.jpg/800px-Gl10_test013_8-19-14.jpg",
+				"other": []
+			}
+		},
+		{
 			"name": "MQ-25_Stingray",
 			"data": [
 				{
@@ -5401,45 +5640,6 @@
 						"desc": "MQ-25 T1 Stingray test aircraft takes off, 2021"
 					}
 				]
-			}
-		},
-		{
-			"name": "NASA_GL-10_Greased_Lightning",
-			"data": [
-				{
-					"header": "Development",
-					"text": "The wing has eight electric motor driven propellers while the horizontal stabilizer has two. In the future full-scale version, power will be generated by two 6 kW (8 hp) diesel engines which will charge lithium ion batteries. The propellers on the leading edge of the wing provide high speed flow, and thus lift, on the wing even in low forward velocity flight allowing pitch, roll, and yaw control authority during the critical transition phase from hover to forward flight."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Hybrid UAVType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "First flight",
-					"value": "19 August 2014 (tethered)"
-				},
-				{
-					"key": "Introduction",
-					"value": "2014"
-				},
-				{
-					"key": "Status",
-					"value": "In development"
-				},
-				{
-					"key": "Number built",
-					"value": "1"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gl10_test013_8-19-14.jpg/800px-Gl10_test013_8-19-14.jpg",
-				"other": []
 			}
 		},
 		{
@@ -5630,6 +5830,54 @@
 			}
 		},
 		{
+			"name": "Naval_Aircraft_Factory_TDN",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The development of the radar altimeter and television in the early 1940s made remotely guided bomb- or torpedo-carrying aircraft a practical proposition. In January 1942, the Naval Aircraft Factory was instructed to initiate the development of such an aircraft, with a go-ahead for prototype construction being given in February. A production contract for 100 aircraft was issued in March, with John S. Kean being assigned as TDN-1 project manager, with the aircraft being designed to be capable of using either television or radar guidance. Constructed mainly from wood, the TDN-1 had a fixed tricycle landing gear, and could be fitted with a conventional cockpit in place of its guidance equipment for test flights."
+				},
+				{
+					"header": "Operational history",
+					"text": "One hundred production TDN-1 aircraft were ordered in March 1942. Despite being specifically designed to be a simple, low-performance aircraft, and despite proving promising in testing, the type was considered to be too complicated and expensive for use operationally. The improved Interstate TDR was selected for development as an alternative, the majority of TDN-1s being used in the test, liaison and training roles, with some being expended as aerial targets. The TDN-1 is often credited as the first US drone to take off from an aircraft carrier freely (USS Sable). An Airspeed Queen Wasp had already been catapulted from HMS Pegasus in 1937."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Assault droneType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Naval Aircraft Factory"
+				},
+				{
+					"key": "First flight",
+					"value": "15 November 1942"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Navy"
+				},
+				{
+					"key": "Number built",
+					"value": "104-114"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Naval_Aircraft_Factory_TDN-1_piloted.jpg/800px-Naval_Aircraft_Factory_TDN-1_piloted.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/USS_Sable_%28IX-81%29_launching_a_Naval_Aircraft_Factory_TDN-1_drone_%2880-G-387168%29_on_10_August_1943.jpg/800px-USS_Sable_%28IX-81%29_launching_a_Naval_Aircraft_Factory_TDN-1_drone_%2880-G-387168%29_on_10_August_1943.jpg",
+						"desc": "TDN-1 aircraft aboard USS Sable."
+					}
+				]
+			}
+		},
+		{
 			"name": "Naval_Research_Laboratory_Flyrt",
 			"data": [
 				{
@@ -5679,97 +5927,6 @@
 						"desc": "The Super RBOC launcher used for FLYRT"
 					}
 				]
-			}
-		},
-		{
-			"name": "Naval_Aircraft_Factory_TDN",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "The development of the radar altimeter and television in the early 1940s made remotely guided bomb- or torpedo-carrying aircraft a practical proposition. In January 1942, the Naval Aircraft Factory was instructed to initiate the development of such an aircraft, with a go-ahead for prototype construction being given in February. A production contract for 100 aircraft was issued in March, with John S. Kean being assigned as TDN-1 project manager, with the aircraft being designed to be capable of using either television or radar guidance. Constructed mainly from wood, the TDN-1 had a fixed tricycle landing gear, and could be fitted with a conventional cockpit in place of its guidance equipment for test flights."
-				},
-				{
-					"header": "Operational history",
-					"text": "One hundred production TDN-1 aircraft were ordered in March 1942. Despite being specifically designed to be a simple, low-performance aircraft, and despite proving promising in testing, the type was considered to be too complicated and expensive for use operationally. The improved Interstate TDR was selected for development as an alternative, the majority of TDN-1s being used in the test, liaison and training roles, with some being expended as aerial targets. The TDN-1 is often credited as the first US drone to take off from an aircraft carrier freely (USS Sable). An Airspeed Queen Wasp had already been catapulted from HMS Pegasus in 1937."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Assault droneType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Naval Aircraft Factory"
-				},
-				{
-					"key": "First flight",
-					"value": "15 November 1942"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Navy"
-				},
-				{
-					"key": "Number built",
-					"value": "104-114"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Naval_Aircraft_Factory_TDN-1_piloted.jpg/800px-Naval_Aircraft_Factory_TDN-1_piloted.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/USS_Sable_%28IX-81%29_launching_a_Naval_Aircraft_Factory_TDN-1_drone_%2880-G-387168%29_on_10_August_1943.jpg/800px-USS_Sable_%28IX-81%29_launching_a_Naval_Aircraft_Factory_TDN-1_drone_%2880-G-387168%29_on_10_August_1943.jpg",
-						"desc": "TDN-1 aircraft aboard USS Sable."
-					}
-				]
-			}
-		},
-		{
-			"name": "North_American_MQM-42_Redhead-Roadrunner",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "Given the company designation NA-273, the Redhead/Roadrunner drone program produced a small aircraft of largely conventional design, with small delta wings and a downswept tailplane; the vertical stabilizer doubled as a pylon for the aircraft's ramjet engine. A solid-propellant rocket provided thrust until the ramjet reached operating speed; launch was from the same launcher as that used by the MGR-3 Little John battlefield rocket.  Two minor variants of the drone were produced; 'Redhead' was optimized for high-altitude flight, at heights of up to 60,000 feet (18,000 m), while 'Roadrunner' was a variant for low-altitude operation as low as 300 feet (91 m) above the ground, and both could reach speeds of between Mach 0.9 and Mach 2. An autopilot, set to maintain a preset altitude, provided control of the drone; radio command guidance from a ground control station could override the autopilot. At the end of a flight, if the target drone had not been shot down, recovery could be either on command from the ground station, or automatic in case of fuel exhaustion or loss of control; a retrorocket would decelerate the drone to allow for deployment of a recovery parachute."
-				},
-				{
-					"header": "Operational history",
-					"text": "First flight of the NA-273 took place in 1961; in 1963, the designation MQM-42A was applied to both variants. The MQM-42 was used primarily to provide training in tracking and engaging targets for the MIM-23 Hawk surface-to-air missile; it remained in service with the United States Army through the mid-1970s."
-				},
-				{
-					"header": "See also",
-					"text": "Aircraft of comparable role, configuration, and era"
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Target droneType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "North American Aviation"
-				},
-				{
-					"key": "First flight",
-					"value": "1961"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Army"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MQM-42_Redhead.jpg/800px-MQM-42_Redhead.jpg",
-				"other": []
 			}
 		},
 		{
@@ -5828,6 +5985,101 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/North_American_X-10_USAF.jpg/800px-North_American_X-10_USAF.jpg",
 						"desc": "51-9307 at the National Museum of the United States Air Force in Dayton, Ohio"
+					}
+				]
+			}
+		},
+		{
+			"name": "North_American_MQM-42_Redhead-Roadrunner",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "Given the company designation NA-273, the Redhead/Roadrunner drone program produced a small aircraft of largely conventional design, with small delta wings and a downswept tailplane; the vertical stabilizer doubled as a pylon for the aircraft's ramjet engine. A solid-propellant rocket provided thrust until the ramjet reached operating speed; launch was from the same launcher as that used by the MGR-3 Little John battlefield rocket.  Two minor variants of the drone were produced; 'Redhead' was optimized for high-altitude flight, at heights of up to 60,000 feet (18,000 m), while 'Roadrunner' was a variant for low-altitude operation as low as 300 feet (91 m) above the ground, and both could reach speeds of between Mach 0.9 and Mach 2. An autopilot, set to maintain a preset altitude, provided control of the drone; radio command guidance from a ground control station could override the autopilot. At the end of a flight, if the target drone had not been shot down, recovery could be either on command from the ground station, or automatic in case of fuel exhaustion or loss of control; a retrorocket would decelerate the drone to allow for deployment of a recovery parachute."
+				},
+				{
+					"header": "Operational history",
+					"text": "First flight of the NA-273 took place in 1961; in 1963, the designation MQM-42A was applied to both variants. The MQM-42 was used primarily to provide training in tracking and engaging targets for the MIM-23 Hawk surface-to-air missile; it remained in service with the United States Army through the mid-1970s."
+				},
+				{
+					"header": "See also",
+					"text": "Aircraft of comparable role, configuration, and era"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Target droneType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "North American Aviation"
+				},
+				{
+					"key": "First flight",
+					"value": "1961"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Army"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/MQM-42_Redhead.jpg/800px-MQM-42_Redhead.jpg",
+				"other": []
+			}
+		},
+		{
+			"name": "Radioplane_KD2R_Quail",
+			"data": [
+				{
+					"header": "History",
+					"text": "In the post-World War II period, Radioplane followed up the success of the OQ-2 target drone with another very successful series of piston-powered target drones, what would become known as the Basic Training Target (BTT) family (the BTT designation wasn't created until the 1980s, but is used here as a convenient way to resolve the tangle of designations). The BTTs remained in service for the rest of the 20th century."
+				},
+				{
+					"header": "MQM-33 / MQM-36",
+					"text": "In 1963, when the US military adopted a standardized designation system, the surviving US Army BTT variants became MQM-33s and the KD2R-1, the only member of the family still in Navy service, became the MQM-36 Shelduck."
+				},
+				{
+					"header": "MQM-57 Falconer",
+					"text": "A variant of the BTT designated the RP-71, also known as the SD-1 Observer and later redesignated MQM-57 Falconer, was built for battlefield reconnaissance, with first flight in 1955. The Falconer was similar in appearance to the Shelduck, but had a slightly longer and stockier fuselage. It had an autopilot system with radio-control backup, and could carry cameras, as well as illumination flares for night reconnaissance. Equipment was loaded through a hump in the back between the wings. Although it only had an endurance of a little more than a half-hour, making it of limited use, about 1,500 Falconers were built and the type was used internationally with several different military forces, remaining in service into the 1970s."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Target droneType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Radioplane, Northrop"
+				},
+				{
+					"key": "Number built",
+					"value": ">73,000"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Radioplane_Shelduck.JPG/800px-Radioplane_Shelduck.JPG",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/OQ19_.jpg/800px-OQ19_.jpg",
+						"desc": "Original OQ-19 on display at Aviation Unmanned Vehicle Museum"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BTT_communications_hardware.jpg/800px-BTT_communications_hardware.jpg",
+						"desc": "Communications hardware for the BTT on display at the Aviation Unmanned Vehicle Museum"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BTT_KD2R.jpg/800px-BTT_KD2R.jpg",
+						"desc": "KD2R on display at the Aviation Unmanned Vehicle Museum"
 					}
 				]
 			}
@@ -5920,58 +6172,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/White_Sands_Missile_Range_Museum_RP-76_display.jpg/800px-White_Sands_Missile_Range_Museum_RP-76_display.jpg",
 						"desc": "White Sands Missile Range Museum RP-76 display"
-					}
-				]
-			}
-		},
-		{
-			"name": "Radioplane_BTT",
-			"data": [
-				{
-					"header": "History",
-					"text": "In the post-World War II period, Radioplane followed up the success of the OQ-2 target drone with another very successful series of piston-powered target drones, what would become known as the Basic Training Target (BTT) family (the BTT designation wasn't created until the 1980s, but is used here as a convenient way to resolve the tangle of designations). The BTTs remained in service for the rest of the 20th century."
-				},
-				{
-					"header": "MQM-33 / MQM-36",
-					"text": "In 1963, when the US military adopted a standardized designation system, the surviving US Army BTT variants became MQM-33s and the KD2R-1, the only member of the family still in Navy service, became the MQM-36 Shelduck."
-				},
-				{
-					"header": "MQM-57 Falconer",
-					"text": "A variant of the BTT designated the RP-71, also known as the SD-1 Observer and later redesignated MQM-57 Falconer, was built for battlefield reconnaissance, with first flight in 1955. The Falconer was similar in appearance to the Shelduck, but had a slightly longer and stockier fuselage. It had an autopilot system with radio-control backup, and could carry cameras, as well as illumination flares for night reconnaissance. Equipment was loaded through a hump in the back between the wings. Although it only had an endurance of a little more than a half-hour, making it of limited use, about 1,500 Falconers were built and the type was used internationally with several different military forces, remaining in service into the 1970s."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Target droneType of aircraft"
-				},
-				{
-					"key": "National origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Radioplane, Northrop"
-				},
-				{
-					"key": "Number built",
-					"value": ">73,000"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Radioplane_Shelduck.JPG/800px-Radioplane_Shelduck.JPG",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/OQ19_.jpg/800px-OQ19_.jpg",
-						"desc": "Original OQ-19 on display at Aviation Unmanned Vehicle Museum"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/BTT_communications_hardware.jpg/800px-BTT_communications_hardware.jpg",
-						"desc": "Communications hardware for the BTT on display at the Aviation Unmanned Vehicle Museum"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BTT_KD2R.jpg/800px-BTT_KD2R.jpg",
-						"desc": "KD2R on display at the Aviation Unmanned Vehicle Museum"
 					}
 				]
 			}
@@ -6156,81 +6356,6 @@
 			}
 		},
 		{
-			"name": "Northrop_GAM-67_Crossbow",
-			"data": [
-				{
-					"header": "Development",
-					"text": "In the late 1940s, the Radioplane Company developed a set of prototypes of the Q-1 target series, which used pulsejet or small turbojet engines. Although the Q-1 series was not put into production as a target, it did evolve into the USAF RP-54D / XB-67 / XGAM-67 Crossbow anti-radar missile, which was first flown in 1956. It was also considered as a platform for reconnaissance, electronic countermeasures, and decoy roles."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Anti-radar missile"
-				},
-				{
-					"key": "Place of origin",
-					"value": "United States"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Northrop Ventura Division"
-				},
-				{
-					"key": "No. built",
-					"value": "14"
-				},
-				{
-					"key": "Mass",
-					"value": "2,800 lb (1,270 kg)"
-				},
-				{
-					"key": "Length",
-					"value": "19 ft 1 in (5.82 m)"
-				},
-				{
-					"key": "Height",
-					"value": "4 ft 6 (1.37 m)"
-				},
-				{
-					"key": "Diameter",
-					"value": "32 in (81 cm)"
-				},
-				{
-					"key": "Wingspan",
-					"value": "12 ft 6 in (3.81 m)"
-				},
-				{
-					"key": "Engine",
-					"value": "Continental J69 turbojet"
-				},
-				{
-					"key": "Operationalrange",
-					"value": "300 miles (480 km)"
-				},
-				{
-					"key": "Flight altitude",
-					"value": "40,000 ft (12,200 m)"
-				},
-				{
-					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
-					"value": "675 mph (1,090 km/h)"
-				},
-				{
-					"key": "Guidancesystem",
-					"value": "passive multiple-frequency radar seeker, autopilot and a radio-command guidance system"
-				},
-				{
-					"key": "Launchplatform",
-					"value": "Aircraft or RATO"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/GAM-67_on_B-47.png/800px-GAM-67_on_B-47.png",
-				"other": []
-			}
-		},
-		{
 			"name": "Mars_Helicopter_Ingenuity",
 			"data": [
 				{
@@ -6360,6 +6485,81 @@
 						"desc": ""
 					}
 				]
+			}
+		},
+		{
+			"name": "Northrop_GAM-67_Crossbow",
+			"data": [
+				{
+					"header": "Development",
+					"text": "In the late 1940s, the Radioplane Company developed a set of prototypes of the Q-1 target series, which used pulsejet or small turbojet engines. Although the Q-1 series was not put into production as a target, it did evolve into the USAF RP-54D / XB-67 / XGAM-67 Crossbow anti-radar missile, which was first flown in 1956. It was also considered as a platform for reconnaissance, electronic countermeasures, and decoy roles."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Anti-radar missile"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Northrop Ventura Division"
+				},
+				{
+					"key": "No. built",
+					"value": "14"
+				},
+				{
+					"key": "Mass",
+					"value": "2,800 lb (1,270 kg)"
+				},
+				{
+					"key": "Length",
+					"value": "19 ft 1 in (5.82 m)"
+				},
+				{
+					"key": "Height",
+					"value": "4 ft 6 (1.37 m)"
+				},
+				{
+					"key": "Diameter",
+					"value": "32 in (81 cm)"
+				},
+				{
+					"key": "Wingspan",
+					"value": "12 ft 6 in (3.81 m)"
+				},
+				{
+					"key": "Engine",
+					"value": "Continental J69 turbojet"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "300 miles (480 km)"
+				},
+				{
+					"key": "Flight altitude",
+					"value": "40,000 ft (12,200 m)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "675 mph (1,090 km/h)"
+				},
+				{
+					"key": "Guidancesystem",
+					"value": "passive multiple-frequency radar seeker, autopilot and a radio-command guidance system"
+				},
+				{
+					"key": "Launchplatform",
+					"value": "Aircraft or RATO"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/GAM-67_on_B-47.png/800px-GAM-67_on_B-47.png",
+				"other": []
 			}
 		},
 		{
@@ -6539,110 +6739,6 @@
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/X-47A_rollout.jpg/800px-X-47A_rollout.jpg",
 				"other": []
-			}
-		},
-		{
-			"name": "Zipline_(drone_delivery)",
-			"data": [
-				{
-					"header": "Platform 2",
-					"text": "On March 15, 2023, an additional platform was announced called \"Platform 2\" that is suited for shorter range deliveries which transport the delivery by wire instead of dropping it from the sky. The drone can carry up to 8 pounds (3.6 kg) of cargo within a 10 mi (16 km) radius. It is capable of a more precise delivery than its previous generation, and can recharge autonomously."
-				},
-				{
-					"header": "Rwanda",
-					"text": "Zipline operates two distribution centers in Rwanda. "
-				},
-				{
-					"header": "Ghana",
-					"text": "In 2018, Zipline signed a contract with the government of Ghana to make up to 600 deliveries a day for four years at the cost of about $12.5 million.  In April 2019, Ghana's president Nana Akufo-Addo announced the opening of the first distribution center in Ghana.  Vice President Mahamudu Bawumia launched the first Zipline drone to Tafo Hospital on April 24, 2019. This first delivery contained a resupply shipment of yellow fever vaccines to prevent stock-out."
-				},
-				{
-					"header": "United States",
-					"text": "As of 2018, Zipline was working with the FAA to develop rules for drone operation beyond the line of sight."
-				},
-				{
-					"header": "Japan",
-					"text": "In April 2021, Zipline announced a partnership with an investor, Toyota Tsusho, to deliver medical products in Japan. While most Zipline facilities are staffed by locally hired operators employed by Zipline, the facilities in Japan are distinct in that they are operated by Sora-iina, a Toyota Tsusho Group company, and staffed by Toyota Tsusho employees. Zipline provides hardware and training in an OEM capacity. Construction of the first distribution center was completed in April 2022 on Fukue Island in the Gotō Islands. The drone delivery service will supply medical and pharmaceutical products to medical institutions and pharmacies in the Gotō Islands, which include 140 total islands (and five main localities). The use of drone delivery to assure routine distribution of medical products is expected to cut current sea and air transport options from several hours down to 30 minutes."
-				},
-				{
-					"header": "Nigeria",
-					"text": "In February 2021, Zipline announced a plan to construct three distribution centers in Kaduna State, Nigeria. These distribution centers would have ultra-cold storage that is capable of safely storing COVID-19 vaccines, for which health facilities in the state could then place on-demand orders without needing ultra-cold storage of their own. The state also intends to use Zipline's service to transport other health products, including blood, medication, and routine vaccines. In May 2021, Zipline announced a similar agreement with Cross River State. In February 2022, Zipline announced another agreement with Bayelsa State."
-				},
-				{
-					"header": "Cote d'Ivoire",
-					"text": "In December 2021, the company announced an agreement to open four distribution centers in Cote d'Ivoire, it received it's licence to begin operations in January 2023."
-				},
-				{
-					"header": "Kenya",
-					"text": "In February 2022, the company announced an agreement to build a distribution center in Kisumu County, Kenya. and began in October that year, as well as medical supplies it was to deliver veterinary goods and animal DNA"
-				},
-				{
-					"header": "Ukraine",
-					"text": "In June 2022 it was announced by the Ukrainian Ministry of Health that talks were ongoing to partner with Zipline to build ten Zipline distribution hubs in Ukraine in areas such as Tlumach"
-				},
-				{
-					"header": "Australia",
-					"text": "Between July 30 and September 5, 2019, Zipline partnered with the US and Australian militaries, delivering over 400 mock blood supplies during mass casualty simulations."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Type",
-					"value": "Private"
-				},
-				{
-					"key": "Industry",
-					"value": "Logistics"
-				},
-				{
-					"key": "Genre",
-					"value": "Delivery drone"
-				},
-				{
-					"key": "Founded",
-					"value": "March 2014; 9 years ago (March 2014) in Half Moon Bay, California, U.S."
-				},
-				{
-					"key": "Founders",
-					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Keller Rinaudo ClifftonKeenan WyrobekRyan OksenhornWilliam Hetzler"
-				},
-				{
-					"key": "Headquarters",
-					"value": "South San Francisco, California, U.S."
-				},
-				{
-					"key": "Area served",
-					"value": "Rwanda, Ghana, Japan, United States, Kenya, Cote d'Ivoire, Nigeria"
-				},
-				{
-					"key": "Key people",
-					"value": "Keller Rinaudo Cliffton (CEO)"
-				},
-				{
-					"key": "Number of employees",
-					"value": "500-1000"
-				},
-				{
-					"key": "Website",
-					"value": "flyzipline.com"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/800px-Nuvola_apps_kaboodle.svg.png",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Keller_Rinaudo.jpg/800px-Keller_Rinaudo.jpg",
-						"desc": "Zipline founder Keller Rinaudo beside the first generation drone"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Zipline_Operations_Package.jpg/800px-Zipline_Operations_Package.jpg",
-						"desc": "Operator scanning the package before packing for flight"
-					},
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zipline-package-drop.jpg/800px-Zipline-package-drop.jpg",
-						"desc": "A Platform 1 drone dropping a parachute-enabled package"
-					}
-				]
 			}
 		},
 		{
@@ -6840,7 +6936,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Mars_symbol_%28bold%29.svg/800px-Mars_symbol_%28bold%29.svg.png",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/800px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PIA17944-MarsCuriosityRover-AfterCrossingDingoGapSanddune-20140209.jpg/800px-PIA17944-MarsCuriosityRover-AfterCrossingDingoGapSanddune-20140209.jpg",
@@ -6905,6 +7001,210 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MSL_Artist_Concept_%28PIA14164_crop%29.jpg/800px-MSL_Artist_Concept_%28PIA14164_crop%29.jpg",
 						"desc": ""
+					}
+				]
+			}
+		},
+		{
+			"name": "Northrop_Grumman_X-47B",
+			"data": [
+				{
+					"header": "Costs",
+					"text": "The project was initially funded under a US$635.8 million contract awarded by the Navy in 2007. By January 2012, the X-47B's total program cost had grown to an estimated $813 million. Government funding for the X-47B UCAS-D program was to run out at the end of September 2013, with the close of the fiscal year. However, in June 2014 the Navy provided an additional $63 million for \"post-demonstration\" development of the X-47B."
+				},
+				{
+					"header": "End of program",
+					"text": "In February 2015, the Navy stated that the competition for private tenders for constructing the UCLASS fleet would begin in 2016, with the aircraft expected to enter service in the early 2020s. Reportedly, despite the X-47B's success in test flights, officials were concerned that it would be too costly and insufficiently stealthy for the needs of the UCLASS project. In April 2015, it was reported that the X-47B demonstrators would become museum exhibits upon completing flight testing. In June 2015, United States Secretary of the Navy Ray Mabus stated that the X-47B program should continue but that Northrop-Grumman should not gain an unfair advantage in the competition for the UCLASS contract. In July 2015, the Navy stated that the X-47Bs would remain in flying condition rather than being converted to museum exhibits, allowing for a variety of follow-on evaluations."
+				},
+				{
+					"header": "Awards",
+					"text": "In March 2014, the X-47B won the 57th Annual Laureate Award for \"extraordinary achievements\" in aeronautics and propulsion hosted by Aviation Week. On 9 April 2014, the National Aeronautic Association selected Northrop Grumman, the United States Navy, and the X-47B's development team as the joint recipients of the 2013 Collier Trophy for excellence in aeronautic technology."
+				},
+				{
+					"header": "Derivative development",
+					"text": "The Navy used software from the X-47B to demonstrate unmanned aerial refueling capabilities. On 28 August 2013, a Calspan-flown Learjet 25 refueled from a Boeing 707 tanker while flying autonomously as a surrogate aircraft uploaded with the X-47B's technology. The test was to demonstrate that unmanned and optionally manned aircraft can have an automated aerial refueling capability, significantly increasing their range, persistence, and flexibility. Plans to further demonstrate autonomous aerial refueling were reportedly cut in the Navy's fiscal 2014 budget, but the X-47B nonetheless conducted a successful autonomous refuelling demonstration in April 2015."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Unmanned combat aerial vehicleTechnology demonstratorType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Northrop Grumman"
+				},
+				{
+					"key": "First flight",
+					"value": "4 February 2011"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Navy"
+				},
+				{
+					"key": "Number built",
+					"value": "2"
+				},
+				{
+					"key": "Developed from",
+					"value": "Northrop Grumman X-47A Pegasus"
+				},
+				{
+					"key": "Developed into",
+					"value": "Northrop Grumman X-47C"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/X-47B_operating_in_the_Atlantic_Test_Range_%28modified%29.jpg/800px-X-47B_operating_in_the_Atlantic_Test_Range_%28modified%29.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/X-47B_110204-F-1162D-119.jpg/800px-X-47B_110204-F-1162D-119.jpg",
+						"desc": "The X-47B's first takeoff at Edwards Air Force Base, California, on 4 February 2011"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/U.S._Sailors_move_a_U.S._Navy_X-47B_Unmanned_Combat_Air_System_demonstrator_aircraft_onto_an_aircraft_elevator_aboard_the_aircraft_carrier_USS_George_H.W._Bush_%28CVN_77%29_May_14%2C_2013%2C_in_the_Atlantic_Ocean_130514-N-FU443-025.jpg/800px-thumbnail.jpg",
+						"desc": "An X-47B with folded wings on the aircraft elevator of George H.W. Bush on 14 May 2013"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/An_X-47B_Unmanned_Combat_Air_System_demonstrator_launches_from_the_aircraft_carrier_USS_George_H.W._Bush_%28CVN_77%29_May_14%2C_2013%2C_in_the_Atlantic_Ocean_130514-N-UZ648-182.jpg/800px-thumbnail.jpg",
+						"desc": "An X-47B launches from George H.W. Bush on 14 May 2013"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/A_U.S._Navy_X-47B_Unmanned_Combat_Air_System_makes_an_arrested_landing_aboard_the_aircraft_carrier_USS_George_H.W._Bush_%28CVN_77%29_as_the_ship_conducts_flight_operations_in_the_Atlantic_Ocean_off_the_coast_of_Vir_130710-N-LE576-002.jpg/800px-thumbnail.jpg",
+						"desc": "An X-47B makes a successful arrested landing on George H.W. Bush on 10 July 2013"
+					}
+				]
+			}
+		},
+		{
+			"name": "Northrop_Grumman_RQ-4_Global_Hawk",
+			"data": [
+				{
+					"header": "Cost increases and procurement",
+					"text": "Development cost overruns placed the Global Hawk at risk of cancellation. In mid-2006, per-unit costs were 25% over baseline estimates, caused by both the need to correct design deficiencies as well as to increase its capabilities. This caused concern over a possible congressional termination of the program if its national security benefits could not be justified. However, in June 2006, the program was restructured. Completion of an operational assessment report by the USAF was delayed from 2005 to 2007 due to manufacturing and development delays. The operational assessment report was released in March 2007 and production of the 54 air vehicles planned was extended by two years to 2015."
+				},
+				{
+					"header": "Universal Payload Adapter and new payloads",
+					"text": "In January 2014, President Obama signed a budget that included a $10 million (~$11.4 million in 2021) study on adapting the U-2's superior sensors for the RQ-4. In April 2015, Northrop Grumman reportedly installed the U-2's Optical Bar Camera (OBC) and Senior Year Electro-Optical Reconnaissance System (SYERS-2B/C) sensors onto the RQ-4 using a Universal Payload Adapter (UPA). Successful testing indicated that all RQ-4s could be similarly retrofitted."
+				},
+				{
+					"header": "Range Hawk",
+					"text": "Although the Global Hawk is being retired from combat use, the Department of Defense's Test Resource Management Center (TRMC) is acquiring them to support the SkyRange program to test hypersonic missiles by 2024. Tests are currently monitored by ships, but it can take a ship 21 days to be positioned and outfitted for use, limiting flights to about a dozen airborne demonstrations a year. By using unmanned aircraft to track hypersonic systems, faster availability and deployment could support a test rate of up to one per week. To perform this new mission, the Global Hawk is retrofitted into the Range Hawk, which involves configuring it to look up rather than down by repositioning onboard avionics and installing new sensors and instrumentation suites to track an overhead hypersonic vehicle. The program will use four Block 20 and 20 Block 30 airframes retired from USAF service."
+				},
+				{
+					"header": "Overview",
+					"text": "The Global Hawk UAV system comprises the RQ-4 air vehicle, which is outfitted with various equipment such as sensor packages and communication systems; and a ground element consisting of a Launch and Recovery Element (LRE), and a Mission Control Element (MCE) with ground communications equipment. Each RQ-4 air vehicle is powered by an Allison Rolls-Royce AE3007H turbofan engine with 7,050 lbf (31.4 kN) thrust, and carries a payload of 2,000 pounds (910 kilograms). The fuselage uses aluminum, semi-monocoque construction with a V-tail; the wings are made of composite materials."
+				},
+				{
+					"header": "System and ground facilities",
+					"text": "Raytheon's Integrated Sensor Suite (ISS) consists of the following sensors:"
+				},
+				{
+					"header": "Visible light/infrared",
+					"text": "The visible and infrared imagers share the same gimballed sensor package, and use common optics, providing a telescopic close-up capability. It can be optionally fitted with an auxiliary SIGINT package.[citation needed]"
+				},
+				{
+					"header": "Records",
+					"text": "On 24 April 2001, a Global Hawk flew non-stop from Edwards AFB to RAAF Base Edinburgh in Australia, making history by being the first pilotless aircraft to cross the Pacific Ocean. The flight took 22 hours, and set a world record for absolute distance flown by a UAV, 13,219.86 kilometers (8,214.44 mi)."
+				},
+				{
+					"header": "South Korea",
+					"text": "In 2011, South Korea's Defense Acquisition Program Administration (DAPA) expressed interest in acquiring at least four RQ-4Bs to increase intelligence capabilities following the exchange of the Wartime Operational Control from the U.S. to the Republic of Korea. Officials debated on the topic of the Global Hawks and domestic UAV programs. In September 2011, the US and South Korea discussed aircraft deployments near its land border to view North Korea and the North Korea–China border."
+				},
+				{
+					"header": "Japan",
+					"text": "On 24 August 2013, Japan announced that the Japan Air Self-Defense Force planned to operate one Global Hawk jointly with the U.S. by 2015.[citation needed] On 21 November 2014, the Japanese Ministry of Defense officially decided to procure the Global Hawk instead of the General Atomics Guardian ER; Japan has also been interested in the purchase of three aircraft. The first Japanese Global Hawk landed at Misawa Air Base on 12 March 2022."
+				},
+				{
+					"header": "Potential operators",
+					"text": "Australia considered the purchase of a number of Global Hawks for maritime and land surveillance. The Global Hawk was to be assessed against the General Atomics MQ-9 Mariner in trials in 2007. The Global Hawk aircraft would have operated in conjunction with crewed Boeing P-8 Poseidon aircraft, as a replacement of aging Lockheed AP-3C Orion aircraft. In the end, the Australian government decided not to proceed and canceled the order. In 2012, a procurement effort for seven UAVs by 2019 was initiated. In May 2013 the Australian government confirmed its interest in acquiring the MQ-4C Triton maritime surveillance variant."
+				},
+				{
+					"header": "Specifications (RQ-4B Block 30/40)",
+					"text": "Data from Northrop Grumman USAF"
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Unmanned surveillance and reconnaissance aerial vehicleType of aircraft"
+				},
+				{
+					"key": "National origin",
+					"value": "United States"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Northrop Grumman"
+				},
+				{
+					"key": "First flight",
+					"value": "28 February 1998"
+				},
+				{
+					"key": "Introduction",
+					"value": "November 2001"
+				},
+				{
+					"key": "Status",
+					"value": "In service"
+				},
+				{
+					"key": "Primary users",
+					"value": "United States Air ForceNASA NATO"
+				},
+				{
+					"key": "Produced",
+					"value": "1998–present"
+				},
+				{
+					"key": "Number built",
+					"value": "42 RQ-4Bs as of FY2013"
+				},
+				{
+					"key": "Developed into",
+					"value": "Northrop Grumman MQ-4C Triton"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Global_Hawk_1.jpg/800px-Global_Hawk_1.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/MQ-4C_Triton_flight_testing.jpg/800px-MQ-4C_Triton_flight_testing.jpg",
+						"desc": "The prototype MQ-4C on its first flight"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/RQ-4_Global_Hawk.jpg/800px-RQ-4_Global_Hawk.jpg",
+						"desc": "A maintenance crew preparing a Global Hawk at Beale Air Force Base"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Luftwaffe_99-01_RQ-4B_EuroHawk_ILA_2012_1.jpg/800px-Luftwaffe_99-01_RQ-4B_EuroHawk_ILA_2012_1.jpg",
+						"desc": "EuroHawk at the ILA 2012"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Global_Hawk.jpg/800px-Global_Hawk.jpg",
+						"desc": "The Global Hawk has a high wing aspect ratio for efficiency, a single Rolls-Royce AE 3007 turbofan on top with the exhaust between its V-tail, and a front bulge housing its satellite antenna."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RQ-4_Global_Hawk_photo_of_wildfires_in_Northern_California_-_080805-N-0000X-001.jpg/800px-RQ-4_Global_Hawk_photo_of_wildfires_in_Northern_California_-_080805-N-0000X-001.jpg",
+						"desc": "A photograph taken by US Navy Global Hawk with an aerial view of wildfires in Northern California, 2008"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NASA_Dryden_Global_Hawk.jpg/800px-NASA_Dryden_Global_Hawk.jpg",
+						"desc": "A Global Hawk at NASA's Dryden Flight Research Center"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/16_19_133_global_hawk.jpg/800px-16_19_133_global_hawk.jpg",
+						"desc": "RQ-4A on display at the Museum of Aviation, Robins AFB"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Global_Hawk%2C_NASA%27s_New_Remote-Controlled_Plane_-_October_2009.jpg/800px-Global_Hawk%2C_NASA%27s_New_Remote-Controlled_Plane_-_October_2009.jpg",
+						"desc": "A NASA Global Hawk in flight"
 					}
 				]
 			}
@@ -7028,7 +7328,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/800px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/800px-NASA_logo.svg.png",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/800px-Bell_X-1A_in_flight.jpg",
@@ -7137,6 +7437,162 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NASA_EDGE_Orion_Pad_Abort_1_White_Sands_Missile_Range.jpg/800px-NASA_EDGE_Orion_Pad_Abort_1_White_Sands_Missile_Range.jpg",
 						"desc": "NASA EDGE broadcasting live from White Sands Missile Range in 2010"
+					}
+				]
+			}
+		},
+		{
+			"name": "Northrop_Grumman",
+			"data": [
+				{
+					"header": "Business sectors",
+					"text": "As of the end of 2022, Northrop Grumman organized its business around four main sectors, each of which comprises two or more business areas:"
+				},
+				{
+					"header": "Defense Systems",
+					"text": "The Defense Systems sector headquartered in McLean, Virginia (with a Herndon mailing address,) works on \"the entire life cycle of civil and defense platforms and capabilities through a range of services\". Vinnell, a Northrop Grumman subsidiary, provides training and communications for the military. In 2003, it landed a $48 million contract to train the Iraqi Army. In 2005 the company won a $2 billion contract with Virginia to overhaul most of the state's IT operations. Later that year, the United Kingdom paid $1.2 billion in a contract with the company to provide maintenance of its AWACS radar."
+				},
+				{
+					"header": "Space Systems",
+					"text": "On June 7, 2018, the acquisition of Orbital ATK was completed and the former company was absorbed in Northrop Grumman as a new business sector called Northrop Grumman Innovation Systems. With this acquisition, Northrop Grumman got more involved in the space industry, including the construction and launch of the Cygnus spacecraft. Until 2020 the firm was developing the OmegA space launch vehicle, intended to carry the U.S. government's national security satellites into space."
+				},
+				{
+					"header": "Affiliated companies and partners",
+					"text": "Remotec, a Tennessee-based subsidiary, is a manufacturer of remote control vehicles for explosive ordnance disposal and hazardous material handling. A UK-based subsidiary, Park Air Systems, provides VHF and UHF ground-to-air communications systems for the civil and defense markets. Northrop Grumman has also worked closely with Antenna Associates, Inc., a manufacturer of Identification friend or foe (IFF)/Secondary Surveillance Radar (SSR) antennas located in Massachusetts."
+				},
+				{
+					"header": "1990s",
+					"text": "In 1994, Northrop Aircraft bought Grumman Aerospace, which built the Apollo Lunar Module to create Northrop Grumman (NG) at a cost of $2.1 billion. The company purchased the remaining 51% interest in Vought Aircraft Company (Vought) in August 1994 for $130 million taking full control of the company after it had purchased an initial 49% interest in September 1992 for $45 million.[citation needed]"
+				},
+				{
+					"header": "2010s",
+					"text": "In November 2010, NASA selected Northrop Grumman for consideration of potential contract awards for heavy lift launch vehicle system concepts, and propulsion technologies."
+				},
+				{
+					"header": "2020s",
+					"text": "In June 2020, NASA granted a $935 million contract to Northrop Grumman for the Lunar Gateway Habitation and Logistics Outpost (HALO) module, based on its Cygnus cargo spacecraft. In July 2022, Northrop subcontracted Solstar to provide the wireless-enabling technology to enable a Wi-Fi access for employees and equipment in the module."
+				},
+				{
+					"header": "Corporate governance",
+					"text": "From 1990 to 2003, before the merger with Grumman in 1994, Kent Kresa was the CEO of the company, who led the serial-acquisition strategy with a total of 15 additional acquisitions from 1994 to 2003, including Litton, Logicon, Westinghouse's defense electronics business, Ryan Aeronautical and Newport News Shipbuilding, and TRW. He then retired in 2003 at age 65."
+				},
+				{
+					"header": "Board of directors",
+					"text": "As of July 22, 2022:"
+				},
+				{
+					"header": "Corporate headquarters",
+					"text": "Since 2011, Northrop Grumman's headquarters are in West Falls Church, Virginia (previously Jefferson), unincorporated Fairfax County, Virginia."
+				},
+				{
+					"header": "Accolades and criticism",
+					"text": "Northrop Grumman was named Forbes's Company of the Year in 2002. Forbes's announcement credited the company with \"master[ing] the art of innovation.\" As of 2019, the company is included on Forbes' list of \"America's Best Large Employers\"."
+				},
+				{
+					"header": "Environmental record",
+					"text": "In 2000, Northrop Grumman was designated a Primary Responsible Party under federal Superfund laws at 13 hazardous waste sites and under state Superfund laws at eight sites. The corporation has also been linked to 52 superfund toxic waste sites. Based on 2008 data, Northrop Grumman was the 62nd-largest corporate producer of air pollution in the United States, per the Political Economy Research Institute of the University of Massachusetts Amherst. Northrop Grumman facilities released more than 23,798 pounds of toxic chemicals into the air in that year."
+				},
+				{
+					"header": "Controversies",
+					"text": "In the late 1980s and early 1990s, Northrop was the target of several high-profile criminal and civil cases."
+				},
+				{
+					"header": "International Traffic in Arms Regulations (ITAR) violations",
+					"text": "U.S. State Department investigators found that Litton Industries, a subsidiary acquired by Northrop Grumman in 2000, had provided portions of source code used by guidance and navigation system interfaces aboard Air Force One to a company in Russia in 1998. Northrop Grumman agreed to pay a $15 million fine for 110 violations, occurring between September 1998 and November 1998, of the Arms Export Control Act and the International Traffic in Arms Regulations (ITAR)."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Public"
+				},
+				{
+					"key": "Traded as",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}NYSE: NOCS&P 500 component"
+				},
+				{
+					"key": "Industry",
+					"value": "ArmsAerospace"
+				},
+				{
+					"key": "Predecessor",
+					"value": "Northrop Corporation (1939–1994)Grumman Corporation (1930–1994)"
+				},
+				{
+					"key": "Founded",
+					"value": "1994; 29 years ago (1994)"
+				},
+				{
+					"key": "Headquarters",
+					"value": "West Falls Church, Virginia, United States"
+				},
+				{
+					"key": "Area served",
+					"value": "Worldwide"
+				},
+				{
+					"key": "Key people",
+					"value": "Kathy J. Warden(President and CEO)"
+				},
+				{
+					"key": "Products",
+					"value": "Military aircraft & unmanned aerial vehiclesMilitary vesselsMissiles & missile defense systemsAutocannons, chain guns & munitionsSatellites & spaceInformation technologyElectronic sensors and systemsRocket launch systems"
+				},
+				{
+					"key": "Revenue",
+					"value": " US$36.60 billion (2022)"
+				},
+				{
+					"key": "Operating income",
+					"value": " US$3.60 billion (2022)"
+				},
+				{
+					"key": "Net income",
+					"value": " US$4.90 billion (2022)"
+				},
+				{
+					"key": "Total assets",
+					"value": " US$43.76 billion (2022)"
+				},
+				{
+					"key": "Total equity",
+					"value": " US$15.31 billion (2022)"
+				},
+				{
+					"key": "Number of employees",
+					"value": "c. 95,000 (2022)"
+				},
+				{
+					"key": "Website",
+					"value": "northropgrumman.com"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Northrop_Grumman_logo_blue-on-clear_2020.svg/800px-Northrop_Grumman_logo_blue-on-clear_2020.svg.png",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/B-2_Spirit_-_060530-F-5040D-320.jpg/800px-B-2_Spirit_-_060530-F-5040D-320.jpg",
+						"desc": "Northrop Grumman developed and built the B-2 Spirit strategic bomber."
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Global_Hawk_1.jpg/800px-Global_Hawk_1.jpg",
+						"desc": "RQ-4 Global Hawk, a high-altitude, long-endurance surveillance platform"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Northrup_Grumman_Mission_Systems_headquarters_in_Linthicum.jpg/800px-Northrup_Grumman_Mission_Systems_headquarters_in_Linthicum.jpg",
+						"desc": "Mission Systems headquarters facility in Linthicum, Maryland"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/P-61bs_on_assembly_line_-_Northrop_-_1944.jpg/800px-P-61bs_on_assembly_line_-_Northrop_-_1944.jpg",
+						"desc": "The assembly line for Northrop P-61 Black Widows at the Northrop plant in Hawthorne, California in World War II. Center wings and fuselages take shape on the left, with more nearly finished airplanes on the right.[32]"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LRSB_USA_Concept_drawing.jpg/800px-LRSB_USA_Concept_drawing.jpg",
+						"desc": "Northrop-Grumman DARPA Quiet Supersonic Platform (QSP) 2002 concept for a long-range supersonic cruise aircraft with a less intense sonic boom[50]"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/James_Webb_Space_Telescope_2009_top.jpg/800px-James_Webb_Space_Telescope_2009_top.jpg",
+						"desc": "Rendering of the $8.7B James Webb Space Telescope"
 					}
 				]
 			}
@@ -7323,6 +7779,37 @@
 			}
 		},
 		{
+			"name": "Piper_LBP",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "During late 1940, a proposal was made to the United States Navy outlining a concept called \"Glomb\", for \"glider bomb\". The Glomb concept called for the construction of inexpensive gliders that would be remotely controlled from another aircraft to carry bombs to a target, thus reducing the risk to aircrew. Glomb was intended to be towed by an ordinary carrier-based aircraft to the area of the target, where it would be released; guidance following release would be provided via a TV camera located in the nose of the glider, which would transmit its signal to a piloted aircraft, an operator then using radio control to steer the Glomb to its target. Following consideration the Glomb concept was deemed to be potentially feasible, the project was given official status by the Bureau of Aeronautics in the April 1941."
+				},
+				{
+					"header": "Operational history",
+					"text": "Although the initial contract awarded by the Navy called for the production of 100 LBP-1 Glombs, continued trials of the concept indicated that the glider's inherent low performance, combined with technical issues with the television guidance system, made the concept operationally unworkable. As a result, the LBP-1 production contract was reduced to only 35 aircraft in early 1945. In June of that year, the LBP-1 program was terminated, the aircraft having been determined to have dangerous characteristics when attempting landing at loaded weights."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Glide bombType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Piper Aircraft"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Navy"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Piper_LBP-1_Glomb.png/800px-Piper_LBP-1_Glomb.png",
+				"other": []
+			}
+		},
+		{
 			"name": "Pratt-Read_LBE",
 			"data": [
 				{
@@ -7354,37 +7841,6 @@
 			],
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pratt-Read_LBE-1_Glomb.png/800px-Pratt-Read_LBE-1_Glomb.png",
-				"other": []
-			}
-		},
-		{
-			"name": "Piper_LBP",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "During late 1940, a proposal was made to the United States Navy outlining a concept called \"Glomb\", for \"glider bomb\". The Glomb concept called for the construction of inexpensive gliders that would be remotely controlled from another aircraft to carry bombs to a target, thus reducing the risk to aircrew. Glomb was intended to be towed by an ordinary carrier-based aircraft to the area of the target, where it would be released; guidance following release would be provided via a TV camera located in the nose of the glider, which would transmit its signal to a piloted aircraft, an operator then using radio control to steer the Glomb to its target. Following consideration the Glomb concept was deemed to be potentially feasible, the project was given official status by the Bureau of Aeronautics in the April 1941."
-				},
-				{
-					"header": "Operational history",
-					"text": "Although the initial contract awarded by the Navy called for the production of 100 LBP-1 Glombs, continued trials of the concept indicated that the glider's inherent low performance, combined with technical issues with the television guidance system, made the concept operationally unworkable. As a result, the LBP-1 production contract was reduced to only 35 aircraft in early 1945. In June of that year, the LBP-1 program was terminated, the aircraft having been determined to have dangerous characteristics when attempting landing at loaded weights."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Glide bombType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Piper Aircraft"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Navy"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Piper_LBP-1_Glomb.png/800px-Piper_LBP-1_Glomb.png",
 				"other": []
 			}
 		},
@@ -7667,7 +8123,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png",
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Radioplane_RP-77D.jpg/800px-Radioplane_RP-77D.jpg",
 				"other": [
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Army_RP-77.jpg/800px-Army_RP-77.jpg",
@@ -7862,7 +8318,51 @@
 			}
 		},
 		{
-			"name": "Ryan_Q-2",
+			"name": "Ryan_YQM-98A_Compass_Cope_R",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "\"Compass Cope\" was a program initiated by the United States Air Force (USAF) in 1971 to develop an upgraded reconnaissance drone that could take off and land from a runway like a manned aircraft, and operate at high altitudes for up to 24 hours to perform surveillance, communications relay, or atmospheric sampling. Two aircraft, the Boeing YQM-94 Compass Cope B, and the Ryan Aeronautical YQM-98A Compass Cope R participated in the program."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Unmanned aerial vehicle (UAV)Type of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Ryan Aeronautical"
+				},
+				{
+					"key": "First flight",
+					"value": "17 August 1974"
+				},
+				{
+					"key": "Status",
+					"value": "Canceled"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Air Force"
+				},
+				{
+					"key": "Developed from",
+					"value": "Ryan AQM-91 Firefly"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ryan_YQM-98A_72-01872_from_below.jpg/800px-Ryan_YQM-98A_72-01872_from_below.jpg",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Compass_Cope_flight_cover_1.jpg/800px-Compass_Cope_flight_cover_1.jpg",
+						"desc": "Signed cover envelope for the first flight of the Compass Cope R. Aug. 17, 1974 - Edwards Air Force Base, California"
+					}
+				]
+			}
+		},
+		{
+			"name": "Ryan_KDA",
 			"data": [
 				{
 					"header": "Royal Canadian Air Force use",
@@ -7921,50 +8421,6 @@
 					{
 						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ryan_Model_147.jpg/800px-Ryan_Model_147.jpg",
 						"desc": "Ryan Model 147 \"Lightning Bug\" low-altitude reconnaissance drone (AQM-34L) at the Strategic Air Command & Aerospace Museum"
-					}
-				]
-			}
-		},
-		{
-			"name": "Ryan_YQM-98",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "\"Compass Cope\" was a program initiated by the United States Air Force (USAF) in 1971 to develop an upgraded reconnaissance drone that could take off and land from a runway like a manned aircraft, and operate at high altitudes for up to 24 hours to perform surveillance, communications relay, or atmospheric sampling. Two aircraft, the Boeing YQM-94 Compass Cope B, and the Ryan Aeronautical YQM-98A Compass Cope R participated in the program."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Unmanned aerial vehicle (UAV)Type of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Ryan Aeronautical"
-				},
-				{
-					"key": "First flight",
-					"value": "17 August 1974"
-				},
-				{
-					"key": "Status",
-					"value": "Canceled"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Air Force"
-				},
-				{
-					"key": "Developed from",
-					"value": "Ryan AQM-91 Firefly"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ryan_YQM-98A_72-01872_from_below.jpg/800px-Ryan_YQM-98A_72-01872_from_below.jpg",
-				"other": [
-					{
-						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Compass_Cope_flight_cover_1.jpg/800px-Compass_Cope_flight_cover_1.jpg",
-						"desc": "Signed cover envelope for the first flight of the Compass Cope R. Aug. 17, 1974 - Edwards Air Force Base, California"
 					}
 				]
 			}
@@ -8204,6 +8660,45 @@
 			}
 		},
 		{
+			"name": "Taylorcraft_LBT",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "During December 1940, the United States Navy began studies of a proposed \"glider bomb\", which was intended to be an inexpensive, unpowered aircraft, remotely controlled from another, conventional aircraft, that would be capable of delivering bombs to an enemy target without putting aircrew at risk to the target's defenses. The glider bomb, or \"Glomb\", would be towed by an ordinary carrier-based aircraft to the area of its target; guidance following release of the glider from its towing aircraft was intended to be provided by a TV camera located in the nose of the glider, which would transmit its signal to a piloted aircraft, an operator aboard the control aircraft using radio control to steer the Glomb to its target. Following the Navy's initial evaluation, the Glomb comcept was deemed to be worth developing further, and the project was given official status by the Bureau of Aeronautics in April 1941."
+				},
+				{
+					"header": "Operational history",
+					"text": "The LBT-1 began evaluation by the Navy in April 1944. The Navy's contract called for the production of 100 of each type of Glomb; however, by October 1944, trials were beginning to indicate that the low expected performance of the glider bomb was a liability, and the Piper LBP-1 and LBE-1 were considered superior. Accordingly, the LBT contract was cancelled; only 25 examples of the type were constructed, none of which would see any operational service."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Role",
+					"value": "Glide bombType of aircraft"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Taylorcraft"
+				},
+				{
+					"key": "First flight",
+					"value": "April 1944"
+				},
+				{
+					"key": "Primary user",
+					"value": "United States Navy"
+				},
+				{
+					"key": "Number built",
+					"value": "25"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Taylorcraft_LBT-1_Glomb.png/800px-Taylorcraft_LBT-1_Glomb.png",
+				"other": []
+			}
+		},
+		{
 			"name": "Swift_Engineering",
 			"data": [
 				{
@@ -8302,46 +8797,7 @@
 				}
 			],
 			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Swift_Engineering_Inc.jpg/800px-Swift_Engineering_Inc.jpg",
-				"other": []
-			}
-		},
-		{
-			"name": "Taylorcraft_LBT",
-			"data": [
-				{
-					"header": "Design and development",
-					"text": "During December 1940, the United States Navy began studies of a proposed \"glider bomb\", which was intended to be an inexpensive, unpowered aircraft, remotely controlled from another, conventional aircraft, that would be capable of delivering bombs to an enemy target without putting aircrew at risk to the target's defenses. The glider bomb, or \"Glomb\", would be towed by an ordinary carrier-based aircraft to the area of its target; guidance following release of the glider from its towing aircraft was intended to be provided by a TV camera located in the nose of the glider, which would transmit its signal to a piloted aircraft, an operator aboard the control aircraft using radio control to steer the Glomb to its target. Following the Navy's initial evaluation, the Glomb comcept was deemed to be worth developing further, and the project was given official status by the Bureau of Aeronautics in April 1941."
-				},
-				{
-					"header": "Operational history",
-					"text": "The LBT-1 began evaluation by the Navy in April 1944. The Navy's contract called for the production of 100 of each type of Glomb; however, by October 1944, trials were beginning to indicate that the low expected performance of the glider bomb was a liability, and the Piper LBP-1 and LBE-1 were considered superior. Accordingly, the LBT contract was cancelled; only 25 examples of the type were constructed, none of which would see any operational service."
-				}
-			],
-			"infobox": [
-				{
-					"key": "Role",
-					"value": "Glide bombType of aircraft"
-				},
-				{
-					"key": "Manufacturer",
-					"value": "Taylorcraft"
-				},
-				{
-					"key": "First flight",
-					"value": "April 1944"
-				},
-				{
-					"key": "Primary user",
-					"value": "United States Navy"
-				},
-				{
-					"key": "Number built",
-					"value": "25"
-				}
-			],
-			"images": {
-				"primary": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Taylorcraft_LBT-1_Glomb.png/800px-Taylorcraft_LBT-1_Glomb.png",
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Swift_standard_logo.png/800px-Swift_standard_logo.png",
 				"other": []
 			}
 		},
@@ -8595,6 +9051,185 @@
 			"images": {
 				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/JB-4_in_shop.png/800px-JB-4_in_shop.png",
 				"other": []
+			}
+		},
+		{
+			"name": "GT-1_(missile)",
+			"data": [
+				{
+					"header": "Design and development",
+					"text": "The GT-1 was derived from the GB-1 series of glide bombs, developed by Aeronca for the United States Army Air Forces. The weapon's airframe was inexpensive and simply designed, with a basic wing and twin tails attached to a cradle for carrying the payload. The flight path of the GT-1 was determined by a preset autopilot that kept the weapon on a steady course after release."
+				},
+				{
+					"header": "Operational history",
+					"text": "Initially tested during 1943, the GT-1 proved to be successful, and was issued to a single operational unit for service. Launched from North American B-25 Mitchell bombers, the GT-1 saw brief operational service late in the war; three missions are known to have been flown using the weapon from Okinawa in late 1945. On one mission, against Kagoshima, eleven of thirteen GT-1s launched successfully entered the water; three hits were recorded, against a fleet carrier, a light carrier, and a freighter.  The Boeing B-17 Flying Fortress was also capable of carrying the GT-1."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Air-to-surface missile"
+				},
+				{
+					"key": "Place of origin",
+					"value": "United States"
+				},
+				{
+					"key": "In service",
+					"value": "1944-1945"
+				},
+				{
+					"key": "Used by",
+					"value": "United States Army Air Forces"
+				},
+				{
+					"key": "Designed",
+					"value": "1942-1943"
+				},
+				{
+					"key": "Manufacturer",
+					"value": "Aeronca"
+				},
+				{
+					"key": "Wingspan",
+					"value": "12 feet (3.7 m)"
+				},
+				{
+					"key": "Warhead",
+					"value": "Mk 13 Mod 2A aerial torpedo"
+				},
+				{
+					"key": "Warhead weight",
+					"value": "600 pounds (270 kg) explosive"
+				},
+				{
+					"key": "Engine",
+					"value": "None"
+				},
+				{
+					"key": "Operationalrange",
+					"value": "25 miles (40 km)"
+				},
+				{
+					"key": ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Maximum speed ",
+					"value": "260 miles per hour (420 km/h)"
+				},
+				{
+					"key": "Guidancesystem",
+					"value": "Preset plus paravane"
+				},
+				{
+					"key": "Launchplatform",
+					"value": "B-25 Mitchell"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GT-1_on_B-25J.png/800px-GT-1_on_B-25J.png",
+				"other": []
+			}
+		},
+		{
+			"name": "Zipline_(drone_delivery)",
+			"data": [
+				{
+					"header": "Platform 2",
+					"text": "On March 15, 2023, an additional platform was announced called \"Platform 2\" that is suited for shorter range deliveries which transport the delivery by wire instead of dropping it from the sky. The drone can carry up to 8 pounds (3.6 kg) of cargo within a 10 mi (16 km) radius. It is capable of a more precise delivery than its previous generation, and can recharge autonomously."
+				},
+				{
+					"header": "Rwanda",
+					"text": "Zipline operates two distribution centers in Rwanda. "
+				},
+				{
+					"header": "Ghana",
+					"text": "In 2018, Zipline signed a contract with the government of Ghana to make up to 600 deliveries a day for four years at the cost of about $12.5 million.  In April 2019, Ghana's president Nana Akufo-Addo announced the opening of the first distribution center in Ghana.  Vice President Mahamudu Bawumia launched the first Zipline drone to Tafo Hospital on April 24, 2019. This first delivery contained a resupply shipment of yellow fever vaccines to prevent stock-out."
+				},
+				{
+					"header": "United States",
+					"text": "As of 2018, Zipline was working with the FAA to develop rules for drone operation beyond the line of sight."
+				},
+				{
+					"header": "Japan",
+					"text": "In April 2021, Zipline announced a partnership with an investor, Toyota Tsusho, to deliver medical products in Japan. While most Zipline facilities are staffed by locally hired operators employed by Zipline, the facilities in Japan are distinct in that they are operated by Sora-iina, a Toyota Tsusho Group company, and staffed by Toyota Tsusho employees. Zipline provides hardware and training in an OEM capacity. Construction of the first distribution center was completed in April 2022 on Fukue Island in the Gotō Islands. The drone delivery service will supply medical and pharmaceutical products to medical institutions and pharmacies in the Gotō Islands, which include 140 total islands (and five main localities). The use of drone delivery to assure routine distribution of medical products is expected to cut current sea and air transport options from several hours down to 30 minutes."
+				},
+				{
+					"header": "Nigeria",
+					"text": "In February 2021, Zipline announced a plan to construct three distribution centers in Kaduna State, Nigeria. These distribution centers would have ultra-cold storage that is capable of safely storing COVID-19 vaccines, for which health facilities in the state could then place on-demand orders without needing ultra-cold storage of their own. The state also intends to use Zipline's service to transport other health products, including blood, medication, and routine vaccines. In May 2021, Zipline announced a similar agreement with Cross River State. In February 2022, Zipline announced another agreement with Bayelsa State."
+				},
+				{
+					"header": "Cote d'Ivoire",
+					"text": "In December 2021, the company announced an agreement to open four distribution centers in Cote d'Ivoire, it received it's licence to begin operations in January 2023."
+				},
+				{
+					"header": "Kenya",
+					"text": "In February 2022, the company announced an agreement to build a distribution center in Kisumu County, Kenya. and began in October that year, as well as medical supplies it was to deliver veterinary goods and animal DNA"
+				},
+				{
+					"header": "Ukraine",
+					"text": "In June 2022 it was announced by the Ukrainian Ministry of Health that talks were ongoing to partner with Zipline to build ten Zipline distribution hubs in Ukraine in areas such as Tlumach"
+				},
+				{
+					"header": "Australia",
+					"text": "Between July 30 and September 5, 2019, Zipline partnered with the US and Australian militaries, delivering over 400 mock blood supplies during mass casualty simulations."
+				}
+			],
+			"infobox": [
+				{
+					"key": "Type",
+					"value": "Private"
+				},
+				{
+					"key": "Industry",
+					"value": "Logistics"
+				},
+				{
+					"key": "Genre",
+					"value": "Delivery drone"
+				},
+				{
+					"key": "Founded",
+					"value": "March 2014; 9 years ago (March 2014) in Half Moon Bay, California, U.S."
+				},
+				{
+					"key": "Founders",
+					"value": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}Keller Rinaudo ClifftonKeenan WyrobekRyan OksenhornWilliam Hetzler"
+				},
+				{
+					"key": "Headquarters",
+					"value": "South San Francisco, California, U.S."
+				},
+				{
+					"key": "Area served",
+					"value": "Rwanda, Ghana, Japan, United States, Kenya, Cote d'Ivoire, Nigeria"
+				},
+				{
+					"key": "Key people",
+					"value": "Keller Rinaudo Cliffton (CEO)"
+				},
+				{
+					"key": "Number of employees",
+					"value": "500-1000"
+				},
+				{
+					"key": "Website",
+					"value": "flyzipline.com"
+				}
+			],
+			"images": {
+				"primary": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Zipline_logo_2023_01.svg/800px-Zipline_logo_2023_01.svg.png",
+				"other": [
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Keller_Rinaudo.jpg/800px-Keller_Rinaudo.jpg",
+						"desc": "Zipline founder Keller Rinaudo beside the first generation drone"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Zipline_Operations_Package.jpg/800px-Zipline_Operations_Package.jpg",
+						"desc": "Operator scanning the package before packing for flight"
+					},
+					{
+						"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zipline-package-drop.jpg/800px-Zipline-package-drop.jpg",
+						"desc": "A Platform 1 drone dropping a parachute-enabled package"
+					}
+				]
 			}
 		}
 	]
